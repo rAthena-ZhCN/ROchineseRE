@@ -1,0 +1,13 @@
+此工具使用的是和 RO 客户端相同的 Lua 5.1 进行编译和反编译的：
+
+1. 把从 data.grf 中解包得到的 *.lub 文件放到此根目录
+2. 执行【decompile-lub-to-lua-5.1.bat】反编译，反编译文件自动输出到 Output（为了方便起见，反编译的脚本没有把文件后缀修改为 *.lua，因为 RO 支持读取 lua 的源码和编译两种版本）
+3. 按需修改文件
+4. 修改后的文件放回到客户端的 data 对应目录即可，一般无需压缩回去 data.grf （只要 DIFF 客户端时开启了 Read Data Folder First 配置项）
+
+
+有时候有些文件需要重新编译，则在第 4 步之前，执行【compile-lua-to-lub-5.1.bat】重新编译：
+
+1. 把需要编译的文件后缀修改为 *.lub （bat 脚本识别的是 *.lub 后缀的 *.lua 文件）
+2. 执行【compile-lua-to-lub-5.1】编译，编译文件自动输出到 Output
+

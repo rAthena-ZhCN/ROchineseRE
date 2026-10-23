@@ -1,0 +1,1345 @@
+// Dynamic Battleground Arena [llchrisll]
+dbg_arena.rsw#Dynamic Battleground Arena#
+dbg_dom.rsw#Dynamic Battleground Arena - Domination#
+
+// Battle Royale [llchrisll]
+br_alberta.rsw#Battle Royale - Alberta#
+br_aldeb.rsw#Battle Royale - Aldebaran#
+br_dewata.rsw#Battle Royale - Dewata#
+br_einbech.rsw#Battle Royale - Einbech#
+br_einbroch.rsw#Battle Royale - Einbroch#
+br_geffen.rsw#Battle Royale - Geffen#
+br_gonryun.rsw#Battle Royale - Gonryun#
+br_hugel.rsw#Battle Royale - Hugel#
+br_izlude.rsw#Battle Royale - Izlude#
+br_lasagna.rsw#Battle Royale - Lasagna#
+br_malaya.rsw#Battle Royale - Malaya#
+br_morocc.rsw#Battle Royale - Morroc#
+br_moscovia.rsw#Battle Royale - Moscovia#
+br_niflheim.rsw#Battle Royale - Niflheim#
+br_payon.rsw#Battle Royale - Payon#
+br_prontera.rsw#Battle Royale - Prontera#
+br_rachel.rsw#Battle Royale - Rachel#
+br_splend.rsw#Battle Royale - Splendide#
+br_veins.rsw#Battle Royale - Veins#
+br_yuno.rsw#Battle Royale - Yuno#
+
+// Glastheim Challenge Mode
+1@gl_he.rsw#污染的次元#
+
+// EDDA Biotechnology Research Institute
+1@gol1.rsw#生物实验楼#
+1@gol2.rsw#停尸房#
+
+// Illusion of Labyrinth
+prt_mz03_i.rsw#扭曲的迷藏森林#
+
+// 2018 Halloween
+1@halo.rsw#万圣节庆典会场#
+
+// Zero Amatsu Momotaro
+1@momo.rsw#Momotaro Experience Hall#
+
+// Zero 2nd memorial
+1@ant01.rsw#Ant Hell#
+1@izd02.rsw#Undersea Tunnel B2#
+1@tre02.rsw#Sunken Ship#
+
+// Prontera Sewer
+1@sewb2.rsw#Sewer#
+
+// EDDA The Fall of Glastheim
+1@gl_prq.rsw#克雷斯特汉姆的没落#
+
+mag_dun03.rsw#朱诺 诺可罗德 3层#
+gl_cas01_.rsw#克雷斯特汉姆古城深渊1层#
+
+// Episode 17.1 and illusion 
+1@cor.rsw#柯尔记忆副本#
+1@os_a.rsw#占领欧斯大作战#
+1@os_b.rsw#封锁的欧斯#
+1@rgsr.rsw#雷根修芦#
+rgsr_in.rsw#雷根修芦附设研究所#
+pub_cat.rsw#喵星人子弹酒吧#
+sp_cor.rsw#特殊警戒区柯尔#
+sp_os.rsw#特殊警戒区欧斯#
+sp_rudus.rsw#实验体废弃场 鲁杜斯 1层#
+sp_rudus2.rsw#实验体废弃场 鲁杜斯 2层#
+sp_rudus3.rsw#实验体废弃场 鲁杜斯 3层#
+
+// Star Emperor
+star_frst.rsw#流星林#
+star_in.rsw#流星林 室内#
+
+// Soul Reaper
+1@soul.rsw#灵魂的通道#
+
+// Illusion of Luanda
+com_d02_i.rsw#北边洞穴 卢安达#
+
+// Illusion Teddy Bear Nasarin Empire
+ein_d02_i.rsw#罗斯里安帝国#
+
+// Illusion Corridor
+vis_h01.rsw#幻象回廊1楼#
+vis_h02.rsw#幻象回廊2楼#
+vis_h03.rsw#幻象回廊3楼#
+vis_h04.rsw#幻象回廊4楼#
+
+// Memorial Dungeon
+2@gl_kh.rsw#Old Glastheim Chivalry F2#
+1@gl_kh.rsw#Old Glastheim Chivalry F1#
+
+// November hunting contest
+prt_evt_in.rsw#狩猎场小木屋#
+
+// X anniversary
+x_prt.rsw#次元外的普隆德拉#
+x_lhz.rsw#次元外的里希塔乐镇#
+x_ra.rsw#次元外的拉赫#
+
+// Noodles Festival July
+lasa_sea.rsw#人鱼妖怪巢穴#
+1@drdo.rsw#Legend of Dorado#
+
+//Old office of Ninja
+que_ng.rsw#不明区域#
+
+//Volcanic island Korodo
+1@crd.rsw#Volcanic island Korodo#
+
+// Illusion turtle island (Turtle Palace)
+tur_d03_i.rsw#死寂良龟村#
+tur_d04_i.rsw#凄凉旧良宫#
+
+//Poring Town
+1@begi.rsw#波利村#
+
+// Suspicious shipwreck
+1@tre.rsw#神秘失事轮#
+
+// Illusion Ice cave (Frozen)
+ice_d03_i.rsw#冰冻记忆#
+
+// Illusion Geffen (Vampire)
+gef_d01_i.rsw#第250页#
+
+// Illusion Payon (Moonlight)
+pay_d03_i.rsw#月夜猫的噩梦#
+
+// Chicken Mode Horror Toy Factory
+1@xm_d2.rsw#恐怖玩具工厂初心者#
+
+// Chicken Mode Nightmare Glastheim
+1@gl_k2.rsw#旧古城初心者#
+2@gl_k2.rsw#Old Glastheim Chivalry F2#
+
+// Localizing Rockridge
+har_in01.rsw#洛克里奇#
+harboro1.rsw#洛克里奇#
+harboro2.rsw#地下水道#
+rockmi1.rsw#洛克里奇矿山#
+rockmi2.rsw#洛克里奇矿山#
+rockrdg1.rsw#契瓦瓦沙漠#
+rockrdg2.rsw#契瓦瓦沙漠#
+
+// Memorial day
+1@md_gef.rsw#周五副本#
+1@md_pay.rsw#Weekend Memorial#
+
+// ep16.2
+1@slw.rsw#维尔纳研究所中枢室#
+1@swat.rsw#邪心猎人军事基地#
+que_swat.rsw#邪心猎人军事基地#
+slabw01.rsw#维尔纳研究所#
+rebel_in.rsw#克莱纳 奈米艾利#
+
+// Half moon in the daylight
+1@pop1.rsw#教皇办公室#
+1@pop2.rsw#回家的路上#
+1@pop3.rsw#天空庭院#
+
+// Doram race - Lasagna town
+lasagna.rsw#港口都市 罗札纳#
+lasa_fild01.rsw#罗比奥平原岗亭#
+lasa_fild02.rsw#罗比奥森林#
+lasa_dun01.rsw#龙巢穴#
+lasa_dun02.rsw#龙巢穴#
+lasa_dun03.rsw#龙巢穴#
+conch_in.rsw#康-奇丽娜号内部#
+lasa_in01.rsw#罗札纳内部#
+lasa_dun_q.rsw#龙巢穴#
+
+int_land.rsw#孤岛#
+int_land01.rsw#孤岛#
+int_land02.rsw#孤岛#
+int_land03.rsw#孤岛#
+int_land04.rsw#孤岛#
+
+// ep16.1 Banquet for Hero + Prontera Renewal
+1@mir.rsw#仪式的房间#
+2@mir.rsw#仪式的房间#
+1@sthb.rsw#空中要塞内部#
+1@sthc.rsw#空中要塞神秘的房间#
+1@sthd.rsw#空中要塞最顶层#
+
+prt_cas.rsw#普隆德拉中央宫#
+prt_cas_q.rsw#普隆德拉别宫#
+prt_prison.rsw#普隆德拉地下监狱#
+prt_lib.rsw#王室的记忆#
+prt_lib_q.rsw#过去王室的记忆#
+prt_q.rsw#被侵略的普隆德拉#
+prt_pri00.rsw#普隆德拉监狱#
+
+// Clan MD
+1@ffp.rsw#余孽的大本营#
+
+// Infinite MD
+1@infi.rsw#无限空间#
+
+// Para Market
+paramk.rsw#乐园团集市#
+
+// ep15.2 Memory Record
+verus01.rsw#实验楼-OPTATIO#
+verus02.rsw#研究楼-WISH#
+un_bk_q.rsw#地下碉堡#
+un_bunker.rsw#地下碉堡#
+un_myst.rsw#地下隧道#
+1@uns.rsw#最后房间#
+1@lab.rsw#中央实验室#
+
+// New Biolabs Dungeon
+lhz_dun_n.rsw#战死者坟墓#
+lhz_d_n2.rsw#思念空间#
+
+// Trails of the 3 Heroes
+1@glast.rsw#过去的克雷斯特汉姆古城#
+1@air1.rsw#飞空艇#
+1@air2.rsw#飞空艇#
+
+// Rebellion Job Change Map
+job_gun.rsw#解放的休憩区#
+
+// ep15.1
+ver_eju.rsw#优配擂斯 东边废墟#
+ver_tunn.rsw#贝鲁兹外围隧道#
+verus04.rsw#贝鲁兹考古地#
+verus03.rsw#贝鲁兹 中央广场#
+
+1@mcd.rsw#查尔斯顿工厂#
+
+// Operations Team Event
+e_hugel.rsw#被入侵的毁葛#
+
+c_tower2_.rsw#梦魇钟塔 2层#
+c_tower3_.rsw#梦魇钟塔 3层#
+
+silk_lair.rsw#蟒蛇巢穴#
+
+moro_vol.rsw#火焰盆地#
+moro_cav.rsw#火焰洞穴#
+1@dth1.rsw#拜欧斯岛#
+1@dth2.rsw#拜欧斯岛#
+1@dth3.rsw#拜欧斯岛#
+1@rev.rsw#死亡洞穴#
+1@xm_d.rsw#恐怖玩具工厂#
+1@eom.rsw#魔神殿#
+1@jtb.rsw#梦与影子#
+
+dali02.rsw#次元裂缝#
+1@face.rsw#人面虫洞穴#
+1@sara.rsw#莎拉的记忆#
+dali.rsw#次元裂缝#
+1@tnm1.rsw#魔神之塔上层#
+1@tnm2.rsw#魔神之塔最上层#
+1@tnm3.rsw#梦罗克城地下#
+1@ge_st.rsw#吉芬魔法大赛#
+1@gef.rsw#吉芬魔法大赛#
+1@gef_in.rsw#吉芬魔法大赛#
+1@spa.rsw#幽灵皇宫#
+
+1@def01.rsw#Wave Dungeon - Forest#
+1@def02.rsw#Wave Dungeon - Sky#
+1@def03.rsw#Wave Dungeon - Lava#
+
+evt_bomb.rsw#活动迷宫#
+
+gl_cas02_.rsw#幻象回廊2F#
+gl_chyard_.rsw#修道院公墓#
+2@gl_k.rsw#旧骑士团2F?#
+1@gl_k.rsw#旧骑士团1F#
+
+te_prt_gld.rsw#卢恩 米德加兹 葛洛丽雅#
+te_prtcas01.rsw#葛洛丽雅凯渥宝乐格#
+te_prtcas02.rsw#葛洛丽雅理查#
+te_prtcas03.rsw#葛洛丽雅理魏格纳#
+te_prtcas04.rsw#葛洛丽雅凯渥宝乐格#
+te_prtcas05.rsw#葛洛丽雅奈里乌思#
+teg_dun01.rsw#公会地下密穴#
+te_alde_gld.rsw#卢恩 米德加兹 卡普拉贾登#
+te_aldecas01.rsw#Glaris Castle#
+te_aldecas02.rsw#Defolty Castle#
+te_aldecas03.rsw#Sorin Castle#
+te_aldecas04.rsw#Bennit Castle#
+te_aldecas05.rsw#W Castle#
+teg_dun02.rsw#公会地下密穴#
+
+prt_fild08d.rsw#普隆德拉 旷野#
+prt_fild08c.rsw#普隆德拉 旷野#
+prt_fild08b.rsw#普隆德拉 旷野#
+prt_fild08a.rsw#普隆德拉 旷野#
+
+iz_ac01_d.rsw#魔法学院 1层#
+iz_ac02_d.rsw#魔法学院 2层#
+iz_ac01_c.rsw#魔法学院 1层#
+iz_ac02_c.rsw#魔法学院 2层#
+iz_ac01_b.rsw#魔法学院 1层#
+iz_ac02_b.rsw#魔法学院 2层#
+iz_ac01_a.rsw#魔法学院 1层#
+iz_ac02_a.rsw#魔法学院 2层#
+
+izlude_d.rsw#卫星都市 依斯鲁得#
+izlude_c.rsw#卫星都市 依斯鲁得#
+izlude_b.rsw#卫星都市 依斯鲁得#
+izlude_a.rsw#卫星都市 依斯鲁得#
+
+iz_int.rsw#新手地图#
+iz_int01.rsw#新手地图#
+iz_int02.rsw#新手地图#
+iz_int03.rsw#新手地图#
+iz_int04.rsw#新手地图#
+iz_ac01.rsw#魔法学院 1层#
+iz_ac02.rsw#魔法学院 2层#
+iz_ng01.rsw#忍者新手教学地图#
+treasure_n1.rsw#依斯鲁得遇难船 1层#
+treasure_n2.rsw#依斯鲁得遇难船 2层#
+
+moc_prydn1.rsw#梦罗克金字塔 地下1层(梦魇)#
+moc_prydn2.rsw#梦罗克金字塔 地下2层(梦魇)#
+
+eclage.rsw#守护精灵首都 埃克拉珠#
+ecl_fild01.rsw#花开伊始的大地#
+ecl_in01.rsw#埃克拉珠 内部#
+ecl_in02.rsw#埃克拉珠 内部#
+ecl_in03.rsw#埃克拉珠 内部#
+ecl_in04.rsw#埃克拉珠 内部#
+1@ecl.rsw#埃克拉珠内部#
+ecl_tdun01.rsw#彩虹桥高塔 1层#
+ecl_tdun02.rsw#彩虹桥高塔 2层#
+ecl_tdun03.rsw#彩虹桥高塔 3层#
+ecl_tdun04.rsw#彩虹桥高塔 4层#
+ecl_hub01.rsw#埃克拉珠小径#
+que_avan01.rsw#阿凡特研究室#
+
+
+malaya.rsw#马来亚港#
+ma_fild01.rsw#巴尔尤 马西瓦加#
+ma_fild02.rsw#普勒斯特#
+ma_scene01.rsw#食月者之湖#
+ma_in01.rsw#马来亚 市内#
+ma_dun01.rsw#噩梦医院 1层#
+1@ma_h.rsw#噩梦医院 2层#
+1@ma_c.rsw#宝箱巨鳄洞穴#
+1@ma_b.rsw#食月者的藏身处#
+ma_zif01.rsw#吉普尼车 内部#
+ma_zif02.rsw#吉普尼车 内部#
+ma_zif03.rsw#吉普尼车 内部#
+ma_zif04.rsw#吉普尼车 内部#
+ma_zif05.rsw#吉普尼车 内部#
+ma_zif06.rsw#吉普尼车 内部#
+ma_zif07.rsw#吉普尼车 内部#
+ma_zif08.rsw#吉普尼车 内部#
+ma_zif09.rsw#吉普尼车 内部#
+job_ko.rsw#隐蔽居所#
+
+gld_dun01_2.rsw#公会地下密穴 2层#
+gld_dun02_2.rsw#公会地下密穴 2层#
+gld_dun03_2.rsw#公会地下密穴 2层#
+gld_dun04_2.rsw#公会地下密穴 2层#
+gld2_ald.rsw#深渊回廊 : 英雄之泪#
+gld2_gef.rsw#深渊回廊 : 亡者之丘#
+gld2_pay.rsw#深渊回廊 : 太古之风#
+gld2_prt.rsw#深渊回廊 : 战士之路#
+
+lhz_dun04.rsw#生物体试验研究所 地下4层#
+que_lhz.rsw#生物体试验研究所 地下4层#
+1@lhz.rsw#保罗协夫研究室#
+malangdo.rsw#绵绵岛#
+mal_in01.rsw#绵绵岛 内部#
+mal_in02.rsw#船 内部#
+mal_dun01.rsw#星光珊瑚 地区#
+1@cash.rsw#章鱼洞穴#
+1@pump.rsw#排水沟#
+2@pump.rsw#排水沟#
+evt_hello.rsw#Dead Angel's landing#
+dic_dun03.rsw#斯卡勒伯熔岩#
+que_house_s.rsw#诡异的屋#
+dewata.rsw#德瓦他#
+dew_in01.rsw#贾提族部落 内部#
+dew_fild01.rsw#德瓦他旷野 贾提族部落#
+dew_dun01.rsw#喀拉喀托火山岛#
+dew_dun02.rsw#伊斯坦纳洞穴#
+1@mist.rsw#迷雾森林#
+mora.rsw#草精族 穆拉村#
+bif_fild01.rsw#彩虹桥南部#
+bif_fild02.rsw#彩虹桥北部#
+dicastes01.rsw#沙帕首都 埃迪斯特斯#
+dicastes02.rsw#布伦贝德·约尔希森林#
+dic_in01.rsw#迪卡斯特内部#
+dic_fild01.rsw#卡米达山麓#
+dic_fild02.rsw#卡米达山麓#
+dic_dun01.rsw#卡米达隧道#
+dic_dun02.rsw#斯卡勒伯熔岩#
+job3_gen01.rsw#基因学者研究所#
+s_atelier.rsw#影子工坊#
+brasilis.rsw#巴西#
+bra_in01.rsw#巴西内部#
+bra_fild01.rsw#巴西平原#
+bra_dun01.rsw#巴西瀑布里 洞穴入口#
+bra_dun02.rsw#巴西瀑布里 洞穴内部#
+moc_para01.rsw#梦罗克乐园团 内部#
+job3_arch01.rsw#大主教转职等候室#
+job3_arch02.rsw#奥丁神殿#
+job3_arch03.rsw#大主教转职等候室#
+job3_guil01.rsw#秘密酒店#
+job3_guil02.rsw#破旧的仓库 内部#
+job3_guil03.rsw#偏僻的住宅#
+job3_rang01.rsw#游侠转职等候室#
+job3_rang02.rsw#游侠转职考场#
+job3_rune01.rsw#符文骑士团 内部#
+job3_rune02.rsw#符文骑士转职考场#
+job3_rune03.rsw#符文骑士转职考场#
+job3_war01.rsw#大法师转职考场#
+job3_war02.rsw#大法师转职考场#
+jupe_core2.rsw#优配擂斯中央#
+1@nyd.rsw#尼德霍格的巢穴#
+2@nyd.rsw#尼德霍格的巢穴#
+nyd_dun01.rsw#辉煌残暴者的伤口 1层#
+nyd_dun02.rsw#辉煌残暴者的伤口 2层#
+moc_fild22b.rsw#苏克拉特沙漠 次元裂缝#
+mid_camp.rsw#米德加尔特联合驻地#
+mid_campin.rsw#米德加尔特联合驻地 内部#
+manuk.rsw#矿山村庄 马努克#
+man_in01.rsw#马努克 内部#
+man_fild01.rsw#马努克 旷野#
+man_fild02.rsw#马努克 旷野#
+man_fild03.rsw#马努克 旷野#
+splendide.rsw#守护精灵前线阵地辉煌领域#
+spl_fild01.rsw#辉煌领域#
+spl_fild02.rsw#辉煌领域#
+spl_fild03.rsw#辉煌领域#
+spl_in01.rsw#辉煌领域野战司令部 内部#
+spl_in02.rsw#辉煌领域 内部#
+bat_c01.rsw#克里格·冯·米德加尔特#
+bat_c02.rsw#克里格·冯·米德加尔特#
+bat_c03.rsw#克里格·冯·米德加尔特#
+que_dan01.rsw#毁葛 旷野#
+que_dan02.rsw#朱诺 废弃屋内部#
+schg_que01.rsw#莫尔斯敦草地#
+schg_dun01.rsw#公会地下密穴#
+arug_que01.rsw#莫尔斯敦草地#
+arug_dun01.rsw#公会地下密穴#
+1@orcs.rsw#兽人地下洞穴#
+2@orcs.rsw#兽人地下洞穴#
+1@cata.rsw#地下墓穴#
+2@cata.rsw#封印的神殿#
+e_tower.rsw#密斯提岛#
+1@tower.rsw#无尽塔#
+2@tower.rsw#无尽塔#
+3@tower.rsw#无尽塔#
+4@tower.rsw#无尽塔#
+5@tower.rsw#无尽塔#
+6@tower.rsw#无尽塔#
+bat_room.rsw#战场等候室#
+bat_a01.rsw#提耶拉峡谷#
+bat_a02.rsw#提耶拉峡谷#
+bat_b01.rsw#普拉比乌斯#
+bat_b02.rsw#普拉比乌斯#
+que_qsch01.rsw#虚幻的奥克尼尔#
+que_qsch02.rsw#虚幻的奥克尼尔#
+que_qsch03.rsw#虚幻的奥克尼尔#
+que_qsch04.rsw#虚幻的奥克尼尔#
+que_qsch05.rsw#虚幻的奥克尼尔#
+que_qaru01.rsw#虚幻的奥克尼尔#
+que_qaru02.rsw#虚幻的奥克尼尔#
+que_qaru03.rsw#虚幻的奥克尼尔#
+que_qaru04.rsw#虚幻的奥克尼尔#
+que_qaru05.rsw#虚幻的奥克尼尔#
+arug_cas01.rsw#发菲依雅公会#
+arug_cas02.rsw#发菲依雅公会#
+arug_cas03.rsw#发菲依雅公会#
+arug_cas04.rsw#发菲依雅公会#
+arug_cas05.rsw#发菲依雅公会#
+aru_gld.rsw#发菲依雅公会#
+moscovia.rsw#莫斯科比亚#
+mosk_in.rsw#莫斯科比亚 内部#
+mosk_ship.rsw#船舶#
+mosk_fild01.rsw#鲸鱼岛#
+mosk_fild02.rsw#莫斯科比亚 旷野#
+mosk_dun01.rsw#莫斯科比亚 森林#
+mosk_dun02.rsw#莫斯科比亚 森林深处#
+mosk_dun03.rsw#莫斯科比亚 深渊森林#
+mosk_que.rsw#Marozka's Cave#
+schg_cas01.rsw#尼它堆公会#
+schg_cas02.rsw#尼它堆公会#
+schg_cas03.rsw#尼它堆公会#
+schg_cas04.rsw#尼它堆公会#
+schg_cas05.rsw#尼它堆公会#
+sch_gld.rsw#尼它堆#
+cave.rsw#洞穴村#
+moc_fild20.rsw#苏克拉特沙漠 次元裂缝#
+moc_fild21.rsw#苏克拉特沙漠 次元裂缝#
+moc_fild22.rsw#苏克拉特沙漠 次元裂缝#
+bossnia_01.rsw#波斯尼亚#
+bossnia_02.rsw#波斯尼亚#
+bossnia_03.rsw#波斯尼亚#
+bossnia_04.rsw#波斯尼亚#
+itemmall.rsw#道具商店#
+poring_w01.rsw#波利大战 等待室#
+poring_w02.rsw#波利大战场#
+nameless_i.rsw#无名岛#
+nameless_n.rsw#无名岛#
+nameless_in.rsw#无名岛 内部#
+abbey01.rsw#无名岛修道院 1层#
+abbey02.rsw#无名岛修道院 地下1层#
+abbey03.rsw#无名岛修道院 地下2层#
+que_temsky.rsw#教皇执勤室(天空庭院)#
+z_agit.rsw#Z团地下指挥部#
+veins.rsw#峡谷村落 伯仁斯#
+ve_in.rsw#伯仁斯 内部#
+ve_in02.rsw#伯仁斯 内部#
+ve_fild01.rsw#伯仁斯 旷野#
+ve_fild02.rsw#伯仁斯 旷野#
+ve_fild03.rsw#伯仁斯 旷野#
+ve_fild04.rsw#伯仁斯 旷野#
+ve_fild05.rsw#伯仁斯 旷野#
+ve_fild06.rsw#伯仁斯 旷野#
+ve_fild07.rsw#伯仁斯 旷野#
+thor_camp.rsw#伯仁斯托尔火山 后勤基地#
+que_thor.rsw#伯仁斯托尔火山洞穴#
+thor_v01.rsw#伯仁斯托尔火山 洞穴1层#
+thor_v02.rsw#伯仁斯托尔火山 洞穴2层#
+thor_v03.rsw#伯仁斯托尔火山 洞穴3层#
+06guild_r.rsw#公会对抗竞技场 等候室#
+06guild_01.rsw#公会对抗竞技场#
+06guild_02.rsw#公会对抗竞技场#
+06guild_03.rsw#公会对抗竞技场#
+06guild_04.rsw#公会对抗竞技场#
+06guild_05.rsw#公会对抗竞技场#
+06guild_06.rsw#公会对抗竞技场#
+06guild_07.rsw#公会对抗竞技场#
+06guild_08.rsw#公会对抗竞技场#
+rachel.rsw#阿卢纳贝兹 教国首都 拉赫#
+ra_in01.rsw#拉赫 内部#
+ra_temple.rsw#菲依雅 大神殿(瑟斯隆尼勒)#
+ra_temin.rsw#神殿内部#
+que_rachel.rsw#神殿 内部#
+ra_temsky.rsw#教皇执勤室(空中庭院)#
+ra_fild01.rsw#拉赫 奥顿拉草原#
+ra_fild02.rsw#拉赫欧兹峡谷#
+ra_fild03.rsw#拉赫 伊达平原#
+ra_fild04.rsw#拉赫 奥顿拉草原#
+ra_fild05.rsw#拉赫 奥顿拉草原#
+ra_fild06.rsw#珀尔特鲁纳#
+ra_fild07.rsw#拉赫欧兹峡谷#
+ra_fild08.rsw#拉赫 伊达平原#
+ra_fild09.rsw#拉赫 奥顿拉草原#
+ra_fild10.rsw#拉赫欧兹峡谷#
+ra_fild11.rsw#拉赫 伊达平原#
+ra_fild12.rsw#拉赫 伊达 旷野#
+ra_fild13.rsw#拉赫 眼泪海岸#
+ra_san01.rsw#拉赫 神殿圣域1层 北边地区#
+ra_san02.rsw#拉赫 神殿圣域1层 西边地区#
+ra_san03.rsw#拉赫 神殿圣域1层 东边地区#
+ra_san04.rsw#拉赫 神殿圣域1层 南边地区#
+ra_san05.rsw#拉赫 神殿圣域2层 中央地区#
+ice_dun01.rsw#拉赫冰洞穴 1层#
+ice_dun02.rsw#拉赫冰洞穴 2层#
+ice_dun03.rsw#拉赫冰洞穴 3层#
+ice_dun04.rsw#拉赫冰洞穴 封印的空间#
+hugel.rsw#田园都市 毁葛#
+hu_in01.rsw#毁葛 内部#
+que_bingo.rsw#冰窟竞赛场#
+que_hugel.rsw#奥丁神殿 地下#
+p_track01.rsw#魔物赛跑 竞赛场#
+p_track02.rsw#魔物赛跑 竞赛场#
+odin_tem01.rsw#毀葛 奥丁神殿 西边地区#
+odin_tem02.rsw#毀葛 奥丁神殿 南边地区#
+odin_tem03.rsw#毀葛 奥丁神殿 北边地区#
+odin_past.rsw#古代奥丁神殿#
+hu_fild02.rsw#毁葛 旷野#
+hu_fild03.rsw#狩猎场#
+hu_fild06.rsw#毁葛 旷野#
+yuno_fild10.rsw#朱诺 旷野#
+kh_kiehl02.rsw#基尔的最后1个房间#
+kh_kiehl01.rsw#基尔的房间#
+kh_dun02.rsw#机械娃娃工厂 2层#
+kh_dun01.rsw#机械娃娃工厂 1层#
+kh_mansion.rsw#基尔海尔住所#
+kh_rossi.rsw#路史米埃尔加住所#
+kh_school.rsw#基尔海尔学院#
+kh_vila.rsw#基尔海尔别墅#
+auction_01.rsw#拍卖场#
+auction_02.rsw#拍卖场#
+que_job01.rsw#秘密酒店#
+abyss_01.rsw#毀葛深渊湖水 地下洞穴1层#
+abyss_02.rsw#毀葛深渊湖水 地下洞穴2层#
+abyss_03.rsw#毁葛深渊湖水 地下洞穴3层#
+abyss_04.rsw#毁葛深渊湖水 地下洞穴 4层#
+tha_t01.rsw#达纳托斯之塔 下层 博物馆入口#
+tha_t02.rsw#达纳托斯之塔 下层 博物馆#
+tha_t03.rsw#达纳托斯之塔 下层 废弃空间#
+tha_t04.rsw#达纳托斯之塔 下层 废弃空间#
+tha_t05.rsw#达纳托斯之塔 上层#
+tha_t06.rsw#达纳托斯之塔 上层#
+tha_t07.rsw#达纳托斯之塔 上层 天使之房#
+tha_t08.rsw#达纳托斯之塔 上层 天使之房#
+tha_t09.rsw#达纳托斯之塔 上层 苦恼之房#
+tha_t10.rsw#达纳托斯之塔 上层 悲哀之房#
+tha_t11.rsw#达纳托斯之塔 上层 绝望之房#
+tha_t12.rsw#达纳托斯之塔 上层 憎恨之房#
+thana_step.rsw#达纳托斯之塔 上层层梯#
+thana_boss.rsw#达纳托斯之塔 (未知旷野)#
+tha_scene01.rsw##
+job_soul.rsw#灵魂之地#
+job_star.rsw#太阳和月亮和星辰之地#
+hu_fild07.rsw#毁葛 旷野#
+hu_fild05.rsw#毁葛 深渊湖水#
+hu_fild04.rsw#毁葛 旷野#
+hu_fild01.rsw#达纳托斯之塔#
+yuno_fild06.rsw#尔迈斯 瀑雷德#
+quiz_02.rsw#OX益智游戏竞赛场#
+jupe_cave.rsw#优配擂斯洞穴入口#
+juperos_01.rsw#优配擂斯废墟 外部#
+juperos_02.rsw#优配擂斯废墟 内部#
+jupe_gate.rsw#优配擂斯保安旷野#
+jupe_area1.rsw#优配擂斯保安旷野#
+jupe_area2.rsw#优配擂斯保安旷野#
+jupe_ele.rsw#优配擂斯电梯#
+jupe_ele_r.rsw#优配擂斯电梯室#
+jupe_core.rsw#优配擂斯中心部#
+lighthalzen.rsw#企业之都 里希塔乐镇#
+lhz_in01.rsw#雷根贝勒总部#
+lhz_in02.rsw#里希塔乐镇 内部#
+lhz_in03.rsw#里希塔乐镇 内部#
+lhz_cube.rsw#正立方体房间#
+lhz_que01.rsw#里希塔乐镇 内部#
+lhz_airport.rsw#里希塔乐镇机场#
+airplane_01.rsw#飞空艇#
+lhz_dun01.rsw#生物体试验研究所 地下1层#
+lhz_dun02.rsw#生物体试验研究所 地下2层#
+lhz_dun03.rsw#生物体试验研究所 地下3层#
+yuno_pre.rsw#秀发兹发德 政府厅舍#
+y_airport.rsw#朱诺机场#
+lhz_fild01.rsw#里希塔乐镇 旷野#
+lhz_fild02.rsw#里希塔乐镇 旷野(死神的峡谷)#
+lhz_fild03.rsw#里希塔乐镇 旷野#
+ein_fild01.rsw#艾音布罗克 旷野#
+ein_fild02.rsw#艾音布罗克 旷野#
+ein_fild03.rsw#艾音布罗克 旷野#
+ein_fild04.rsw#艾音布罗克 旷野#
+ein_fild05.rsw#艾音布罗克 旷野#
+ein_fild06.rsw#艾音布罗克 旷野#
+ein_fild07.rsw#艾音布罗克 旷野#
+ein_fild08.rsw#艾音布罗克 旷野#
+ein_fild09.rsw#艾音布罗克 旷野#
+ein_fild10.rsw#艾音布罗克 旷野#
+ein_dun02.rsw#艾音贝赫矿山 2层#
+ein_dun01.rsw#艾音贝赫矿山 1层#
+airplane.rsw#飞空艇#
+airport.rsw#艾音布罗克机场#
+ein_in01.rsw#室内#
+einbech.rsw#采矿村落 艾音贝赫#
+einbroch.rsw#钢铁之都 艾音布罗克#
+turbo_e_16.rsw#竞速场地 竞赛场#
+turbo_e_8.rsw#竞速场地 竞赛场#
+turbo_e_4.rsw#竞速场地 竞赛场#
+turbo_n_16.rsw#竞速场地 竞赛场#
+turbo_n_8.rsw#竞速场地 竞赛场#
+turbo_n_4.rsw#竞速场地 竞赛场#
+turbo_n_1.rsw#竞速场地 竞赛场#
+turbo_room.rsw#竞速场地 等待室#
+yuno_fild12.rsw#秀发兹发德 国境检查站#
+yuno_fild11.rsw#朱诺 旷野#
+yuno_fild09.rsw#秀发兹发德 警备队露营地#
+yuno_fild08.rsw#朱诺启海伊洛学院#
+yuno_fild07.rsw#尔迈斯 峡谷(深渊的峡谷)#
+yuno_fild05.rsw#尔迈斯 瀑雷德#
+ayo_in02.rsw#哎哟泰雅 内部#
+ayo_in01.rsw#哎哟泰雅 内部#
+ayo_dun02.rsw#哎哟泰雅 古代神殿内部#
+ayo_dun01.rsw#哎哟泰雅 古代神殿密穴#
+ayo_fild02.rsw#哎哟泰雅 旷野#
+ayo_fild01.rsw#哎哟泰雅 旷野#
+ayothaya.rsw#哎哟泰雅#
+que_god02.rsw#任务地图#
+que_god01.rsw#任务地图#
+quiz_test.rsw#益智考场#
+gefenia04.rsw#葛帔尼亚#
+gefenia03.rsw#葛帔尼亚#
+gefenia02.rsw#葛帔尼亚#
+gefenia01.rsw#葛帔尼亚#
+himinn.rsw#瓦尔基里 神殿#
+jawaii_in.rsw#爪哇咿 内部#
+jawaii.rsw#蜜月岛 爪哇咿#
+lou_in02.rsw#龙之城 内部#
+lou_in01.rsw#龙之城 内部#
+lou_dun03.rsw#龙之城 审良宫#
+lou_dun02.rsw#龙之城王陵 内部#
+lou_dun01.rsw#龙之城王陵#
+lou_fild01.rsw#龙之城 旷野#
+louyang.rsw#古都 龙之城#
+valkyrie.rsw#瓦尔基里神殿(伟大战士们的殿堂)#
+nif_in.rsw#尼芙菲姆 内部#
+yggdrasil01.rsw#禾贝勒开米勒之泉(天地树树干)#
+nif_fild02.rsw#尼芙菲姆 鬼之峡谷#
+nif_fild01.rsw#尼芙菲姆 偏远村落 斯凯领顿#
+niflheim.rsw#亡者国度 尼芙菲姆#
+um_dun01.rsw#汶巴拉 树木里的木工所#
+um_dun02.rsw#汶巴拉 树木里的异界通路#
+um_in.rsw#汶巴拉内部#
+um_fild01.rsw#汶巴拉 噜噜卡森林#
+um_fild02.rsw#汶巴拉 沪家森林#
+um_fild03.rsw#汶巴拉 卡拉拉森林#
+um_fild04.rsw#汶巴拉 沪家丛林#
+umbala.rsw#雨檀族村落 汶巴拉#
+sec_in01.rsw#巴哈拉宫 内部#
+sec_in02.rsw#巴哈拉宫 内部#
+sec_pri.rsw#巴哈拉宫 反省的房间(监狱)#
+gon_test.rsw#昆仑 战斗场#
+gon_dun01.rsw#昆仑 西王母神殿#
+gon_dun02.rsw#昆仑 神仙的围棋台#
+gon_dun03.rsw#昆仑 武陵道院#
+gon_fild01.rsw#昆仑旷野#
+gon_in.rsw#昆仑内部#
+gonryun.rsw#神仙之岛 昆仑#
+ama_test.rsw#樱花城 摩摩塔乐体验所#
+ama_dun03.rsw#樱花城 地下神社#
+ama_dun02.rsw#樱花城 地下森林战场#
+ama_dun01.rsw#樱花城 榻榻米迷宫#
+ama_fild01.rsw#樱花城 旷野#
+ama_in02.rsw#天水阁 内部#
+ama_in01.rsw#樱花城 内部#
+amatsu.rsw#天水之国 樱花城#
+alde_alche.rsw#炼金术师转职所#
+yuno_in05.rsw#伊美乐的心脏 动力室#
+yuno_in04.rsw#朱诺 内部#
+job_duncer.rsw#克魔岛 小剧场#
+job_sage.rsw#贤者转职考场#
+job_cru.rsw#十字军 转职考场#
+job_monk.rsw#圣●卡毕利那 修道院#
+monk_test.rsw#圣●卡毕利那修道院#
+in_rogue.rsw#流氓公会 内部#
+mag_dun02.rsw#朱诺 诺可罗德2层#
+mag_dun01.rsw#朱诺 诺可罗德1层#
+yuno_fild04.rsw#尔迈斯 瀑雷德#
+yuno_fild03.rsw#尔迈斯 瀑雷德#
+yuno_fild02.rsw#启·海伊洛别墅#
+yuno_fild01.rsw#秀发兹发德国境检查站#
+yuno_in03.rsw#朱诺 内部#
+yuno_in02.rsw#贤者 城堡内部#
+yuno_in01.rsw#朱诺 内部#
+yuno.rsw#秀发兹发德 共和国 首都 朱诺#
+job_wiz.rsw#巫师转职考场#
+job_prist.rsw#牧师转职考场#
+job_knt.rsw#骑士转职考场#
+job_hunte.rsw#猎人转职考场#
+gld_dun04.rsw#公会地下密穴#
+gld_dun03.rsw#公会地下密穴#
+gld_dun02.rsw#公会地下密穴#
+gld_dun01.rsw#公会地下密穴#
+payg_cas05.rsw#青林湖泊 公会#
+payg_cas04.rsw#青林湖泊 公会#
+payg_cas03.rsw#青林湖泊 公会#
+payg_cas02.rsw#青林湖泊 公会#
+payg_cas01.rsw#青林湖泊 公会#
+pay_gld.rsw#青林湖泊#
+aldeg_cas05.rsw#露依纳公会#
+aldeg_cas04.rsw#露依纳公会#
+aldeg_cas03.rsw#露依纳公会#
+aldeg_cas02.rsw#露依纳公会#
+aldeg_cas01.rsw#露依纳公会#
+alde_gld.rsw#艾尔帕兰 卫星都市 露依纳#
+gefg_cas05.rsw#咘哩妥利亚 公会#
+gefg_cas04.rsw#咘哩妥利亚 公会#
+gefg_cas03.rsw#咘哩妥利亚 公会#
+gefg_cas02.rsw#咘哩妥利亚 公会#
+gefg_cas01.rsw#咘哩妥利亚 公会#
+prtg_cas05.rsw#瓦尔基里雷恩 公会#
+prtg_cas04.rsw#瓦尔基里雷恩 公会#
+prtg_cas03.rsw#瓦尔基里雷恩 公会#
+prtg_cas02.rsw#瓦尔基里雷恩 公会#
+prtg_cas01.rsw#瓦尔基里雷恩 公会#
+prt_gld.rsw#瓦尔基里雷恩#
+tur_dun01.rsw#乌龟岛#
+tur_dun02.rsw#乌龟岛  密穴#
+tur_dun03.rsw#乌龟岛  密穴#
+tur_dun04.rsw#乌龟岛  密穴#
+tur_dun05.rsw#地下沼泽区#
+tur_dun06.rsw#地下沼泽区#
+guild_vs5.rsw#公会对抗竞技场#
+guild_vs4.rsw#公会对抗竞技场#
+guild_vs3.rsw#公会对抗竞技场#
+guild_vs2.rsw#公会对抗竞技场#
+guild_vs1.rsw#公会对抗竞技场#
+guild_room.rsw#公会对抗竞技场 休息室#
+quiz_00.rsw#OX益智游戏竞赛场#
+quiz_01.rsw#OX益智游戏竞赛场#
+gef_fild12.rsw#克特 森林#
+gef_fild13.rsw#怖立特离亚#
+gef_fild14.rsw#西边 兽人村落#
+cmd_in02.rsw#克魔岛 内部#
+cmd_in01.rsw#克魔岛 内部#
+comodo.rsw#海边之都 克魔岛#
+beach_dun.rsw#克魔岛 西边洞穴 加露#
+beach_dun2.rsw#克魔岛 北边洞穴 卢安达#
+beach_dun3.rsw#克魔岛 东边洞穴 马吾#
+cmd_fild01.rsw#克魔岛 巴不其卡森林#
+cmd_fild02.rsw#克魔岛 海边#
+cmd_fild03.rsw#克魔岛 基乃依沼泽地#
+cmd_fild04.rsw#克魔岛 海边#
+cmd_fild05.rsw#巴不其卡 森林边界#
+cmd_fild06.rsw#要塞都市 山特乐曼 西边地区#
+cmd_fild07.rsw#发乐斯 灯塔岛#
+cmd_fild08.rsw#要塞都市 山特乐曼 东边地区#
+cmd_fild09.rsw#要塞都市 山特乐曼 南边地区#
+xmas_in.rsw#姜饼城 内部#
+xmas_dun02.rsw#姜饼城 玩具分类场#
+xmas_dun01.rsw#姜饼城 玩具工厂仓库#
+xmas_fild01.rsw#姜饼城 旷野#
+xmas.rsw#白雪村落 姜饼城#
+mjolnir_01.rsw#妙勒尼山脉 北边地区#
+mjolnir_02.rsw#妙勒尼山脉 北边地区#
+mjolnir_03.rsw#妙勒尼山脉 北边地区#
+mjolnir_04.rsw#妙勒尼山脉 北边地区#
+mjolnir_05.rsw#妙勒尼山脉 北边地区#
+mjolnir_06.rsw#妙勒尼山脉 南边地区#
+mjolnir_07.rsw#妙勒尼山脉 南边地区#
+mjolnir_08.rsw#妙勒尼山脉 南边地区#
+mjolnir_09.rsw#妙勒尼山脉 南边山麓#
+mjolnir_10.rsw#妙勒尼山脉 南边地区#
+mjolnir_11.rsw#妙勒尼山脉 南边地区#
+mjolnir_12.rsw#妙勒尼山脉 北边山麓#
+prt_fild00.rsw#普隆德拉 旷野#
+prt_fild01.rsw#普隆德拉 旷野#
+prt_fild02.rsw#普隆德拉 旷野#
+prt_fild03.rsw#普隆德拉 旷野#
+prt_fild04.rsw#普隆德拉 旷野#
+prt_fild05.rsw#普隆德拉 旷野#
+prt_fild06.rsw#普隆德拉 旷野#
+prt_fild07.rsw#普隆德拉 旷野#
+prt_fild08.rsw#普隆德拉 旷野#
+prt_fild09.rsw#普隆德拉 旷野#
+prt_fild10.rsw#普隆德拉 旷野#
+prt_fild11.rsw#普隆德拉 旷野#
+prt_monk.rsw#圣●卡毕利那 修道院#
+gef_fild00.rsw#吉芬 旷野#
+gef_fild01.rsw#吉芬 旷野#
+gef_fild02.rsw#吉芬 旷野#
+gef_fild03.rsw#吉芬 旷野#
+gef_fild04.rsw#吉芬 旷野#
+gef_fild05.rsw#吉芬 旷野#
+gef_fild06.rsw#吉芬 旷野#
+gef_fild07.rsw#吉芬 旷野#
+gef_fild08.rsw#吉芬 旷野#
+gef_fild09.rsw#吉芬 旷野#
+gef_fild10.rsw#东边 兽人村落#
+gef_fild11.rsw#吉芬 旷野#
+in_orcs01.rsw#兽人村落 室内#
+moc_fild01.rsw#苏克拉特沙漠#
+moc_fild02.rsw#苏克拉特沙漠#
+moc_fild03.rsw#苏克拉特沙漠#
+moc_fild04.rsw#苏克拉特沙漠#
+moc_fild05.rsw#苏克拉特沙漠#
+moc_fild06.rsw#苏克拉特沙漠#
+moc_fild07.rsw#苏克拉特沙漠#
+moc_fild08.rsw#苏克拉特沙漠#
+moc_fild09.rsw#苏克拉特沙漠#
+moc_fild10.rsw#苏克拉特沙漠#
+moc_fild11.rsw#苏克拉特沙漠#
+moc_fild12.rsw#苏克拉特沙漠#
+moc_fild13.rsw#苏克拉特沙漠#
+moc_fild14.rsw#苏克拉特沙漠#
+moc_fild15.rsw#苏克拉特沙漠#
+moc_fild16.rsw#苏克拉特沙漠#
+moc_fild17.rsw#苏克拉特沙漠#
+moc_fild18.rsw#苏克拉特沙漠#
+moc_fild19.rsw#苏克拉特沙漠#
+in_moc_16.rsw#刺客 公会#
+pay_fild01.rsw#斐扬树林#
+pay_fild02.rsw#斐扬树林#
+pay_fild03.rsw#斐扬树林#
+pay_fild04.rsw#苏克拉特沙漠#
+pay_fild05.rsw#斐扬树林#
+pay_fild06.rsw#斐扬树林#
+pay_fild07.rsw#斐扬树林#
+pay_fild08.rsw#斐扬树林#
+pay_fild09.rsw#斐扬树林#
+pay_fild10.rsw#斐扬树林#
+pay_fild11.rsw#斐扬树林#
+new_1-1.rsw#初学者修练场#
+new_2-1.rsw#初学者修练场#
+new_3-1.rsw#初学者修练场#
+new_4-1.rsw#初学者修练场#
+new_5-1.rsw#初学者修练场#
+new_1-2.rsw#初学者修练场#
+new_2-2.rsw#初学者修练场#
+new_3-2.rsw#初学者修练场#
+new_4-2.rsw#初学者修练场#
+new_5-2.rsw#初学者修练场#
+new_1-3.rsw#初学者修练场#
+new_2-3.rsw#初学者修练场#
+new_3-3.rsw#初学者修练场#
+new_4-3.rsw#初学者修练场#
+new_5-3.rsw#初学者修练场#
+new_1-4.rsw#初学者修练场#
+new_2-4.rsw#初学者修练场#
+new_3-4.rsw#初学者修练场#
+new_4-4.rsw#初学者修练场#
+new_5-4.rsw#初学者修练场#
+anthell01.rsw#蚂蚁地狱密穴 1层#
+anthell02.rsw#蚂蚁地狱密穴 2层#
+gef_dun00.rsw#吉芬 地下密穴#
+gef_dun01.rsw#吉芬 地下密穴 1层#
+gef_dun02.rsw#吉芬 地下密穴 2层#
+gef_dun03.rsw#吉芬 地下密穴 3层#
+iz_dun00.rsw#依斯鲁得海底洞穴 1层#
+iz_dun01.rsw#依斯鲁得海底洞穴 2层#
+iz_dun02.rsw#依斯鲁得海底洞穴 3层#
+iz_dun03.rsw#依斯鲁得海底洞穴 4层#
+iz_dun04.rsw#依斯鲁得海底洞穴 5层#
+iz_dun05.rsw#依斯鲁得海底洞穴 6层#
+in_sphinx1.rsw#梦罗克史芬克斯 地下1层#
+in_sphinx2.rsw#梦罗克史芬克斯 地下2层#
+in_sphinx3.rsw#梦罗克史芬克斯 地下3层#
+in_sphinx4.rsw#梦罗克史芬克斯 地下4层#
+in_sphinx5.rsw#梦罗克史芬克斯 地下5层#
+moc_pryd01.rsw#梦罗克金字塔 1层#
+moc_pryd02.rsw#梦罗克金字塔 2层#
+moc_pryd03.rsw#梦罗克金字塔 3层#
+moc_pryd04.rsw#梦罗克金字塔 4层#
+moc_pryd05.rsw#梦罗克金字塔 地下1层#
+moc_pryd06.rsw#梦罗克金字塔 地下2层#
+moc_prydb1.rsw#盗贼公会#
+mjo_dun01.rsw#妙勒尼废弃矿场 1层#
+mjo_dun02.rsw#妙勒尼废弃矿场 2层#
+mjo_dun03.rsw#妙勒尼废弃矿场 3层#
+orcsdun01.rsw#吉芬 兽人地下洞穴 1层#
+orcsdun02.rsw#吉芬 兽人地下洞穴 2层#
+pay_dun00.rsw#斐扬洞穴 1层#
+pay_dun01.rsw#斐扬洞穴 2层#
+pay_dun02.rsw#斐扬洞穴 3层#
+pay_dun03.rsw#斐扬洞穴 4层（废弃村落）#
+pay_dun04.rsw#斐扬洞穴 5层（废弃村落）#
+prt_maze01.rsw#普隆德拉北部森林 密穴1层#
+prt_maze02.rsw#普隆德拉北部森林 密穴2层#
+prt_maze03.rsw#普隆德拉北部森林 密穴3层#
+prt_sewb1.rsw#普隆德拉地下水道 1层#
+prt_sewb2.rsw#普隆德拉地下水道 2层#
+prt_sewb3.rsw#普隆德拉地下水道 3层#
+prt_sewb4.rsw#普隆德拉地下水道 4层#
+treasure01.rsw#艾尔贝塔沉船 1层#
+treasure02.rsw#艾尔贝塔沉船 2层#
+hunter_1-1.rsw#猎人转职所#
+hunter_2-1.rsw#猎人转职所#
+hunter_3-1.rsw#猎人转职所#
+in_hunter.rsw#猎人转职所#
+knight_1-1.rsw#骑士转职所#
+knight_2-1.rsw#骑士转职所#
+knight_3-1.rsw#骑士转职所#
+priest_1-1.rsw#牧师转职所#
+priest_2-1.rsw#牧师转职所#
+priest_3-1.rsw#牧师转职所#
+sword_1-1.rsw#剑士转职所#
+sword_2-1.rsw#剑士转职所#
+sword_3-1.rsw#剑士转职所#
+job_thief1.rsw#盗贼转职所#
+wizard_1-1.rsw#巫师转职所#
+wizard_2-1.rsw#巫师转职所#
+wizard_3-1.rsw#巫师转职所#
+force_1-1.rsw#限时激斗模式#
+force_2-1.rsw#限时激斗模式#
+force_3-1.rsw#限时激斗模式#
+force_1-2.rsw#限时激斗模式#
+force_2-2.rsw#限时激斗模式#
+force_3-2.rsw#限时激斗模式#
+force_1-3.rsw#限时激斗模式#
+force_2-3.rsw#限时激斗模式#
+force_3-3.rsw#限时激斗模式#
+ordeal_1-1.rsw#团体战斗模式#
+ordeal_2-1.rsw#团体战斗模式#
+ordeal_3-1.rsw#团体战斗模式#
+ordeal_1-2.rsw#团体战斗模式#
+ordeal_2-2.rsw#团体战斗模式#
+ordeal_3-2.rsw#团体战斗模式#
+ordeal_1-3.rsw#团体战斗模式#
+ordeal_2-3.rsw#团体战斗模式#
+ordeal_3-3.rsw#团体战斗模式#
+ordeal_1-4.rsw#团体战斗模式#
+ordeal_2-4.rsw#团体战斗模式#
+ordeal_3-4.rsw#团体战斗模式#
+alb_ship.rsw#艾尔贝塔 船舶内部#
+alberta.rsw#港口之都 艾尔贝塔#
+alberta_in.rsw#港口之都 艾尔贝塔#
+alb2trea.rsw#沉船附近的岛屿#
+aldebaran.rsw#运河之都 艾尔帕兰#
+aldeba_in.rsw#运河之都 艾尔帕兰#
+gef_tower.rsw#吉芬 中央塔#
+geffen.rsw#魔法之都 吉芬#
+geffen_in.rsw#吉芬 内部#
+moc_castle.rsw#梦罗克 城内#
+moc_ruins.rsw#沙漠之都 梦罗克#
+morocc.rsw#沙漠之都 梦罗克#
+morocc_in.rsw#梦罗克 内部#
+pay_arche.rsw#山岳之都 斐扬#
+payon.rsw#山岳之都 斐扬#
+payon_in01.rsw#山岳之都 斐扬#
+payon_in02.rsw#山岳之都 斐扬#
+payon_in03.rsw#山岳之都 斐扬#
+prontera.rsw#卢恩 米德加兹王国 首都 普隆德拉#
+prt_in.rsw#卢恩米德加兹王国 首都 普隆德拉#
+prt_castle.rsw#普隆德拉城 内部#
+prt_church.rsw#普隆德拉 圣堂内部#
+izlude.rsw#卫星都市 依斯鲁得#
+izlude_in.rsw#依斯鲁得 内部#
+izlu2dun.rsw#卫星都市 依斯鲁得#
+monk_in.rsw#圣●卡毕利那修道院 内部#
+prt_are_in.rsw#竞技场 等候室#
+arena_room.rsw#竞技场 等候室#
+prt_arena01.rsw#竞技场#
+prt_are01.rsw#竞技场#
+glast_01.rsw#克雷斯特汉姆古城#
+alde_dun01.rsw#艾尔帕兰钟塔 地下1层#
+alde_dun02.rsw#艾尔帕兰钟塔 地下2层#
+alde_dun03.rsw#艾尔帕兰钟塔 地下3层#
+alde_dun04.rsw#艾尔帕兰钟塔 地下4层#
+c_tower1.rsw#艾尔帕兰钟塔 地上1层#
+c_tower2.rsw#艾尔帕兰钟塔 地上3层#
+c_tower3.rsw#艾尔帕兰 钟塔上层 3层#
+c_tower4.rsw#艾尔帕兰 钟塔上层 4层#
+gl_cas01.rsw#克雷斯特汉姆古城 地上1层#
+gl_cas02.rsw#克雷斯特汉姆古城 地上2层#
+gl_church.rsw#克雷斯特汉姆古城 修道院#
+gl_chyard.rsw#克雷斯特汉姆古城 地下公墓#
+gl_dun01.rsw#克雷斯特汉姆古城 最下层 地下洞穴1层 #
+gl_dun02.rsw#克雷斯特汉姆古城 最下层 地下洞穴2层 #
+gl_in01.rsw#克雷斯特汉姆古城 室内#
+gl_knt01.rsw#克雷斯特汉姆古城 骑士团1层#
+gl_knt02.rsw#克雷斯特汉姆古城 骑士团2层#
+gl_prison.rsw#克雷斯特汉姆古城 地下监狱1层#
+gl_prison1.rsw#克雷斯特汉姆古城 地下监狱2层#
+gl_sew01.rsw#克雷斯特汉姆古城 地下水道1层#
+gl_sew02.rsw#克雷斯特汉姆古城 地下水道2层#
+gl_sew03.rsw#克雷斯特汉姆古城 地下水道3层#
+gl_sew04.rsw#克雷斯特汉姆古城 地下水道4层#
+gl_step.rsw#克雷斯特汉姆古城 层梯密穴#
+
+// Maps officially not in the name table.
+que_job02.rsw#Job Quest 2#
+que_job03.rsw#Job Quest 3#
+ordeal_a00.rsw#Battle Ordeal Mode#
+ordeal_a02.rsw#Battle Ordeal Mode#
+force_map1.rsw#Time Limit Fight#
+force_map2.rsw#Time Limit Fight#
+force_map3.rsw#Time Limit Fight#
+job_hunter.rsw#Hunter Guild#
+job_knight.rsw#The Chivalry#
+job_priest.rsw#The Sanctum#
+job_sword1.rsw#Swordman Test Hall#
+job_wizard.rsw#Wizard Academy#
+pvp_room.rsw#PvP : Waiting Room#
+que_sign02.rsw#Valley of Gyoll#
+g_room1-1.rsw#Quiz Revolution#
+g_room1-2.rsw#Quiz Revolution#
+g_room1-3.rsw#Quiz Revolution#
+g_room2.rsw#Quiz Revolution#
+guild_vs1-1.rsw#Guild Arena#
+guild_vs1-2.rsw#Guild Arena#
+guild_vs1-3.rsw#Guild Arena#
+guild_vs1-4.rsw#Guild Arena#
+guild_vs2-1.rsw#Guild Arena#
+guild_vs2-2.rsw#Guild Arena#
+new_zone01.rsw#Training Ground#
+new_zone02.rsw#Training Ground#
+new_zone03.rsw#Training Ground#
+new_zone04.rsw#Training Ground#
+que_ng.rsw#不明区域#
+que_san04.rsw#Inside Freya's Temple#
+que_ba.rsw#Unknown#
+
+// Christmas & Sakura Special.
+prontera_x.rsw#Prontera City, Capital of Rune Midgard#
+alberta_x.rsw#Alberta#
+aldebaran_x.rsw#Aldebaran#
+geffen_x.rsw#Geffen#
+izlude_x.rsw#Izlude Town#
+prt_church_x.rsw#The Sanctuary#
+prontera_s.rsw#Prontera City, Capital of Rune Midgard#
+pay_arche_s.rsw#Archer Village#
+
+// Ragnarok World Championship 2004.
+rwc01.rsw#Ragnarok World Championship Arena 1#
+rwc02.rsw#Ragnarok World Championship Arena 2#
+rwc03.rsw#Ragnarok World Championship Arena 3#
+
+// Ragnarok World Championship 2007.
+2007rwc_r.rsw#2007 Ragnarok World Championship Arena Waiting Room#
+2007rwc_01.rsw#2007 Ragnarok World Championship Arena 1#
+2007rwc_02.rsw#2007 Ragnarok World Championship Arena 2#
+2007rwc_03.rsw#2007 Ragnarok World Championship Arena 3#
+2007rwc_04.rsw#2007 Ragnarok World Championship Arena 4#
+2007rwc_05.rsw#2007 Ragnarok World Championship Arena 5#
+2007rwc_06.rsw#2007 Ragnarok World Championship Arena 6#
+2007rwc_07.rsw#2007 Ragnarok World Championship Arena 7#
+2007rwc_08.rsw#2007 Ragnarok World Championship Arena 8#
+2007rwc_09.rsw#2007 Ragnarok World Championship Arena 9#
+2007rwc_10.rsw#2007 Ragnarok World Championship Arena 10#
+izlude07.rsw#Izlude Town#
+guild_rwc1.rsw#Training Room#
+guild_rwc2.rsw#Training Room#
+guild_rwc3.rsw#Training Room#
+guild_rwc4.rsw#Training Room#
+guild_rwc5.rsw#Training Room#
+
+// Alpha Maps.
+fay_vilg00.rsw#Payon Village#
+fay_vilg01.rsw#Payon Village#
+gef_vilg00.rsw#Geffen Village#
+gef_vilg01.rsw#Geffen Village#
+moc_dugn01.rsw#Morroc Dungeon#
+moc_dugn02.rsw#Morroc Dungeon#
+moc_fild01.rsw#苏克拉特沙漠#
+moc_fild02.rsw#苏克拉特沙漠#
+moc_fild03.rsw#苏克拉特沙漠#
+moc_fild04.rsw#苏克拉特沙漠#
+moc_intr00.rsw#Inside Morroc#
+moc_intr01.rsw#Inside Morroc#
+moc_intr02.rsw#Inside Morroc#
+moc_intr04.rsw#Inside Morroc#
+moc_vilg00.rsw#Morroc Village#
+moc_vilg01.rsw#Morroc Village#
+moc_vilg02.rsw#Morroc Village#
+probemap.rsw#Probe Map 1#
+probemap02.rsw#Probe Map 2#
+prt_cstl01.rsw#Prontera Castle#
+prt_dugn00.rsw#Prontera Dungeon#
+prt_dugn01.rsw#Prontera Dungeon#
+prt_fild00.rsw#普隆德拉 旷野#
+prt_fild01.rsw#普隆德拉 旷野#
+prt_fild03.rsw#普隆德拉 旷野#
+prt_fild04.rsw#普隆德拉 旷野#
+prt_fild05.rsw#普隆德拉 旷野#
+prt_intr01.rsw#Inside Prontera#
+prt_intr01_a.rsw#Inside Prontera#
+prt_intr02.rsw#Inside Prontera#
+prt_vilg00.rsw#Prontera Village#
+prt_vilg01.rsw#Prontera Village#
+prt_vilg02.rsw#Prontera Village#
+tank_test.rsw#Tank Test 1#
+tank_test2.rsw#Tank Test 2#
+test.rsw#Test Map#
+
+// Other official maps.
+oldpayon.rsw#Old Payon#
+oldpay_in01.rsw#Inside Old Payon#
+oldpay_in02.rsw#Inside Old Payon#
+xmas_x.rsw#Lutie, the Snow Village#
+alberta_d.gat#Alberta#
+
+// Chinese event maps.
+holy_gold.rsw#Gold Sanctuary#
+holy_silver.rsw#Silver Sanctuary#
+darkness_z.rsw#Darkness Island#
+baby_para.rsw#Playground#
+dragon_nest.rsw#Evil Dragon Nest#
+dragon_nes2.rsw#Evil Dragon Nest#
+que_new01.rsw#New Year Day Place#
+que_new02.rsw#New Year Day Place#
+
+// Japanese Event & Ragnarok Japanese Championship maps.
+jp_stage_a.rsw#Stage A#
+jp_castle.rsw#Halloween Castle#
+jp_ruins.rsw#Sandy Beach of Ruins#
+jp_magic.rsw#House of Magical#
+jp_stage_b.rsw#Stage B#
+jp_dress_a.rsw#Back Stage A#
+jp_dress_b.rsw#Back Stage B#
+anothership.rsw#Another Ship#
+jp_event02.rsw#Japanese Event 2#
+jp_event03.rsw#Japanese Event 3#
+jp_event04.rsw#Japanese Event 4#
+jp_event05.rsw#Japanese Event 5#
+jp_event06.rsw#Japanese Event 6#
+pvp_2vs2b.rsw#PvP : Event Coliseum#
+pvp_2vs2c.rsw#PvP : Event Coliseum#
+room_00.rsw#Room 0#
+room_01.rsw#Room 1#
+room_02.rsw#Room 2#
+moonlight_a.rsw#Moonlight A#
+guild_vs2pa.rsw#Prontera Room A#
+guild_vs2pb.rsw#Prontera Room B#
+guild_vs2pc.rsw#Prontera Room C#
+guild_vs2ia.rsw#Izlude Room A#
+guild_vs2ib.rsw#Izlude Room B#
+guild_vs2ic.rsw#Izlude Room C#
+guild_vs2ga.rsw#Geffen Room A#
+guild_vs2gb.rsw#Geffen Room B#
+guild_vs2gc.rsw#Geffen Room C#
+guild_vs2ma.rsw#Morroc Room A#
+guild_vs2mb.rsw#Morroc Room B#
+guild_vs2mc.rsw#Morroc Room C#
+tower_a0.rsw#Tower A0#
+tower_a1.rsw#Tower A1#
+tower_a2.rsw#Tower A2#
+tower_a3.rsw#Tower A3#
+tower_a4.rsw#Tower A4#
+tower_a5.rsw#Tower A5#
+tower_a6.rsw#Tower A6#
+tower_a7.rsw#Tower A7#
+tower_a8.rsw#Tower A8#
+tower_a9.rsw#Tower A9#
+tower_a10.rsw#Tower A10#
+tower_a11.rsw#Tower A11#
+tower_a12.rsw#Tower A12#
+tower_b0.rsw#Tower B0#
+tower_b1.rsw#Tower B1#
+tower_b2.rsw#Tower B2#
+tower_b3.rsw#Tower B3#
+tower_b4.rsw#Tower B4#
+tower_b5.rsw#Tower B5#
+tower_b6.rsw#Tower B6#
+tower_b7.rsw#Tower B7#
+tower_b8.rsw#Tower B8#
+tower_b9.rsw#Tower B9#
+tower_b10.rsw#Tower B10#
+tower_b11.rsw#Tower B11#
+tower_b12.rsw#Tower B12#
+tower_c0.rsw#Tower C0#
+tower_c1.rsw#Tower C1#
+tower_c2.rsw#Tower C2#
+tower_c3.rsw#Tower C3#
+tower_c4.rsw#Tower C4#
+tower_c5.rsw#Tower C5#
+tower_c6.rsw#Tower C6#
+tower_c7.rsw#Tower C7#
+tower_c8.rsw#Tower C8#
+tower_c9.rsw#Tower C9#
+tower_c10.rsw#Tower C10#
+tower_c11.rsw#Tower C11#
+tower_c12.rsw#Tower C12#
+tower_d0.rsw#Tower D0#
+tower_d1.rsw#Tower D1#
+tower_d2.rsw#Tower D2#
+tower_d3.rsw#Tower D3#
+tower_d4.rsw#Tower D4#
+tower_d5.rsw#Tower D5#
+tower_d6.rsw#Tower D6#
+tower_d7.rsw#Tower D7#
+tower_d8.rsw#Tower D8#
+tower_d9.rsw#Tower D9#
+tower_d10.rsw#Tower D10#
+tower_d11.rsw#Tower D11#
+tower_d12.rsw#Tower D12#
+
+// Taiwanese event maps.
+que_moon.rsw#月亮宫殿#
+que_moc_16.rsw#月亮宫殿 魔物区#
+
+// Thailand event maps.
+ein_polu.rsw#Indoor#
+poring_c01.rsw#Poring Waiting Room#
+poring_c02.rsw#Poring Market#
+
+// France event map.
+gl_in01_ev.rsw#Event Crazy Drops#
+
+// Halloween 2008 
+evt_zombie.rsw#Run from Zombies#
+
+arcadanias.rsw#Arcadanias, Satellite World#
+
+pvp_y_room.rsw#PvP : 等待室#
+pvp_n_room.rsw#PvP : 等候室#
+pvp_c_room.rsw#PvP : 等候室#
+pvp_n_1-1.rsw#PvP : 3明治 房间#
+pvp_n_2-1.rsw#PvP : 3明治 房间#
+pvp_n_3-1.rsw#PvP : 3明治 房间#
+pvp_n_4-1.rsw#PvP : 3明治 房间#
+pvp_n_5-1.rsw#PvP : 3明治 房间#
+pvp_n_6-1.rsw#PvP : 3明治 房间#
+pvp_n_7-1.rsw#PvP : 3明治 房间#
+pvp_n_8-1.rsw#PvP : 3明治 房间#
+pvp_n_1-2.rsw#PvP : 雷达锁定 房间#
+pvp_n_2-2.rsw#PvP : 雷达锁定 房间#
+pvp_n_3-2.rsw#PvP : 雷达锁定 房间#
+pvp_n_4-2.rsw#PvP : 雷达锁定 房间#
+pvp_n_5-2.rsw#PvP : 雷达锁定 房间#
+pvp_n_6-2.rsw#PvP : 雷达锁定 房间#
+pvp_n_7-2.rsw#PvP : 雷达锁定 房间#
+pvp_n_8-2.rsw#PvP : 雷达锁定 房间#
+pvp_n_1-3.rsw#PvP : 4通道 房间#
+pvp_n_2-3.rsw#PvP : 4通道 房间#
+pvp_n_3-3.rsw#PvP : 4通道 房间#
+pvp_n_4-3.rsw#PvP : 4通道 房间#
+pvp_n_5-3.rsw#PvP : 4通道 房间#
+pvp_n_6-3.rsw#PvP : 4通道 房间#
+pvp_n_7-3.rsw#PvP : 4通道 房间#
+pvp_n_8-3.rsw#PvP : 4通道 房间#
+pvp_n_1-4.rsw#PvP : 反十字 房间#
+pvp_n_2-4.rsw#PvP : 反十字 房间#
+pvp_n_3-4.rsw#PvP : 反十字 房间#
+pvp_n_4-4.rsw#PvP : 反十字 房间#
+pvp_n_5-4.rsw#PvP : 反十字 房间#
+pvp_n_6-4.rsw#PvP : 反十字 房间#
+pvp_n_7-4.rsw#PvP : 反十字 房间#
+pvp_n_8-4.rsw#PvP : 反十字 房间#
+pvp_n_1-5.rsw#PvP : 罗盘 房间#
+pvp_n_2-5.rsw#PvP : 罗盘 房间#
+pvp_n_3-5.rsw#PvP : 罗盘 房间#
+pvp_n_4-5.rsw#PvP : 罗盘 房间#
+pvp_n_5-5.rsw#PvP : 罗盘 房间#
+pvp_n_6-5.rsw#PvP : 罗盘 房间#
+pvp_n_7-5.rsw#PvP : 罗盘 房间#
+pvp_n_8-5.rsw#PvP : 罗盘 房间#
+pvp_y_1-1.rsw#PvP : 普隆德拉#
+pvp_y_2-1.rsw#PvP : 普隆德拉#
+pvp_y_3-1.rsw#PvP : 普隆德拉#
+pvp_y_4-1.rsw#PvP : 普隆德拉#
+pvp_y_5-1.rsw#PvP : 普隆德拉#
+pvp_y_6-1.rsw#PvP : 普隆德拉#
+pvp_y_7-1.rsw#PvP : 普隆德拉#
+pvp_y_8-1.rsw#PvP : 普隆德拉#
+pvp_y_1-2.rsw#PvP : 依斯鲁得#
+pvp_y_2-2.rsw#PvP : 依斯鲁得#
+pvp_y_3-2.rsw#PvP : 依斯鲁得#
+pvp_y_4-2.rsw#PvP : 依斯鲁得#
+pvp_y_5-2.rsw#PvP : 依斯鲁得#
+pvp_y_6-2.rsw#PvP : 依斯鲁得#
+pvp_y_7-2.rsw#PvP : 依斯鲁得#
+pvp_y_8-2.rsw#PvP : 依斯鲁得#
+pvp_y_1-3.rsw#PvP : 斐扬#
+pvp_y_2-3.rsw#PvP : 斐扬#
+pvp_y_3-3.rsw#PvP : 斐扬#
+pvp_y_4-3.rsw#PvP : 斐扬#
+pvp_y_5-3.rsw#PvP : 斐扬#
+pvp_y_6-3.rsw#PvP : 斐扬#
+pvp_y_7-3.rsw#PvP : 斐扬#
+pvp_y_8-3.rsw#PvP : 斐扬#
+pvp_y_1-4.rsw#PvP : 艾尔贝塔#
+pvp_y_2-4.rsw#PvP : 艾尔贝塔#
+pvp_y_3-4.rsw#PvP : 艾尔贝塔#
+pvp_y_4-4.rsw#PvP : 艾尔贝塔#
+pvp_y_5-4.rsw#PvP : 艾尔贝塔#
+pvp_y_6-4.rsw#PvP : 艾尔贝塔#
+pvp_y_7-4.rsw#PvP : 艾尔贝塔#
+pvp_y_8-4.rsw#PvP : 艾尔贝塔#
+pvp_y_1-5.rsw#PvP : 梦罗克#
+pvp_y_2-5.rsw#PvP : 梦罗克#
+pvp_y_3-5.rsw#PvP : 梦罗克#
+pvp_y_4-5.rsw#PvP : 梦罗克#
+pvp_y_5-5.rsw#PvP : 梦罗克#
+pvp_y_6-5.rsw#PvP : 梦罗克#
+pvp_y_7-5.rsw#PvP : 梦罗克#
+pvp_y_8-5.rsw#PvP : 梦罗克#
+pvp_2vs2.rsw#PvP : 活动 竞技场#

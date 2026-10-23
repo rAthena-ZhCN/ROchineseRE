@@ -1,0 +1,10 @@
+# 临时/校验文件
+_verify*
+*.tmp
+*.bak
+Thumbs.db
+desktop.ini
+
+# 客户端本体与大资源（不入库）
+*.grf
+*.rgz

@@ -1,0 +1,6 @@
+# 翻译工程以字节为准，禁止 Git 做换行/编码转换
+* -text
+*.lub binary
+*.exe binary
+*.jar binary
+*.dll binary
