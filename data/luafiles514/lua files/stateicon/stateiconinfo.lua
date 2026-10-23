@@ -3272,6 +3272,7 @@ StateIconList[EFST_IDs.EFST_FULL_THROTTLE] = {
 		{ "All StateÔö¼Ó" },
 		{ "%s", COLOR_TIME }
 	}
+}
 StateIconList[EFST_IDs.EFST_REBOUND] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 4,
