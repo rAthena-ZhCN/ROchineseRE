@@ -39,16 +39,30 @@ RoChineseRE/
 |---|---|
 | EN 骨架快照 | ROenglishRE **2026-03-27**（上游最新 **2026-10-07**，待同步） |
 | `SystemEN` 成品 | itemInfo、achievements、mapInfo、OngoingQuests、RecommendedQuests、Towninfo、spopup、tipbox |
-| `data/luafiles514` 成品 | **6 / 19** 模块：agit、datainfo、enchant、itemreform、skillinfoz、stateicon |
-| 文本 | msgstringtable.txt、mapnametable.txt、questid2display.txt、书籍 |
+| `data/luafiles514` 成品 | 6 个模块 + 从旧客户端补入的 13 个模块与 `datainfo` |
+| 文本 | msgstringtable.csv/.txt、mapnametable.txt、questid2display.txt、书籍 |
+| ESC 按钮图片 | 基础皮肤 + 3 个 `Skin` 皮肤，共 87 张 BMP |
 
-### 尚未合并的 13 个模块
+### 客户端覆盖包（推荐使用）
+
+仓库根目录的 `client-overlay/` 是可直接覆盖到客户端的中文包：
 
 ```
-AdventureGuide  CashEmotion  EquipmentProperties  battlefield
-damageskin  dressroom  entryqueue  navigation
-optioninfo  probabilityinfo  selectpackage  service_korea  worldviewdata
+client-overlay/
+├── SystemEN/
+├── data/
+│   ├── msgstringtable.csv/.txt
+│   ├── mapnametable.txt
+│   ├── questid2display.txt
+│   ├── book/
+│   ├── luafiles514/lua files/
+│   └── texture/…/esc_*.bmp
+├── Skin/*/esc_*.bmp
+├── 一键覆盖.bat
+└── README.md
 ```
+
+把 `client-overlay` 里的内容覆盖到客户端根目录，或双击 `一键覆盖.bat` 选择客户端目录，然后重启客户端。
 
 ## 三、目标客户端与服务端
 
