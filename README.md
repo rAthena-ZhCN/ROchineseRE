@@ -69,6 +69,8 @@ client-overlay/
 - 客户端：**2025-07-16 Ragexe（build 175220998）**
 - 服务端：[rAthenaZhCN](https://github.com/rAthena-ZhCN/rAthenaZhCN)
 - WARP 补丁：需要启用 **Use SystemEN** 类补丁，让客户端从 `SystemEN` 读取翻译
+- **CustomCodePage 必须设为 936（GBK）**，否则职业名会按 CP1252 显示成 `3oDAOβ`
+- `clientinfo.xml`：`<langtype>3</langtype>`、`<servicetype>china</servicetype>`
 - 客户端本体、`data.grf`、exe 等**不进入本仓库**
 
 ## 四、构建流程
