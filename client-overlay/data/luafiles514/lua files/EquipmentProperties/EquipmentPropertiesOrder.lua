@@ -102,15 +102,15 @@ ValuePreset = { ExtParam = { [3] = Operation.ADD } }
 SymbolPreset = {
 	IncSign = { "+", "-" },
 	DecSign = { "-", "+" },
-	IncWord = { "Ôö¼Ó", "¼õÉÙ" },
-	DecWord = { "¼õÉÙ", "Ôö¼Ó" },
-	SkillWord = { "¿ÉÒÔ", "½â³ı" },
-	ApplyWord = { "", " ½â³ı" },
+	IncWord = { "å¢åŠ ", "å‡å°‘" },
+	DecWord = { "å‡å°‘", "å¢åŠ " },
+	SkillWord = { "å¯ä»¥", "è§£é™¤" },
+	ApplyWord = { "", " è§£é™¤" },
 	OnlyDecSign = { "", "-" }
 }
 EquipmentPropertiesOrder = {
 	[1] = {
-		name = "ÊôĞÔ",
+		name = "å±æ€§",
 		order = {
 			[1] = {
 				name = "{sym}{val}#STR",
@@ -259,7 +259,7 @@ EquipmentPropertiesOrder = {
 		}
 	},
 	[2] = {
-		name = "ÄÜÁ¦",
+		name = "èƒ½åŠ›",
 		order = {
 			[1] = {
 				name = "{sym}{val}#MAXHP",
@@ -327,7 +327,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.VAR_PLUSASPD[1]
 			},
 			[9] = {
-				name = "{sym}{val}%#¹¥»÷ËÙ¶È(¹¥»÷ºóÑÓ³Ù",
+				name = "{sym}{val}%#æ”»å‡»é€Ÿåº¦(æ”»å‡»åå»¶è¿Ÿ",
 				func = FunctionPreset.IncStat,
 				val = ValuePreset.ExtParam,
 				cond = GetExtParamConditionTable(EnumVAR.VAR_PLUSASPDPERCENT[2]),
@@ -335,7 +335,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.VAR_PLUSASPDPERCENT[1]
 			},
 			[10] = {
-				name = "{sym}{val}#ÍêÈ«»Ø±Ü",
+				name = "{sym}{val}#å®Œå…¨å›é¿",
 				func = FunctionPreset.IncStat,
 				val = ValuePreset.ExtParam,
 				cond = GetExtParamConditionTable(EnumVAR.VAR_PLUSAVOIDSUCCESSVALUE[2]),
@@ -392,21 +392,21 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.VAR_MDEFPOWER[1]
 			},
 			[17] = {
-				name = "{val}%#±ä¶¯Ó½³ª{sym}",
+				name = "{val}%#å˜åŠ¨å’å”±{sym}",
 				func = { "SubSpellCastTime", "AddSpellCastTime" },
 				val = { [1] = Operation.ADD },
 				sym = SymbolPreset.DecWord,
 				rndOpt = EnumVAR.DEC_SPELL_CAST_TIME[1]
 			},
 			[18] = {
-				name = "{val}%#¼¼ÄÜºóÑÓ³Ù{sym}",
+				name = "{val}%#æŠ€èƒ½åå»¶è¿Ÿ{sym}",
 				func = { "SubSpellDelay", "AddSpellDelay" },
 				val = { [1] = Operation.ADD },
 				sym = SymbolPreset.DecWord,
 				rndOpt = EnumVAR.DEC_SPELL_DELAY_TIME[1]
 			},
 			[19] = {
-				name = "{val}?{sep}¹Ì¶¨Ó½³ª{sym}",
+				name = "{val}?{sep}å›ºå®šå’å”±{sym}",
 				func = { "SubSFCTEquipAmount", "AddSFCTEquipAmount" },
 				val = { [1] = Operation.ADD },
 				sym = SymbolPreset.DecWord,
@@ -414,7 +414,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 1000, [ValueOption.FLOAT] = 1 }
 			},
 			[20] = {
-				name = "{val}%#{sep}¹Ì¶¨Ó½³ª{sym}",
+				name = "{val}%#{sep}å›ºå®šå’å”±{sym}",
 				func = { "SubSFCTEquipPermill" },
 				val = { [1] = Operation.MAX },
 				sym = SymbolPreset.DecWord,
@@ -424,10 +424,10 @@ EquipmentPropertiesOrder = {
 		}
 	},
 	[3] = {
-		name = "Õ½¶·",
+		name = "æˆ˜æ–—",
 		order = {
 			[1] = {
-				name = "{sym}{val}%#Ô¶³ÌÎïÀíÉËº¦",
+				name = "{sym}{val}%#è¿œç¨‹ç‰©ç†ä¼¤å®³",
 				func = { "AddRangeAttackDamage", "SubRangeAttackDamage" },
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Unit.Target },
@@ -435,7 +435,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RANGE_ATTACK_DAMAGE_TARGET[1]
 			},
 			[2] = {
-				name = "{sym}{val}%#½ü¾àÀëÎïÀíÉËº¦",
+				name = "{sym}{val}%#è¿‘è·ç¦»ç‰©ç†ä¼¤å®³",
 				func = { "AddMeleeAttackDamage", "SubMeleeAttackDamage" },
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Unit.Target },
@@ -443,7 +443,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MELEE_ATTACK_DAMAGE_TARGET[1]
 			},
 			[3] = {
-				name = "{sym}{val}%#±©»÷ÉËº¦",
+				name = "{sym}{val}%#æš´å‡»ä¼¤å®³",
 				func = { "AddDamage_CRI", "SubDamage_CRI" },
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Unit.Target },
@@ -451,7 +451,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_CRI_TARGET[1]
 			},
 			[4] = {
-				name = "{sym}{val}%#¶ÔĞ¡ĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹å°å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Size.Small },
@@ -459,7 +459,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_SIZE_SMALL_TARGET[1]
 			},
 			[5] = {
-				name = "{sym}{val}%#¶ÔÖĞĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹ä¸­å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Size.Medium },
@@ -467,7 +467,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_SIZE_MIDIUM_TARGET[1]
 			},
 			[6] = {
-				name = "{sym}{val}%#¶Ô´óĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹å¤§å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Size.Large },
@@ -475,7 +475,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_SIZE_LARGE_TARGET[1]
 			},
 			[7] = {
-				name = "{sym}{val}%#¶ÔÒ»°ãµĞÈËµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹ä¸€èˆ¬æ•Œäººçš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitClass,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = MonsterClass.Normal, [2] = Unit.Target },
@@ -483,7 +483,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.CLASS_DAMAGE_NORMAL_TARGET[1]
 			},
 			[8] = {
-				name = "{sym}{val}%#¶ÔBOSSÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹BOSSé­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitClass,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = MonsterClass.Boss, [2] = Unit.Target },
@@ -491,7 +491,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.CLASS_DAMAGE_BOSS_TARGET[1]
 			},
 			[9] = {
-				name = "{sym}{val}%#ÊÜµ½µÄÔ¶³ÌÎïÀíÉËº¦",
+				name = "{sym}{val}%#å—åˆ°çš„è¿œç¨‹ç‰©ç†ä¼¤å®³",
 				func = { "SubRangeAttackDamage", "AddRangeAttackDamage" },
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Unit.User },
@@ -499,7 +499,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RANGE_ATTACK_DAMAGE_USER[1]
 			},
 			[10] = {
-				name = "{sym}{val}%#ÊÜµ½µÄ½ü¾àÀëÎïÀíÉËº¦",
+				name = "{sym}{val}%#å—åˆ°çš„è¿‘è·ç¦»ç‰©ç†ä¼¤å®³",
 				func = { "SubMeleeAttackDamage", "AddMeleeAttackDamage" },
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Unit.User },
@@ -507,7 +507,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MELEE_ATTACK_DAMAGE_USER[1]
 			},
 			[11] = {
-				name = "{sym}{val}%#ÊÜµ½µÄ±©»÷ÉËº¦",
+				name = "{sym}{val}%#å—åˆ°çš„æš´å‡»ä¼¤å®³",
 				func = { "SubDamage_CRI", "AddDamage_CRI" },
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Unit.User },
@@ -515,7 +515,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_CRI_USER[1]
 			},
 			[12] = {
-				name = "{sym}{val}%#ÊÜµ½Ğ¡ĞÍµĞÈËµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å—åˆ°å°å‹æ•Œäººçš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Size.Small },
@@ -523,7 +523,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_SIZE_SMALL_USER[1]
 			},
 			[13] = {
-				name = "{sym}{val}%#ÊÜµ½ÖĞĞÍµĞÈËµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å—åˆ°ä¸­å‹æ•Œäººçš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Size.Medium },
@@ -531,7 +531,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_SIZE_MIDIUM_USER[1]
 			},
 			[14] = {
-				name = "{sym}{val}%#ÊÜµ½´óĞÍµĞÈËµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å—åˆ°å¤§å‹æ•Œäººçš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Size.Large },
@@ -539,7 +539,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_SIZE_LARGE_USER[1]
 			},
 			[15] = {
-				name = "{sym}{val}%#ÊÜµ½Ğ¡ĞÍµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å—åˆ°å°å‹æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.DecMDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Size.Small },
@@ -547,7 +547,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_SIZE_SMALL_USER[1]
 			},
 			[16] = {
-				name = "{sym}{val}%#ÊÜµ½ÖĞĞÍµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å—åˆ°ä¸­å‹æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.DecMDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Size.Medium },
@@ -555,7 +555,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_SIZE_MIDIUM_USER[1]
 			},
 			[17] = {
-				name = "{sym}{val}%#ÊÜµ½´óĞÍµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å—åˆ°å¤§å‹æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.DecMDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Size.Large },
@@ -563,7 +563,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_SIZE_LARGE_USER[1]
 			},
 			[18] = {
-				name = "{sym}{val}%#ÊÜµ½Ò»°ãĞÍµĞÈËµÄÎïÀí/Ä§·¨ÉËº¦",
+				name = "{sym}{val}%#å—åˆ°ä¸€èˆ¬å‹æ•Œäººçš„ç‰©ç†/é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitClass,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = MonsterClass.Normal, [2] = Unit.User },
@@ -571,7 +571,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.CLASS_DAMAGE_NORMAL_USER[1]
 			},
 			[19] = {
-				name = "{sym}{val}%#ÊÜµ½BOSSĞÍµĞÈËµÄÎïÀí/Ä§·¨ÉËº¦",
+				name = "{sym}{val}%#å—åˆ°BOSSå‹æ•Œäººçš„ç‰©ç†/é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitClass,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = MonsterClass.Boss, [2] = Unit.User },
@@ -579,7 +579,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.CLASS_DAMAGE_BOSS_USER[1]
 			},
 			[20] = {
-				name = "{sym}100%#ÎŞÊÓÒ»°ãµĞÈËµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}100%#æ— è§†ä¸€èˆ¬æ•Œäººçš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefByUnitClass,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = MonsterClass.Normal },
@@ -587,7 +587,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_MonsterClass_Normal"
 			},
 			[21] = {
-				name = "{sym}{val}%#ÎŞÊÓÒ»°ãµĞÈËµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†ä¸€èˆ¬æ•Œäººçš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefRateByUnitClass,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = MonsterClass.Normal },
@@ -597,7 +597,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[22] = {
-				name = "{sym}100%#ÎŞÊÓBOSSµĞÈËµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}100%#æ— è§†BOSSæ•Œäººçš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefByUnitClass,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = MonsterClass.Boss },
@@ -605,7 +605,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_MonsterClass_Boss"
 			},
 			[23] = {
-				name = "{sym}{val}%#ÎŞÊÓBOSSµĞÈËµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†BOSSæ•Œäººçš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefRateByUnitClass,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = MonsterClass.Boss },
@@ -615,7 +615,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[24] = {
-				name = "{sym}{val}%#¶ÔĞ¡ĞÍµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹å°å‹æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Size.Small },
@@ -623,7 +623,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_SIZE_SMALL_TARGET[1]
 			},
 			[25] = {
-				name = "{sym}{val}%#¶ÔÖĞĞÍµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹ä¸­å‹æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Size.Medium },
@@ -631,7 +631,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_SIZE_MIDIUM_TARGET[1]
 			},
 			[26] = {
-				name = "{sym}{val}%#¶Ô´óĞÍµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹å¤§å‹æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Size.Large },
@@ -639,7 +639,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_SIZE_LARGE_TARGET[1]
 			},
 			[27] = {
-				name = "{sym}{val}%#¶ÔÒ»°ãµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹ä¸€èˆ¬æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitClass,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = MonsterClass.Normal },
@@ -647,7 +647,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.CLASS_MDAMAGE_NORMAL[1]
 			},
 			[28] = {
-				name = "{sym}{val}%#¶ÔBOSSÄ§ÎïµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹BOSSé­”ç‰©çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitClass,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = MonsterClass.Boss },
@@ -655,7 +655,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.CLASS_MDAMAGE_BOSS[1]
 			},
 			[29] = {
-				name = "{sym}{val}%#ÎŞÊÓÒ»°ãµĞÈËµÄÄ§·¨·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†ä¸€èˆ¬æ•Œäººçš„é­”æ³•é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreMDefRateByUnitClass,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = MonsterClass.Normal },
@@ -664,7 +664,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[30] = {
-				name = "{sym}{val}%#ÎŞÊÓBOSSµĞÈËµÄÄ§·¨·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†BOSSæ•Œäººçš„é­”æ³•é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreMDefRateByUnitClass,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = MonsterClass.Boss },
@@ -673,7 +673,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[31] = {
-				name = "{sym}{val}%#¹­µÄ¹¥»÷Á¦",
+				name = "{sym}{val}%#å¼“çš„æ”»å‡»åŠ›",
 				func = { "AddBowAttackDamage", "SubBowAttackDamage" },
 				cond = { [1] = Unit.Target },
 				val = { [2] = Operation.ADD },
@@ -682,17 +682,17 @@ EquipmentPropertiesOrder = {
 		}
 	},
 	[4] = {
-		name = "ÊôĞÔ",
+		name = "å±æ€§",
 		order = {
 			[1] = {
-				name = "{sym}{val}%#¶ÔËùÓĞÊôĞÔµĞÈËµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹æ‰€æœ‰å±æ€§æ•Œäººçš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.All },
 				sym = SymbolPreset.IncSign
 			},
 			[2] = {
-				name = "{sym}{val}%#¶Ô»ğÊôĞÔµĞÈËµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹ç«å±æ€§æ•Œäººçš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Fire },
@@ -700,7 +700,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_FIRE_TARGET[1]
 			},
 			[3] = {
-				name = "{sym}{val}%#¶ÔË®ÊôĞÔµĞÈËµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹æ°´å±æ€§æ•Œäººçš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Water },
@@ -708,7 +708,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_WATER_TARGET[1]
 			},
 			[4] = {
-				name = "{sym}{val}%#¶ÔµØÊôĞÔµĞÈËµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹åœ°å±æ€§æ•Œäººçš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Ground },
@@ -716,7 +716,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_GROUND_TARGET[1]
 			},
 			[5] = {
-				name = "{sym}{val}%#¶Ô·çÊôĞÔµĞÈËµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹é£å±æ€§æ•Œäººçš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Wind },
@@ -724,7 +724,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_WIND_TARGET[1]
 			},
 			[6] = {
-				name = "{sym}{val}%#¶Ô¶¾ÊôĞÔµĞÈËµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹æ¯’å±æ€§æ•Œäººçš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Poison },
@@ -732,7 +732,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_POISON_TARGET[1]
 			},
 			[7] = {
-				name = "{sym}{val}%#¶Ô°µÊôĞÔµĞÈËµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹æš—å±æ€§æ•Œäººçš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Darkness },
@@ -740,7 +740,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_DARKNESS_TARGET[1]
 			},
 			[8] = {
-				name = "{sym}{val}%#¶ÔÊ¥ÊôĞÔµĞÈËµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹åœ£å±æ€§æ•Œäººçš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Saint },
@@ -748,7 +748,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_SAINT_TARGET[1]
 			},
 			[9] = {
-				name = "{sym}{val}%#¶ÔÎŞÊôĞÔµĞÈËµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹æ— å±æ€§æ•Œäººçš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Nothing },
@@ -756,7 +756,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_NOTHING_TARGET[1]
 			},
 			[10] = {
-				name = "{sym}{val}%#¶ÔÄîÊôĞÔµĞÈËµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹å¿µå±æ€§æ•Œäººçš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Telekinesis },
@@ -764,7 +764,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_TELEKINESIS_TARGET[1]
 			},
 			[11] = {
-				name = "{sym}{val}%#¶Ô²»ËÀÊôĞÔµĞÈËµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹ä¸æ­»å±æ€§æ•Œäººçš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Undead },
@@ -772,14 +772,14 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_UNDEAD_TARGET[1]
 			},
 			[12] = {
-				name = "{sym}{val}%#¶ÔËùÓĞÊôĞÔµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹æ‰€æœ‰å±æ€§æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.All },
 				sym = SymbolPreset.IncSign
 			},
 			[13] = {
-				name = "{sym}{val}%#¶Ô»ğÊôĞÔµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹ç«å±æ€§æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Fire },
@@ -787,7 +787,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_FIRE_TARGET[1]
 			},
 			[14] = {
-				name = "{sym}{val}%#¶ÔË®ÊôĞÔµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹æ°´å±æ€§æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Water },
@@ -795,7 +795,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_WATER_TARGET[1]
 			},
 			[15] = {
-				name = "{sym}{val}%#¶ÔµØÊôĞÔµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹åœ°å±æ€§æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Ground },
@@ -803,7 +803,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_GROUND_TARGET[1]
 			},
 			[16] = {
-				name = "{sym}{val}%#¶Ô·çÊôĞÔµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹é£å±æ€§æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Wind },
@@ -811,7 +811,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_WIND_TARGET[1]
 			},
 			[17] = {
-				name = "{sym}{val}%#¶Ô¶¾ÊôĞÔµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹æ¯’å±æ€§æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Poison },
@@ -819,7 +819,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_POISON_TARGET[1]
 			},
 			[18] = {
-				name = "{sym}{val}%#¶Ô°µÊôĞÔµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹æš—å±æ€§æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Darkness },
@@ -827,7 +827,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_DARKNESS_TARGET[1]
 			},
 			[19] = {
-				name = "{sym}{val}%#¶ÔÊ¥ÊôĞÔµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹åœ£å±æ€§æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Saint },
@@ -835,7 +835,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_SAINT_TARGET[1]
 			},
 			[20] = {
-				name = "{sym}{val}%#¶ÔÎŞÊôĞÔµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹æ— å±æ€§æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Nothing },
@@ -843,7 +843,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_NOTHING_TARGET[1]
 			},
 			[21] = {
-				name = "{sym}{val}%#¶ÔÄîÊôĞÔµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹å¿µå±æ€§æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Telekinesis },
@@ -851,7 +851,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_TELEKINESIS_TARGET[1]
 			},
 			[22] = {
-				name = "{sym}{val}%#¶Ô²»ËÀÊôĞÔµĞÈËµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹ä¸æ­»å±æ€§æ•Œäººçš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target, [2] = Element.Undead },
@@ -859,7 +859,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_UNDEAD_TARGET[1]
 			},
 			[23] = {
-				name = "{sym}{val}%#ËùÓĞÊôĞÔÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#æ‰€æœ‰å±æ€§é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.All },
@@ -867,7 +867,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_ALL[1]
 			},
 			[24] = {
-				name = "{sym}{val}%#»ğÊôĞÔÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#ç«å±æ€§é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Fire },
@@ -875,7 +875,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_FIRE[1]
 			},
 			[25] = {
-				name = "{sym}{val}%#Ë®ÊôĞÔÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#æ°´å±æ€§é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Water },
@@ -883,7 +883,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_WATER[1]
 			},
 			[26] = {
-				name = "{sym}{val}%#µØÊôĞÔÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#åœ°å±æ€§é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Ground },
@@ -891,7 +891,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_GROUND[1]
 			},
 			[27] = {
-				name = "{sym}{val}%#·çÊôĞÔÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#é£å±æ€§é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Wind },
@@ -899,7 +899,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_WIND[1]
 			},
 			[28] = {
-				name = "{sym}{val}%#¶¾ÊôĞÔÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#æ¯’å±æ€§é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Poison },
@@ -907,7 +907,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_POISON[1]
 			},
 			[29] = {
-				name = "{sym}{val}%#°µÊôĞÔÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#æš—å±æ€§é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Darkness },
@@ -915,7 +915,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_DARKNESS[1]
 			},
 			[30] = {
-				name = "{sym}{val}%#Ê¥ÊôĞÔÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#åœ£å±æ€§é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Saint },
@@ -923,7 +923,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_SAINT[1]
 			},
 			[31] = {
-				name = "{sym}{val}%#ÎŞÊôĞÔÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#æ— å±æ€§é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Nothing },
@@ -931,7 +931,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_NOTHING[1]
 			},
 			[32] = {
-				name = "{sym}{val}%#ÄîÊôĞÔÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¿µå±æ€§é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Telekinesis },
@@ -939,7 +939,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_TELEKINESIS[1]
 			},
 			[33] = {
-				name = "{sym}{val}%#²»ËÀÊôĞÔÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#ä¸æ­»å±æ€§é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Undead },
@@ -947,7 +947,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_UNDEAD[1]
 			},
 			[34] = {
-				name = "{sym}{val}%#¶ÔËùÓĞÊôĞÔ¹¥»÷µÄÄÍĞÔ",
+				name = "{sym}{val}%#å¯¹æ‰€æœ‰å±æ€§æ”»å‡»çš„è€æ€§",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.All },
@@ -955,14 +955,14 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_ALLBUTNOTHING[1]
 			},
 			[35] = {
-				name = "{sym}{val}%#¶ÔËùÓĞÊôĞÔÎïÀí¹¥»÷µÄÄÍĞÔ",
+				name = "{sym}{val}%#å¯¹æ‰€æœ‰å±æ€§ç‰©ç†æ”»å‡»çš„è€æ€§",
 				func = FunctionPreset.DecPDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.All, [3] = 1 },
 				sym = SymbolPreset.IncSign
 			},
 			[36] = {
-				name = "{sym}{val}%#¶Ô»ğÊôĞÔ¹¥»÷µÄÄÍĞÔ",
+				name = "{sym}{val}%#å¯¹ç«å±æ€§æ”»å‡»çš„è€æ€§",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Fire },
@@ -970,7 +970,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_FIRE[1]
 			},
 			[37] = {
-				name = "{sym}{val}%#¶ÔË®ÊôĞÔ¹¥»÷µÄÄÍĞÔ",
+				name = "{sym}{val}%#å¯¹æ°´å±æ€§æ”»å‡»çš„è€æ€§",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Water },
@@ -978,7 +978,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_WATER[1]
 			},
 			[38] = {
-				name = "{sym}{val}%#¶ÔµØÊôĞÔ¹¥»÷µÄÄÍĞÔ",
+				name = "{sym}{val}%#å¯¹åœ°å±æ€§æ”»å‡»çš„è€æ€§",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Ground },
@@ -986,7 +986,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_GROUND[1]
 			},
 			[39] = {
-				name = "{sym}{val}%#¶Ô·çÊôĞÔ¹¥»÷µÄÄÍĞÔ",
+				name = "{sym}{val}%#å¯¹é£å±æ€§æ”»å‡»çš„è€æ€§",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Wind },
@@ -994,7 +994,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_WIND[1]
 			},
 			[40] = {
-				name = "{sym}{val}%#¶Ô¶¾ÊôĞÔ¹¥»÷µÄÄÍĞÔ",
+				name = "{sym}{val}%#å¯¹æ¯’å±æ€§æ”»å‡»çš„è€æ€§",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Poison },
@@ -1002,7 +1002,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_POISON[1]
 			},
 			[41] = {
-				name = "{sym}{val}%#¶Ô°µÊôĞÔ¹¥»÷µÄÄÍĞÔ",
+				name = "{sym}{val}%#å¯¹æš—å±æ€§æ”»å‡»çš„è€æ€§",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Darkness },
@@ -1010,7 +1010,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_DARKNESS[1]
 			},
 			[42] = {
-				name = "{sym}{val}%#¶ÔÊ¥ÊôĞÔ¹¥»÷µÄÄÍĞÔ",
+				name = "{sym}{val}%#å¯¹åœ£å±æ€§æ”»å‡»çš„è€æ€§",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Saint },
@@ -1018,7 +1018,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_SAINT[1]
 			},
 			[43] = {
-				name = "{sym}{val}%#¶ÔÎŞÊôĞÔ¹¥»÷µÄÄÍĞÔ",
+				name = "{sym}{val}%#å¯¹æ— å±æ€§æ”»å‡»çš„è€æ€§",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Nothing },
@@ -1026,7 +1026,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_NOTHING[1]
 			},
 			[44] = {
-				name = "{sym}{val}%#¶ÔÄîÊôĞÔ¹¥»÷µÄÄÍĞÔ",
+				name = "{sym}{val}%#å¯¹å¿µå±æ€§æ”»å‡»çš„è€æ€§",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Telekinesis },
@@ -1034,7 +1034,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_TELEKINESIS[1]
 			},
 			[45] = {
-				name = "{sym}{val}%#¶Ô²»ËÀÊôĞÔ¹¥»÷µÄÄÍĞÔ",
+				name = "{sym}{val}%#å¯¹ä¸æ­»å±æ€§æ”»å‡»çš„è€æ€§",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Undead },
@@ -1042,14 +1042,14 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_UNDEAD[1]
 			},
 			[46] = {
-				name = "{sym}{val}%#´ÓËùÓĞÊôĞÔµĞÈË´¦ÊÜµ½µÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#ä»æ‰€æœ‰å±æ€§æ•Œäººå¤„å—åˆ°çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.All },
 				sym = SymbolPreset.DecSign
 			},
 			[47] = {
-				name = "{sym}{val}%#´Ó»ğÊôĞÔµĞÈË´¦ÊÜµ½µÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#ä»ç«å±æ€§æ•Œäººå¤„å—åˆ°çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Fire },
@@ -1057,7 +1057,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_FIRE_USER[1]
 			},
 			[48] = {
-				name = "{sym}{val}%#´ÓË®ÊôĞÔµĞÈË´¦ÊÜµ½µÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#ä»æ°´å±æ€§æ•Œäººå¤„å—åˆ°çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Water },
@@ -1065,7 +1065,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_WATER_USER[1]
 			},
 			[49] = {
-				name = "{sym}{val}%#´ÓµØÊôĞÔµĞÈË´¦ÊÜµ½µÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#ä»åœ°å±æ€§æ•Œäººå¤„å—åˆ°çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Ground },
@@ -1073,7 +1073,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_GROUND_USER[1]
 			},
 			[50] = {
-				name = "{sym}{val}%#´Ó·çÊôĞÔµĞÈË´¦ÊÜµ½µÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#ä»é£å±æ€§æ•Œäººå¤„å—åˆ°çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Wind },
@@ -1081,7 +1081,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_WIND_USER[1]
 			},
 			[51] = {
-				name = "{sym}{val}%#´Ó¶¾ÊôĞÔµĞÈË´¦ÊÜµ½µÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#ä»æ¯’å±æ€§æ•Œäººå¤„å—åˆ°çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Poison },
@@ -1089,7 +1089,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_POISON_USER[1]
 			},
 			[52] = {
-				name = "{sym}{val}%#´Ó°µÊôĞÔµĞÈË´¦ÊÜµ½µÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#ä»æš—å±æ€§æ•Œäººå¤„å—åˆ°çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Darkness },
@@ -1097,7 +1097,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_DARKNESS_USER[1]
 			},
 			[53] = {
-				name = "{sym}{val}%#´ÓÊ¥ÊôĞÔµĞÈË´¦ÊÜµ½µÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#ä»åœ£å±æ€§æ•Œäººå¤„å—åˆ°çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Saint },
@@ -1105,7 +1105,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_SAINT_USER[1]
 			},
 			[54] = {
-				name = "{sym}{val}%#´ÓÎŞÊôĞÔµĞÈË´¦ÊÜµ½µÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#ä»æ— å±æ€§æ•Œäººå¤„å—åˆ°çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Nothing },
@@ -1113,7 +1113,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_NOTHING_USER[1]
 			},
 			[55] = {
-				name = "{sym}{val}%#´ÓÄîÊôĞÔµĞÈË´¦ÊÜµ½µÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#ä»å¿µå±æ€§æ•Œäººå¤„å—åˆ°çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Telekinesis },
@@ -1121,7 +1121,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_TELEKINESIS_USER[1]
 			},
 			[56] = {
-				name = "{sym}{val}%#´Ó²»ËÀÊôĞÔµĞÈË´¦ÊÜµ½µÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#ä»ä¸æ­»å±æ€§æ•Œäººå¤„å—åˆ°çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Undead },
@@ -1129,14 +1129,14 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_UNDEAD_USER[1]
 			},
 			[57] = {
-				name = "{sym}{val}%#´ÓËùÓĞÊôĞÔµĞÈË´¦ÊÜµ½µÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#ä»æ‰€æœ‰å±æ€§æ•Œäººå¤„å—åˆ°çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.All },
 				sym = SymbolPreset.DecSign
 			},
 			[58] = {
-				name = "{sym}{val}%#´Ó»ğÊôĞÔµĞÈË´¦ÊÜµ½µÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#ä»ç«å±æ€§æ•Œäººå¤„å—åˆ°çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Fire },
@@ -1144,7 +1144,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_FIRE_USER[1]
 			},
 			[59] = {
-				name = "{sym}{val}%#´ÓË®ÊôĞÔµĞÈË´¦ÊÜµ½µÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#ä»æ°´å±æ€§æ•Œäººå¤„å—åˆ°çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Water },
@@ -1152,7 +1152,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_WATER_USER[1]
 			},
 			[60] = {
-				name = "{sym}{val}%#´ÓµØÊôĞÔµĞÈË´¦ÊÜµ½µÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#ä»åœ°å±æ€§æ•Œäººå¤„å—åˆ°çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Ground },
@@ -1160,7 +1160,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_GROUND_USER[1]
 			},
 			[61] = {
-				name = "{sym}{val}%#´Ó·çÊôĞÔµĞÈË´¦ÊÜµ½µÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#ä»é£å±æ€§æ•Œäººå¤„å—åˆ°çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Wind },
@@ -1168,7 +1168,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_WIND_USER[1]
 			},
 			[62] = {
-				name = "{sym}{val}%#´Ó¶¾ÊôĞÔµĞÈË´¦ÊÜµ½µÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#ä»æ¯’å±æ€§æ•Œäººå¤„å—åˆ°çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Poison },
@@ -1176,7 +1176,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_POISON_USER[1]
 			},
 			[63] = {
-				name = "{sym}{val}%#´Ó°µÊôĞÔµĞÈË´¦ÊÜµ½µÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#ä»æš—å±æ€§æ•Œäººå¤„å—åˆ°çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Darkness },
@@ -1184,7 +1184,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_DARKNESS_USER[1]
 			},
 			[64] = {
-				name = "{sym}{val}%#´ÓÊ¥ÊôĞÔµĞÈË´¦ÊÜµ½µÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#ä»åœ£å±æ€§æ•Œäººå¤„å—åˆ°çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Saint },
@@ -1192,7 +1192,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_SAINT_USER[1]
 			},
 			[65] = {
-				name = "{sym}{val}%#´ÓÎŞÊôĞÔµĞÈË´¦ÊÜµ½µÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#ä»æ— å±æ€§æ•Œäººå¤„å—åˆ°çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Nothing },
@@ -1200,7 +1200,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_NOTHING_USER[1]
 			},
 			[66] = {
-				name = "{sym}{val}%#´ÓÄîÊôĞÔµĞÈË´¦ÊÜµ½µÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#ä»å¿µå±æ€§æ•Œäººå¤„å—åˆ°çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Telekinesis },
@@ -1208,7 +1208,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_TELEKINESIS_USER[1]
 			},
 			[67] = {
-				name = "{sym}{val}%#´Ó²»ËÀÊôĞÔµĞÈË´¦ÊÜµ½µÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#ä»ä¸æ­»å±æ€§æ•Œäººå¤„å—åˆ°çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Undead },
@@ -1218,17 +1218,17 @@ EquipmentPropertiesOrder = {
 		}
 	},
 	[5] = {
-		name = "ÖÖ×å",
+		name = "ç§æ—",
 		order = {
 			[1] = {
-				name = "{sym}{val}%#¶ÔËùÓĞÖÖ×åÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹æ‰€æœ‰ç§æ—é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.All },
 				sym = SymbolPreset.IncSign
 			},
 			[2] = {
-				name = "{sym}{val}%#¶ÔÖ²ÎïĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹æ¤ç‰©å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -1236,7 +1236,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_PLANT[1]
 			},
 			[3] = {
-				name = "{sym}{val}%#¶Ô²»ËÀĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹ä¸æ­»å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -1244,7 +1244,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_UNDEAD[1]
 			},
 			[4] = {
-				name = "{sym}{val}%#¶ÔÎŞĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹æ— å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Nothing },
@@ -1252,7 +1252,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_NOTHING[1]
 			},
 			[5] = {
-				name = "{sym}{val}%#¶ÔÌìÊ¹ĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹å¤©ä½¿å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -1260,7 +1260,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_ANGEL[1]
 			},
 			[6] = {
-				name = "{sym}{val}%#¶ÔÁú×åÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹é¾™æ—é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Dragon },
@@ -1268,7 +1268,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_DRAGON[1]
 			},
 			[7] = {
-				name = "{sym}{val}%#¶ÔÓã±´ÀàÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹é±¼è´ç±»é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -1276,7 +1276,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_FISHS[1]
 			},
 			[8] = {
-				name = "{sym}{val}%#¶ÔÀ¥³æĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹æ˜†è™«å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -1284,7 +1284,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_INSECT[1]
 			},
 			[9] = {
-				name = "{sym}{val}%#¶Ô¶¯ÎïĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹åŠ¨ç‰©å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -1292,7 +1292,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_ANIMAL[1]
 			},
 			[10] = {
-				name = "{sym}{val}%#¶Ô¶ñÄ§ĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹æ¶é­”å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -1300,7 +1300,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_DEVIL[1]
 			},
 			[11] = {
-				name = "{sym}{val}%#¶ÔÈËĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹äººå‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Human },
@@ -1308,7 +1308,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_HUMAN[1]
 			},
 			[12] = {
-				name = "{sym}{val}%#¶ÔÈËĞÍÍæ¼ÒµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹äººå‹ç©å®¶çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.HumanPlayer },
@@ -1316,7 +1316,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_PLAYER_HUMAN[1]
 			},
 			[13] = {
-				name = "{sym}{val}%#¶Ôß÷×åÍæ¼ÒµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#å¯¹å–µæ—ç©å®¶çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.DoramPlayer },
@@ -1324,7 +1324,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_PLAYER_DORAM[1]
 			},
 			[14] = {
-				name = "{sym}100%#ÎŞÊÓËùÓĞÖÖ×åµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}100%#æ— è§†æ‰€æœ‰ç§æ—çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.All },
@@ -1332,7 +1332,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_All"
 			},
 			[15] = {
-				name = "{sym}{val}%#ÎŞÊÓËùÓĞÖÖ×åµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†æ‰€æœ‰ç§æ—çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.All },
@@ -1341,7 +1341,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[16] = {
-				name = "{sym}100%#ÎŞÊÓÖ²ÎïĞÍÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}100%#æ— è§†æ¤ç‰©å‹é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Plant },
@@ -1349,7 +1349,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Plant"
 			},
 			[17] = {
-				name = "{sym}{val}%#ÎŞÊÓÖ²ÎïĞÍÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†æ¤ç‰©å‹é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -1359,7 +1359,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[18] = {
-				name = "{sym}100%#ÎŞÊÓ²»ËÀĞÍÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}100%#æ— è§†ä¸æ­»å‹é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Undead },
@@ -1367,7 +1367,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Undead"
 			},
 			[19] = {
-				name = "{sym}{val}%#ÎŞÊÓ²»ËÀĞÍÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†ä¸æ­»å‹é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -1377,7 +1377,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[20] = {
-				name = "{sym}100%#ÎŞÊÓÎŞĞÍÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}100%#æ— è§†æ— å‹é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Nothing },
@@ -1385,7 +1385,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Nothing"
 			},
 			[21] = {
-				name = "{sym}{val}%#ÎŞÊÓÎŞĞÍÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†æ— å‹é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Nothing },
@@ -1395,7 +1395,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[22] = {
-				name = "{sym}100%#ÎŞÊÓÌìÊ¹ĞÍÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}100%#æ— è§†å¤©ä½¿å‹é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Angel },
@@ -1403,7 +1403,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Angel"
 			},
 			[23] = {
-				name = "{sym}{val}%#ÎŞÊÓÌìÊ¹ĞÍÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†å¤©ä½¿å‹é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -1413,7 +1413,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[24] = {
-				name = "{sym}100%#ÎŞÊÓÁú×åÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}100%#æ— è§†é¾™æ—é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Dragon },
@@ -1421,7 +1421,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Dragon"
 			},
 			[25] = {
-				name = "{sym}{val}%#ÎŞÊÓÁú×åÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†é¾™æ—é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Dragon },
@@ -1431,7 +1431,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[26] = {
-				name = "{sym}100%#ÎŞÊÓÓã±´ÀàÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}100%#æ— è§†é±¼è´ç±»é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Fish },
@@ -1439,7 +1439,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Fish"
 			},
 			[27] = {
-				name = "{sym}{val}%#ÎŞÊÓÓã±´ÀàÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†é±¼è´ç±»é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -1449,7 +1449,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[28] = {
-				name = "{sym}100%#ÎŞÊÓÀ¥³æĞÍÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}100%#æ— è§†æ˜†è™«å‹é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Insect },
@@ -1457,7 +1457,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Insect"
 			},
 			[29] = {
-				name = "{sym}{val}%#ÎŞÊÓÀ¥³æĞÍÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†æ˜†è™«å‹é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -1467,7 +1467,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[30] = {
-				name = "{sym}100%#ÎŞÊÓ¶¯ÎïĞÍÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}100%#æ— è§†åŠ¨ç‰©å‹é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Animal },
@@ -1475,7 +1475,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Animal"
 			},
 			[31] = {
-				name = "{sym}{val}%#ÎŞÊÓ¶¯ÎïĞÍÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†åŠ¨ç‰©å‹é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -1485,7 +1485,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[32] = {
-				name = "{sym}100%#ÎŞÊÓ¶ñÄ§ĞÍÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}100%#æ— è§†æ¶é­”å‹é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Demon },
@@ -1493,7 +1493,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Demon"
 			},
 			[33] = {
-				name = "{sym}{val}%#ÎŞÊÓ¶ñÄ§ĞÍÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†æ¶é­”å‹é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -1503,7 +1503,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[34] = {
-				name = "{sym}100%#ÎŞÊÓÈËĞÍÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}100%#æ— è§†äººå‹é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Human },
@@ -1511,7 +1511,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Human"
 			},
 			[35] = {
-				name = "{sym}{val}%#ÎŞÊÓÈËĞÍÄ§ÎïµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†äººå‹é­”ç‰©çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Human },
@@ -1521,7 +1521,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[36] = {
-				name = "{sym}100%#ÎŞÊÓÈËĞÍÍæ¼ÒµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}100%#æ— è§†äººå‹ç©å®¶çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.HumanPlayer },
@@ -1529,7 +1529,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_HumanPlayer"
 			},
 			[37] = {
-				name = "{sym}{val}%#ÎŞÊÓÈËĞÍÍæ¼ÒµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†äººå‹ç©å®¶çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.HumanPlayer },
@@ -1539,7 +1539,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[38] = {
-				name = "{sym}100%#ÎŞÊÓß÷×åÍæ¼ÒµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}100%#æ— è§†å–µæ—ç©å®¶çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.DoramPlayer },
@@ -1547,7 +1547,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_DoramPlayer"
 			},
 			[39] = {
-				name = "{sym}{val}%#ÎŞÊÓß÷×åÍæ¼ÒµÄÎïÀí·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†å–µæ—ç©å®¶çš„ç‰©ç†é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.DoramPlayer },
@@ -1557,14 +1557,14 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[40] = {
-				name = "{sym}{val}%#¶ÔËùÓĞÖÖ×åÄ§ÎïµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹æ‰€æœ‰ç§æ—é­”ç‰©çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.All },
 				sym = SymbolPreset.IncSign
 			},
 			[41] = {
-				name = "{sym}{val}%#¶ÔÖ²ÎïĞÍÄ§ÎïµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹æ¤ç‰©å‹é­”ç‰©çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -1572,7 +1572,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_PLANT[1]
 			},
 			[42] = {
-				name = "{sym}{val}%#¶Ô²»ËÀĞÍÄ§ÎïµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹ä¸æ­»å‹é­”ç‰©çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -1580,7 +1580,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_UNDEAD[1]
 			},
 			[43] = {
-				name = "{sym}{val}%#¶ÔÎŞĞÍÄ§ÎïµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹æ— å‹é­”ç‰©çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Nothing },
@@ -1588,7 +1588,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_NOTHING[1]
 			},
 			[44] = {
-				name = "{sym}{val}%#¶ÔÌìÊ¹ĞÍÄ§ÎïµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹å¤©ä½¿å‹é­”ç‰©çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -1596,7 +1596,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_ANGEL[1]
 			},
 			[45] = {
-				name = "{sym}{val}%#¶ÔÁú×åÄ§ÎïµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹é¾™æ—é­”ç‰©çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Dragon },
@@ -1604,7 +1604,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_DRAGON[1]
 			},
 			[46] = {
-				name = "{sym}{val}%#¶ÔÓã±´ÀàÄ§ÎïµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹é±¼è´ç±»é­”ç‰©çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -1612,7 +1612,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_FISHS[1]
 			},
 			[47] = {
-				name = "{sym}{val}%#¶ÔÀ¥³æĞÍÄ§ÎïµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹æ˜†è™«å‹é­”ç‰©çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -1620,7 +1620,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_INSECT[1]
 			},
 			[48] = {
-				name = "{sym}{val}%#¶Ô¶¯ÎïĞÍÄ§ÎïµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹åŠ¨ç‰©å‹é­”ç‰©çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -1628,7 +1628,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_ANIMAL[1]
 			},
 			[49] = {
-				name = "{sym}{val}%#¶Ô¶ñÄ§ĞÍÄ§ÎïµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹æ¶é­”å‹é­”ç‰©çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -1636,7 +1636,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_DEVIL[1]
 			},
 			[50] = {
-				name = "{sym}{val}%#¶ÔÈËĞÍÄ§ÎïµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹äººå‹é­”ç‰©çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Human },
@@ -1644,7 +1644,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_HUMAN[1]
 			},
 			[51] = {
-				name = "{sym}{val}%#¶ÔÈËĞÍÍæ¼ÒµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹äººå‹ç©å®¶çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.HumanPlayer },
@@ -1652,7 +1652,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_PLAYER_HUMAN[1]
 			},
 			[52] = {
-				name = "{sym}{val}%#¶Ôß÷×åÍæ¼ÒµÄÄ§·¨ÉËº¦",
+				name = "{sym}{val}%#å¯¹å–µæ—ç©å®¶çš„é­”æ³•ä¼¤å®³",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.DoramPlayer },
@@ -1660,7 +1660,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_PLAYER_DORAM[1]
 			},
 			[53] = {
-				name = "{sym}{val}%#ÎŞÊÓËùÓĞÖÖ×åµÄÄ§·¨·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†æ‰€æœ‰ç§æ—çš„é­”æ³•é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.All },
@@ -1668,7 +1668,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[54] = {
-				name = "{sym}{val}%#ÎŞÊÓÖ²ÎïĞÍÄ§ÎïµÄÄ§·¨·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†æ¤ç‰©å‹é­”ç‰©çš„é­”æ³•é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -1677,7 +1677,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[55] = {
-				name = "{sym}{val}%#ÎŞÊÓ²»ËÀĞÍÄ§ÎïµÄÄ§·¨·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†ä¸æ­»å‹é­”ç‰©çš„é­”æ³•é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -1686,7 +1686,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[56] = {
-				name = "{sym}{val}%#ÎŞÊÓÎŞĞÍÄ§ÎïµÄÄ§·¨·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†æ— å‹é­”ç‰©çš„é­”æ³•é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Nothing },
@@ -1695,7 +1695,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[57] = {
-				name = "{sym}{val}%#ÎŞÊÓÌìÊ¹ĞÍÄ§ÎïµÄÄ§·¨·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†å¤©ä½¿å‹é­”ç‰©çš„é­”æ³•é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -1704,7 +1704,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[58] = {
-				name = "{sym}{val}%#ÎŞÊÓÁú×åÄ§ÎïµÄÄ§·¨·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†é¾™æ—é­”ç‰©çš„é­”æ³•é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Dragon },
@@ -1713,7 +1713,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[59] = {
-				name = "{sym}{val}%#ÎŞÊÓÓã±´ÀàÄ§ÎïµÄÄ§·¨·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†é±¼è´ç±»é­”ç‰©çš„é­”æ³•é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -1722,7 +1722,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[60] = {
-				name = "{sym}{val}%#ÎŞÊÓÀ¥³æĞÍÄ§ÎïµÄÄ§·¨·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†æ˜†è™«å‹é­”ç‰©çš„é­”æ³•é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -1731,7 +1731,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[61] = {
-				name = "{sym}{val}%#ÎŞÊÓ¶¯ÎïĞÍÄ§ÎïµÄÄ§·¨·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†åŠ¨ç‰©å‹é­”ç‰©çš„é­”æ³•é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -1740,7 +1740,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[62] = {
-				name = "{sym}{val}%#ÎŞÊÓ¶ñÄ§ĞÍÄ§ÎïµÄÄ§·¨·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†æ¶é­”å‹é­”ç‰©çš„é­”æ³•é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -1749,7 +1749,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[63] = {
-				name = "{sym}{val}%#ÎŞÊÓÈËĞÍÄ§ÎïµÄÄ§·¨·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†äººå‹é­”ç‰©çš„é­”æ³•é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Human },
@@ -1758,7 +1758,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[64] = {
-				name = "{sym}{val}%#ÎŞÊÓÈËĞÍÍæ¼ÒµÄÄ§·¨·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†äººå‹ç©å®¶çš„é­”æ³•é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.HumanPlayer },
@@ -1767,7 +1767,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[65] = {
-				name = "{sym}{val}%#ÎŞÊÓß÷×åÍæ¼ÒµÄÄ§·¨·ÀÓùÁ¦",
+				name = "{sym}{val}%#æ— è§†å–µæ—ç©å®¶çš„é­”æ³•é˜²å¾¡åŠ›",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.DoramPlayer },
@@ -1776,7 +1776,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[66] = {
-				name = "{sym}{val}#¶ÔÎŞĞÍÄ§ÎïµÄ±©»÷",
+				name = "{sym}{val}#å¯¹æ— å‹é­”ç‰©çš„æš´å‡»",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Nothing },
@@ -1785,7 +1785,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[67] = {
-				name = "{sym}{val}#¶Ô²»ËÀĞÍÄ§ÎïµÄ±©»÷",
+				name = "{sym}{val}#å¯¹ä¸æ­»å‹é­”ç‰©çš„æš´å‡»",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -1794,7 +1794,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[68] = {
-				name = "{sym}{val}#¶Ô¶¯ÎïĞÍÄ§ÎïµÄ±©»÷",
+				name = "{sym}{val}#å¯¹åŠ¨ç‰©å‹é­”ç‰©çš„æš´å‡»",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -1803,7 +1803,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[69] = {
-				name = "{sym}{val}#¶ÔÖ²ÎïĞÍÄ§ÎïµÄ±©»÷",
+				name = "{sym}{val}#å¯¹æ¤ç‰©å‹é­”ç‰©çš„æš´å‡»",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -1812,7 +1812,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[70] = {
-				name = "{sym}{val}#¶ÔÀ¥³æĞÍÄ§ÎïµÄ±©»÷",
+				name = "{sym}{val}#å¯¹æ˜†è™«å‹é­”ç‰©çš„æš´å‡»",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -1821,7 +1821,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[71] = {
-				name = "{sym}{val}#¶ÔÓã±´ÀàÄ§ÎïµÄ±©»÷",
+				name = "{sym}{val}#å¯¹é±¼è´ç±»é­”ç‰©çš„æš´å‡»",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -1830,7 +1830,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[72] = {
-				name = "{sym}{val}#¶Ô¶ñÄ§ĞÍÄ§ÎïµÄ±©»÷",
+				name = "{sym}{val}#å¯¹æ¶é­”å‹é­”ç‰©çš„æš´å‡»",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -1839,7 +1839,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[73] = {
-				name = "{sym}{val}#¶ÔÈËĞÍÄ§ÎïµÄ±©»÷",
+				name = "{sym}{val}#å¯¹äººå‹é­”ç‰©çš„æš´å‡»",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Human },
@@ -1848,7 +1848,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[74] = {
-				name = "{sym}{val}#¶ÔÌìÊ¹ĞÍÄ§ÎïµÄ±©»÷",
+				name = "{sym}{val}#å¯¹å¤©ä½¿å‹é­”ç‰©çš„æš´å‡»",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -1857,7 +1857,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[75] = {
-				name = "{sym}{val}#¶ÔÁú×åÄ§ÎïµÄ±©»÷",
+				name = "{sym}{val}#å¯¹é¾™æ—é­”ç‰©çš„æš´å‡»",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Dragon },
@@ -1866,7 +1866,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[76] = {
-				name = "{sym}{val}#¶ÔÈËĞÍÍæ¼ÒµÄ±©»÷",
+				name = "{sym}{val}#å¯¹äººå‹ç©å®¶çš„æš´å‡»",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.HumanPlayer },
@@ -1875,7 +1875,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[77] = {
-				name = "{sym}{val}#¶Ôß÷×åÍæ¼ÒµÄ±©»÷",
+				name = "{sym}{val}#å¯¹å–µæ—ç©å®¶çš„æš´å‡»",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.DoramPlayer },
@@ -1884,14 +1884,14 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[78] = {
-				name = "{sym}{val}%#ÊÜµ½ËùÓĞÖÖ×åµÄÉËº¦",
+				name = "{sym}{val}%#å—åˆ°æ‰€æœ‰ç§æ—çš„ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.All },
 				sym = SymbolPreset.DecSign
 			},
 			[79] = {
-				name = "{sym}{val}%#ÊÜµ½Ö²ÎïĞÍÄ§ÎïµÄÉËº¦",
+				name = "{sym}{val}%#å—åˆ°æ¤ç‰©å‹é­”ç‰©çš„ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -1899,7 +1899,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_PLANT[1]
 			},
 			[80] = {
-				name = "{sym}{val}%#ÊÜµ½²»ËÀĞÍÄ§ÎïµÄÉËº¦",
+				name = "{sym}{val}%#å—åˆ°ä¸æ­»å‹é­”ç‰©çš„ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -1907,7 +1907,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_UNDEAD[1]
 			},
 			[81] = {
-				name = "{sym}{val}%#ÊÜµ½ÎŞĞÍÄ§ÎïµÄÉËº¦",
+				name = "{sym}{val}%#å—åˆ°æ— å‹é­”ç‰©çš„ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Nothing },
@@ -1915,7 +1915,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_NOTHING[1]
 			},
 			[82] = {
-				name = "{sym}{val}%#ÊÜµ½ÌìÊ¹ĞÍÄ§ÎïµÄÉËº¦",
+				name = "{sym}{val}%#å—åˆ°å¤©ä½¿å‹é­”ç‰©çš„ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -1923,7 +1923,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_ANGEL[1]
 			},
 			[83] = {
-				name = "{sym}{val}%#ÊÜµ½Áú×åÄ§ÎïµÄÉËº¦",
+				name = "{sym}{val}%#å—åˆ°é¾™æ—é­”ç‰©çš„ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Dragon },
@@ -1931,7 +1931,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_DRAGON[1]
 			},
 			[84] = {
-				name = "{sym}{val}%#ÊÜµ½Óã±´ÀàÄ§ÎïµÄÉËº¦",
+				name = "{sym}{val}%#å—åˆ°é±¼è´ç±»é­”ç‰©çš„ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -1939,7 +1939,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_FISHS[1]
 			},
 			[85] = {
-				name = "{sym}{val}%#ÊÜµ½À¥³æĞÍÄ§ÎïµÄÉËº¦",
+				name = "{sym}{val}%#å—åˆ°æ˜†è™«å‹é­”ç‰©çš„ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -1947,7 +1947,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_INSECT[1]
 			},
 			[86] = {
-				name = "{sym}{val}%#ÊÜµ½¶¯ÎïĞÍÄ§ÎïµÄÉËº¦",
+				name = "{sym}{val}%#å—åˆ°åŠ¨ç‰©å‹é­”ç‰©çš„ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -1955,7 +1955,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_ANIMAL[1]
 			},
 			[87] = {
-				name = "{sym}{val}%#ÊÜµ½¶ñÄ§ĞÍÄ§ÎïµÄÉËº¦",
+				name = "{sym}{val}%#å—åˆ°æ¶é­”å‹é­”ç‰©çš„ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -1963,7 +1963,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_DEVIL[1]
 			},
 			[88] = {
-				name = "{sym}{val}%#ÊÜµ½ÈËĞÍÄ§ÎïµÄÉËº¦",
+				name = "{sym}{val}%#å—åˆ°äººå‹é­”ç‰©çš„ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Human },
@@ -1971,7 +1971,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_HUMAN[1]
 			},
 			[89] = {
-				name = "{sym}{val}%#ÊÜµ½ÈËĞÍÍæ¼ÒµÄÉËº¦",
+				name = "{sym}{val}%#å—åˆ°äººå‹ç©å®¶çš„ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.HumanPlayer },
@@ -1979,7 +1979,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_PLAYER_HUMAN[1]
 			},
 			[90] = {
-				name = "{sym}{val}%#ÊÜµ½ß÷×åÍæ¼ÒµÄÉËº¦",
+				name = "{sym}{val}%#å—åˆ°å–µæ—ç©å®¶çš„ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.DoramPlayer },
@@ -1987,98 +1987,98 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_PLAYER_DORAM[1]
 			},
 			[91] = {
-				name = "{sym}{val}%#×ÔÉíÊÜµ½ËùÓĞÖÖ×åµĞÈËµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#è‡ªèº«å—åˆ°æ‰€æœ‰ç§æ—æ•Œäººçš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.All },
 				sym = SymbolPreset.DecSign
 			},
 			[92] = {
-				name = "{sym}{val}%#×ÔÉíÊÜµ½Ö²ÎïĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#è‡ªèº«å—åˆ°æ¤ç‰©å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
 				sym = SymbolPreset.DecSign
 			},
 			[93] = {
-				name = "{sym}{val}%#×ÔÉíÊÜµ½²»ËÀĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#è‡ªèº«å—åˆ°ä¸æ­»å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
 				sym = SymbolPreset.DecSign
 			},
 			[94] = {
-				name = "{sym}{val}%#×ÔÉíÊÜµ½ÎŞĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#è‡ªèº«å—åˆ°æ— å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Nothing },
 				sym = SymbolPreset.DecSign
 			},
 			[95] = {
-				name = "{sym}{val}%#×ÔÉíÊÜµ½ÌìÊ¹ĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#è‡ªèº«å—åˆ°å¤©ä½¿å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
 				sym = SymbolPreset.DecSign
 			},
 			[96] = {
-				name = "{sym}{val}%#×ÔÉíÊÜµ½Áú×åÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#è‡ªèº«å—åˆ°é¾™æ—é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Dragon },
 				sym = SymbolPreset.DecSign
 			},
 			[97] = {
-				name = "{sym}{val}%#×ÔÉíÊÜµ½Óã±´ÀàÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#è‡ªèº«å—åˆ°é±¼è´ç±»é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
 				sym = SymbolPreset.DecSign
 			},
 			[98] = {
-				name = "{sym}{val}%#×ÔÉíÊÜµ½À¥³æĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#è‡ªèº«å—åˆ°æ˜†è™«å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
 				sym = SymbolPreset.DecSign
 			},
 			[99] = {
-				name = "{sym}{val}%#×ÔÉíÊÜµ½¶¯ÎïĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#è‡ªèº«å—åˆ°åŠ¨ç‰©å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
 				sym = SymbolPreset.DecSign
 			},
 			[100] = {
-				name = "{sym}{val}%#×ÔÉíÊÜµ½¶ñÄ§ĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#è‡ªèº«å—åˆ°æ¶é­”å‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
 				sym = SymbolPreset.DecSign
 			},
 			[101] = {
-				name = "{sym}{val}%#×ÔÉíÊÜµ½ÈËĞÍÄ§ÎïµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#è‡ªèº«å—åˆ°äººå‹é­”ç‰©çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Human },
 				sym = SymbolPreset.DecSign
 			},
 			[102] = {
-				name = "{sym}{val}%#×ÔÉíÊÜµ½ÈËĞÍÍæ¼ÒµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#è‡ªèº«å—åˆ°äººå‹ç©å®¶çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.HumanPlayer },
 				sym = SymbolPreset.DecSign
 			},
 			[103] = {
-				name = "{sym}{val}%#×ÔÉíÊÜµ½ß÷×åÍæ¼ÒµÄÎïÀíÉËº¦",
+				name = "{sym}{val}%#è‡ªèº«å—åˆ°å–µæ—ç©å®¶çš„ç‰©ç†ä¼¤å®³",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.DoramPlayer },
 				sym = SymbolPreset.DecSign
 			},
 			[104] = {
-				name = "{sym}{val}%#ÎŞÊÓËùÓĞÖÖ×åµÄÎïÀíµÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†æ‰€æœ‰ç§æ—çš„ç‰©ç†æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.All },
@@ -2086,7 +2086,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[105] = {
-				name = "{sym}{val}%#ÎŞÊÓÖ²ÎïĞÍÄ§ÎïµÄÎïÀíµÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†æ¤ç‰©å‹é­”ç‰©çš„ç‰©ç†æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -2094,7 +2094,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[106] = {
-				name = "{sym}{val}%#ÎŞÊÓ²»ËÀĞÍÄ§ÎïµÄÎïÀíµÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†ä¸æ­»å‹é­”ç‰©çš„ç‰©ç†æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -2102,7 +2102,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[107] = {
-				name = "{sym}{val}%#ÎŞÊÓÎŞĞÍÄ§ÎïµÄÎïÀíµÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†æ— å‹é­”ç‰©çš„ç‰©ç†æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Nothing },
@@ -2110,7 +2110,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[108] = {
-				name = "{sym}{val}%#ÎŞÊÓÌìÊ¹ĞÍÄ§ÎïµÄÎïÀíµÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†å¤©ä½¿å‹é­”ç‰©çš„ç‰©ç†æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -2118,7 +2118,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[109] = {
-				name = "{sym}{val}%#ÎŞÊÓÁú×åÄ§ÎïµÄÎïÀíµÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†é¾™æ—é­”ç‰©çš„ç‰©ç†æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Dragon },
@@ -2126,7 +2126,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[110] = {
-				name = "{sym}{val}%#ÎŞÊÓÓã±´ÀàÄ§ÎïµÄÎïÀíµÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†é±¼è´ç±»é­”ç‰©çš„ç‰©ç†æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -2134,7 +2134,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[111] = {
-				name = "{sym}{val}%#ÎŞÊÓÀ¥³æĞÍÄ§ÎïµÄÎïÀíµÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†æ˜†è™«å‹é­”ç‰©çš„ç‰©ç†æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -2142,7 +2142,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[112] = {
-				name = "{sym}{val}%#ÎŞÊÓÀ¥³æĞÍÄ§ÎïµÄÎïÀíµÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†æ˜†è™«å‹é­”ç‰©çš„ç‰©ç†æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -2150,7 +2150,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[113] = {
-				name = "{sym}{val}%#ÎŞÊÓ¶ñÄ§ĞÍÄ§ÎïµÄÎïÀíµÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†æ¶é­”å‹é­”ç‰©çš„ç‰©ç†æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -2158,7 +2158,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[114] = {
-				name = "{sym}{val}%#ÎŞÊÓÈËĞÍÄ§ÎïµÄÎïÀíµÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†äººå‹é­”ç‰©çš„ç‰©ç†æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Human },
@@ -2166,7 +2166,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[115] = {
-				name = "{sym}{val}%#ÎŞÊÓÈËĞÍÍæ¼ÒµÄÎïÀíµÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†äººå‹ç©å®¶çš„ç‰©ç†æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.HumanPlayer },
@@ -2174,7 +2174,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[116] = {
-				name = "{sym}{val}%#ÎŞÊÓß÷×åÍæ¼ÒÎïµÄÎïÀíµÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†å–µæ—ç©å®¶ç‰©çš„ç‰©ç†æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.DoramPlayer },
@@ -2182,7 +2182,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[117] = {
-				name = "{sym}{val}%#ÎŞÊÓËùÓĞÖÖ×åµÄÄ§·¨µÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†æ‰€æœ‰ç§æ—çš„é­”æ³•æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.All },
@@ -2190,7 +2190,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[118] = {
-				name = "{sym}{val}%#ÎŞÊÓÖ²ÎïĞÍÄ§ÎïµÄÄ§·¨µÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†æ¤ç‰©å‹é­”ç‰©çš„é­”æ³•æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -2198,7 +2198,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[119] = {
-				name = "{sym}{val}%#ÎŞÊÓ²»ËÀĞÍÄ§ÎïµÄÄ§·¨µÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†ä¸æ­»å‹é­”ç‰©çš„é­”æ³•æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -2206,7 +2206,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[120] = {
-				name = "{sym}{val}%#ÎŞÊÓÎŞĞÍÄ§ÎïµÄÄ§·¨µÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†æ— å‹é­”ç‰©çš„é­”æ³•æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Nothing },
@@ -2214,7 +2214,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[121] = {
-				name = "{sym}{val}%#ÎŞÊÓÌìÊ¹ĞÍÄ§ÎïµÄÄ§·¨µÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†å¤©ä½¿å‹é­”ç‰©çš„é­”æ³•æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -2222,7 +2222,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[122] = {
-				name = "{sym}{val}%#ÎŞÊÓÁú×åÄ§ÎïµÄÄ§·¨µÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†é¾™æ—é­”ç‰©çš„é­”æ³•æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Dragon },
@@ -2230,7 +2230,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[123] = {
-				name = "{sym}{val}%#ÎŞÊÓÓã±´ÀàÄ§ÎïµÄÄ§·¨µÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†é±¼è´ç±»é­”ç‰©çš„é­”æ³•æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -2238,7 +2238,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[124] = {
-				name = "{sym}{val}%#ÎŞÊÓÀ¥³æĞÍÄ§ÎïµÄÄ§·¨µÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†æ˜†è™«å‹é­”ç‰©çš„é­”æ³•æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -2246,7 +2246,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[125] = {
-				name = "{sym}{val}%#ÎŞÊÓ¶¯ÎïĞÍÄ§ÎïµÄÄ§·¨µÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†åŠ¨ç‰©å‹é­”ç‰©çš„é­”æ³•æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -2254,7 +2254,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[126] = {
-				name = "{sym}{val}%#ÎŞÊÓ¶ñÄ§ĞÍÄ§ÎïµÄÄ§·¨µÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†æ¶é­”å‹é­”ç‰©çš„é­”æ³•æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -2262,7 +2262,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[127] = {
-				name = "{sym}{val}%#ÎŞÊÓÈËĞÍÄ§ÎïµÄÄ§·¨µÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†äººå‹é­”ç‰©çš„é­”æ³•æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Human },
@@ -2270,7 +2270,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[128] = {
-				name = "{sym}{val}%#ÎŞÊÓÈËĞÍÍæ¼ÒµÄÄ§·¨µÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†äººå‹ç©å®¶çš„é­”æ³•æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.HumanPlayer },
@@ -2278,7 +2278,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[129] = {
-				name = "{sym}{val}%#ÎŞÊÓß÷×åÍæ¼ÒµÄÄ§·¨µÖ¿¹Á¦",
+				name = "{sym}{val}%#æ— è§†å–µæ—ç©å®¶çš„é­”æ³•æŠµæŠ—åŠ›",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.DoramPlayer },
@@ -2286,7 +2286,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[130] = {
-				name = "{sym}{val}%#´ÓÄ§Îï´¦»ñµÃµÄ¾­ÑéÖµ",
+				name = "{sym}{val}%#ä»é­”ç‰©å¤„è·å¾—çš„ç»éªŒå€¼",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.All },
@@ -2295,7 +2295,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[131] = {
-				name = "{sym}{val}%#´ÓÖ²ÎïĞÍÄ§Îï´¦»ñµÃµÄ¾­ÑéÖµ",
+				name = "{sym}{val}%#ä»æ¤ç‰©å‹é­”ç‰©å¤„è·å¾—çš„ç»éªŒå€¼",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -2304,7 +2304,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[132] = {
-				name = "{sym}{val}%#´Ó²»ËÀĞÍÄ§Îï´¦»ñµÃµÄ¾­ÑéÖµ",
+				name = "{sym}{val}%#ä»ä¸æ­»å‹é­”ç‰©å¤„è·å¾—çš„ç»éªŒå€¼",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -2313,7 +2313,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[133] = {
-				name = "{sym}{val}%#´ÓÎŞĞÍÄ§Îï´¦»ñµÃµÄ¾­ÑéÖµ",
+				name = "{sym}{val}%#ä»æ— å‹é­”ç‰©å¤„è·å¾—çš„ç»éªŒå€¼",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Nothing },
@@ -2322,7 +2322,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[134] = {
-				name = "{sym}{val}%#´ÓÌìÊ¹ĞÍÄ§Îï´¦»ñµÃµÄ¾­ÑéÖµ",
+				name = "{sym}{val}%#ä»å¤©ä½¿å‹é­”ç‰©å¤„è·å¾—çš„ç»éªŒå€¼",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -2331,7 +2331,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[135] = {
-				name = "{sym}{val}%#´ÓÁú×åÄ§Îï´¦»ñµÃµÄ¾­ÑéÖµ",
+				name = "{sym}{val}%#ä»é¾™æ—é­”ç‰©å¤„è·å¾—çš„ç»éªŒå€¼",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Dragon },
@@ -2340,7 +2340,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[136] = {
-				name = "{sym}{val}%#´ÓÓã±´ÀàÄ§Îï´¦»ñµÃµÄ¾­ÑéÖµ",
+				name = "{sym}{val}%#ä»é±¼è´ç±»é­”ç‰©å¤„è·å¾—çš„ç»éªŒå€¼",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -2349,7 +2349,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[137] = {
-				name = "{sym}{val}%#´ÓÀ¥³æĞÍÄ§Îï´¦»ñµÃµÄ¾­ÑéÖµ",
+				name = "{sym}{val}%#ä»æ˜†è™«å‹é­”ç‰©å¤„è·å¾—çš„ç»éªŒå€¼",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -2358,7 +2358,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[138] = {
-				name = "{sym}{val}%#´Ó¶¯ÎïĞÍÄ§Îï´¦»ñµÃµÄ¾­ÑéÖµ",
+				name = "{sym}{val}%#ä»åŠ¨ç‰©å‹é­”ç‰©å¤„è·å¾—çš„ç»éªŒå€¼",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -2367,7 +2367,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[139] = {
-				name = "{sym}{val}%#´Ó¶ñÄ§ĞÍÄ§Îï´¦»ñµÃµÄ¾­ÑéÖµ",
+				name = "{sym}{val}%#ä»æ¶é­”å‹é­”ç‰©å¤„è·å¾—çš„ç»éªŒå€¼",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -2376,7 +2376,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[140] = {
-				name = "{sym}{val}%#´ÓÈËĞÍÄ§Îï´¦»ñµÃµÄ¾­ÑéÖµ",
+				name = "{sym}{val}%#ä»äººå‹é­”ç‰©å¤„è·å¾—çš„ç»éªŒå€¼",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Human },
@@ -2387,38 +2387,38 @@ EquipmentPropertiesOrder = {
 		}
 	},
 	[6] = {
-		name = "¼¼ÄÜ",
+		name = "æŠ€èƒ½",
 		order = {
 			[1] = {
-				name = "{val}%#Ê¹ÓÃ¼¼ÄÜÊ±SPÏûºÄÁ¿{sym}",
+				name = "{val}%#ä½¿ç”¨æŠ€èƒ½æ—¶SPæ¶ˆè€—é‡{sym}",
 				func = { "SubSPconsumption", "AddSPconsumption" },
 				val = { [1] = Operation.ADD },
 				sym = SymbolPreset.DecWord,
 				rndOpt = EnumVAR.DEC_SP_CONSUMPTION[1]
 			},
 			[2] = {
-				name = "{val}%#{sep}±ä¶¯Ó½³ª{sym}",
+				name = "{val}%#{sep}å˜åŠ¨å’å”±{sym}",
 				func = { "SubSpecificSpellCastTime", "AddSpecificSpellCastTime" },
 				val = { [2] = Operation.ADD },
 				sym = SymbolPreset.DecWord,
 				sep = { [1] = "GetSkillName" }
 			},
 			[3] = {
-				name = "{val}%#{sep}SPÏûºÄ{sym}",
+				name = "{val}%#{sep}SPæ¶ˆè€—{sym}",
 				func = { "subspconsumption", "addspconsumption" },
 				val = { [1] = Operation.ADD },
 				sym = SymbolPreset.DecWord,
 				sep = { [2] = "GetSkillName" }
 			},
 			[4] = {
-				name = "{val}#{sep}SPÏûºÄÁ¿{sym}",
+				name = "{val}#{sep}SPæ¶ˆè€—é‡{sym}",
 				func = { "SubSkillSP", "AddSkillSP" },
 				val = { [2] = Operation.ADD },
 				sym = SymbolPreset.DecWord,
 				sep = { [1] = "GetSkillName" }
 			},
 			[5] = {
-				name = "{val}?{sep}¼¼ÄÜÀäÈ´Ê±¼ä{sym}",
+				name = "{val}?{sep}æŠ€èƒ½å†·å´æ—¶é—´{sym}",
 				func = { "SubSkillDelay", "AddSkillDelay" },
 				val = { [2] = Operation.ADD },
 				sym = SymbolPreset.DecWord,
@@ -2426,7 +2426,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 1000, [ValueOption.FLOAT] = 2 }
 			},
 			[6] = {
-				name = "{val}%#{sep}ÉËº¦{sym}",
+				name = "{val}%#{sep}ä¼¤å®³{sym}",
 				func = { "AddDamage_SKID" },
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.Target },
@@ -2434,7 +2434,7 @@ EquipmentPropertiesOrder = {
 				sep = { [2] = "GetAddDamageSkillName" }
 			},
 			[7] = {
-				name = "{val}Lv#{sep}{sym}Ê¹ÓÃ",
+				name = "{val}Lv#{sep}{sym}ä½¿ç”¨",
 				func = { "EnableSkill" },
 				val = { [2] = Operation.MAX },
 				sym = SymbolPreset.SkillWord,
@@ -2443,30 +2443,30 @@ EquipmentPropertiesOrder = {
 		}
 	},
 	[7] = {
-		name = "ÌØÊâ",
+		name = "ç‰¹æ®Š",
 		order = {
 			[1] = {
-				name = "{sym}{val}%#ÖÎÓúÁ¿",
+				name = "{sym}{val}%#æ²»æ„ˆé‡",
 				func = { "AddHealValue", "SubHealValue" },
 				val = { [1] = Operation.ADD },
 				sym = SymbolPreset.IncSign,
 				rndOpt = EnumVAR.HEAL_VALUE[1]
 			},
 			[2] = {
-				name = "{sym}{val}%#ÊÜµ½µÄÖÎÓúÁ¿",
+				name = "{sym}{val}%#å—åˆ°çš„æ²»æ„ˆé‡",
 				func = { "AddHealModifyPercent", "SubHealModifyPercent" },
 				val = { [1] = Operation.ADD },
 				sym = SymbolPreset.IncSign,
 				rndOpt = EnumVAR.HEAL_MODIFY_PERCENT[1]
 			},
 			[3] = {
-				name = "Ó½³ª²»»áÖĞ¶Ï{sym}",
+				name = "å’å”±ä¸ä¼šä¸­æ–­{sym}",
 				func = { "NoDispell" },
 				sym = SymbolPreset.ApplyWord,
 				val = { [1] = Operation.ONE }
 			},
 			[4] = {
-				name = "{sym}{val}%#µÄ¸ÅÂÊÎüÊÕ{sep}%µÄÎïÀíÉËº¦ÎªHP",
+				name = "{sym}{val}%#çš„æ¦‚ç‡å¸æ”¶{sep}%çš„ç‰©ç†ä¼¤å®³ä¸ºHP",
 				func = { "AddHPdrain", "SubHPdrain" },
 				val = { [1] = Operation.DRAIN_ADD },
 				sym = SymbolPreset.OnlyDecSign,
@@ -2474,7 +2474,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[5] = {
-				name = "{sym}{val}%#µÄ¸ÅÂÊÎüÊÕ{sep}%µÄÎïÀíÉËº¦ÎªSP",
+				name = "{sym}{val}%#çš„æ¦‚ç‡å¸æ”¶{sep}%çš„ç‰©ç†ä¼¤å®³ä¸ºSP",
 				func = { "AddSPdrain", "SubSPdrain" },
 				val = { [1] = Operation.DRAIN_ADD },
 				sym = SymbolPreset.OnlyDecSign,
@@ -2482,97 +2482,97 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[6] = {
-				name = "ÎŞÊÓËùÓĞÄ§·¨¹¥»÷{sym}",
+				name = "æ— è§†æ‰€æœ‰é­”æ³•æ”»å‡»{sym}",
 				func = { "Magicimmune" },
 				sym = SymbolPreset.ApplyWord,
 				val = { [1] = Operation.ONE }
 			},
 			[7] = {
-				name = "Ê¹ÓÃ¼¼ÄÜÊ±²»»áÏûºÄÄ§Á¦¿óÊ¯{sym}",
+				name = "ä½¿ç”¨æŠ€èƒ½æ—¶ä¸ä¼šæ¶ˆè€—é­”åŠ›çŸ¿çŸ³{sym}",
 				func = { "NoJamstone" },
 				sym = SymbolPreset.ApplyWord,
 				val = { [1] = Operation.ONE }
 			},
 			[8] = {
-				name = "{sym}{val}%#·´Éä½ü¾àÀëÎïÀíÉËº¦",
+				name = "{sym}{val}%#åå°„è¿‘è·ç¦»ç‰©ç†ä¼¤å®³",
 				func = { "AddMeleeAttackReflect", "SubMeleeAttackReflect" },
 				val = { [1] = Operation.ADD },
 				sym = SymbolPreset.OnlyDecSign,
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[9] = {
-				name = "È¥³ı¶ÔÎäÆ÷´óĞ¡µÄ³Í·£{sym}",
+				name = "å»é™¤å¯¹æ­¦å™¨å¤§å°çš„æƒ©ç½š{sym}",
 				func = { "PerfectDamage" },
 				sym = SymbolPreset.ApplyWord,
 				val = { [1] = Operation.ONE },
 				rndOpt = EnumVAR.DAMAGE_SIZE_PERFECT[1]
 			},
 			[10] = {
-				name = "¸´»îÊ±HP¡¢SP»Ö¸´100%{sym}",
+				name = "å¤æ´»æ—¶HPã€SPæ¢å¤100%{sym}",
 				func = { "Reincarnation" },
 				sym = SymbolPreset.ApplyWord,
 				val = { [1] = Operation.ONE }
 			},
 			[11] = {
-				name = "½¦Éä¹¥»÷{sym}",
+				name = "æº…å°„æ”»å‡»{sym}",
 				func = { "SplashAttack" },
 				sym = SymbolPreset.ApplyWord,
 				val = { [1] = Operation.ONE }
 			},
 			[12] = {
-				name = "¶ÔÎäÆ÷¸³Óè½şÍ¸¾¢Ğ§¹û{sym}",
+				name = "å¯¹æ­¦å™¨èµ‹äºˆæµ¸é€åŠ²æ•ˆæœ{sym}",
 				func = { "SetInvestigate" },
 				sym = SymbolPreset.ApplyWord,
 				val = { [0] = Operation.ONE }
 			},
 			[13] = {
-				name = "²»ÏûºÄÄ§µ¼Õ½¼×È¼ÁÏ{sym}",
+				name = "ä¸æ¶ˆè€—é­”å¯¼æˆ˜ç”²ç‡ƒæ–™{sym}",
 				func = { "NoMadogearfuel" },
 				sym = SymbolPreset.ApplyWord,
 				val = { [0] = Operation.ONE }
 			},
 			[14] = {
-				name = "{sym}{val}%#ÓÕµ¼¹¥»÷",
+				name = "{sym}{val}%#è¯±å¯¼æ”»å‡»",
 				func = { "AddGuideAttack", "SubGuideAttack" },
 				sym = SymbolPreset.OnlyDecSign,
 				val = { [1] = Operation.ADD },
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[15] = {
-				name = "²»»á±»»÷ÍË{sym}",
+				name = "ä¸ä¼šè¢«å‡»é€€{sym}",
 				func = { "AddNeverknockback" },
 				sym = SymbolPreset.ApplyWord,
 				val = { [1] = Operation.ONE }
 			},
 			[16] = {
-				name = "°ÔÌå×´Ì¬{sym}",
+				name = "éœ¸ä½“çŠ¶æ€{sym}",
 				func = { "Condition" },
 				sym = SymbolPreset.ApplyWord,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Effect.Endure, [2] = 9999, [3] = 100 }
 			},
 			[17] = {
-				name = "ÎŞÏŞÒÆ¶¯¼ÓËÙ{sym}",
+				name = "æ— é™ç§»åŠ¨åŠ é€Ÿ{sym}",
 				func = { "Condition" },
 				sym = SymbolPreset.ApplyWord,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Effect.Haste, [2] = 9999, [3] = 100 }
 			},
 			[18] = {
-				name = "¿ÉÒÔ¿´µ½ÒşÄä»òÕßÎ±×°µÄÄ§Îï{sym}",
+				name = "å¯ä»¥çœ‹åˆ°éšåŒ¿æˆ–è€…ä¼ªè£…çš„é­”ç‰©{sym}",
 				func = { "Clairvoyance" },
 				sym = SymbolPreset.ApplyWord,
 				val = { [1] = Operation.ONE }
 			},
 			[19] = {
-				name = "{sym}{val}%#µÄ¸ÅÂÊÖ¸¶¨¶ÔÏó·´ÉäÄ§·¨¹¥»÷",
+				name = "{sym}{val}%#çš„æ¦‚ç‡æŒ‡å®šå¯¹è±¡åå°„é­”æ³•æ”»å‡»",
 				func = { "AddReflectMagic", "SubReflectMagic" },
 				sym = SymbolPreset.OnlyDecSign,
 				val = { [1] = Operation.ADD },
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[20] = {
-				name = "{val}%#HP×ÔÈ»»Ö¸´ËÙ¶È{sym}",
+				name = "{val}%#HPè‡ªç„¶æ¢å¤é€Ÿåº¦{sym}",
 				func = FunctionPreset.IncStat,
 				val = ValuePreset.ExtParam,
 				cond = GetExtParamConditionTable(EnumVAR.VAR_HPACCELERATION[2]),
@@ -2580,7 +2580,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.VAR_HPACCELERATION[1]
 			},
 			[21] = {
-				name = "{val}%#SP×ÔÈ»»Ö¸´ËÙ¶È{sym}",
+				name = "{val}%#SPè‡ªç„¶æ¢å¤é€Ÿåº¦{sym}",
 				func = FunctionPreset.IncStat,
 				val = ValuePreset.ExtParam,
 				cond = GetExtParamConditionTable(EnumVAR.VAR_SPACCELERATION[2]),
@@ -2588,14 +2588,14 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.VAR_SPACCELERATION[1]
 			},
 			[22] = {
-				name = "{val}%#ÊÜµ½µÄ·´ÉäÉËº¦{sym}",
+				name = "{val}%#å—åˆ°çš„åå°„ä¼¤å®³{sym}",
 				func = { "SubReflectTolerace", "AddReflectTolerace" },
 				val = { [1] = Operation.ADD },
 				sym = SymbolPreset.DecWord,
 				rndOpt = EnumVAR.REFLECT_DAMAGE_PERCENT[1]
 			},
 			[23] = {
-				name = "{sym}{val}%#µÀ¾ßµôÂÊ",
+				name = "{sym}{val}%#é“å…·æ‰ç‡",
 				func = { "AddReceiveItem_Equip", "SubReceiveItem_Equip" },
 				val = { [1] = Operation.ADD },
 				sym = SymbolPreset.IncSign,
