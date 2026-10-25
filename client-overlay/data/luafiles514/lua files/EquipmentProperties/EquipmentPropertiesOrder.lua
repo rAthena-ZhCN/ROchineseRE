@@ -110,7 +110,7 @@ SymbolPreset = {
 }
 EquipmentPropertiesOrder = {
 	[1] = {
-		name = "属?",
+		name = "属性",
 		order = {
 			[1] = {
 				name = "{sym}{val}#STR",
@@ -327,7 +327,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.VAR_PLUSASPD[1]
 			},
 			[9] = {
-				name = "{sym}{val}%#攻击速度(攻击后延?",
+				name = "{sym}{val}%#攻击速度(攻击后延迟",
 				func = FunctionPreset.IncStat,
 				val = ValuePreset.ExtParam,
 				cond = GetExtParamConditionTable(EnumVAR.VAR_PLUSASPDPERCENT[2]),
@@ -435,7 +435,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RANGE_ATTACK_DAMAGE_TARGET[1]
 			},
 			[2] = {
-				name = "{sym}{val}%#近距离物理伤?",
+				name = "{sym}{val}%#近距离物理伤害",
 				func = { "AddMeleeAttackDamage", "SubMeleeAttackDamage" },
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Unit.Target },
@@ -483,7 +483,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.CLASS_DAMAGE_NORMAL_TARGET[1]
 			},
 			[8] = {
-				name = "{sym}{val}%#对BOSS魔物的物理伤?",
+				name = "{sym}{val}%#对BOSS魔物的物理伤害",
 				func = FunctionPreset.IncDmgByUnitClass,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = MonsterClass.Boss, [2] = Unit.Target },
@@ -491,7 +491,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.CLASS_DAMAGE_BOSS_TARGET[1]
 			},
 			[9] = {
-				name = "{sym}{val}%#受到的远程物理伤?",
+				name = "{sym}{val}%#受到的远程物理伤害",
 				func = { "SubRangeAttackDamage", "AddRangeAttackDamage" },
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Unit.User },
@@ -507,7 +507,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MELEE_ATTACK_DAMAGE_USER[1]
 			},
 			[11] = {
-				name = "{sym}{val}%#受到的暴击伤?",
+				name = "{sym}{val}%#受到的暴击伤害",
 				func = { "SubDamage_CRI", "AddDamage_CRI" },
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Unit.User },
@@ -515,7 +515,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_CRI_USER[1]
 			},
 			[12] = {
-				name = "{sym}{val}%#受到小型敌人的物理伤?",
+				name = "{sym}{val}%#受到小型敌人的物理伤害",
 				func = FunctionPreset.DecDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Size.Small },
@@ -523,7 +523,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_SIZE_SMALL_USER[1]
 			},
 			[13] = {
-				name = "{sym}{val}%#受到中型敌人的物理伤?",
+				name = "{sym}{val}%#受到中型敌人的物理伤害",
 				func = FunctionPreset.DecDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Size.Medium },
@@ -531,7 +531,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_SIZE_MIDIUM_USER[1]
 			},
 			[14] = {
-				name = "{sym}{val}%#受到大型敌人的物理伤?",
+				name = "{sym}{val}%#受到大型敌人的物理伤害",
 				func = FunctionPreset.DecDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Size.Large },
@@ -539,7 +539,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_SIZE_LARGE_USER[1]
 			},
 			[15] = {
-				name = "{sym}{val}%#受到小型敌人的魔法伤?",
+				name = "{sym}{val}%#受到小型敌人的魔法伤害",
 				func = FunctionPreset.DecMDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Size.Small },
@@ -547,7 +547,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_SIZE_SMALL_USER[1]
 			},
 			[16] = {
-				name = "{sym}{val}%#受到中型敌人的魔法伤?",
+				name = "{sym}{val}%#受到中型敌人的魔法伤害",
 				func = FunctionPreset.DecMDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Size.Medium },
@@ -555,7 +555,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_SIZE_MIDIUM_USER[1]
 			},
 			[17] = {
-				name = "{sym}{val}%#受到大型敌人的魔法伤?",
+				name = "{sym}{val}%#受到大型敌人的魔法伤害",
 				func = FunctionPreset.DecMDmgByUnitSize,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Size.Large },
@@ -563,7 +563,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_SIZE_LARGE_USER[1]
 			},
 			[18] = {
-				name = "{sym}{val}%#受到一般型敌人的物?魔法伤害",
+				name = "{sym}{val}%#受到一般型敌人的物理/魔法伤害",
 				func = FunctionPreset.DecDmgByUnitClass,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = MonsterClass.Normal, [2] = Unit.User },
@@ -579,7 +579,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.CLASS_DAMAGE_BOSS_USER[1]
 			},
 			[20] = {
-				name = "{sym}100%#无视一般敌人的物理防御?",
+				name = "{sym}100%#无视一般敌人的物理防御力",
 				func = FunctionPreset.IgnoreDefByUnitClass,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = MonsterClass.Normal },
@@ -587,7 +587,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_MonsterClass_Normal"
 			},
 			[21] = {
-				name = "{sym}{val}%#无视一般敌人的物理防御?",
+				name = "{sym}{val}%#无视一般敌人的物理防御力",
 				func = FunctionPreset.IgnoreDefRateByUnitClass,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = MonsterClass.Normal },
@@ -647,7 +647,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.CLASS_MDAMAGE_NORMAL[1]
 			},
 			[28] = {
-				name = "{sym}{val}%#对BOSS魔物的魔法伤?",
+				name = "{sym}{val}%#对BOSS魔物的魔法伤害",
 				func = FunctionPreset.IncMDmgByUnitClass,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = MonsterClass.Boss },
@@ -655,7 +655,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.CLASS_MDAMAGE_BOSS[1]
 			},
 			[29] = {
-				name = "{sym}{val}%#无视一般敌人的魔法防御?",
+				name = "{sym}{val}%#无视一般敌人的魔法防御力",
 				func = FunctionPreset.IgnoreMDefRateByUnitClass,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = MonsterClass.Normal },
@@ -673,7 +673,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[31] = {
-				name = "{sym}{val}%#弓的攻击?",
+				name = "{sym}{val}%#弓的攻击力",
 				func = { "AddBowAttackDamage", "SubBowAttackDamage" },
 				cond = { [1] = Unit.Target },
 				val = { [2] = Operation.ADD },
@@ -682,7 +682,7 @@ EquipmentPropertiesOrder = {
 		}
 	},
 	[4] = {
-		name = "属?",
+		name = "属性",
 		order = {
 			[1] = {
 				name = "{sym}{val}%#对所有属性敌人的物理伤害",
@@ -859,7 +859,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_UNDEAD_TARGET[1]
 			},
 			[23] = {
-				name = "{sym}{val}%#所有属性魔法伤?",
+				name = "{sym}{val}%#所有属性魔法伤害",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.All },
@@ -867,7 +867,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_ALL[1]
 			},
 			[24] = {
-				name = "{sym}{val}%#火属性魔法伤?",
+				name = "{sym}{val}%#火属性魔法伤害",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Fire },
@@ -875,7 +875,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_FIRE[1]
 			},
 			[25] = {
-				name = "{sym}{val}%#水属性魔法伤?",
+				name = "{sym}{val}%#水属性魔法伤害",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Water },
@@ -883,7 +883,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_WATER[1]
 			},
 			[26] = {
-				name = "{sym}{val}%#地属性魔法伤?",
+				name = "{sym}{val}%#地属性魔法伤害",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Ground },
@@ -891,7 +891,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_GROUND[1]
 			},
 			[27] = {
-				name = "{sym}{val}%#风属性魔法伤?",
+				name = "{sym}{val}%#风属性魔法伤害",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Wind },
@@ -899,7 +899,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_WIND[1]
 			},
 			[28] = {
-				name = "{sym}{val}%#毒属性魔法伤?",
+				name = "{sym}{val}%#毒属性魔法伤害",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Poison },
@@ -907,7 +907,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_POISON[1]
 			},
 			[29] = {
-				name = "{sym}{val}%#暗属性魔法伤?",
+				name = "{sym}{val}%#暗属性魔法伤害",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Darkness },
@@ -915,7 +915,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_DARKNESS[1]
 			},
 			[30] = {
-				name = "{sym}{val}%#圣属性魔法伤?",
+				name = "{sym}{val}%#圣属性魔法伤害",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Saint },
@@ -923,7 +923,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_SAINT[1]
 			},
 			[31] = {
-				name = "{sym}{val}%#无属性魔法伤?",
+				name = "{sym}{val}%#无属性魔法伤害",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Nothing },
@@ -931,7 +931,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_NOTHING[1]
 			},
 			[32] = {
-				name = "{sym}{val}%#念属性魔法伤?",
+				name = "{sym}{val}%#念属性魔法伤害",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Telekinesis },
@@ -939,7 +939,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_TELEKINESIS[1]
 			},
 			[33] = {
-				name = "{sym}{val}%#不死属性魔法伤?",
+				name = "{sym}{val}%#不死属性魔法伤害",
 				func = FunctionPreset.IncDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Undead },
@@ -947,7 +947,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ADDSKILLMDAMAGE_UNDEAD[1]
 			},
 			[34] = {
-				name = "{sym}{val}%#对所有属性攻击的耐?",
+				name = "{sym}{val}%#对所有属性攻击的耐性",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.All },
@@ -955,14 +955,14 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_ALLBUTNOTHING[1]
 			},
 			[35] = {
-				name = "{sym}{val}%#对所有属性物理攻击的耐?",
+				name = "{sym}{val}%#对所有属性物理攻击的耐性",
 				func = FunctionPreset.DecPDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.All, [3] = 1 },
 				sym = SymbolPreset.IncSign
 			},
 			[36] = {
-				name = "{sym}{val}%#对火属性攻击的耐?",
+				name = "{sym}{val}%#对火属性攻击的耐性",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Fire },
@@ -970,7 +970,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_FIRE[1]
 			},
 			[37] = {
-				name = "{sym}{val}%#对水属性攻击的耐?",
+				name = "{sym}{val}%#对水属性攻击的耐性",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Water },
@@ -978,7 +978,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_WATER[1]
 			},
 			[38] = {
-				name = "{sym}{val}%#对地属性攻击的耐?",
+				name = "{sym}{val}%#对地属性攻击的耐性",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Ground },
@@ -986,7 +986,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_GROUND[1]
 			},
 			[39] = {
-				name = "{sym}{val}%#对风属性攻击的耐?",
+				name = "{sym}{val}%#对风属性攻击的耐性",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Wind },
@@ -994,7 +994,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_WIND[1]
 			},
 			[40] = {
-				name = "{sym}{val}%#对毒属性攻击的耐?",
+				name = "{sym}{val}%#对毒属性攻击的耐性",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Poison },
@@ -1002,7 +1002,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_POISON[1]
 			},
 			[41] = {
-				name = "{sym}{val}%#对暗属性攻击的耐?",
+				name = "{sym}{val}%#对暗属性攻击的耐性",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Darkness },
@@ -1010,7 +1010,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_DARKNESS[1]
 			},
 			[42] = {
-				name = "{sym}{val}%#对圣属性攻击的耐?",
+				name = "{sym}{val}%#对圣属性攻击的耐性",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Saint },
@@ -1018,7 +1018,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_SAINT[1]
 			},
 			[43] = {
-				name = "{sym}{val}%#对无属性攻击的耐?",
+				name = "{sym}{val}%#对无属性攻击的耐性",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Nothing },
@@ -1026,7 +1026,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_NOTHING[1]
 			},
 			[44] = {
-				name = "{sym}{val}%#对念属性攻击的耐?",
+				name = "{sym}{val}%#对念属性攻击的耐性",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Telekinesis },
@@ -1034,7 +1034,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_TELEKINESIS[1]
 			},
 			[45] = {
-				name = "{sym}{val}%#对不死属性攻击的耐?",
+				name = "{sym}{val}%#对不死属性攻击的耐性",
 				func = FunctionPreset.DecDmgBySkillProp,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Element.Undead },
@@ -1042,14 +1042,14 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.ATTR_TOLERACE_UNDEAD[1]
 			},
 			[46] = {
-				name = "{sym}{val}%#从所有属性敌人处受到的物理伤?",
+				name = "{sym}{val}%#从所有属性敌人处受到的物理伤害",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.All },
 				sym = SymbolPreset.DecSign
 			},
 			[47] = {
-				name = "{sym}{val}%#从火属性敌人处受到的物理伤?",
+				name = "{sym}{val}%#从火属性敌人处受到的物理伤害",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Fire },
@@ -1057,7 +1057,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_FIRE_USER[1]
 			},
 			[48] = {
-				name = "{sym}{val}%#从水属性敌人处受到的物理伤?",
+				name = "{sym}{val}%#从水属性敌人处受到的物理伤害",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Water },
@@ -1065,7 +1065,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_WATER_USER[1]
 			},
 			[49] = {
-				name = "{sym}{val}%#从地属性敌人处受到的物理伤?",
+				name = "{sym}{val}%#从地属性敌人处受到的物理伤害",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Ground },
@@ -1073,7 +1073,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_GROUND_USER[1]
 			},
 			[50] = {
-				name = "{sym}{val}%#从风属性敌人处受到的物理伤?",
+				name = "{sym}{val}%#从风属性敌人处受到的物理伤害",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Wind },
@@ -1081,7 +1081,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_WIND_USER[1]
 			},
 			[51] = {
-				name = "{sym}{val}%#从毒属性敌人处受到的物理伤?",
+				name = "{sym}{val}%#从毒属性敌人处受到的物理伤害",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Poison },
@@ -1089,7 +1089,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_POISON_USER[1]
 			},
 			[52] = {
-				name = "{sym}{val}%#从暗属性敌人处受到的物理伤?",
+				name = "{sym}{val}%#从暗属性敌人处受到的物理伤害",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Darkness },
@@ -1097,7 +1097,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_DARKNESS_USER[1]
 			},
 			[53] = {
-				name = "{sym}{val}%#从圣属性敌人处受到的物理伤?",
+				name = "{sym}{val}%#从圣属性敌人处受到的物理伤害",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Saint },
@@ -1105,7 +1105,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_SAINT_USER[1]
 			},
 			[54] = {
-				name = "{sym}{val}%#从无属性敌人处受到的物理伤?",
+				name = "{sym}{val}%#从无属性敌人处受到的物理伤害",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Nothing },
@@ -1113,7 +1113,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_NOTHING_USER[1]
 			},
 			[55] = {
-				name = "{sym}{val}%#从念属性敌人处受到的物理伤?",
+				name = "{sym}{val}%#从念属性敌人处受到的物理伤害",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Telekinesis },
@@ -1121,7 +1121,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_TELEKINESIS_USER[1]
 			},
 			[56] = {
-				name = "{sym}{val}%#从不死属性敌人处受到的物理伤?",
+				name = "{sym}{val}%#从不死属性敌人处受到的物理伤害",
 				func = FunctionPreset.DecDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Undead },
@@ -1129,14 +1129,14 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_PROPERTY_UNDEAD_USER[1]
 			},
 			[57] = {
-				name = "{sym}{val}%#从所有属性敌人处受到的魔法伤?",
+				name = "{sym}{val}%#从所有属性敌人处受到的魔法伤害",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.All },
 				sym = SymbolPreset.DecSign
 			},
 			[58] = {
-				name = "{sym}{val}%#从火属性敌人处受到的魔法伤?",
+				name = "{sym}{val}%#从火属性敌人处受到的魔法伤害",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Fire },
@@ -1144,7 +1144,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_FIRE_USER[1]
 			},
 			[59] = {
-				name = "{sym}{val}%#从水属性敌人处受到的魔法伤?",
+				name = "{sym}{val}%#从水属性敌人处受到的魔法伤害",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Water },
@@ -1152,7 +1152,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_WATER_USER[1]
 			},
 			[60] = {
-				name = "{sym}{val}%#从地属性敌人处受到的魔法伤?",
+				name = "{sym}{val}%#从地属性敌人处受到的魔法伤害",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Ground },
@@ -1160,7 +1160,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_GROUND_USER[1]
 			},
 			[61] = {
-				name = "{sym}{val}%#从风属性敌人处受到的魔法伤?",
+				name = "{sym}{val}%#从风属性敌人处受到的魔法伤害",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Wind },
@@ -1168,7 +1168,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_WIND_USER[1]
 			},
 			[62] = {
-				name = "{sym}{val}%#从毒属性敌人处受到的魔法伤?",
+				name = "{sym}{val}%#从毒属性敌人处受到的魔法伤害",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Poison },
@@ -1176,7 +1176,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_POISON_USER[1]
 			},
 			[63] = {
-				name = "{sym}{val}%#从暗属性敌人处受到的魔法伤?",
+				name = "{sym}{val}%#从暗属性敌人处受到的魔法伤害",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Darkness },
@@ -1184,7 +1184,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_DARKNESS_USER[1]
 			},
 			[64] = {
-				name = "{sym}{val}%#从圣属性敌人处受到的魔法伤?",
+				name = "{sym}{val}%#从圣属性敌人处受到的魔法伤害",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Saint },
@@ -1192,7 +1192,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_SAINT_USER[1]
 			},
 			[65] = {
-				name = "{sym}{val}%#从无属性敌人处受到的魔法伤?",
+				name = "{sym}{val}%#从无属性敌人处受到的魔法伤害",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Nothing },
@@ -1200,7 +1200,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_NOTHING_USER[1]
 			},
 			[66] = {
-				name = "{sym}{val}%#从念属性敌人处受到的魔法伤?",
+				name = "{sym}{val}%#从念属性敌人处受到的魔法伤害",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Telekinesis },
@@ -1208,7 +1208,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.MDAMAGE_PROPERTY_TELEKINESIS_USER[1]
 			},
 			[67] = {
-				name = "{sym}{val}%#从不死属性敌人处受到的魔法伤?",
+				name = "{sym}{val}%#从不死属性敌人处受到的魔法伤害",
 				func = FunctionPreset.DecMDmgByUnitProp,
 				val = { [3] = Operation.ADD },
 				cond = { [1] = Unit.User, [2] = Element.Undead },
@@ -1228,7 +1228,7 @@ EquipmentPropertiesOrder = {
 				sym = SymbolPreset.IncSign
 			},
 			[2] = {
-				name = "{sym}{val}%#对植物型魔物的物理伤?",
+				name = "{sym}{val}%#对植物型魔物的物理伤害",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -1236,7 +1236,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_PLANT[1]
 			},
 			[3] = {
-				name = "{sym}{val}%#对不死型魔物的物理伤?",
+				name = "{sym}{val}%#对不死型魔物的物理伤害",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -1252,7 +1252,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_NOTHING[1]
 			},
 			[5] = {
-				name = "{sym}{val}%#对天使型魔物的物理伤?",
+				name = "{sym}{val}%#对天使型魔物的物理伤害",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -1268,7 +1268,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_DRAGON[1]
 			},
 			[7] = {
-				name = "{sym}{val}%#对鱼贝类魔物的物理伤?",
+				name = "{sym}{val}%#对鱼贝类魔物的物理伤害",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -1276,7 +1276,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_FISHS[1]
 			},
 			[8] = {
-				name = "{sym}{val}%#对昆虫型魔物的物理伤?",
+				name = "{sym}{val}%#对昆虫型魔物的物理伤害",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -1284,7 +1284,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_INSECT[1]
 			},
 			[9] = {
-				name = "{sym}{val}%#对动物型魔物的物理伤?",
+				name = "{sym}{val}%#对动物型魔物的物理伤害",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -1292,7 +1292,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_ANIMAL[1]
 			},
 			[10] = {
-				name = "{sym}{val}%#对恶魔型魔物的物理伤?",
+				name = "{sym}{val}%#对恶魔型魔物的物理伤害",
 				func = FunctionPreset.IncDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -1324,7 +1324,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_DAMAGE_PLAYER_DORAM[1]
 			},
 			[14] = {
-				name = "{sym}100%#无视所有种族的物理防御?",
+				name = "{sym}100%#无视所有种族的物理防御力",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.All },
@@ -1332,7 +1332,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_All"
 			},
 			[15] = {
-				name = "{sym}{val}%#无视所有种族的物理防御?",
+				name = "{sym}{val}%#无视所有种族的物理防御力",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.All },
@@ -1341,7 +1341,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[16] = {
-				name = "{sym}100%#无视植物型魔物的物理防御?",
+				name = "{sym}100%#无视植物型魔物的物理防御力",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Plant },
@@ -1349,7 +1349,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Plant"
 			},
 			[17] = {
-				name = "{sym}{val}%#无视植物型魔物的物理防御?",
+				name = "{sym}{val}%#无视植物型魔物的物理防御力",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -1359,7 +1359,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[18] = {
-				name = "{sym}100%#无视不死型魔物的物理防御?",
+				name = "{sym}100%#无视不死型魔物的物理防御力",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Undead },
@@ -1367,7 +1367,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Undead"
 			},
 			[19] = {
-				name = "{sym}{val}%#无视不死型魔物的物理防御?",
+				name = "{sym}{val}%#无视不死型魔物的物理防御力",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -1395,7 +1395,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[22] = {
-				name = "{sym}100%#无视天使型魔物的物理防御?",
+				name = "{sym}100%#无视天使型魔物的物理防御力",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Angel },
@@ -1403,7 +1403,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Angel"
 			},
 			[23] = {
-				name = "{sym}{val}%#无视天使型魔物的物理防御?",
+				name = "{sym}{val}%#无视天使型魔物的物理防御力",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -1431,7 +1431,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[26] = {
-				name = "{sym}100%#无视鱼贝类魔物的物理防御?",
+				name = "{sym}100%#无视鱼贝类魔物的物理防御力",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Fish },
@@ -1439,7 +1439,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Fish"
 			},
 			[27] = {
-				name = "{sym}{val}%#无视鱼贝类魔物的物理防御?",
+				name = "{sym}{val}%#无视鱼贝类魔物的物理防御力",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -1449,7 +1449,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[28] = {
-				name = "{sym}100%#无视昆虫型魔物的物理防御?",
+				name = "{sym}100%#无视昆虫型魔物的物理防御力",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Insect },
@@ -1457,7 +1457,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Insect"
 			},
 			[29] = {
-				name = "{sym}{val}%#无视昆虫型魔物的物理防御?",
+				name = "{sym}{val}%#无视昆虫型魔物的物理防御力",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -1467,7 +1467,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[30] = {
-				name = "{sym}100%#无视动物型魔物的物理防御?",
+				name = "{sym}100%#无视动物型魔物的物理防御力",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Animal },
@@ -1475,7 +1475,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Animal"
 			},
 			[31] = {
-				name = "{sym}{val}%#无视动物型魔物的物理防御?",
+				name = "{sym}{val}%#无视动物型魔物的物理防御力",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -1485,7 +1485,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[32] = {
-				name = "{sym}100%#无视恶魔型魔物的物理防御?",
+				name = "{sym}100%#无视恶魔型魔物的物理防御力",
 				func = FunctionPreset.IgnoreDefByUnitRace,
 				val = { [0] = Operation.ONE },
 				cond = { [1] = Race.Demon },
@@ -1493,7 +1493,7 @@ EquipmentPropertiesOrder = {
 				uniq1 = "IgnoreDEF_Race_Demon"
 			},
 			[33] = {
-				name = "{sym}{val}%#无视恶魔型魔物的物理防御?",
+				name = "{sym}{val}%#无视恶魔型魔物的物理防御力",
 				func = FunctionPreset.IgnoreDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -1564,7 +1564,7 @@ EquipmentPropertiesOrder = {
 				sym = SymbolPreset.IncSign
 			},
 			[41] = {
-				name = "{sym}{val}%#对植物型魔物的魔法伤?",
+				name = "{sym}{val}%#对植物型魔物的魔法伤害",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -1572,7 +1572,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_PLANT[1]
 			},
 			[42] = {
-				name = "{sym}{val}%#对不死型魔物的魔法伤?",
+				name = "{sym}{val}%#对不死型魔物的魔法伤害",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -1588,7 +1588,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_NOTHING[1]
 			},
 			[44] = {
-				name = "{sym}{val}%#对天使型魔物的魔法伤?",
+				name = "{sym}{val}%#对天使型魔物的魔法伤害",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -1604,7 +1604,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_DRAGON[1]
 			},
 			[46] = {
-				name = "{sym}{val}%#对鱼贝类魔物的魔法伤?",
+				name = "{sym}{val}%#对鱼贝类魔物的魔法伤害",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -1612,7 +1612,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_FISHS[1]
 			},
 			[47] = {
-				name = "{sym}{val}%#对昆虫型魔物的魔法伤?",
+				name = "{sym}{val}%#对昆虫型魔物的魔法伤害",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -1620,7 +1620,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_INSECT[1]
 			},
 			[48] = {
-				name = "{sym}{val}%#对动物型魔物的魔法伤?",
+				name = "{sym}{val}%#对动物型魔物的魔法伤害",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -1628,7 +1628,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_ANIMAL[1]
 			},
 			[49] = {
-				name = "{sym}{val}%#对恶魔型魔物的魔法伤?",
+				name = "{sym}{val}%#对恶魔型魔物的魔法伤害",
 				func = FunctionPreset.IncMDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -1660,7 +1660,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_MDAMAGE_PLAYER_DORAM[1]
 			},
 			[53] = {
-				name = "{sym}{val}%#无视所有种族的魔法防御?",
+				name = "{sym}{val}%#无视所有种族的魔法防御力",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.All },
@@ -1668,7 +1668,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[54] = {
-				name = "{sym}{val}%#无视植物型魔物的魔法防御?",
+				name = "{sym}{val}%#无视植物型魔物的魔法防御力",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -1677,7 +1677,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[55] = {
-				name = "{sym}{val}%#无视不死型魔物的魔法防御?",
+				name = "{sym}{val}%#无视不死型魔物的魔法防御力",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -1695,7 +1695,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[57] = {
-				name = "{sym}{val}%#无视天使型魔物的魔法防御?",
+				name = "{sym}{val}%#无视天使型魔物的魔法防御力",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -1713,7 +1713,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[59] = {
-				name = "{sym}{val}%#无视鱼贝类魔物的魔法防御?",
+				name = "{sym}{val}%#无视鱼贝类魔物的魔法防御力",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -1722,7 +1722,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[60] = {
-				name = "{sym}{val}%#无视昆虫型魔物的魔法防御?",
+				name = "{sym}{val}%#无视昆虫型魔物的魔法防御力",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -1731,7 +1731,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[61] = {
-				name = "{sym}{val}%#无视动物型魔物的魔法防御?",
+				name = "{sym}{val}%#无视动物型魔物的魔法防御力",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -1740,7 +1740,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 100 }
 			},
 			[62] = {
-				name = "{sym}{val}%#无视恶魔型魔物的魔法防御?",
+				name = "{sym}{val}%#无视恶魔型魔物的魔法防御力",
 				func = FunctionPreset.IgnoreMDefRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -1785,7 +1785,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[67] = {
-				name = "{sym}{val}#对不死型魔物的暴?",
+				name = "{sym}{val}#对不死型魔物的暴击",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -1794,7 +1794,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[68] = {
-				name = "{sym}{val}#对动物型魔物的暴?",
+				name = "{sym}{val}#对动物型魔物的暴击",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -1803,7 +1803,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[69] = {
-				name = "{sym}{val}#对植物型魔物的暴?",
+				name = "{sym}{val}#对植物型魔物的暴击",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -1812,7 +1812,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[70] = {
-				name = "{sym}{val}#对昆虫型魔物的暴?",
+				name = "{sym}{val}#对昆虫型魔物的暴击",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -1821,7 +1821,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[71] = {
-				name = "{sym}{val}#对鱼贝类魔物的暴?",
+				name = "{sym}{val}#对鱼贝类魔物的暴击",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -1830,7 +1830,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[72] = {
-				name = "{sym}{val}#对恶魔型魔物的暴?",
+				name = "{sym}{val}#对恶魔型魔物的暴击",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -1848,7 +1848,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.DIV] = 10, [ValueOption.FLOAT] = 0 }
 			},
 			[74] = {
-				name = "{sym}{val}#对天使型魔物的暴?",
+				name = "{sym}{val}#对天使型魔物的暴击",
 				func = FunctionPreset.IncCriByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -1907,7 +1907,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_UNDEAD[1]
 			},
 			[81] = {
-				name = "{sym}{val}%#受到无型魔物的伤?",
+				name = "{sym}{val}%#受到无型魔物的伤害",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Nothing },
@@ -1923,7 +1923,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_ANGEL[1]
 			},
 			[83] = {
-				name = "{sym}{val}%#受到龙族魔物的伤?",
+				name = "{sym}{val}%#受到龙族魔物的伤害",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Dragon },
@@ -1963,7 +1963,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_DEVIL[1]
 			},
 			[88] = {
-				name = "{sym}{val}%#受到人型魔物的伤?",
+				name = "{sym}{val}%#受到人型魔物的伤害",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Human },
@@ -1971,7 +1971,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_HUMAN[1]
 			},
 			[89] = {
-				name = "{sym}{val}%#受到人型玩家的伤?",
+				name = "{sym}{val}%#受到人型玩家的伤害",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.HumanPlayer },
@@ -1979,7 +1979,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.RACE_TOLERACE_PLAYER_HUMAN[1]
 			},
 			[90] = {
-				name = "{sym}{val}%#受到喵族玩家的伤?",
+				name = "{sym}{val}%#受到喵族玩家的伤害",
 				func = FunctionPreset.DecDmgByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.DoramPlayer },
@@ -2008,7 +2008,7 @@ EquipmentPropertiesOrder = {
 				sym = SymbolPreset.DecSign
 			},
 			[94] = {
-				name = "{sym}{val}%#自身受到无型魔物的物理伤?",
+				name = "{sym}{val}%#自身受到无型魔物的物理伤害",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Nothing },
@@ -2022,7 +2022,7 @@ EquipmentPropertiesOrder = {
 				sym = SymbolPreset.DecSign
 			},
 			[96] = {
-				name = "{sym}{val}%#自身受到龙族魔物的物理伤?",
+				name = "{sym}{val}%#自身受到龙族魔物的物理伤害",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Dragon },
@@ -2057,28 +2057,28 @@ EquipmentPropertiesOrder = {
 				sym = SymbolPreset.DecSign
 			},
 			[101] = {
-				name = "{sym}{val}%#自身受到人型魔物的物理伤?",
+				name = "{sym}{val}%#自身受到人型魔物的物理伤害",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Human },
 				sym = SymbolPreset.DecSign
 			},
 			[102] = {
-				name = "{sym}{val}%#自身受到人型玩家的物理伤?",
+				name = "{sym}{val}%#自身受到人型玩家的物理伤害",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.HumanPlayer },
 				sym = SymbolPreset.DecSign
 			},
 			[103] = {
-				name = "{sym}{val}%#自身受到喵族玩家的物理伤?",
+				name = "{sym}{val}%#自身受到喵族玩家的物理伤害",
 				func = FunctionPreset.DecDmgByUnitRaceSelf,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.DoramPlayer },
 				sym = SymbolPreset.DecSign
 			},
 			[104] = {
-				name = "{sym}{val}%#无视所有种族的物理抵抗?",
+				name = "{sym}{val}%#无视所有种族的物理抵抗力",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.All },
@@ -2086,7 +2086,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[105] = {
-				name = "{sym}{val}%#无视植物型魔物的物理抵抗?",
+				name = "{sym}{val}%#无视植物型魔物的物理抵抗力",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -2094,7 +2094,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[106] = {
-				name = "{sym}{val}%#无视不死型魔物的物理抵抗?",
+				name = "{sym}{val}%#无视不死型魔物的物理抵抗力",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -2110,7 +2110,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[108] = {
-				name = "{sym}{val}%#无视天使型魔物的物理抵抗?",
+				name = "{sym}{val}%#无视天使型魔物的物理抵抗力",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -2126,7 +2126,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[110] = {
-				name = "{sym}{val}%#无视鱼贝类魔物的物理抵抗?",
+				name = "{sym}{val}%#无视鱼贝类魔物的物理抵抗力",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -2134,7 +2134,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[111] = {
-				name = "{sym}{val}%#无视昆虫型魔物的物理抵抗?",
+				name = "{sym}{val}%#无视昆虫型魔物的物理抵抗力",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -2142,7 +2142,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[112] = {
-				name = "{sym}{val}%#无视昆虫型魔物的物理抵抗?",
+				name = "{sym}{val}%#无视昆虫型魔物的物理抵抗力",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -2150,7 +2150,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[113] = {
-				name = "{sym}{val}%#无视恶魔型魔物的物理抵抗?",
+				name = "{sym}{val}%#无视恶魔型魔物的物理抵抗力",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -2174,7 +2174,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[116] = {
-				name = "{sym}{val}%#无视喵族玩家物的物理抵抗?",
+				name = "{sym}{val}%#无视喵族玩家物的物理抵抗力",
 				func = FunctionPreset.IgnoreResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.DoramPlayer },
@@ -2182,7 +2182,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[117] = {
-				name = "{sym}{val}%#无视所有种族的魔法抵抗?",
+				name = "{sym}{val}%#无视所有种族的魔法抵抗力",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.All },
@@ -2190,7 +2190,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[118] = {
-				name = "{sym}{val}%#无视植物型魔物的魔法抵抗?",
+				name = "{sym}{val}%#无视植物型魔物的魔法抵抗力",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -2198,7 +2198,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[119] = {
-				name = "{sym}{val}%#无视不死型魔物的魔法抵抗?",
+				name = "{sym}{val}%#无视不死型魔物的魔法抵抗力",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -2214,7 +2214,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[121] = {
-				name = "{sym}{val}%#无视天使型魔物的魔法抵抗?",
+				name = "{sym}{val}%#无视天使型魔物的魔法抵抗力",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -2230,7 +2230,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[123] = {
-				name = "{sym}{val}%#无视鱼贝类魔物的魔法抵抗?",
+				name = "{sym}{val}%#无视鱼贝类魔物的魔法抵抗力",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -2238,7 +2238,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[124] = {
-				name = "{sym}{val}%#无视昆虫型魔物的魔法抵抗?",
+				name = "{sym}{val}%#无视昆虫型魔物的魔法抵抗力",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -2246,7 +2246,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[125] = {
-				name = "{sym}{val}%#无视动物型魔物的魔法抵抗?",
+				name = "{sym}{val}%#无视动物型魔物的魔法抵抗力",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -2254,7 +2254,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[126] = {
-				name = "{sym}{val}%#无视恶魔型魔物的魔法抵抗?",
+				name = "{sym}{val}%#无视恶魔型魔物的魔法抵抗力",
 				func = FunctionPreset.IgnoreMResRateByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -2286,7 +2286,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0, [ValueOption.MAX] = 50 }
 			},
 			[130] = {
-				name = "{sym}{val}%#从魔物处获得的经验?",
+				name = "{sym}{val}%#从魔物处获得的经验值",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.All },
@@ -2295,7 +2295,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[131] = {
-				name = "{sym}{val}%#从植物型魔物处获得的经验?",
+				name = "{sym}{val}%#从植物型魔物处获得的经验值",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Plant },
@@ -2304,7 +2304,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[132] = {
-				name = "{sym}{val}%#从不死型魔物处获得的经验?",
+				name = "{sym}{val}%#从不死型魔物处获得的经验值",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Undead },
@@ -2313,7 +2313,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[133] = {
-				name = "{sym}{val}%#从无型魔物处获得的经验?",
+				name = "{sym}{val}%#从无型魔物处获得的经验值",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Nothing },
@@ -2322,7 +2322,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[134] = {
-				name = "{sym}{val}%#从天使型魔物处获得的经验?",
+				name = "{sym}{val}%#从天使型魔物处获得的经验值",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Angel },
@@ -2331,7 +2331,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[135] = {
-				name = "{sym}{val}%#从龙族魔物处获得的经验?",
+				name = "{sym}{val}%#从龙族魔物处获得的经验值",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Dragon },
@@ -2340,7 +2340,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[136] = {
-				name = "{sym}{val}%#从鱼贝类魔物处获得的经验?",
+				name = "{sym}{val}%#从鱼贝类魔物处获得的经验值",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Fish },
@@ -2349,7 +2349,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[137] = {
-				name = "{sym}{val}%#从昆虫型魔物处获得的经验?",
+				name = "{sym}{val}%#从昆虫型魔物处获得的经验值",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Insect },
@@ -2358,7 +2358,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[138] = {
-				name = "{sym}{val}%#从动物型魔物处获得的经验?",
+				name = "{sym}{val}%#从动物型魔物处获得的经验值",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Animal },
@@ -2367,7 +2367,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[139] = {
-				name = "{sym}{val}%#从恶魔型魔物处获得的经验?",
+				name = "{sym}{val}%#从恶魔型魔物处获得的经验值",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Demon },
@@ -2376,7 +2376,7 @@ EquipmentPropertiesOrder = {
 				valOpt = { [ValueOption.MIN] = 0 }
 			},
 			[140] = {
-				name = "{sym}{val}%#从人型魔物处获得的经验?",
+				name = "{sym}{val}%#从人型魔物处获得的经验值",
 				func = FunctionPreset.IncExpByUnitRace,
 				val = { [2] = Operation.ADD },
 				cond = { [1] = Race.Human },
@@ -2387,7 +2387,7 @@ EquipmentPropertiesOrder = {
 		}
 	},
 	[6] = {
-		name = "技?",
+		name = "技能",
 		order = {
 			[1] = {
 				name = "{val}%#使用技能时SP消耗量{sym}",
@@ -2446,7 +2446,7 @@ EquipmentPropertiesOrder = {
 		name = "特殊",
 		order = {
 			[1] = {
-				name = "{sym}{val}%#治愈?",
+				name = "{sym}{val}%#治愈量",
 				func = { "AddHealValue", "SubHealValue" },
 				val = { [1] = Operation.ADD },
 				sym = SymbolPreset.IncSign,
@@ -2494,7 +2494,7 @@ EquipmentPropertiesOrder = {
 				val = { [1] = Operation.ONE }
 			},
 			[8] = {
-				name = "{sym}{val}%#反射近距离物理伤?",
+				name = "{sym}{val}%#反射近距离物理伤害",
 				func = { "AddMeleeAttackReflect", "SubMeleeAttackReflect" },
 				val = { [1] = Operation.ADD },
 				sym = SymbolPreset.OnlyDecSign,
@@ -2508,7 +2508,7 @@ EquipmentPropertiesOrder = {
 				rndOpt = EnumVAR.DAMAGE_SIZE_PERFECT[1]
 			},
 			[10] = {
-				name = "复活时HP、SP恢复?00%{sym}",
+				name = "复活时HP、SP恢复100%{sym}",
 				func = { "Reincarnation" },
 				sym = SymbolPreset.ApplyWord,
 				val = { [1] = Operation.ONE }
@@ -2565,7 +2565,7 @@ EquipmentPropertiesOrder = {
 				val = { [1] = Operation.ONE }
 			},
 			[19] = {
-				name = "{sym}{val}%#的概率指定对象反射魔法攻?",
+				name = "{sym}{val}%#的概率指定对象反射魔法攻击",
 				func = { "AddReflectMagic", "SubReflectMagic" },
 				sym = SymbolPreset.OnlyDecSign,
 				val = { [1] = Operation.ADD },
