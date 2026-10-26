@@ -10,10 +10,10 @@
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
 -- Last updated: 20240511
 
-GuideMonster.TitleText = "Monster"
+GuideMonster.TitleText = "π÷ŒÔ"
 GuideMonster.MainMenuIndex = 2
 
-GuideMonster.MainMenuTitle = "Monster"
+GuideMonster.MainMenuTitle = "π÷ŒÔ"
 GuideMonster:AddContents("PORING", 1, 11, "^i[4001] ^i[909] ^i[1202] ^i[938] ^i[601] ^i[619]")
 GuideMonster:AddContents("LUNATIC", 1, 13, "^i[4006] ^i[705] ^i[949] ^i[2262] ^i[1102] ^i[601] ^i[515] ^i[622]")
 GuideMonster:AddContents("FABRE", 1, 16, "^i[4002] ^i[914] ^i[949] ^i[1502] ^i[601] ^i[511] ^i[705] ^i[1501]")

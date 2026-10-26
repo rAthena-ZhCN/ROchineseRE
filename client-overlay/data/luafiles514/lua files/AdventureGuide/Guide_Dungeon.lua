@@ -10,11 +10,11 @@
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
 -- Last updated: 20240511
 
-GuideDungeon.TitleText = "Dungeon"
+GuideDungeon.TitleText = "副本"
 GuideDungeon.MainMenuIndex = 4
 
-GuideDungeon.MainMenuTitle = "Dungeon"
-GuideDungeon:AddSubMenu(0, "Dungeon", 1, 999)
+GuideDungeon.MainMenuTitle = "副本"
+GuideDungeon:AddSubMenu(0, "副本", 1, 999)
 GuideDungeon:AddContents(6211, 0, 30, 999, 0, "moc_pryd01,193,10,0,-222,1", "", "?<TIPBOX>Tipbox<INFO>6211</INFO></TIPBOX>")
 GuideDungeon:AddContents(7103, 0, 65, 999, 0, "glast_01,196,235,0,101,0", "", "?<TIPBOX>Tipbox<INFO>7103</INFO></TIPBOX>")
 GuideDungeon:AddContents(6221, 0, 70, 999, 0, "c_tower1,200,163,0,-222,1", "", "?<TIPBOX>Tipbox<INFO>6221</INFO></TIPBOX>")

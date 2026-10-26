@@ -10,14 +10,14 @@
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
 -- Last updated: 20250716
 
-GuideIntro.TitleText = "Introduction"
+GuideIntro.TitleText = "冒险手册"
 GuideIntro.MainMenuIndex = 0
-GuideIntro.MainMenuTitle = "Content"
+GuideIntro.MainMenuTitle = "目录"
 
 GuideIntro.NewsImage = "蜡历牢磐其捞胶\\AdventureGuide\\"
-GuideIntro:AddContents(0, "Episode", "You can check information about episode quests that can be completed.")
-GuideIntro:AddContents(1, "Monster", "We recommend a hunting ground with monsters appropriate for your level.")
-GuideIntro:AddContents(2, "Quest", "You can check the quest appropriate for your level.")
-GuideIntro:AddContents(3, "Dungeon", "You can check dungeons and rewards appropriate for your level.")
-GuideIntro:AddContents(4, "Weapon", "We recommend a weapon appropriate for your level.")
-GuideIntro:AddContents(5, "Armor", "We recommend armor appropriate for your level.")
+GuideIntro:AddContents(0, "章节", "可以查看章节任务的相关信息。")
+GuideIntro:AddContents(1, "怪物", "推荐适合当前等级的怪物狩猎场。")
+GuideIntro:AddContents(2, "任务", "可以查看适合当前等级的任务。")
+GuideIntro:AddContents(3, "副本", "可以查看适合当前等级的副本和奖励。")
+GuideIntro:AddContents(4, "武器", "推荐适合当前等级的武器。")
+GuideIntro:AddContents(5, "防具", "推荐适合当前等级的防具。")

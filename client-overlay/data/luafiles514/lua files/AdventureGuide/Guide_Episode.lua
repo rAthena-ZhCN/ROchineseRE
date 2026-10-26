@@ -10,10 +10,10 @@
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
 -- Last updated: 20240511
 
-GuideEpisode.TitleText = "Episode"
+GuideEpisode.TitleText = "уб╫з"
 GuideEpisode.MainMenuIndex = 1
 
-GuideEpisode.MainMenuTitle = "Episode"
+GuideEpisode.MainMenuTitle = "уб╫з"
 GuideEpisode:AddSubMenu(0, "16.1", 100, 999, 7698)
 GuideEpisode:AddSubMenu(1, "16.2", 100, 999, 18219)
 GuideEpisode:AddSubMenu(2, "17.1", 110, 999, 16360)

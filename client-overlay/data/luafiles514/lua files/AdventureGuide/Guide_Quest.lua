@@ -10,13 +10,13 @@
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
 -- Last updated: 20240511
 
-GuideQuest.TitleText = "Quest"
+GuideQuest.TitleText = "任务"
 GuideQuest.MainMenuIndex = 3
 
-GuideQuest.MainMenuTitle = "Quest"
-GuideQuest:AddSubMenu(0, "Level", 1, 999)
-GuideQuest:AddSubMenu(1, "Region", 1, 999)
-GuideQuest:AddSubMenu(2, "Subjugation", 1, 999)
+GuideQuest.MainMenuTitle = "任务"
+GuideQuest:AddSubMenu(0, "等级", 1, 999)
+GuideQuest:AddSubMenu(1, "地区", 1, 999)
+GuideQuest:AddSubMenu(2, "讨伐", 1, 999)
 GuideQuest:AddContents(4177, 0, 1, 10, 0, "iz_ac01,102,44,0,101,0", "", "?<TIPBOX>Tipbox<INFO>4177</INFO></TIPBOX>")
 GuideQuest:AddContents(4178, 0, 1, 10, 0, "iz_ac01,45,80,0,101,0", "", "?<TIPBOX>Tipbox<INFO>4178</INFO></TIPBOX>")
 GuideQuest:AddContents(4179, 0, 1, 10, 0, "izlude,120,207,0,101,0", "", "?<TIPBOX>Tipbox<INFO>4179</INFO></TIPBOX>")

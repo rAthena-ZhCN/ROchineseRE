@@ -10,20 +10,20 @@
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
 -- Last updated: 20240511
 
-GuideArmor.TitleText = "Armor"
+GuideArmor.TitleText = "防具"
 GuideArmor.MainMenuIndex = 6
 
-GuideArmor.MainMenuTitle = "Armor"
-GuideArmor:AddSubMenu(0, "Upper Headgear", 1, 999)
-GuideArmor:AddSubMenu(1, "Middle Headgear", 1, 999)
-GuideArmor:AddSubMenu(2, "Lower Headgear", 1, 999)
-GuideArmor:AddSubMenu(3, "Armor", 1, 999)
-GuideArmor:AddSubMenu(4, "Garment", 1, 999)
-GuideArmor:AddSubMenu(5, "Shield", 1, 999)
-GuideArmor:AddSubMenu(6, "Shoes", 1, 999)
-GuideArmor:AddSubMenu(7, "Accessory", 1, 999)
-GuideArmor:AddSubMenu(8, "Accessory Right", 1, 999)
-GuideArmor:AddSubMenu(9, "Accessory Left", 1, 999)
+GuideArmor.MainMenuTitle = "防具"
+GuideArmor:AddSubMenu(0, "上段头饰", 1, 999)
+GuideArmor:AddSubMenu(1, "中段头饰", 1, 999)
+GuideArmor:AddSubMenu(2, "下段头饰", 1, 999)
+GuideArmor:AddSubMenu(3, "铠甲", 1, 999)
+GuideArmor:AddSubMenu(4, "披风", 1, 999)
+GuideArmor:AddSubMenu(5, "盾牌", 1, 999)
+GuideArmor:AddSubMenu(6, "鞋子", 1, 999)
+GuideArmor:AddSubMenu(7, "饰品", 1, 999)
+GuideArmor:AddSubMenu(8, "右饰品", 1, 999)
+GuideArmor:AddSubMenu(9, "左饰品", 1, 999)
 GuideArmor:AddContents(400137, 0, 1, 99, 0, 0, 0, "", "?<TIPBOX>Paradise<INFO>73</INFO></TIPBOX>")
 GuideArmor:AddContents(400138, 0, 1, 99, 0, 0, 0, "", "?<TIPBOX>Paradise<INFO>73</INFO></TIPBOX>")
 GuideArmor:AddContents(400139, 0, 90, 150, 0, 0, 0, "", "?<TIPBOX>Paradise<INFO>73</INFO></TIPBOX>")
