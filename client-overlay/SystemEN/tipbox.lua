@@ -3578,7 +3578,7 @@ tbl = {
 		}
 	},
 	[4256] = {
-		Title = "EP19#任务",
+		Title = "第19章#任务",
 		Search = 1,
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
@@ -3587,7 +3587,7 @@ tbl = {
 		}
 	},
 	[4257] = {
-		Title = "EP19 雪花之地 伊斯加尔特#任务EP",
+		Title = "第19章 雪花之地 伊斯加尔特#任务EP",
 		Search = 1,
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
@@ -3596,7 +3596,7 @@ tbl = {
 		}
 	},
 	[4258] = {
-		Title = "EP19雪花防具系列#雪花的花叶",
+		Title = "第19章雪花防具系列#雪花的花叶",
 		Search = 1,
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
@@ -3605,7 +3605,7 @@ tbl = {
 		}
 	},
 	[4259] = {
-		Title = "EP19冰晶武器系列#金币",
+		Title = "第19章冰晶武器系列#金币",
 		Search = 1,
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
@@ -4145,7 +4145,7 @@ tbl = {
 		}
 	},
 	[4327] = {
-		Title = "Episode 20#Quest",
+		Title = "第20章#Quest",
 		Search = 1,
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
@@ -4154,7 +4154,7 @@ tbl = {
 		}
 	},
 	[4328] = {
-		Title = "Episode 20 不朽者#Quest Episode",
+		Title = "第20章 不朽者#Quest Episode",
 		Search = 1,
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
@@ -4487,7 +4487,7 @@ tbl = {
 		}
 	},
 	[4365] = {
-		Title = "EP19 暗淡冰河武器",
+		Title = "第19章 暗淡冰河武器",
 		Search = 1,
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
@@ -5216,7 +5216,7 @@ tbl = {
 		}
 	},
 	[4413] = {
-		Title = "Q Rampage on the 2nd floor of Yorskalp (240)#Weekly Quest,Episode 21 EP21",
+		Title = "任务：约尔斯卡普2层暴乱（240）#Weekly Quest,Episode 21 EP21",
 		Search = 1,
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
@@ -6764,7 +6764,7 @@ tbl = {
 		}
 	},
 	[6238] = {
-		Title = "Hugel Odin Temple#Dungeon#Level Expansion#Ancient#180",
+		Title = "休格尔奥丁神殿#Dungeon#Level Expansion#Ancient#180",
 		Search = 1,
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
@@ -7630,7 +7630,7 @@ tbl = {
 		}
 	},
 	[7137] = {
-		Title = "MD EDDA#Pope EDDA Old Glast Heim",
+		Title = "艾达副本#Pope EDDA Old Glast Heim",
 		Search = 1,
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
@@ -7639,7 +7639,7 @@ tbl = {
 		}
 	},
 	[7138] = {
-		Title = "MD EDDA 白昼的半轮月 (80)#Pope Rachel Arnua EDDA Memorial Dungeon",
+		Title = "艾达副本 白昼的半轮月 (80)#Pope Rachel Arnua EDDA Memorial Dungeon",
 		Search = 1,
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
@@ -7648,7 +7648,7 @@ tbl = {
 		}
 	},
 	[7139] = {
-		Title = "MD EDDA 格拉斯海姆的陷落 (130)#Rune Midgards Castle Geffen EDDA Memorial Dungeon Pollution Coagulation Crystal Curse Oscar",
+		Title = "艾达副本 格拉斯海姆的陷落 (130)#Rune Midgards Castle Geffen EDDA Memorial Dungeon Pollution Coagulation Crystal Curse Oscar",
 		Search = 1,
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
