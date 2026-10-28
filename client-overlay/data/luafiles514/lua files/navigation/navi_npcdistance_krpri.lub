@@ -2014,7 +2014,7 @@ Navi_NpcDistance = {
 			{ "yuno_fild01", 14902, 218}, -- (aldebaran, 208, 17)
 			{"", 0, 0}
 		},
-		{ 12176, -- (Mr. Claus#1 aldebaran, 168, 168)
+		{ 12176, -- (克劳斯先生#1 aldebaran, 168, 168)
 			{ "aldeba_in", 13413, 144}, -- (aldebaran, 148, 224)
 			{ "aldeba_in", 13415, 107}, -- (aldebaran, 157, 193)
 			{ "aldeba_in", 13416, 152}, -- (aldebaran, 208, 117)
