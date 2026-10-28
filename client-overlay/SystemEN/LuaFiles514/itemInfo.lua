@@ -99874,12 +99874,12 @@ tbl = {
 		costume = false
 	},
 	[7041] = {
-		unidentifiedDisplayName = "细砂",
+		unidentifiedDisplayName = "黄晶沙的一角",
 		unidentifiedResourceName = "喊狼炼阿",
-		unidentifiedDescriptionName = { "细小的沙粒。", "重量: ^7777771^000000" },
-		identifiedDisplayName = "细砂",
+		unidentifiedDescriptionName = { "黄晶沙的粉末结晶。", "重量: ^7777771^000000" },
+		identifiedDisplayName = "黄晶沙的一角",
 		identifiedResourceName = "喊狼炼阿",
-		identifiedDescriptionName = { "细小的沙粒。", "重量: ^7777771^000000" },
+		identifiedDescriptionName = { "黄晶沙的粉末结晶。", "重量: ^7777771^000000" },
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
