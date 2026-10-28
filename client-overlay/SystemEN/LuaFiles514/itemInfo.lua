@@ -4081,10 +4081,10 @@ tbl = {
 		costume = false
 	},
 	[912] = {
-		unidentifiedDisplayName = "剎勒空结晶",
+		unidentifiedDisplayName = "刹勒空结晶",
 		unidentifiedResourceName = "磊福帮",
 		unidentifiedDescriptionName = { "从一部分魔物身上得来的结晶,可向收集商购买。", "^ffffff_^000000", "重量: ^7777771^000000" },
-		identifiedDisplayName = "剎勒空结晶",
+		identifiedDisplayName = "刹勒空结晶",
 		identifiedResourceName = "磊福帮",
 		identifiedDescriptionName = { "从一部分魔物身上得来的结晶，可向收集商购买。", "^ffffff_^000000", "重量: ^7777771^000000" },
 		slotCount = 0,
