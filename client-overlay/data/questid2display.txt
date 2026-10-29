@@ -12487,7 +12487,7 @@ If you want to go for another adventure to ^8B4513the 1st floor of the Royal Tom
 #
 
 9127#消灭王陵内部的怪物#SG_FEEL#QUE_NOIMAGE#
-Defeat ^0000FF5 ^FF0000Dancing Dragons^000000 and ^0000FF10 ^FF0000Yao Jun^000000 inside the Royal Tomb. Then go back to ^0000FFa Royal Tomb guard^000000 in ^8B4513Louyang^000000.#
+在^8B4513洛阳^000000的王陵内击败^0000FF5只^FF0000舞狮^000000和^0000FF10只^FF0000妖君^000000，然后回去找^0000FF王陵护卫^000000。#
 Monsters inside the Royal Tomb#
 
 9128#消灭王陵内部的怪物:休息中#SG_FEEL#QUE_NOIMAGE#
@@ -28030,16 +28030,16 @@ A researcher in Louyang has asked you to help him hunt Mantis for his research. 
 A researcher in Louyang has asked you to help him hunt Mantis for his research. Help him out by hunting 150 Mantis.#
 #
 
-60182#Hunting Dancing Dragons#SG_FEEL#QUE_NOIMAGE#
-A Dragon Hunter in the Royal Tomb of Louyang has asked you to help him hunt Dancing Dragons. Help him out by hunting 50 Dancing Dragons.#
+60182#狩猎舞狮#SG_FEEL#QUE_NOIMAGE#
+洛阳王陵的猎龙人请你帮忙狩猎舞狮。请猎杀50只舞狮来帮助他。#
 #
 
-60183#Hunting Dancing Dragons#SG_FEEL#QUE_NOIMAGE#
-A Dragon Hunter in the Royal Tomb of Louyang has asked you to help him hunt Dancing Dragons. Help him out by hunting 100 Dancing Dragons.#
+60183#狩猎舞狮#SG_FEEL#QUE_NOIMAGE#
+洛阳王陵的猎龙人请你帮忙狩猎舞狮。请猎杀100只舞狮来帮助他。#
 #
 
-60184#Hunting Dancing Dragons#SG_FEEL#QUE_NOIMAGE#
-A Dragon Hunter in the Royal Tomb of Louyang has asked you to help him hunt Dancing Dragons. Help him out by hunting 150 Dancing Dragons.#
+60184#狩猎舞狮#SG_FEEL#QUE_NOIMAGE#
+洛阳王陵的猎龙人请你帮忙狩猎舞狮。请猎杀150只舞狮来帮助他。#
 #
 
 60185#Hunting Necromancers#SG_FEEL#QUE_NOIMAGE#

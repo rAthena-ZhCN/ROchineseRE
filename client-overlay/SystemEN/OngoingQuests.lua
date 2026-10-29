@@ -66120,23 +66120,23 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[60182] = {
-		Title = "Hunting Dancing Dragons",
+		Title = "á÷ÁÔÎèÊ¨",
 		Description = {
-			"A Dragon Hunter in the Royal Tomb of Louyang has asked you to help him hunt Dancing Dragons. Help him out by hunting 50 Dancing Dragons."
+			"ÂåÑôÍõÁêµÄÁÔÁúÈËÇëÄã°ïÃ¦á÷ÁÔÎèÊ¨¡£ÇëÁÔÉ±50Ö»ÎèÊ¨À´°ïÖúËû¡£"
 		},
 		Summary = ""
 	},
 	[60183] = {
-		Title = "Hunting Dancing Dragons",
+		Title = "á÷ÁÔÎèÊ¨",
 		Description = {
-			"A Dragon Hunter in the Royal Tomb of Louyang has asked you to help him hunt Dancing Dragons. Help him out by hunting 100 Dancing Dragons."
+			"ÂåÑôÍõÁêµÄÁÔÁúÈËÇëÄã°ïÃ¦á÷ÁÔÎèÊ¨¡£ÇëÁÔÉ±100Ö»ÎèÊ¨À´°ïÖúËû¡£"
 		},
 		Summary = ""
 	},
 	[60184] = {
-		Title = "Hunting Dancing Dragons",
+		Title = "á÷ÁÔÎèÊ¨",
 		Description = {
-			"A Dragon Hunter in the Royal Tomb of Louyang has asked you to help him hunt Dancing Dragons. Help him out by hunting 150 Dancing Dragons."
+			"ÂåÑôÍõÁêµÄÁÔÁúÈËÇëÄã°ïÃ¦á÷ÁÔÎèÊ¨¡£ÇëÁÔÉ±150Ö»ÎèÊ¨À´°ïÖúËû¡£"
 		},
 		Summary = ""
 	},
