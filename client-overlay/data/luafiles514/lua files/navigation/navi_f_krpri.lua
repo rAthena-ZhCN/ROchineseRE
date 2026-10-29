@@ -1789,6 +1789,7 @@ local __CN_NAVI = {
 	["Wraith"] = "¶ñÁé",
 	["Wraith Dead"] = "¿ñ±©¶ñÁé",
 	["Wywern"] = "·ÉÁú",
+	["Hyegun"] = "Ñı¾ı",
 	["Yao Jun"] = "Ñı¾ı",
 	["Yao Jun Ringleader"] = "İ¼Ó¢Ñı¾ı",
 	["Yellow Faceworm Queen"] = "ÈËÃæ³æ»Êºó(»Æ)",
