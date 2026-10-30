@@ -11762,7 +11762,7 @@ Hunt 10 Elder Willows and then report to Sponiac in Geffen. You can find Elder W
 Hunt 10 Coco and then report to Sponiac in Geffen. You can find Cocos around Geffen Field 2.#
 #
 
-8270#·˜¡‘Õª±‰Õ‹!#SG_FEEL#QUE_NOIMAGE#
+8270#·˜¡‘¥Ô¿≠Õ‹!#SG_FEEL#QUE_NOIMAGE#
 Hunt 10 Thara Frog and then report to Sponiac in Geffen. You can find Thara Frogs in the dungeon east of Comodo.#
 #
 

@@ -2874,7 +2874,7 @@ QuestInfoList = {
 		Title = "流氓转职",
 		IconName = "ico_jq.bmp",
 		Description = { "你该不会不缴束修就想变成流氓吗？我会告诉你流氓转职所需的报名费用和相关搜集品，你就带来吧" },
-		Summary = "10000zeny,绿色药草10个、螃蟹外壳10个、蛇鳞10个、加勒结晶10个"
+		Summary = "10000zeny,绿色药草10个、螃蟹外壳10个、蛇鳞10个、加勒结晶20个"
 	},
 	[2020] = {
 		Title = "流氓转职",
@@ -5420,7 +5420,7 @@ QuestInfoList = {
 	},
 	[3256] = {
 		Title = "委托-等待夏天的准备",
-		Description = { "从委托处接受的任务。搜集从突变蛙等怪物身上可以获得的粘糊的蹼30个以上。" },
+		Description = { "从委托处接受的任务。搜集从达拉蛙等怪物身上可以获得的粘糊的蹼30个以上。" },
 		Summary = "搜集30个粘糊的蹼"
 	},
 	[3257] = {
@@ -6867,7 +6867,7 @@ QuestInfoList = {
 	[4003] = {
 		Title = "猎人转职考试-物品收集",
 		IconName = "ico_jq.bmp",
-		Description = { "去收集猎人公会考试接待人员所交待的物品吧，--鸟嘴3个、死人遗骨5个、绿色药草3个" },
+		Description = { "去收集猎人公会考试接待人员所交待的物品吧，--鸟嘴3个、死人遗骨10个、绿色药草3个" },
 		Summary = ""
 	},
 	[4004] = {
@@ -20626,7 +20626,7 @@ QuestInfoList = {
 		Summary = "狩猎10个毒魔菇！",
 		NpcSpr = "4W_M_03",
 		NpcNavi = "geffen",
-		NpcPosX = 104,
+		NpcPosX = 103,
 		NpcPosY = 42,
 		RewardEXP = "1000",
 		RewardItemList = {
@@ -20639,7 +20639,7 @@ QuestInfoList = {
 		Summary = "狩猎10只狸猫！",
 		NpcSpr = "4W_M_03",
 		NpcNavi = "geffen",
-		NpcPosX = 104,
+		NpcPosX = 103,
 		NpcPosY = 42,
 		RewardEXP = "1000",
 		RewardItemList = {
@@ -20652,7 +20652,7 @@ QuestInfoList = {
 		Summary = "狩猎10个长老树精！",
 		NpcSpr = "4W_M_03",
 		NpcNavi = "geffen",
-		NpcPosX = 104,
+		NpcPosX = 103,
 		NpcPosY = 42,
 		RewardEXP = "1000",
 		RewardJEXP = "100",
@@ -20666,7 +20666,7 @@ QuestInfoList = {
 		Summary = "狩猎10个松鼠！",
 		NpcSpr = "4W_M_03",
 		NpcNavi = "geffen",
-		NpcPosX = 104,
+		NpcPosX = 103,
 		NpcPosY = 42,
 		RewardEXP = "1000",
 		RewardJEXP = "200",
@@ -20675,12 +20675,12 @@ QuestInfoList = {
 		}
 	},
 	[8270] = {
-		Title = "狩猎突变蛙！",
-		Description = { "狩猎10只突变蛙，完成任务后去见吉芬的史波尼亚。突变蛙的位置：克魔岛东部洞穴，龟岛地区等。" },
-		Summary = "狩猎10只突变蛙！",
+		Title = "狩猎达拉蛙！",
+		Description = { "狩猎10只达拉蛙，完成任务后去见吉芬的史波尼亚。达拉蛙的位置：克魔岛东部洞穴，龟岛地区等。" },
+		Summary = "狩猎10只达拉蛙！",
 		NpcSpr = "4W_M_03",
 		NpcNavi = "geffen",
-		NpcPosX = 104,
+		NpcPosX = 103,
 		NpcPosY = 42,
 		RewardEXP = "1500",
 		RewardJEXP = "300",
@@ -20690,7 +20690,7 @@ QuestInfoList = {
 	},
 	[8271] = {
 		Title = "配送消灭害虫药！",
-		Description = { "从梦罗克金字塔的大信万那里领取配送物品，送给斐扬东南地区的动物学家。" },
+		Description = { "从<NAVI>[大信万]<INFO>moc_ruins,173,55</INFO></NAVI>那里领取<ITEM>戴希配送箱<INFO>6218</INFO></ITEM>，送给<NAVI>[动物学家]<INFO>pay_fild07,83,89</INFO></NAVI>。" },
 		Summary = "配送消灭害虫药！",
 		NpcSpr = "4_M_ORIENT02",
 		NpcNavi = "pay_fild07",
@@ -20703,7 +20703,7 @@ QuestInfoList = {
 	},
 	[8272] = {
 		Title = "配送蜂蜜！",
-		Description = { "从梦罗克金字塔的大信万那里领取配送物品，送给圣●卡毕利那修道院西部地区，即普隆德拉东北部地区的昆虫学家。" },
+		Description = { "从<NAVI>[大信万]<INFO>moc_ruins,173,55</INFO></NAVI>那里领取<ITEM>戴希配送箱<INFO>6218</INFO></ITEM>，把<ITEM>蜂蜜<INFO>518</INFO></ITEM>送给<NAVI>[昆虫学家]<INFO>prt_fild03,30,254</INFO></NAVI>。" },
 		Summary = "配送蜂蜜！",
 		NpcSpr = "4_M_01",
 		NpcNavi = "prt_fild03",
@@ -20716,7 +20716,7 @@ QuestInfoList = {
 	},
 	[8273] = {
 		Title = "配送毛毯！",
-		Description = { "从梦罗克金字塔的大信万那里领取配送物品，送给姜饼城南部地区的生物学家。" },
+		Description = { "从<NAVI>[大信万]<INFO>moc_ruins,173,55</INFO></NAVI>那里领取<ITEM>戴希配送箱<INFO>6218</INFO></ITEM>，把毛毯送给<NAVI>[生物学家]<INFO>xmas_fild01,92,57</INFO></NAVI>。" },
 		Summary = "配送毛毯！",
 		NpcSpr = "4W_M_01",
 		NpcNavi = "xmas_fild01",
@@ -20729,8 +20729,8 @@ QuestInfoList = {
 	},
 	[8274] = {
 		Title = "收集遗骨！",
-		Description = { "收集'死人遗骨5个'后交给斐扬的大夏，掉落的怪物：邪骸战士 / 怪物位置：斐扬密穴 1楼等" },
-		Summary = "死人遗骨5个",
+		Description = { "收集<ITEM>死人遗骨<INFO>932</INFO></ITEM>10个后交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>，掉落的怪物：邪骸战士 / 怪物位置：斐扬密穴 1楼等" },
+		Summary = "死人遗骨10个",
 		NpcSpr = "4_M_RACHMAN1",
 		NpcNavi = "payon",
 		NpcPosX = 179,
@@ -20743,8 +20743,8 @@ QuestInfoList = {
 	},
 	[8275] = {
 		Title = "搜集熊掌！",
-		Description = { "搜集“10个熊掌”和“5个动物外皮”，交给斐扬的大夏。熊掌、动物外皮掉落怪物：大脚熊/怪物位置：吉芬北部地区，斐扬东南地区等" },
-		Summary = "搜集10个熊掌和5个动物外皮，交给斐扬的大夏。",
+		Description = { "搜集<ITEM>熊掌<INFO>948</INFO></ITEM>10个和<ITEM>动物外皮<INFO>919</INFO></ITEM>5张，交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>。熊掌、动物外皮掉落怪物：大脚熊/怪物位置：吉芬北部地区，斐扬东南地区等" },
+		Summary = "搜集10个熊掌和5个动物外皮，交给斐扬的达希亚。",
 		NpcSpr = "4_M_RACHMAN1",
 		NpcNavi = "payon",
 		NpcPosX = 179,
@@ -20756,8 +20756,8 @@ QuestInfoList = {
 	},
 	[8276] = {
 		Title = "收集外壳！",
-		Description = { "收集'昆虫外壳20个'和'加勒结晶10个'后交给斐扬的大夏，掉落的怪物：工蚁, 白蚁, 兵蚁等 /怪物位置：蚂蚁地狱密穴 1楼, 2楼等" },
-		Summary = "昆虫外壳20个, 加勒结晶10个",
+		Description = { "收集<ITEM>昆虫外壳<INFO>955</INFO></ITEM>20个和<ITEM>加勒结晶<INFO>910</INFO></ITEM>20个后交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>，掉落的怪物：工蚁, 白蚁, 兵蚁等 /怪物位置：蚂蚁地狱密穴 1楼, 2楼等" },
+		Summary = "昆虫外壳20个, 加勒结晶20个",
 		NpcSpr = "4_M_RACHMAN1",
 		NpcNavi = "payon",
 		NpcPosX = 179,
@@ -20771,9 +20771,9 @@ QuestInfoList = {
 	[8277] = {
 		Title = "搜集尾巴！",
 		Description = {
-			"搜集“10个猴子尾巴”、”10个橡实”和“10片变身叶子”交给斐扬的大夏。猴子尾巴掉落怪物：溜溜猴，橡实掉落怪物：松鼠，变身叶子掉落怪物：狸猫/怪物位置：哎哟泰雅东部地区等"
+			"搜集<ITEM>猴子尾巴<INFO>942</INFO></ITEM>10个、<ITEM>橡实<INFO>1026</INFO></ITEM>10个和<ITEM>变身叶子<INFO>945</INFO></ITEM>10片，交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>。猴子尾巴掉落怪物：溜溜猴，橡实掉落怪物：松鼠，变身叶子掉落怪物：狸猫/怪物位置：哎哟泰雅东部地区等"
 		},
-		Summary = "10个猴子尾巴、10个橡实和10片变身叶子，交给斐扬的大夏。",
+		Summary = "10个猴子尾巴、10个橡实和10片变身叶子，交给斐扬的达希亚。",
 		NpcSpr = "4_M_RACHMAN1",
 		NpcNavi = "payon",
 		NpcPosX = 179,
@@ -20786,8 +20786,8 @@ QuestInfoList = {
 	},
 	[8278] = {
 		Title = "搜集饼干！",
-		Description = { "搜集“5块姜饼”和“1块小蛋糕”交给斐扬的大夏。姜饼掉落怪物：甜饼人，小蛋糕掉落怪物：邪恶礼盒/怪物位置：姜饼城玩具洞穴1楼、2楼等" },
-		Summary = "搜集5块姜饼和1块小蛋糕，交给斐扬的大夏。",
+		Description = { "搜集<ITEM>姜饼<INFO>538</INFO></ITEM>5块和<ITEM>小蛋糕<INFO>539</INFO></ITEM>1块，交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>。姜饼掉落怪物：甜饼人，小蛋糕掉落怪物：邪恶礼盒/怪物位置：姜饼城玩具洞穴1楼、2楼等" },
+		Summary = "搜集5块姜饼和1块小蛋糕，交给斐扬的达希亚。",
 		NpcSpr = "4_M_RACHMAN1",
 		NpcNavi = "payon",
 		NpcPosX = 179,
@@ -20800,8 +20800,8 @@ QuestInfoList = {
 	},
 	[8279] = {
 		Title = "搜集胡子！",
-		Description = { "搜集“5个鼠须”和“3个鼠指甲”交给斐扬的大夏。鼠须、鼠指甲掉落怪物：土拨鼠/怪物位置：废弃矿场迷宫1楼、2楼等" },
-		Summary = "搜集5个鼠须和3个鼠指甲，交给斐扬的大夏。",
+		Description = { "搜集<ITEM>鼠须<INFO>1017</INFO></ITEM>5个和<ITEM>鼠指甲<INFO>1018</INFO></ITEM>3个，交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>。鼠须、鼠指甲掉落怪物：土拨鼠/怪物位置：废弃矿场迷宫1楼、2楼等" },
+		Summary = "搜集5个鼠须和3个鼠指甲，交给斐扬的达希亚。",
 		NpcSpr = "4_M_RACHMAN1",
 		NpcNavi = "payon",
 		NpcPosX = 179,
@@ -33666,9 +33666,9 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[12072] = {
-		Title = "狩猎突变蛙",
-		Description = { "你看到过红色的青蛙吗？那叫突变蛙，是非常稀有的品种。我们正在调查它们的栖息状态，请狩猎20只突变蛙" },
-		Summary = "狩猎20只突变蛙",
+		Title = "狩猎达拉蛙",
+		Description = { "你看到过红色的青蛙吗？那叫达拉蛙，是非常稀有的品种。我们正在调查它们的栖息状态，请狩猎20只达拉蛙" },
+		Summary = "狩猎20只达拉蛙",
 		NpcSpr = "4_BOARD3",
 		NpcNavi = "moc_para01",
 		NpcPosX = 40,
