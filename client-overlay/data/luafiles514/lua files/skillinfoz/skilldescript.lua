@@ -2442,7 +2442,7 @@ SKILL_DESCRIPT = {
 		"[等级10]:^777777反击ATK400%，施毒次数:5次^000000"
 	},
 	[SKID.AS_VENOMDUST] = {
-		"病毒散播(Venom Dust)",
+		"病毒散播",
 		"最高等级:10",
 		"^777777习得条件:涂毒 5^000000",
 		"系列:^993300主动^000000",
@@ -2546,7 +2546,7 @@ SKILL_DESCRIPT = {
 		"冲锋箭的基本射程为9格。^000000"
 	},
 	[SKID.TF_SPRINKLESAND] = {
-		"喷沙",
+		"喷砂",
 		"^777777习得条件:完成任务^000000",
 		"系列:^993300主动^000000",
 		"类型:^777777近距离物理^000000",
@@ -2886,7 +2886,7 @@ SKILL_DESCRIPT = {
 		"[等级10]:^777777可记忆Lv.10、攻击速度增加:10%^000000"
 	},
 	[SKID.AM_AXEMASTERY] = {
-		"斧头和单手剑使用熟练度(Axe Mastery)",
+		"斧头和单手剑使用熟练度",
 		"最高等级:10",
 		"系列:^000099被动^000000",
 		"内容:^777777用斧头或单手剑攻击敌人时，物理伤害加计技能等级的伤害增加量。^000000",
@@ -3965,7 +3965,7 @@ SKILL_DESCRIPT = {
 	[SKID.SA_TAMINGMONSTER] = { "认养宠物", "类型:主动技能", "目标:敌人1名", "效能:若目标是可认养的宠物，就会认养该宠物。", "其他:仅能用随机技能才能实现的技能。" },
 	[SKID.SA_QUESTION] = { "问号", "种类:主动技能", "对象:敌人 1人", "效能:对象会显示‘ ? ’的图释，然后不会发生任何事情。", "其他:只能在随机技能时，所开放的技能" },
 	[SKID.SA_GRAVITY] = {
-		"GRAVITY",
+		"重力社",
 		"种类:主动技能",
 		"对象:对自己自动使用",
 		"效能:在对象的头上方会出现图释，图释是(株)GRAVITY的图案。",
@@ -4784,7 +4784,7 @@ SKILL_DESCRIPT = {
 		"若有装备远距离武器系列时，就不会受到该效果。^000000"
 	},
 	[SKID.WE_MALE] = {
-		"只呵护你(I'll save you)",
+		"只呵护你",
 		"最高等级:1",
 		"^777777习得条件:结婚、戴上婚戒^000000",
 		"系列:^993300主动^000000",
@@ -4918,7 +4918,7 @@ SKILL_DESCRIPT = {
 		"[等级5]:^777777HIT+50、ATK+15%、防御力-15%^000000"
 	},
 	[SKID.LK_TENSIONRELAX] = {
-		"极速回复(Tension Relax)",
+		"极速回复",
 		"最高等级:1",
 		"^777777习得条件:挑衅 5、HP快速恢复 10、霸体 3^000000",
 		"系列:^993300主动^000000",
@@ -5549,10 +5549,10 @@ SKILL_DESCRIPT = {
 		"[等级10]:^777777持续时间60秒^000000"
 	},
 	[SKID.WS_CREATECOIN] = {
-		"Coin Craft"
+		"金钱铸造"
 	},
 	[SKID.WS_CREATENUGGET] = {
-		"Nugget Craft"
+		"金属块制造"
 	},
 	[SKID.WS_CARTBOOST] = {
 		"手推车加速(Cart Boost)",
@@ -5601,7 +5601,7 @@ SKILL_DESCRIPT = {
 	},
 	[SKID.ST_STEALBACKPACK] = {},
 	[SKID.CR_ALCHEMY] = {
-		"Alchemy",
+		"融合试验",
 		"Max Level: 5",
 		"Skill Form: ^3F0099Active^000000",
 		"Description: ^ee0000 This skill has been dropped by",
@@ -5611,7 +5611,7 @@ SKILL_DESCRIPT = {
 		"Empty Potion Bottles and Test Tubes.^000000"
 	},
 	[SKID.CR_SYNTHESISPOTION] = {
-		"Synthesis Potion",
+		"药剂试验",
 		"Max Level: Unknown",
 		"Skill Form: ^3F0099Active^000000",
 		"Description: ^ee0000 This skill has been dropped by",
@@ -10038,7 +10038,7 @@ SKILL_DESCRIPT = {
 		"^777777技能后延迟(共通延迟)0.5秒^000000"
 	},
 	[SKID.WM_DOMINION_IMPULSE] = {
-		"Dominion Impulse",
+		"支配动力",
 		"Max Level: 1",
 		"^CC3399Requirement: Reverberation 1^000000",
 		"Skill Form: ^3F0099Active^000000",
@@ -11203,7 +11203,7 @@ SKILL_DESCRIPT = {
 		"内容:^777777可使敌人与敌人间互相撞击后，进行一网打尽的攻击。^000000"
 	},
 	[SKID.MS_PARRYING] = {
-		" ",
+		"双剑格挡",
 		"双剑格挡",
 		"系列:^777777辅助^000000",
 		"内容:^777777将敌人的攻击以剑阻挡，若能成功的阻挡时，虽不会受到伤害，但会取消一次攻击。^000000",
@@ -12519,12 +12519,12 @@ SKILL_DESCRIPT = {
 	[SKID.GM_ITEM_MATKMAX] = { "魔法道具攻击力最大", "最高等级:1", "内容:^777777魔法道具攻击力最大^000000" },
 	[SKID.GM_ITEM_MATKMIN] = { "魔法道具攻击力最小", "最高等级:1", "内容:^777777魔法道具攻击力最小^000000" },
 	[SKID.MER_INVINCIBLEOFF2] = {
-		"Mind Blaster",
+		"心灵净化",
 		"Max Level: 1",
 		"Description: ^777777Disconnect the follers and Devil King's connection to invalidate the Blessing of Masin. Shooting range 2 cells^000000"
 	},
 	[SKID.BA_POEMBRAGI2] = {
-		"A Poem of Bragi",
+		"布莱奇之诗",
 		"Max Level: 10",
 		"^CC3399Requirement: Unchained Serenade 3^000000",
 		"Skill Form: ^777777Attack^000000",
@@ -12532,7 +12532,7 @@ SKILL_DESCRIPT = {
 		"Description: ^777777Gives a fixed damage to enemies within range at regular intervals.^000000"
 	},
 	[SKID.DC_FORTUNEKISS2] = {
-		"Fortune's kiss",
+		"女神之吻",
 		"Max Level: 10",
 		"^CC3399Requirement: Ugly Dance 3^000000",
 		"Type: ^339900Supportive^000000",
@@ -12540,7 +12540,7 @@ SKILL_DESCRIPT = {
 		"Description: ^777777Increases the chance to hit Critical.^000000"
 	},
 	[SKID.GM_FORCE_TRANSFER] = {
-		"Force Transfer",
+		"转移力量",
 		"Max Level: 1",
 		"Description:^000000"
 	},
@@ -12556,7 +12556,7 @@ SKILL_DESCRIPT = {
 		"[等级5]:^777777仓库格数600个^000000"
 	},
 	[SKID.GM_WIDE_RESURRECTION] = {
-		"Wide Resurrection",
+		"广泛复活术",
 		"Skill Form: ^000099Active^000000",
 		"Target^777777: Dead Player^000000",
 		"Description: ^777777Revives All Players around",
@@ -12570,7 +12570,7 @@ SKILL_DESCRIPT = {
 		"^777777变动咏唱1秒^000000"
 	},
 	[SKID.ALL_THANATOS_RECALL] = {
-		"Return to Thanatos",
+		"返回达纳托斯",
 		"Max Level: 1",
 		"Type: ^339900Supportive^000000",
 		"Description^777777: Teleports to Thanatos",
@@ -18138,7 +18138,7 @@ SKILL_DESCRIPT = {
 		"^777777技能后延迟(共通延迟)0.5秒^000000"
 	},
 	[SKID.GM_AP_HEAL] = {
-		"Activity Heal",
+		"活跃治愈术",
 		"Max Level: 1",
 		"Skill Form: ^3F0099Active^000000",
 		"Type: ^339900Recovery^000000",

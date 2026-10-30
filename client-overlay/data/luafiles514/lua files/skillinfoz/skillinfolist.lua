@@ -2256,7 +2256,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_TWILIGHT1] = {
 		"AM_TWILIGHT1",
-		SkillName = "宽广配药",
+		SkillName = "宽广配药1",
 		MaxLv = 1,
 		Type = "Soul",
 		SpAmount = { 200 },
@@ -2268,7 +2268,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_TWILIGHT2] = {
 		"AM_TWILIGHT2",
-		SkillName = "宽广配药",
+		SkillName = "宽广配药2",
 		MaxLv = 1,
 		Type = "Soul",
 		SpAmount = { 200 },
@@ -2280,7 +2280,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_TWILIGHT3] = {
 		"AM_TWILIGHT3",
-		SkillName = "宽广配药",
+		SkillName = "宽广配药3",
 		MaxLv = 1,
 		Type = "Soul",
 		SpAmount = { 200 },
@@ -5221,7 +5221,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ALL_BUYING_STORE] = {
 		"ALL_BUYING_STORE",
-		SkillName = "开设购买商店(BUYING STORE)",
+		SkillName = "开设采购商店",
 		MaxLv = 2,
 		SpAmount = { 30, 30 },
 		bSeperateLv = false,
@@ -5582,7 +5582,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BS_SWORD] = {
 		"BS_SWORD",
-		SkillName = "剑制作",
+		SkillName = "单手剑制作",
 		MaxLv = 3,
 		SpAmount = { 0, 0, 0 },
 		bSeperateLv = false,
@@ -5794,7 +5794,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BS_MAXIMIZE] = {
 		"BS_MAXIMIZE",
-		SkillName = "极限攻击",
+		SkillName = "武器值最大化",
 		MaxLv = 5,
 		SpAmount = { 10, 10, 10, 10, 10 },
 		bSeperateLv = false,
@@ -6425,7 +6425,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AS_VENOMDUST] = {
 		"AS_VENOMDUST",
-		SkillName = "病毒散拨",
+		SkillName = "病毒散播",
 		MaxLv = 10,
 		SpAmount = { 20, 20, 20, 20, 20, 20, 20, 20, 20, 20 },
 		bSeperateLv = false,
@@ -6502,7 +6502,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_F_SIDESLIDE] = {
 		"NC_F_SIDESLIDE",
-		SkillName = "大步前进、前侧滑行",
+		SkillName = "大步前进",
 		MaxLv = 1,
 		SpAmount = { 5 },
 		bSeperateLv = false,
@@ -7357,7 +7357,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AM_AXEMASTERY] = {
 		"AM_AXEMASTERY",
-		SkillName = "斧头使用熟练度",
+		SkillName = "斧头和单手剑使用熟练度",
 		MaxLv = 10,
 		SpAmount = { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -7375,7 +7375,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.GD_APPROVAL] = {
 		"GD_APPROVAL",
-		SkillName = "正式工会认证",
+		SkillName = "正式公会认证",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,
@@ -7821,7 +7821,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SA_CREATECON] = {
 		"SA_CREATECON",
-		SkillName = "元素肯贝特制作",
+		SkillName = "元素卷轴制作",
 		MaxLv = 1,
 		Type = "Quest",
 		SpAmount = { 30 },
@@ -9026,7 +9026,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_B_SIDESLIDE] = {
 		"NC_B_SIDESLIDE",
-		SkillName = "大步后退、后侧滑行",
+		SkillName = "大步后退",
 		MaxLv = 1,
 		SpAmount = { 5 },
 		bSeperateLv = false,
@@ -9071,7 +9071,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_SILVERSNIPER] = {
 		"NC_SILVERSNIPER",
-		SkillName = "FAW银光狙击手",
+		SkillName = "FAW银光狙击手-银光狙击手",
 		MaxLv = 5,
 		SpAmount = { 25, 30, 35, 40, 45 },
 		bSeperateLv = true,
@@ -9477,7 +9477,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SO_SUMMON_AGNI] = {
 		"SO_SUMMON_AGNI",
-		SkillName = "召唤火元素",
+		SkillName = "召唤火精灵阿格尼",
 		MaxLv = 3,
 		SpAmount = { 100, 150, 200 },
 		bSeperateLv = true,
@@ -10036,7 +10036,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NC_MAGICDECOY] = {
 		"NC_MAGICDECOY",
-		SkillName = "FAW魔法傀儡",
+		SkillName = "FAW魔法傀儡-魔法傀儡",
 		MaxLv = 5,
 		SpAmount = { 40, 45, 50, 55, 60 },
 		bSeperateLv = true,
@@ -10047,7 +10047,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WE_MALE] = {
 		"WE_MALE",
-		SkillName = "只呵护妳",
+		SkillName = "只呵护你",
 		MaxLv = 1,
 		SpAmount = { 1 },
 		bSeperateLv = false,
@@ -10407,7 +10407,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WL_RECOGNIZEDSPELL] = {
 		"WL_RECOGNIZEDSPELL",
-		SkillName = "魔法醒悟",
+		SkillName = "魔法省悟",
 		MaxLv = 5,
 		SpAmount = { 100, 120, 140, 160, 180 },
 		bSeperateLv = true,
@@ -10571,7 +10571,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.LK_TENSIONRELAX] = {
 		"LK_TENSIONRELAX",
-		SkillName = "极速恢复",
+		SkillName = "极速回复",
 		MaxLv = 1,
 		SpAmount = { 15 },
 		bSeperateLv = false,
@@ -11731,7 +11731,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SU_BASIC_SKILL] = {
 		"SU_BASIC_SKILL",
-		SkillName = "新基础技能",
+		SkillName = "新基本技能",
 		MaxLv = 1,
 		SpAmount = { 0 },
 		bSeperateLv = false,

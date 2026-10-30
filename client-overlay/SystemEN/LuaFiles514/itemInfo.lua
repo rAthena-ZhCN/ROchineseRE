@@ -427639,10 +427639,10 @@ tbl = {
 	[310006] = {
 		unidentifiedDisplayName = "神工匠石II(头下)",
 		unidentifiedResourceName = "惑牢乔痹绢",
-		unidentifiedDescriptionName = { "极限攻击每+1级时，远程物理伤害+1%。" },
+		unidentifiedDescriptionName = { "武器值最大化每+1级时，远程物理伤害+1%。" },
 		identifiedDisplayName = "神工匠石II(头下)",
 		identifiedResourceName = "惑牢乔痹绢",
-		identifiedDescriptionName = { "极限攻击每+1级时，远程物理伤害+1%。" },
+		identifiedDescriptionName = { "武器值最大化每+1级时，远程物理伤害+1%。" },
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -548574,7 +548574,7 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"唤醒神工匠潜能的石头",
 			"时装头下洞上赋予以下能力值。",
-			"极限攻击每+1级时，远程物理伤害+1%。",
+			"武器值最大化每+1级时，远程物理伤害+1%。",
 			"^ffffff<NAVI>^4D4DFF[阿维尔 道旭]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
 			"重量: ^77777710^000000"
 		},
@@ -548583,7 +548583,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"唤醒神工匠潜能的石头",
 			"时装头下洞上赋予以下能力值。",
-			"极限攻击每+1级时，远程物理伤害+1%。",
+			"武器值最大化每+1级时，远程物理伤害+1%。",
 			"^ffffff<NAVI>^4D4DFF[阿维尔 道旭]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000",
 			"重量: ^77777710^000000"
 		},
