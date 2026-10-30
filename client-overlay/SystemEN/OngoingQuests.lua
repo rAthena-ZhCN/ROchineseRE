@@ -5390,18 +5390,30 @@ QuestInfoList = {
 	},
 	[3250] = {
 		Title = "委托–何种用途的绷带呢？",
-		Description = { "从委托处接受的任务。狩猎在金字塔等地出没的木乃伊30只以上，搜集腐烂绷带20个以上。" },
-		Summary = "消灭30只木乃伊，搜集20个腐烂绷带"
+		Description = { "从委托处接受的任务。狩猎在金字塔等地出没的木乃伊30只以上，搜集<ITEM>腐烂绷带<INFO>930</INFO></ITEM>30个以上。" },
+		Summary = "消灭30只木乃伊，搜集30个腐烂绷带",
+		NpcSpr = "",
+		NpcNavi = "",
+		NpcPosX = 42,
+		NpcPosY = 38
 	},
 	[3251] = {
 		Title = "委托-反击的鳄鱼",
 		Description = { "从委托处接受的任务。消灭在克魔岛村附近的沼泽中出没的鳄鱼人30个。" },
-		Summary = "消灭30个鳄鱼人"
+		Summary = "消灭30个鳄鱼人",
+		NpcSpr = "",
+		NpcNavi = "",
+		NpcPosX = 42,
+		NpcPosY = 38
 	},
 	[3252] = {
 		Title = "委托-我的美人鱼是不会这样的！",
 		Description = { "从委托处接受的任务。消灭在依斯鲁得岛迷宫附近出没的人鱼士兵30个以上。" },
-		Summary = "消灭30个人鱼士兵"
+		Summary = "消灭30个人鱼士兵",
+		NpcSpr = "",
+		NpcNavi = "",
+		NpcPosX = 42,
+		NpcPosY = 38
 	},
 	[3253] = {
 		Title = "委托-失踪的超自然狂热份子",
@@ -5410,53 +5422,93 @@ QuestInfoList = {
 	},
 	[3254] = {
 		Title = "委托–国家在召唤你",
-		Description = { "从委托处接受的任务。搜集10个黄晶沙和30个黄玉碎片。" },
-		Summary = "搜集10个黄晶沙和30个黄玉碎片"
+		Description = { "从委托处接受的任务。搜集10个<ITEM>黄晶沙<INFO>7043</INFO></ITEM>和30个<ITEM>黄玉碎片<INFO>1056</INFO></ITEM>。" },
+		Summary = "搜集10个<ITEM>黄晶沙<INFO>7043</INFO></ITEM>和30个<ITEM>黄玉碎片<INFO>1056</INFO></ITEM>",
+		NpcSpr = "",
+		NpcNavi = "",
+		NpcPosX = 42,
+		NpcPosY = 38
 	},
 	[3255] = {
 		Title = "委托-讨伐野猪作战",
 		Description = { "从委托处接受的任务。消灭在斐扬附近地区出没的30个野猪。" },
-		Summary = "消灭30个野猪"
+		Summary = "消灭30个野猪",
+		NpcSpr = "",
+		NpcNavi = "",
+		NpcPosX = 42,
+		NpcPosY = 38
 	},
 	[3256] = {
 		Title = "委托-等待夏天的准备",
-		Description = { "从委托处接受的任务。搜集从达拉蛙等怪物身上可以获得的粘糊的蹼30个以上。" },
-		Summary = "搜集30个粘糊的蹼"
+		Description = { "从委托处接受的任务。搜集从达拉蛙等怪物身上可以获得的<ITEM>粘糊的蹼<INFO>918</INFO></ITEM>30个以上。" },
+		Summary = "搜集30个粘糊的蹼",
+		NpcSpr = "",
+		NpcNavi = "",
+		NpcPosX = 42,
+		NpcPosY = 38
 	},
 	[3257] = {
 		Title = "委托-女人的怨恨",
 		Description = { "从委托处接受的任务。消灭在斐扬迷宫出没的鬼女30只以上。" },
-		Summary = "消灭30只"
+		Summary = "消灭30只鬼女",
+		NpcSpr = "",
+		NpcNavi = "",
+		NpcPosX = 42,
+		NpcPosY = 38
 	},
 	[3258] = {
 		Title = "委托-美味的材料",
-		Description = { "从委托处接受的任务。搜集巨大叶子40片以上。巨大叶子好像可以在哎哟泰雅迷宫的群叶猫那里获得。" },
-		Summary = "搜集40片巨大叶子"
+		Description = { "从委托处接受的任务。搜集<ITEM>巨大叶子<INFO>7198</INFO></ITEM>40片以上。巨大叶子好像可以在哎哟泰雅迷宫的群叶猫那里获得。" },
+		Summary = "搜集40片巨大叶子",
+		NpcSpr = "",
+		NpcNavi = "",
+		NpcPosX = 42,
+		NpcPosY = 38
 	},
 	[3259] = {
 		Title = "委托-皮偶师的烦恼",
-		Description = { "从委托处接受的任务。消灭在吉芬迷宫、遇难船等地出没的傀儡娃娃30个以上，并搜集30个金发。" },
-		Summary = "消灭30个傀儡娃娃，搜集30个金发"
+		Description = { "从委托处接受的任务。消灭在吉芬迷宫、遇难船等地出没的傀儡娃娃30个以上，并搜集30个<ITEM>金色头发<INFO>1060</INFO></ITEM>。" },
+		Summary = "消灭30个傀儡娃娃，搜集30个金色头发",
+		NpcSpr = "",
+		NpcNavi = "",
+		NpcPosX = 42,
+		NpcPosY = 38
 	},
 	[3260] = {
 		Title = "委托-令人厌恶的苍蝇群",
 		Description = { "从委托处接受的任务。消灭在吉芬迷宫等地出没的赤苍蝇30只以上。" },
-		Summary = "消灭30只赤苍蝇"
+		Summary = "消灭30只赤苍蝇",
+		NpcSpr = "",
+		NpcNavi = "",
+		NpcPosX = 42,
+		NpcPosY = 38
 	},
 	[3261] = {
 		Title = "委托-不良少女",
 		Description = { "从委托处接受的任务。消灭在斐扬迷宫等地出现的僵尸30个以上。" },
-		Summary = "消灭30个僵尸"
+		Summary = "消灭30个僵尸",
+		NpcSpr = "",
+		NpcNavi = "",
+		NpcPosX = 42,
+		NpcPosY = 38
 	},
 	[3262] = {
 		Title = "委托–奇怪的兴趣",
-		Description = { "从委托处接受的任务。搜集噬人树花40朵以上。噬人树花可以从植物型怪物身上获得，在克魔岛南部的噬人花身上好像更容易找到。" },
-		Summary = "搜集40朵噬人树花"
+		Description = { "从委托处接受的任务。搜集<ITEM>噬人树花<INFO>1032</INFO></ITEM>40朵以上。噬人树花可以从植物型怪物身上获得，在克魔岛南部的噬人花身上好像更容易找到。" },
+		Summary = "搜集40朵噬人树花",
+		NpcSpr = "",
+		NpcNavi = "",
+		NpcPosX = 42,
+		NpcPosY = 38
 	},
 	[3263] = {
 		Title = "委托–小妖锤",
-		Description = { "从委托处接受的任务。搜集30个土人之角和30个竹筒。好像捕捉在斐扬迷宫等地出没的土人和将军魔碑等怪物可以获得。" },
-		Summary = "搜集30个土人之角和30个竹筒"
+		Description = { "从委托处接受的任务。搜集30个<ITEM>土人之角<INFO>1021</INFO></ITEM>和30个<ITEM>玛哪树枝<INFO>1019</INFO></ITEM>。好像捕捉在斐扬迷宫等地出没的土人和将军魔碑等怪物可以获得。" },
+		Summary = "搜集30个<ITEM>土人之角<INFO>1021</INFO></ITEM>和30个<ITEM>玛哪树枝<INFO>1019</INFO></ITEM>",
+		NpcSpr = "",
+		NpcNavi = "",
+		NpcPosX = 42,
+		NpcPosY = 38
 	},
 	[3265] = {
 		Title = "委托-失踪的超自然狂热份子",
