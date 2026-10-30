@@ -5395,7 +5395,7 @@ QuestInfoList = {
 		NpcSpr = "4_BOARD3",
 		NpcNavi = "moc_para01",
 		NpcPosX = 42,
-		NpcPosY = 38
+		NpcPosY = 36
 	},
 	[3251] = {
 		Title = "委托-反击的鳄鱼",
@@ -5404,7 +5404,7 @@ QuestInfoList = {
 		NpcSpr = "4_BOARD3",
 		NpcNavi = "moc_para01",
 		NpcPosX = 42,
-		NpcPosY = 38
+		NpcPosY = 36
 	},
 	[3252] = {
 		Title = "委托-我的美人鱼是不会这样的！",
@@ -5413,7 +5413,7 @@ QuestInfoList = {
 		NpcSpr = "4_BOARD3",
 		NpcNavi = "moc_para01",
 		NpcPosX = 42,
-		NpcPosY = 38
+		NpcPosY = 36
 	},
 	[3253] = {
 		Title = "委托-失踪的超自然狂热份子",
@@ -5427,7 +5427,7 @@ QuestInfoList = {
 		NpcSpr = "4_BOARD3",
 		NpcNavi = "moc_para01",
 		NpcPosX = 42,
-		NpcPosY = 38
+		NpcPosY = 36
 	},
 	[3255] = {
 		Title = "委托-讨伐野猪作战",
@@ -5436,7 +5436,7 @@ QuestInfoList = {
 		NpcSpr = "4_BOARD3",
 		NpcNavi = "moc_para01",
 		NpcPosX = 42,
-		NpcPosY = 38
+		NpcPosY = 36
 	},
 	[3256] = {
 		Title = "委托-等待夏天的准备",
@@ -5445,7 +5445,7 @@ QuestInfoList = {
 		NpcSpr = "4_BOARD3",
 		NpcNavi = "moc_para01",
 		NpcPosX = 42,
-		NpcPosY = 38
+		NpcPosY = 36
 	},
 	[3257] = {
 		Title = "委托-女人的怨恨",
@@ -5454,7 +5454,7 @@ QuestInfoList = {
 		NpcSpr = "4_BOARD3",
 		NpcNavi = "moc_para01",
 		NpcPosX = 42,
-		NpcPosY = 38
+		NpcPosY = 36
 	},
 	[3258] = {
 		Title = "委托-美味的材料",
@@ -5463,7 +5463,7 @@ QuestInfoList = {
 		NpcSpr = "4_BOARD3",
 		NpcNavi = "moc_para01",
 		NpcPosX = 42,
-		NpcPosY = 38
+		NpcPosY = 36
 	},
 	[3259] = {
 		Title = "委托-皮偶师的烦恼",
@@ -5472,7 +5472,7 @@ QuestInfoList = {
 		NpcSpr = "4_BOARD3",
 		NpcNavi = "moc_para01",
 		NpcPosX = 42,
-		NpcPosY = 38
+		NpcPosY = 36
 	},
 	[3260] = {
 		Title = "委托-令人厌恶的苍蝇群",
@@ -5481,7 +5481,7 @@ QuestInfoList = {
 		NpcSpr = "4_BOARD3",
 		NpcNavi = "moc_para01",
 		NpcPosX = 42,
-		NpcPosY = 38
+		NpcPosY = 36
 	},
 	[3261] = {
 		Title = "委托-不良少女",
@@ -5490,7 +5490,7 @@ QuestInfoList = {
 		NpcSpr = "4_BOARD3",
 		NpcNavi = "moc_para01",
 		NpcPosX = 42,
-		NpcPosY = 38
+		NpcPosY = 36
 	},
 	[3262] = {
 		Title = "委托–奇怪的兴趣",
@@ -5499,7 +5499,7 @@ QuestInfoList = {
 		NpcSpr = "4_BOARD3",
 		NpcNavi = "moc_para01",
 		NpcPosX = 42,
-		NpcPosY = 38
+		NpcPosY = 36
 	},
 	[3263] = {
 		Title = "委托–小妖锤",
@@ -5508,7 +5508,7 @@ QuestInfoList = {
 		NpcSpr = "4_BOARD3",
 		NpcNavi = "moc_para01",
 		NpcPosX = 42,
-		NpcPosY = 38
+		NpcPosY = 36
 	},
 	[3265] = {
 		Title = "委托-失踪的超自然狂热份子",
