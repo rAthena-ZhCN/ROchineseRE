@@ -16726,49 +16726,49 @@ QuestInfoList = {
     [8271] = {
 		Title = "配送消灭害虫药！",
 		Description = { "从<NAVI>[大信万]<INFO>moc_ruins,173,55</INFO></NAVI>那里领取<ITEM>戴希配送箱<INFO>6218</INFO></ITEM>，送给<NAVI>[动物学家]<INFO>pay_fild07,83,89</INFO></NAVI>。" },
-		Summary = "配送消灭害虫药！"
+		Summary = "从<NAVI>[大信万]<INFO>moc_ruins,173,55</INFO></NAVI>领取<ITEM>戴希配送箱<INFO>6218</INFO></ITEM>，送给<NAVI>[动物学家]<INFO>pay_fild07,83,89</INFO></NAVI>。"
 	},
     [8272] = {
 		Title = "配送蜂蜜！",
 		Description = { "从<NAVI>[大信万]<INFO>moc_ruins,173,55</INFO></NAVI>那里领取<ITEM>戴希配送箱<INFO>6218</INFO></ITEM>，把<ITEM>蜂蜜<INFO>518</INFO></ITEM>送给<NAVI>[昆虫学家]<INFO>prt_fild03,30,254</INFO></NAVI>。" },
-		Summary = "配送蜂蜜！"
+		Summary = "从<NAVI>[大信万]<INFO>moc_ruins,173,55</INFO></NAVI>领取<ITEM>戴希配送箱<INFO>6218</INFO></ITEM>，把<ITEM>蜂蜜<INFO>518</INFO></ITEM>送给<NAVI>[昆虫学家]<INFO>prt_fild03,30,254</INFO></NAVI>。"
 	},
     [8273] = {
 		Title = "配送毛毯！",
 		Description = { "从<NAVI>[大信万]<INFO>moc_ruins,173,55</INFO></NAVI>那里领取<ITEM>戴希配送箱<INFO>6218</INFO></ITEM>，把毛毯送给<NAVI>[生物学家]<INFO>xmas_fild01,92,57</INFO></NAVI>。" },
-		Summary = "配送毛毯！"
+		Summary = "从<NAVI>[大信万]<INFO>moc_ruins,173,55</INFO></NAVI>领取<ITEM>戴希配送箱<INFO>6218</INFO></ITEM>，把毛毯送给<NAVI>[生物学家]<INFO>xmas_fild01,92,57</INFO></NAVI>。"
 	},
     [8274] = {
 		Title = "收集遗骨！",
 		Description = { "收集<ITEM>死人遗骨<INFO>932</INFO></ITEM>10个后交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>，掉落的怪物：邪骸战士 / 怪物位置：斐扬密穴 1楼等" },
-		Summary = "死人遗骨10个"
+		Summary = "<ITEM>死人遗骨<INFO>932</INFO></ITEM>10个，交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>"
 	},
     [8275] = {
 		Title = "搜集熊掌！",
 		Description = { "搜集<ITEM>熊掌<INFO>948</INFO></ITEM>10个和<ITEM>动物外皮<INFO>919</INFO></ITEM>5张，交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>。熊掌、动物外皮掉落怪物：大脚熊/怪物位置：吉芬北部地区，斐扬东南地区等" },
-		Summary = "搜集10个熊掌和5个动物外皮，交给斐扬的达希亚。"
+		Summary = "<ITEM>熊掌<INFO>948</INFO></ITEM>10个、<ITEM>动物外皮<INFO>919</INFO></ITEM>5张，交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>。"
 	},
     [8276] = {
 		Title = "收集外壳！",
 		Description = { "收集<ITEM>昆虫外壳<INFO>955</INFO></ITEM>20个和<ITEM>加勒结晶<INFO>910</INFO></ITEM>20个后交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>，掉落的怪物：工蚁, 白蚁, 兵蚁等 /怪物位置：蚂蚁地狱密穴 1楼, 2楼等" },
-		Summary = "昆虫外壳20个, 加勒结晶20个"
+		Summary = "<ITEM>昆虫外壳<INFO>955</INFO></ITEM>20个、<ITEM>加勒结晶<INFO>910</INFO></ITEM>20个，交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>"
 	},
     [8277] = {
 		Title = "搜集尾巴！",
 		Description = {
 			"搜集<ITEM>猴子尾巴<INFO>942</INFO></ITEM>10个、<ITEM>橡实<INFO>1026</INFO></ITEM>10个和<ITEM>变身叶子<INFO>945</INFO></ITEM>10片，交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>。猴子尾巴掉落怪物：溜溜猴，橡实掉落怪物：松鼠，变身叶子掉落怪物：狸猫/怪物位置：哎哟泰雅东部地区等"
 		},
-		Summary = "10个猴子尾巴、10个橡实和10片变身叶子，交给斐扬的达希亚。"
+		Summary = "<ITEM>猴子尾巴<INFO>942</INFO></ITEM>10个、<ITEM>橡实<INFO>1026</INFO></ITEM>10个、<ITEM>变身叶子<INFO>945</INFO></ITEM>10片，交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>。"
 	},
     [8278] = {
 		Title = "搜集饼干！",
 		Description = { "搜集<ITEM>姜饼<INFO>538</INFO></ITEM>5块和<ITEM>小蛋糕<INFO>539</INFO></ITEM>1块，交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>。姜饼掉落怪物：甜饼人，小蛋糕掉落怪物：邪恶礼盒/怪物位置：姜饼城玩具洞穴1楼、2楼等" },
-		Summary = "搜集5块姜饼和1块小蛋糕，交给斐扬的达希亚。"
+		Summary = "<ITEM>姜饼<INFO>538</INFO></ITEM>5块、<ITEM>小蛋糕<INFO>539</INFO></ITEM>1块，交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>。"
 	},
     [8279] = {
 		Title = "搜集胡子！",
 		Description = { "搜集<ITEM>鼠须<INFO>1017</INFO></ITEM>5个和<ITEM>鼠指甲<INFO>1018</INFO></ITEM>3个，交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>。鼠须、鼠指甲掉落怪物：土拨鼠/怪物位置：废弃矿场迷宫1楼、2楼等" },
-		Summary = "搜集5个鼠须和3个鼠指甲，交给斐扬的达希亚。"
+		Summary = "<ITEM>鼠须<INFO>1017</INFO></ITEM>5个、<ITEM>鼠指甲<INFO>1018</INFO></ITEM>3个，交给<NAVI>[达希亚]<INFO>payon,179,66</INFO></NAVI>。"
 	},
     [8280] = {
 		Title = "我跟铃铛八字不合",
