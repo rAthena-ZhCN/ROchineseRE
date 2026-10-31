@@ -1352,8 +1352,8 @@ QuestInfoList = {
 		Summary = "去见克伦度"
 	},
 	[1304] = {
-		Title = "赞助品的行踪-艾尔帕兰",
-		Description = { "去艾尔帕兰询问调味料商人 阿斯卡勒关于要赞助的砂糖。" },
+		Title = "赞助品的行踪-阿尔德巴兰",
+		Description = { "去阿尔德巴兰询问调味料商人 阿斯卡勒关于要赞助的砂糖。" },
 		Summary = "去见阿斯卡勒"
 	},
 	[1305] = {
@@ -1407,9 +1407,9 @@ QuestInfoList = {
 		Summary = "交给艾尔贝塔 志工指定物品"
 	},
 	[1315] = {
-		Title = "在艾尔帕兰分享温情",
-		Description = { "把热红酒 1个和木柴 3个交给爱心分享艾尔帕兰的志工。" },
-		Summary = "交给艾尔帕兰 志工指定物品"
+		Title = "在阿尔德巴兰分享温情",
+		Description = { "把热红酒 1个和木柴 3个交给爱心分享阿尔德巴兰的志工。" },
+		Summary = "交给阿尔德巴兰 志工指定物品"
 	},
 	[1316] = {
 		Title = "在普隆德拉分享温情",
@@ -2807,13 +2807,13 @@ QuestInfoList = {
 	[2008] = {
 		Title = "铁匠转职",
 		IconName = "ico_jq.bmp",
-		Description = { "咻呜，东西做好了，请把这言灵魔杖交给卢恩·米德加兹王国吉芬的巴伊斯里特后，给我收据即可" },
+		Description = { "咻呜，东西做好了，请把这言灵魔杖交给卢恩-米德加尔特王国吉芬的巴伊斯里特后，给我收据即可" },
 		Summary = "把言灵魔杖交给吉芬的巴伊斯里特"
 	},
 	[2009] = {
 		Title = "铁匠转职",
 		IconName = "ico_jq.bmp",
-		Description = { "咻呜，东西已完成了，请你把这长柄短剑交给卢恩·米德加兹王国梦罗克的修咖巴殷后，给我收据即可" },
+		Description = { "咻呜，东西已完成了，请你把这长柄短剑交给卢恩-米德加尔特王国梦罗克的修咖巴殷后，给我收据即可" },
 		Summary = "把长柄短剑交给梦罗克的修咖巴殷"
 	},
 	[2010] = {
@@ -2825,7 +2825,7 @@ QuestInfoList = {
 	[2011] = {
 		Title = "铁匠转职",
 		IconName = "ico_jq.bmp",
-		Description = { "咻呜，东西已完成了，请你把这埃布尔雷弓交给卢恩·米德加兹王国斐扬的铁痞子后，给我收据即可" },
+		Description = { "咻呜，东西已完成了，请你把这埃布尔雷弓交给卢恩-米德加尔特王国斐扬的铁痞子后，给我收据即可" },
 		Summary = "把埃布尔雷弓交给斐扬的铁痞子"
 	},
 	[2012] = {
@@ -3568,19 +3568,19 @@ QuestInfoList = {
 	[2179] = {
 		Title = "继续的研究",
 		IconName = "ico_ep.bmp",
-		Description = { "马努克的科学家李贝加德或需要米德加尔特的矿石，说那种矿石可以用探测仪在卢恩·米德加兹王国的？尔尼山脉找到。" },
+		Description = { "马努克的科学家李贝加德或需要米德加尔特的矿石，说那种矿石可以用探测仪在卢恩-米德加尔特王国的？尔尼山脉找到。" },
 		Summary = "10个未经精炼的矿石"
 	},
 	[2180] = {
 		Title = "继续的研究",
 		IconName = "ico_ep.bmp",
-		Description = { "马努克的科学家李贝加德或需要米德加尔特的矿石，说那种矿石可以用探测仪在修巴尔兹巴尔德的龙生活的地区附近找到。" },
+		Description = { "马努克的科学家李贝加德或需要米德加尔特的矿石，说那种矿石可以用探测仪在里希塔乐镇的龙生活的地区附近找到。" },
 		Summary = "5个未经精炼的矿石"
 	},
 	[2181] = {
 		Title = "继续的研究",
 		IconName = "ico_ep.bmp",
-		Description = { "马努克的科学家李贝加德或需要米德加尔特的矿石，说那种矿石可以用探测仪在阿鲁纳佩尔茨的托尔火山周边发现。" },
+		Description = { "马努克的科学家李贝加德或需要米德加尔特的矿石，说那种矿石可以用探测仪在阿鲁纳佩尔兹的托尔火山周边发现。" },
 		Summary = "5个未经精炼的矿石"
 	},
 	[2182] = {
@@ -5047,7 +5047,7 @@ QuestInfoList = {
 	[3093] = {
 		Title = "大陆的报告书-送往大陆的报告",
 		IconName = "ico_ep.bmp",
-		Description = { "必须重新把远征队的报告书送给三个国家的负责人。接收文件的人分别是弗伦特拉的劳德、拉赫尔的努里亚和修巴尔兹巴尔德的格尔哈特。" },
+		Description = { "必须重新把远征队的报告书送给三个国家的负责人。接收文件的人分别是弗伦特拉的劳德、拉赫尔的努里亚和里希塔乐镇的格尔哈特。" },
 		Summary = ""
 	},
 	[3094] = {
@@ -5073,7 +5073,7 @@ QuestInfoList = {
 	},
 	[3103] = {
 		Title = "偿还巨额债务-发明家多利安",
-		Description = { "他说伊兹鲁德的发明家多利安制作的魔法干燥机，应该可以修复借据。" },
+		Description = { "他说伊斯鲁得的发明家多利安制作的魔法干燥机，应该可以修复借据。" },
 		Summary = ""
 	},
 	[3104] = {
@@ -5108,7 +5108,7 @@ QuestInfoList = {
 	},
 	[3110] = {
 		Title = "丢失的宝石-寻找宝石的行踪",
-		Description = { "帮我找到失踪的钻石。艾尔贝塔的乔尼塔、斐扬的金恩方、盖佩的雷布罗，这三位王国最大的宝石商人，或许会知道钻石的下落。" },
+		Description = { "帮我找到失踪的钻石。艾尔贝塔的乔尼塔、斐扬的金恩方、吉芬的雷布罗，这三位王国最大的宝石商人，或许会知道钻石的下落。" },
 		Summary = ""
 	},
 	[3111] = {
@@ -5556,10 +5556,10 @@ QuestInfoList = {
 		Summary = "埃尔连处送去巧克力"
 	},
 	[3317] = {
-		Title = "交货与回收-艾尔帕兰",
+		Title = "交货与回收-阿尔德巴兰",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"为了甜品庆典, 艾尔帕兰甜品店的 <NAVI>[汉斯]<INFO>aldebaran,169,183,0,101,0</INFO></NAVI>配送去^4d4dff交货用巧克力吧。"
+			"为了甜品庆典, 阿尔德巴兰甜品店的 <NAVI>[汉斯]<INFO>aldebaran,169,183,0,101,0</INFO></NAVI>配送去^4d4dff交货用巧克力吧。"
 		},
 		Summary = "汉斯处送去巧克力"
 	},
@@ -5680,7 +5680,7 @@ QuestInfoList = {
 		Title = "交货与回收-梦罗克",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"为了甜品庆典, 艾尔帕兰甜品店的 <NAVI>[阿芒笛奥]<INFO>morocc,170,75,0,101,0</INFO></NAVI>配送去 交货用巧克力吧。"
+			"为了甜品庆典, 阿尔德巴兰甜品店的 <NAVI>[阿芒笛奥]<INFO>morocc,170,75,0,101,0</INFO></NAVI>配送去 交货用巧克力吧。"
 		},
 		Summary = "阿芒笛奥处送去巧克力"
 	},
@@ -7044,7 +7044,7 @@ QuestInfoList = {
 	},
 	[4028] = {
 		Title = "帕特王子的请？",
-		Description = { "去找写信给王子的艾尔帕兰少女后献花给她" },
+		Description = { "去找写信给王子的阿尔德巴兰少女后献花给她" },
 		Summary = ""
 	},
 	[4029] = {
@@ -14855,7 +14855,7 @@ QuestInfoList = {
 	},
 	[7083] = {
 		Title = "斐扬的新年食物",
-		Description = { "阿鲁纳佩尔茨的少女教皇对斐扬传统的新年食物很好奇，拜托我帮她搜集。" },
+		Description = { "阿鲁纳佩尔兹的少女教皇对斐扬传统的新年食物很好奇，拜托我帮她搜集。" },
 		Summary = "在斐扬搜集新年食物。"
 	},
 	[7084] = {
@@ -14867,7 +14867,7 @@ QuestInfoList = {
 	[7085] = {
 		Title = "配送大米",
 		Description = {
-			"决定帮着配送大米，条件是可以得到好的梗米。^4d4dff必须在指定时间内完成配送，并回来报告，收货人如下：^4d4dff弓手公会艾尔贝塔班船，弗伦特拉王国厨房，盖佩酒店"
+			"决定帮着配送大米，条件是可以得到好的梗米。^4d4dff必须在指定时间内完成配送，并回来报告，收货人如下：^4d4dff弓手公会艾尔贝塔班船，弗伦特拉王国厨房，吉芬酒店"
 		},
 		Summary = "在限定时间内完成大米的配送并回去报告"
 	},
@@ -14883,12 +14883,12 @@ QuestInfoList = {
 	},
 	[7088] = {
 		Title = "物品收据03",
-		Description = { "弗伦特拉王宫收到大米的确认收据。上面签有收货人的名字。" },
+		Description = { "普隆德拉城堡收到大米的确认收据。上面签有收货人的名字。" },
 		Summary = ""
 	},
 	[7089] = {
 		Title = "物品收据04",
-		Description = { "盖佩酒店收到大米的确认收据。上面签有收货人的名字。" },
+		Description = { "吉芬酒店收到大米的确认收据。上面签有收货人的名字。" },
 		Summary = ""
 	},
 	[7090] = {
@@ -18769,8 +18769,8 @@ QuestInfoList = {
 		Summary = "把巧克力交给埃尔连"
 	},
 	[7825] = {
-		Title = "交货与回收-艾尔帕兰",
-		Description = { "为了甜品庆典, 给艾尔帕兰甜品商店的汉斯送去货品 巧克力吧。" },
+		Title = "交货与回收-阿尔德巴兰",
+		Description = { "为了甜品庆典, 给阿尔德巴兰甜品商店的汉斯送去货品 巧克力吧。" },
 		Summary = "把巧克力交给汉斯"
 	},
 	[7826] = {
@@ -18810,7 +18810,7 @@ QuestInfoList = {
 	},
 	[7833] = {
 		Title = "今天也开心的准备庆典",
-		Description = { "要给各城市的甜品商店配送货品 巧克力。 配送地址是普隆德拉的微微, 吉芬的爱德, 斐扬的埃尔连, 艾尔帕兰的汉斯, 梦罗克的阿芒笛奥。" },
+		Description = { "要给各城市的甜品商店配送货品 巧克力。 配送地址是普隆德拉的微微, 吉芬的爱德, 斐扬的埃尔连, 阿尔德巴兰的汉斯, 梦罗克的阿芒笛奥。" },
 		Summary = "给各商店提供巧克力"
 	},
 	[7834] = {
@@ -18829,9 +18829,9 @@ QuestInfoList = {
 		Summary = "斐扬供货完毕"
 	},
 	[7837] = {
-		Title = "艾尔帕兰供货确认书",
-		Description = { "艾尔帕兰甜品店巧克力供货完毕。给所有的商店供货完毕了的话给巧克拉报告吧。" },
-		Summary = "艾尔帕兰供货完毕"
+		Title = "阿尔德巴兰供货确认书",
+		Description = { "阿尔德巴兰甜品店巧克力供货完毕。给所有的商店供货完毕了的话给巧克拉报告吧。" },
+		Summary = "阿尔德巴兰供货完毕"
 	},
 	[7838] = {
 		Title = "梦罗克供货确认书",
@@ -18846,7 +18846,7 @@ QuestInfoList = {
 	},
 	[7840] = {
 		Title = "交货与回收-梦罗克",
-		Description = { "为了甜品庆典, 给艾尔帕兰甜品商店的阿芒笛奥送去货品 巧克力吧。" },
+		Description = { "为了甜品庆典, 给阿尔德巴兰甜品商店的阿芒笛奥送去货品 巧克力吧。" },
 		Summary = "给阿芒笛奥提供巧克力"
 	},
 	[7841] = {
@@ -20153,7 +20153,7 @@ QuestInfoList = {
 	[8150] = {
 		Title = "卢萨卡的恋人",
 		Description = {
-			"他离开的那个晚上，说要去卢恩·米德加兹的首都。不知道现在还在不在那里……那个人的名字是“^0000ff伊格尔”。啊！请你帮我把这个交给他。这是他送给我的非常贵重的耳环。"
+			"他离开的那个晚上，说要去卢恩-米德加尔特的首都。不知道现在还在不在那里……那个人的名字是“^0000ff伊格尔”。啊！请你帮我把这个交给他。这是他送给我的非常贵重的耳环。"
 		},
 		Summary = "寻找伊格尔"
 	},
@@ -20167,7 +20167,7 @@ QuestInfoList = {
 	[8152] = {
 		Title = "梦罗克村居民",
 		Description = {
-			"你是说有个感觉阴沉沉的、穿着奇怪的衣服的人吗？他的语调很奇怪，好像不是卢恩·米德加兹王国的人……不久前他还在这里，后来说是去看金字塔了。之后我就没再见到过他。我还说那里太危险，劝他不要去，但他还是去了。"
+			"你是说有个感觉阴沉沉的、穿着奇怪的衣服的人吗？他的语调很奇怪，好像不是卢恩-米德加尔特王国的人……不久前他还在这里，后来说是去看金字塔了。之后我就没再见到过他。我还说那里太危险，劝他不要去，但他还是去了。"
 		},
 		Summary = "寻找伊格尔"
 	},
@@ -20426,7 +20426,7 @@ QuestInfoList = {
 	[8197] = {
 		Title = "传送文件",
 		Description = {
-			"请你帮我把这些文件交给修巴尔兹巴尔德的文件负责人休和阿鲁纳佩尔茨的文件负责人汉吉纳。如果不先去修巴尔兹巴尔德的话，他们拿这说事。所以请你先去那边吧。然后让他们在下面签上名。"
+			"请你帮我把这些文件交给里希塔乐镇的文件负责人休和阿鲁纳佩尔兹的文件负责人汉吉纳。如果不先去里希塔乐镇的话，他们拿这说事。所以请你先去那边吧。然后让他们在下面签上名。"
 		},
 		Summary = "把文件交给休和汉吉纳，让他们签上名后，回去交给廖森"
 	},
@@ -20444,7 +20444,7 @@ QuestInfoList = {
 	},
 	[8200] = {
 		Title = "廖森的数据请求",
-		Description = { "之前我向阿鲁纳佩尔茨要了一份数据，但是现在还没送过来。你能帮我去汉吉纳那里拿一下吗？会议就在眼前，可他们好像根本就没打算给我送过来！？" },
+		Description = { "之前我向阿鲁纳佩尔兹要了一份数据，但是现在还没送过来。你能帮我去汉吉纳那里拿一下吗？会议就在眼前，可他们好像根本就没打算给我送过来！？" },
 		Summary = ""
 	},
 	[8201] = {
@@ -20454,7 +20454,7 @@ QuestInfoList = {
 	},
 	[8202] = {
 		Title = "文件复原",
-		Description = { "听说修巴尔兹巴尔德好像有修复这种烂掉了的文件的技术……你能去让休帮着修复一下吗？他一定会抱怨，但是应该会帮你的。但是应该会泡泥的。哈哈哈哈哈。哈哈哈哈哈。" },
+		Description = { "听说里希塔乐镇好像有修复这种烂掉了的文件的技术……你能去让休帮着修复一下吗？他一定会抱怨，但是应该会帮你的。但是应该会泡泥的。哈哈哈哈哈。哈哈哈哈哈。" },
 		Summary = ""
 	},
 	[8203] = {
@@ -20493,7 +20493,7 @@ QuestInfoList = {
 	},
 	[8209] = {
 		Title = "休的报告书",
-		Description = { "这个，这是刚才我失神的时候不小心拿在手里的卢恩·米德加兹那边的报告书……你能帮我把它拿去还给廖森吗？" },
+		Description = { "这个，这是刚才我失神的时候不小心拿在手里的卢恩-米德加尔特那边的报告书……你能帮我把它拿去还给廖森吗？" },
 		Summary = ""
 	},
 	[8210] = {
@@ -20530,15 +20530,15 @@ QuestInfoList = {
 	},
 	[8216] = {
 		Title = "施兰克的跑腿活",
-		Description = { "请你找到临时去盖佩调查的骑士迪丘，然后转述我的话。^0000FF暗杀者事件怎样了？身份查明了吗？查明了的话，我们该怎办？……就这样转告他就行。" },
-		Summary = "找到盖佩的迪丘，转述施兰克的话"
+		Description = { "请你找到临时去吉芬调查的骑士迪丘，然后转述我的话。^0000FF暗杀者事件怎样了？身份查明了吗？查明了的话，我们该怎办？……就这样转告他就行。" },
+		Summary = "找到吉芬的迪丘，转述施兰克的话"
 	},
 	[8217] = {
 		Title = "迪丘的口信",
 		Description = {
 			"暗杀者事件怎样了？身份查明了吗？查明了的话，我们该怎办？……他让你这么转告我？知道了。帮我这？告诉他。还没有。但应该马上就能查明身份。到时候就拜托了。完毕！"
 		},
-		Summary = "向伊兹鲁德的施兰克转达迪丘的话"
+		Summary = "向伊斯鲁得的施兰克转达迪丘的话"
 	},
 	[8218] = {
 		Title = "施兰克的课程",
@@ -20668,28 +20668,28 @@ QuestInfoList = {
 	[8241] = {
 		Title = "回收红色宝石",
 		Description = { "在圆形土墓上回收到了红色的声音储存宝石！" },
-		Summary = "把宝石交给埃西巴库姆的卢恩·米德加兹魔法学家"
+		Summary = "把宝石交给埃西巴库姆的卢恩-米德加尔特魔法学家"
 	},
 	[8242] = {
 		Title = "回收蓝色宝石",
 		Description = { "在圆形土墓上回收到了蓝色的声音储存宝石！" },
-		Summary = "把宝石交给埃西巴库姆的卢恩·米德加兹魔法学家"
+		Summary = "把宝石交给埃西巴库姆的卢恩-米德加尔特魔法学家"
 	},
 	[8243] = {
 		Title = "异界的语言",
 		Description = {
-			"听说在远征队营地的外面，存在使用独特语言的种族。三国联合调查团正在合力进行这方面的研究……不知道^0000ff阿鲁纳佩尔茨的语言学家的语言解读到底进行得怎样了。"
+			"听说在远征队营地的外面，存在使用独特语言的种族。三国联合调查团正在合力进行这方面的研究……不知道^0000ff阿鲁纳佩尔兹的语言学家的语言解读到底进行得怎样了。"
 		},
 		Summary = ""
 	},
 	[8244] = {
 		Title = "妖精和树巨人",
 		Description = { "你到联合调查团驻地外面去的时候，如果碰到了妖精或树巨人，一定要准确地记下他们所说的话！然后回来告诉我。" },
-		Summary = "见见妖精和树巨人，然后回到阿鲁纳佩尔茨语言学家那里"
+		Summary = "见见妖精和树巨人，然后回到阿鲁纳佩尔兹语言学家那里"
 	},
 	[8245] = {
 		Title = "调查语言标本",
-		Description = { "听说^0000ff卢恩·米德加兹魔法学家好像有处理语言标本的方法，你能去问问是什么方法吗？缺少语言的标本，我很难再继续研究了。拜托你了。" },
+		Description = { "听说^0000ff卢恩-米德加尔特魔法学家好像有处理语言标本的方法，你能去问问是什么方法吗？缺少语言的标本，我很难再继续研究了。拜托你了。" },
 		Summary = ""
 	},
 	[8246] = {
@@ -20697,21 +20697,21 @@ QuestInfoList = {
 		Description = {
 			"你在外面遇到过异界的两个种族吗？我让刺客们在两个种族的附近，秘密地设置了宝石。你去回收宝石的时候一定要小心。刺客们在埋那个东西的时候，为了防止被破坏，在旁边安装了地雷。"
 		},
-		Summary = "回收宝石，交给卢恩·米德加兹魔法学家"
+		Summary = "回收宝石，交给卢恩-米德加尔特魔法学家"
 	},
 	[8247] = {
 		Title = "调查研究情况",
-		Description = { "我会把宝石中记录的声音提取出来，然后交给阿鲁纳佩尔茨的语言学家。如果你没事的话，能帮我去确认一下阿鲁纳佩尔茨语言学家的研究情况吗？" },
+		Description = { "我会把宝石中记录的声音提取出来，然后交给阿鲁纳佩尔兹的语言学家。如果你没事的话，能帮我去确认一下阿鲁纳佩尔兹语言学家的研究情况吗？" },
 		Summary = ""
 	},
 	[8248] = {
 		Title = "调查研究情况",
-		Description = { "这下异界语言的解读工作就容易多了。但问题是，是不是真的能制作出包含这么多信息的翻译机……你能去问问修巴尔兹巴尔德的机械工程师的意见吗？" },
+		Description = { "这下异界语言的解读工作就容易多了。但问题是，是不是真的能制作出包含这么多信息的翻译机……你能去问问里希塔乐镇的机械工程师的意见吗？" },
 		Summary = ""
 	},
 	[8249] = {
 		Title = "信息储存方法",
-		Description = { "通过卢恩·米德加兹的魔法，好像用魔力将信息注入到宝石之中……我想去向卢恩·米德加兹的魔法学家请教一下。你能帮我去问一下吗？" },
+		Description = { "通过卢恩-米德加尔特的魔法，好像用魔力将信息注入到宝石之中……我想去向卢恩-米德加尔特的魔法学家请教一下。你能帮我去问一下吗？" },
 		Summary = ""
 	},
 	[8250] = {
@@ -20719,7 +20719,7 @@ QuestInfoList = {
 		Description = {
 			"听说在远征队营地的外面，在寒冷的地区，有一种在^0000ff米德加尔特无法搜集到的神奇矿石。如果能弄到那种矿石，我应该可以想想办法……你能帮我去搜集一颗那样的矿石吗？"
 		},
-		Summary = "将未确认的矿石交给卢恩·米德加兹魔法学家"
+		Summary = "将未确认的矿石交给卢恩-米德加尔特魔法学家"
 	},
 	[8251] = {
 		Title = "魔力注入",
@@ -20728,13 +20728,13 @@ QuestInfoList = {
 	},
 	[8252] = {
 		Title = "加工好的宝石",
-		Description = { "最后我还得麻烦你一下。请你帮我把加工好的宝石交给修巴尔兹巴尔德的机械学家。" },
+		Description = { "最后我还得麻烦你一下。请你帮我把加工好的宝石交给里希塔乐镇的机械学家。" },
 		Summary = ""
 	},
 	[8253] = {
 		Title = "异界语言翻译机",
 		Description = { "必须制作出可以从宝石中读取魔力的机械装置才行。准备工作都已经完成，大概再过一个小时应该就能做好了。" },
-		Summary = "一小时后，回去找修巴尔兹巴尔德机械学家"
+		Summary = "一小时后，回去找里希塔乐镇机械学家"
 	},
 	[8254] = {
 		Title = "静修身体和心灵",
@@ -21086,8 +21086,8 @@ QuestInfoList = {
 		Summary = "回报李立宇"
 	},
 	[8300] = {
-		Title = "在艾尔帕兰有我的孩子",
-		Description = { "李立宇委托的冷藏宅配箱收件人写的是'艾尔帕兰-艾尔贝塔'。" },
+		Title = "在阿尔德巴兰有我的孩子",
+		Description = { "李立宇委托的冷藏宅配箱收件人写的是'阿尔德巴兰-艾尔贝塔'。" },
 		Summary = "送冷藏宅配箱"
 	},
 	[8301] = {
@@ -21177,7 +21177,7 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[8318] = {
-		Title = "艾尔帕兰配送已完成",
+		Title = "阿尔德巴兰配送已完成",
 		Description = { "" },
 		Summary = ""
 	},
@@ -21272,9 +21272,9 @@ QuestInfoList = {
 		NpcPosY = 19
 	},
 	[8330] = {
-		Title = "去一趟艾尔帕兰吧",
+		Title = "去一趟阿尔德巴兰吧",
 		IconName = "ico_nq.bmp",
-		Description = { "艾尔贝塔商人公会中介所所属玛莎的委托，给艾尔帕兰旅馆中等待的羊配送^4d4dff破旧的快递箱吧。" },
+		Description = { "艾尔贝塔商人公会中介所所属玛莎的委托，给阿尔德巴兰旅馆中等待的羊配送^4d4dff破旧的快递箱吧。" },
 		Summary = "配送箱子",
 		NpcSpr = "4_LAM",
 		NpcNavi = "aldeba_in",
@@ -21345,7 +21345,7 @@ QuestInfoList = {
 	},
 	[8340] = {
 		Title = "击败10个飞行魔书",
-		Description = { "在艾尔帕兰钟塔地上1层击败10个飞行魔书后，到艾尔贝塔商人公会找羊进行检查就可以了。" },
+		Description = { "在阿尔德巴兰钟塔地上1层击败10个飞行魔书后，到艾尔贝塔商人公会找羊进行检查就可以了。" },
 		Summary = ""
 	},
 	[8341] = {
@@ -21795,9 +21795,9 @@ QuestInfoList = {
 		Summary = "带来10个甜甜的哈密瓜"
 	},
 	[8531] = {
-		Title = "去艾尔帕兰拿面粉",
+		Title = "去阿尔德巴兰拿面粉",
 		IconName = "ico_ev.bmp",
-		Description = { "熏熏说有个好想法并委托冒险家带来有机面粉，牛奶，甜甜的哈密瓜。艾尔帕兰好像有准备了优质有机面粉的商人。" },
+		Description = { "熏熏说有个好想法并委托冒险家带来有机面粉，牛奶，甜甜的哈密瓜。阿尔德巴兰好像有准备了优质有机面粉的商人。" },
 		Summary = "与可疑的商人对话"
 	},
 	[8532] = {
@@ -26895,7 +26895,7 @@ QuestInfoList = {
 	},
 	[10013] = {
 		Title = "去寻找帕特的少女",
-		Description = { "为了帕特帮忙向艾尔帕兰的少女送花束吧" },
+		Description = { "为了帕特帮忙向阿尔德巴兰的少女送花束吧" },
 		Summary = ""
 	},
 	[10014] = {
@@ -27117,7 +27117,7 @@ QuestInfoList = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
 		Description = { "必须证明自己的强大，才能获得前往新发现的地区的资格。" },
-		Summary = "去见见艾尔帕兰的宣传官员。",
+		Summary = "去见见<NAVI>[阿尔德巴兰宣传员]<INFO>aldebaran,127,138,0,101,0</INFO></NAVI>。",
 		NpcSpr = "4W_SAILOR",
 		NpcNavi = "aldebaran",
 		NpcPosX = 127,
@@ -27127,7 +27127,7 @@ QuestInfoList = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
 		Description = { "必须证明自己的强大，才能获得前往新发现的地区的资格。" },
-		Summary = "搜集300个杰勒比结晶，交给艾尔帕兰的宣传官员。",
+		Summary = "搜集300个<ITEM>杰勒比结晶<INFO>909</INFO></ITEM>，交给<NAVI>[阿尔德巴兰宣传员]<INFO>aldebaran,127,138,0,101,0</INFO></NAVI>。",
 		NpcSpr = "4W_SAILOR",
 		NpcNavi = "aldebaran",
 		NpcPosX = 127,
@@ -27137,7 +27137,7 @@ QuestInfoList = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
 		Description = { "必须证明自己的强大，才能获得前往新发现的地区的资格。" },
-		Summary = "去见见盖佩的宣传官员。",
+		Summary = "去见见<NAVI>[吉芬宣传员]<INFO>geffen,90,67,0,101,0</INFO></NAVI>。",
 		NpcSpr = "4W_SAILOR",
 		NpcNavi = "geffen",
 		NpcPosX = 90,
@@ -27147,7 +27147,7 @@ QuestInfoList = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
 		Description = { "必须证明自己的强大，才能获得前往新发现的地区的资格。" },
-		Summary = "搜集1个祖母绿，交给盖佩的宣传官员。",
+		Summary = "搜集1个<ITEM>绿宝石<INFO>721</INFO></ITEM>，交给<NAVI>[吉芬宣传员]<INFO>geffen,90,67,0,101,0</INFO></NAVI>。",
 		NpcSpr = "4W_SAILOR",
 		NpcNavi = "geffen",
 		NpcPosX = 90,
@@ -27157,7 +27157,7 @@ QuestInfoList = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
 		Description = { "必须证明自己的强大，才能获得前往新发现的地区的资格。" },
-		Summary = "搜集1个红宝石，交给盖佩的宣传官员。",
+		Summary = "搜集1个<ITEM>红宝石<INFO>723</INFO></ITEM>，交给<NAVI>[吉芬宣传员]<INFO>geffen,90,67,0,101,0</INFO></NAVI>。",
 		NpcSpr = "4W_SAILOR",
 		NpcNavi = "geffen",
 		NpcPosX = 90,
@@ -27167,7 +27167,7 @@ QuestInfoList = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
 		Description = { "必须证明自己的强大，才能获得前往新发现的地区的资格。" },
-		Summary = "去见见伊兹鲁德的宣传官员。",
+		Summary = "去见见<NAVI>[伊斯鲁得宣传员]<INFO>izlude,102,171,0,101,0</INFO></NAVI>。",
 		NpcSpr = "4W_SAILOR",
 		NpcNavi = "izlude",
 		NpcPosX = 102,
@@ -27187,7 +27187,7 @@ QuestInfoList = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
 		Description = { "必须证明自己的强大，才能获得前往新发现的地区的资格。" },
-		Summary = "再次去见见弗伦特拉王宫的募集官。",
+		Summary = "再次去见见<NAVI>[普隆德拉城堡招募员]<INFO>prt_cas,207,165,0,101,0</INFO></NAVI>。",
 		NpcSpr = "4_M_MANAGER",
 		NpcNavi = "prt_cas",
 		NpcPosX = 207,
@@ -27197,7 +27197,7 @@ QuestInfoList = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
 		Description = { "去三国联合同盟注册。" },
-		Summary = "到修巴尔兹巴尔德的企业都市去。",
+		Summary = "到<NAVI>[里希塔乐镇]<INFO>lighthalzen,220,292,0,101,0</INFO></NAVI>去。",
 		NpcSpr = "4_M_LGTGUARD2",
 		NpcNavi = "lhz_in01",
 		NpcPosX = 132,
@@ -27207,7 +27207,7 @@ QuestInfoList = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
 		Description = { "听到了好像是三国同盟长的人物的演说。" },
-		Summary = "和希盖伊兹说话。",
+		Summary = "和<NAVI>[希凯兹]<INFO>lhz_in01,132,259,0,101,0</INFO></NAVI>说话。",
 		NpcSpr = "4_M_LGTGUARD2",
 		NpcNavi = "lhz_in01",
 		NpcPosX = 132,
@@ -27216,8 +27216,8 @@ QuestInfoList = {
 	[10067] = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
-		Description = { "向三国同盟长希盖伊兹问问题。" },
-		Summary = "继续询问希盖伊兹。",
+		Description = { "向三国同盟长希凯兹问问题。" },
+		Summary = "继续询问<NAVI>[希凯兹]<INFO>lhz_in01,132,259,0,101,0</INFO></NAVI>。",
 		NpcSpr = "4_M_LGTGUARD2",
 		NpcNavi = "lhz_in01",
 		NpcPosX = 132,
@@ -27226,8 +27226,8 @@ QuestInfoList = {
 	[10068] = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
-		Description = { "接受三国同盟长希盖伊兹的委托。" },
-		Summary = "去见见弗伦特拉王宫的卢恩·米德加兹的同盟管理人。",
+		Description = { "接受三国同盟长希凯兹的委托。" },
+		Summary = "去见见<NAVI>[拉赫神殿同盟管理人]<INFO>ra_temple,119,113,0,101,0</INFO></NAVI>。",
 		NpcSpr = "4W_SAILOR",
 		NpcNavi = "prt_cas",
 		NpcPosX = 163,
@@ -27236,8 +27236,8 @@ QuestInfoList = {
 	[10069] = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
-		Description = { "和卢恩·米德加兹的同盟管理人的对话结束。" },
-		Summary = "再次回去找希盖伊兹。",
+		Description = { "和卢恩-米德加尔特的同盟管理人的对话结束。" },
+		Summary = "再次回去找<NAVI>[希凯兹]<INFO>lhz_in01,132,259,0,101,0</INFO></NAVI>。",
 		NpcSpr = "4_M_LGTGUARD2",
 		NpcNavi = "lhz_in01",
 		NpcPosX = 132,
@@ -27246,8 +27246,8 @@ QuestInfoList = {
 	[10070] = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
-		Description = { "在希盖伊兹那里听取了有关三国同盟的说明。" },
-		Summary = "继续提问。",
+		Description = { "在希凯兹那里听取了有关三国同盟的说明。" },
+		Summary = "继续向<NAVI>[希凯兹]<INFO>lhz_in01,132,259,0,101,0</INFO></NAVI>提问。",
 		NpcSpr = "4_M_LGTGUARD2",
 		NpcNavi = "lhz_in01",
 		NpcPosX = 132,
@@ -27256,8 +27256,8 @@ QuestInfoList = {
 	[10071] = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
-		Description = { "接受三国同盟长希盖伊兹的委托。" },
-		Summary = "去拉赫尔的塞斯伦姆涅尔神殿见见同盟管理者。",
+		Description = { "接受三国同盟长希凯兹的委托。" },
+		Summary = "去<NAVI>[拉赫神殿]<INFO>ra_temple,119,113,0,101,0</INFO></NAVI>见见同盟管理者。",
 		NpcSpr = "4_M_TRAINEE",
 		NpcNavi = "ra_temple",
 		NpcPosX = 119,
@@ -27266,8 +27266,8 @@ QuestInfoList = {
 	[10072] = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
-		Description = { "和阿鲁纳佩尔茨的同盟管理人的对话结束。" },
-		Summary = "再次回去找希盖伊兹。",
+		Description = { "和阿鲁纳佩尔兹的同盟管理人的对话结束。" },
+		Summary = "再次回去找<NAVI>[希凯兹]<INFO>lhz_in01,132,259,0,101,0</INFO></NAVI>。",
 		IconName = "ico_ep.bmp",
 		NpcSpr = "4_M_LGTGUARD2",
 		NpcNavi = "lhz_in01",
@@ -27277,8 +27277,8 @@ QuestInfoList = {
 	[10073] = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
-		Description = { "在希盖伊兹那里听取了以后需要做的事情的说明。" },
-		Summary = "正式加入三国同盟。",
+		Description = { "在希凯兹那里听取了以后需要做的事情的说明。" },
+		Summary = "正式加入三国同盟。前往<NAVI>[希凯兹]<INFO>lhz_in01,132,259,0,101,0</INFO></NAVI>。",
 		NpcSpr = "4_M_LGTGUARD2",
 		NpcNavi = "lhz_in01",
 		NpcPosX = 132,
@@ -27287,8 +27287,8 @@ QuestInfoList = {
 	[10074] = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
-		Description = { "接受三国同盟长希盖伊兹的委托。" },
-		Summary = "去向同一建筑里的议员们报告。",
+		Description = { "接受三国同盟长希凯兹的委托。" },
+		Summary = "去向同一建筑里的<NAVI>[议员]<INFO>lhz_in01,136,260,0,101,0</INFO></NAVI>报告。",
 		NpcSpr = "4_M_MANAGER",
 		NpcNavi = "lhz_in01",
 		NpcPosX = 32,
@@ -27298,7 +27298,7 @@ QuestInfoList = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
 		Description = { "去见见议员们。" },
-		Summary = "向议员们报告。",
+		Summary = "向<NAVI>[议员]<INFO>lhz_in01,136,260,0,101,0</INFO></NAVI>报告。",
 		NpcSpr = "4_M_MANAGER",
 		NpcNavi = "lhz_in01",
 		NpcPosX = 32,
@@ -28412,7 +28412,7 @@ QuestInfoList = {
 	[11153] = {
 		Title = "我想看钟塔",
 		Description = { "之前在毁葛遇见的大叔拿给我看的歌词和在达纳托斯塔前捡到的收据，以及纸条上写的诗……笔迹是一样的" },
-		Summary = "在沙堆里发现碎纸条，然后卡利安突然说想去看艾尔帕兰的钟塔"
+		Summary = "在沙堆里发现碎纸条，然后卡利安突然说想去看阿尔德巴兰的钟塔"
 	},
 	[11154] = {
 		Title = "我会记得我俩的回忆……",
@@ -30594,13 +30594,13 @@ QuestInfoList = {
 	[11550] = {
 		Title = "寻找故乡的味道",
 		IconName = "ico_ev.bmp",
-		Description = { "修尔要去拜访在艾尔帕兰西边的长辈。" },
-		Summary = "与艾尔帕兰长辈对话"
+		Description = { "修尔要去拜访在阿尔德巴兰西边的长辈。" },
+		Summary = "与阿尔德巴兰长辈对话"
 	},
 	[11551] = {
 		Title = "寻找故乡的味道",
 		IconName = "ico_ev.bmp",
-		Description = { "拜访好艾尔帕兰长辈了。再回到斐扬和修尔对话吧。" },
+		Description = { "拜访好阿尔德巴兰长辈了。再回到斐扬和修尔对话吧。" },
 		Summary = "前往斐扬"
 	},
 	[11552] = {
@@ -31985,7 +31985,7 @@ QuestInfoList = {
 	[11798] = {
 		Title = "净化圣女",
 		IconName = "ico_ep.bmp",
-		Description = { "搭乘海洛克的雪橇到达艾尔帕兰，再次与<NAVI>[海洛克]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI>对话。" },
+		Description = { "搭乘海洛克的雪橇到达阿尔德巴兰，再次与<NAVI>[海洛克]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI>对话。" },
 		Summary = "与海洛克对话"
 	},
 	[11799] = {
@@ -32054,7 +32054,7 @@ QuestInfoList = {
 		Title = "净化圣女",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"准备好离开伊斯加尔特，在艾尔帕兰与<NAVI>[海洛克]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI>对话，前往伊斯加尔特。"
+			"准备好离开伊斯加尔特，在阿尔德巴兰与<NAVI>[海洛克]<INFO>aldebaran,102,103,0,101,0</INFO></NAVI>对话，前往伊斯加尔特。"
 		},
 		Summary = "与海洛克对话"
 	},
@@ -32621,7 +32621,7 @@ QuestInfoList = {
 		Title = "南瓜先生和奇怪的兄弟们",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"与在艾尔帕兰钟塔留学学习机器与蜘蛛网相关性的<NAVI>[兄弟]<INFO>c_tower1,169,223,0,101,0</INFO></NAVI>对话吧。"
+			"与在阿尔德巴兰钟塔留学学习机器与蜘蛛网相关性的<NAVI>[兄弟]<INFO>c_tower1,169,223,0,101,0</INFO></NAVI>对话吧。"
 		},
 		Summary = "钟塔的兄弟"
 	},
@@ -33603,7 +33603,7 @@ QuestInfoList = {
 	},
 	[12019] = {
 		Title = "总统-5",
-		Description = { "必须见见艾尔帕兰卡普拉公司的威尼斯。文件请还给秘书" },
+		Description = { "必须见见阿尔德巴兰卡普拉公司的威尼斯。文件请还给秘书" },
 		Summary = "访问卡普拉公司"
 	},
 	[12020] = {
@@ -39486,9 +39486,9 @@ QuestInfoList = {
 		Summary = "调查可疑足迹"
 	},
 	[14295] = {
-		Title = "前往艾尔帕兰",
-		Description = { "发现了可疑足迹和艾尔帕兰所开的收据，去艾尔帕兰或许能找到疑犯的线索吧?" },
-		Summary = "前往艾尔帕兰"
+		Title = "前往阿尔德巴兰",
+		Description = { "发现了可疑足迹和阿尔德巴兰所开的收据，去阿尔德巴兰或许能找到疑犯的线索吧?" },
+		Summary = "前往阿尔德巴兰"
 	},
 	[14296] = {
 		Title = "弗兰克在那边",
@@ -39529,7 +39529,7 @@ QuestInfoList = {
 	},
 	[14303] = {
 		Title = "调查周围",
-		Description = { "杰宜德忙着填写资料，趁此机会查查附近，据艾尔帕兰可疑人物的说词，饲料里放入可疑的东西，查查饲料槽看吧!" },
+		Description = { "杰宜德忙着填写资料，趁此机会查查附近，据阿尔德巴兰可疑人物的说词，饲料里放入可疑的东西，查查饲料槽看吧!" },
 		Summary = "调查周围"
 	},
 	[14304] = {
@@ -39565,9 +39565,9 @@ QuestInfoList = {
 		Summary = "送传票"
 	},
 	[14310] = {
-		Title = "再前往艾尔帕兰",
-		Description = { "传票已送给杰宜德，再去艾尔帕兰把小偷带来吧!" },
-		Summary = "前往艾尔帕兰"
+		Title = "再前往阿尔德巴兰",
+		Description = { "传票已送给杰宜德，再去阿尔德巴兰把小偷带来吧!" },
+		Summary = "前往阿尔德巴兰"
 	},
 	[14311] = {
 		Title = "消失的嫌犯",
@@ -39716,9 +39716,9 @@ QuestInfoList = {
 		Summary = "需要的石头"
 	},
 	[14340] = {
-		Title = "艾尔帕兰??",
-		Description = { "去艾尔帕兰找药贩后带来中和剂。" },
-		Summary = "前往艾尔帕兰"
+		Title = "阿尔德巴兰??",
+		Description = { "去阿尔德巴兰找药贩后带来中和剂。" },
+		Summary = "前往阿尔德巴兰"
 	},
 	[14341] = {
 		Title = "中和剂的材料",
@@ -40004,9 +40004,9 @@ QuestInfoList = {
 		Summary = "前往吉芬"
 	},
 	[14397] = {
-		Title = "前往艾尔帕兰",
-		Description = { "前往艾尔帕兰，转告对于汉斯的求婚准备可以放心的好消息。" },
-		Summary = "前往艾尔帕兰"
+		Title = "前往阿尔德巴兰",
+		Description = { "前往阿尔德巴兰，转告对于汉斯的求婚准备可以放心的好消息。" },
+		Summary = "前往阿尔德巴兰"
 	},
 	[14398] = {
 		Title = "前往吉芬",
@@ -40578,12 +40578,12 @@ QuestInfoList = {
 	},
 	[14499] = {
 		Title = "资格的证明",
-		Description = { "想听的话就证明资格吧。狂暴米诺斯33只！还有图书馆的卢恩·米德加兹的历史书！还有12个柔软的绸缎布也拜托你了！" },
+		Description = { "想听的话就证明资格吧。狂暴米诺斯33只！还有图书馆的卢恩-米德加尔特的历史书！还有12个柔软的绸缎布也拜托你了！" },
 		Summary = "资格的证明"
 	},
 	[14500] = {
 		Title = "租借完毕",
-		Description = { "租借卢恩·米德加兹的历史书完成。" },
+		Description = { "租借卢恩-米德加尔特的历史书完成。" },
 		Summary = "租借完毕"
 	},
 	[14501] = {
@@ -43423,7 +43423,7 @@ QuestInfoList = {
 	},
 	[15127] = {
 		Title = "巧克力宅配",
-		Description = { "把巧克力依吉芬, 斐扬, 艾尔帕兰, 普隆德拉的顺序送到糖果屋。" },
+		Description = { "把巧克力依吉芬, 斐扬, 阿尔德巴兰, 普隆德拉的顺序送到糖果屋。" },
 		Summary = "把巧克力宅配到各城市的糖果屋"
 	},
 	[15128] = {
@@ -44194,7 +44194,7 @@ QuestInfoList = {
 	[16138] = {
 		Title = "前往启海伊洛学院",
 		Description = {
-			"在艾尔帕兰承接'妈咪手便当'委托后去<NAVI>[启海伊洛学院]<INFO>yuno_fild08,171,183,0,101,1</INFO></NAVI>见雷诺和鲁米。"
+			"在阿尔德巴兰承接'妈咪手便当'委托后去<NAVI>[启海伊洛学院]<INFO>yuno_fild08,171,183,0,101,1</INFO></NAVI>见雷诺和鲁米。"
 		},
 		Summary = "造访启海伊洛学院"
 	},
@@ -44303,9 +44303,9 @@ QuestInfoList = {
 		Summary = "完成净化修道院后去找雷诺"
 	},
 	[16157] = {
-		Title = "前往艾尔帕兰",
-		Description = { "去<NAVI>[艾尔帕兰]<INFO>aldebaran,117,167,0,101,1</INFO></NAVI>找鲁米和雷诺。" },
-		Summary = "前往艾尔帕兰"
+		Title = "前往阿尔德巴兰",
+		Description = { "去<NAVI>[阿尔德巴兰]<INFO>aldebaran,117,167,0,101,1</INFO></NAVI>找鲁米和雷诺。" },
+		Summary = "前往阿尔德巴兰"
 	},
 	[16158] = {
 		Title = "伸出看不见的援手",
@@ -60569,7 +60569,7 @@ QuestInfoList = {
 	},
 	[21276] = {
 		Title = "妈咪手便当",
-		Description = { "在艾尔帕兰见到的大妈请求把便当送给在国界检查站工作的儿子，国界检查站位于艾尔帕兰北侧。" },
+		Description = { "在阿尔德巴兰见到的大妈请求把便当送给在国界检查站工作的儿子，国界检查站位于阿尔德巴兰北侧。" },
 		Summary = "与检查站警备兵对话"
 	},
 	[21277] = {
@@ -60625,12 +60625,12 @@ QuestInfoList = {
 	},
 	[21286] = {
 		Title = "扫荡钟塔1楼",
-		Description = { "这次是艾尔帕兰钟塔管理员赛乐丁的委托，请求到钟塔1楼扫荡^4d4dff飞行魔书^000000和^4d4dff朽魔^000000。" },
+		Description = { "这次是阿尔德巴兰钟塔管理员赛乐丁的委托，请求到钟塔1楼扫荡^4d4dff飞行魔书^000000和^4d4dff朽魔^000000。" },
 		Summary = "击杀飞行魔书、朽魔"
 	},
 	[21287] = {
 		Title = "扫荡钟塔1楼-等候",
-		Description = { "此为每日任务，冷却时间过后可再承接执行，可透过伊甸园布告栏或艾尔帕兰的钟塔管理员赛乐丁来承接任务。" },
+		Description = { "此为每日任务，冷却时间过后可再承接执行，可透过伊甸园布告栏或阿尔德巴兰的钟塔管理员赛乐丁来承接任务。" },
 		Summary = "凌晨四点重置",
 		CoolTimeQuest = 1
 	},
@@ -60641,7 +60641,7 @@ QuestInfoList = {
 	},
 	[21289] = {
 		Title = "活生生的表 1-等候",
-		Description = { "此为每日任务，冷却时间过后可再承接执行，可透过伊甸园布告栏或艾尔帕兰的钟塔管理员赛乐丁来承接任务。" },
+		Description = { "此为每日任务，冷却时间过后可再承接执行，可透过伊甸园布告栏或阿尔德巴兰的钟塔管理员赛乐丁来承接任务。" },
 		Summary = "凌晨四点重置",
 		CoolTimeQuest = 1
 	},
@@ -60652,18 +60652,18 @@ QuestInfoList = {
 	},
 	[21291] = {
 		Title = "活生生的表 2-等候",
-		Description = { "此为每日任务，冷却时间过后可再承接执行，可透过伊甸园布告栏或艾尔帕兰的钟塔管理员赛乐丁来承接任务。" },
+		Description = { "此为每日任务，冷却时间过后可再承接执行，可透过伊甸园布告栏或阿尔德巴兰的钟塔管理员赛乐丁来承接任务。" },
 		Summary = "凌晨四点重置",
 		CoolTimeQuest = 1
 	},
 	[21292] = {
 		Title = "来自地下的笑声",
-		Description = { "艾尔帕兰有个连到钟塔地下的密穴，从地下深远处传来的魔女笑声让赛乐丁起肖，请求消灭那个巫婆。" },
+		Description = { "阿尔德巴兰有个连到钟塔地下的密穴，从地下深远处传来的魔女笑声让赛乐丁起肖，请求消灭那个巫婆。" },
 		Summary = "击杀巫婆"
 	},
 	[21293] = {
 		Title = "来自地下的笑声-等候",
-		Description = { "此为每日任务，冷却时间过后可再承接执行，可透过伊甸园布告栏或艾尔帕兰的钟塔管理员赛乐丁来承接任务。" },
+		Description = { "此为每日任务，冷却时间过后可再承接执行，可透过伊甸园布告栏或阿尔德巴兰的钟塔管理员赛乐丁来承接任务。" },
 		Summary = "凌晨四点重置",
 		CoolTimeQuest = 1
 	},
@@ -60702,7 +60702,7 @@ QuestInfoList = {
 	},
 	[21300] = {
 		Title = "妈咪手便当-等候",
-		Description = { "此为每日任务，冷却时间过后可再承接执行，可透过艾尔帕兰的中年女性来承接任务。" },
+		Description = { "此为每日任务，冷却时间过后可再承接执行，可透过阿尔德巴兰的中年女性来承接任务。" },
 		Summary = "凌晨四点重置",
 		CoolTimeQuest = 1
 	},
@@ -61691,7 +61691,7 @@ QuestInfoList = {
 	},
 	[21545] = {
 		Title = "击杀雄壮邪恶向日葵",
-		Description = { "去艾尔帕兰北边野外击杀雄壮邪恶向日葵一只。" },
+		Description = { "去阿尔德巴兰北边野外击杀雄壮邪恶向日葵一只。" },
 		Summary = "击杀雄壮邪恶向日葵1只"
 	},
 	[21546] = {
@@ -61702,7 +61702,7 @@ QuestInfoList = {
 	},
 	[21547] = {
 		Title = "击杀菁英七彩大嘴鸟",
-		Description = { "去艾尔帕兰北北西边野外击杀菁英七彩大嘴鸟一只。" },
+		Description = { "去阿尔德巴兰北北西边野外击杀菁英七彩大嘴鸟一只。" },
 		Summary = "击杀菁英七彩大嘴鸟1只"
 	},
 	[21548] = {
@@ -75953,7 +75953,7 @@ QuestInfoList = {
 		Title = "有害魔物没有益处",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"在这个时期需要注意念属性魔物。请击退100只70等级的念属性魔物后，再返回<NAVI>[艾尔帕兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
+			"在这个时期需要注意念属性魔物。请击退100只70等级的念属性魔物后，再返回<NAVI>[阿尔德巴兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "Lv.70念属性"
 	},
@@ -76111,7 +76111,7 @@ QuestInfoList = {
 		Title = "待机:熊熊燃起的胜负欲",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"<NAVI>[弗雷德里克]<INFO>aldebaran,119,53,0,101,0</INFO></NAVI>在狩猎大赛期间请求协助。凌晨过后，再次前往艾尔帕兰吧。"
+			"<NAVI>[弗雷德里克]<INFO>aldebaran,119,53,0,101,0</INFO></NAVI>在狩猎大赛期间请求协助。凌晨过后，再次前往阿尔德巴兰吧。"
 		},
 		Summary = "04点重置",
 		CoolTimeQuest = 1
@@ -76387,7 +76387,7 @@ QuestInfoList = {
 		Title = "有害魔物没有益处",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"本月中型魔物的数量大幅增加。请击退100只70等级的中型魔物后，再返回 <NAVI>[艾尔帕兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
+			"本月中型魔物的数量大幅增加。请击退100只70等级的中型魔物后，再返回 <NAVI>[阿尔德巴兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "Lv.70中型"
 	},
@@ -76448,7 +76448,7 @@ QuestInfoList = {
 		Title = "待机:肉！肉！肉！",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"您带来的肉品将会作为<NAVI>[艾尔帕兰]<INFO>aldebaran,98,123,0,101,0</INFO></NAVI> 狩猎大赛的补给品好好使用。请在凌晨过后再来找我。"
+			"您带来的肉品将会作为<NAVI>[阿尔德巴兰]<INFO>aldebaran,98,123,0,101,0</INFO></NAVI> 狩猎大赛的补给品好好使用。请在凌晨过后再来找我。"
 		},
 		Summary = "04点重置",
 		CoolTimeQuest = 1
@@ -76487,7 +76487,7 @@ QuestInfoList = {
 		Title = "拜托提供个人指导",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"艾尔帕兰冬季狩猎大赛中，王室的各个部门也有参与。<NAVI>[魔法团]<INFO>aldebaran,124,97,0,101,0</INFO></NAVI> 则以神奇的物品参与其中，快去看看吧。"
+			"阿尔德巴兰冬季狩猎大赛中，王室的各个部门也有参与。<NAVI>[魔法团]<INFO>aldebaran,124,97,0,101,0</INFO></NAVI> 则以神奇的物品参与其中，快去看看吧。"
 		},
 		Summary = "魔法团的成果"
 	},
@@ -76705,7 +76705,7 @@ QuestInfoList = {
 		Title = "肉！肉！肉！",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"请在艾尔帕兰附近的区域捕捉大约5只凶残的冬季野猪，并将10个优质肉品带来<NAVI>[这里]<INFO>aldebaran,98,123,0,101,0</INFO></NAVI>。"
+			"请在阿尔德巴兰附近的区域捕捉大约5只凶残的冬季野猪，并将10个优质肉品带来<NAVI>[这里]<INFO>aldebaran,98,123,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "优质肉品10个"
 	},
@@ -76963,7 +76963,7 @@ QuestInfoList = {
 		Title = "熊熊燃起的胜负欲",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"艾尔帕兰冬季狩猎大赛中，骑士团也参加了。想了解他们的狩猎进度吗?请前往南区野外，了解<NAVI>[骑士团]<INFO>mjolnir_12,93,364,0,101,0</INFO></NAVI>的动向。"
+			"阿尔德巴兰冬季狩猎大赛中，骑士团也参加了。想了解他们的狩猎进度吗?请前往南区野外，了解<NAVI>[骑士团]<INFO>mjolnir_12,93,364,0,101,0</INFO></NAVI>的动向。"
 		},
 		Summary = "骑士团的动向1"
 	},
@@ -77145,8 +77145,8 @@ QuestInfoList = {
 [17850] = {
 		Title = "彻底预防",
 		IconName = "ico_ev.bmp",
-		Description = { "所有陷阱安装完成了。让我们回到<NAVI>[艾尔帕兰]<INFO>aldebaran,118,97,0,101,0</INFO></NAVI>报告吧。" },
-		Summary = "回到艾尔帕兰"
+		Description = { "所有陷阱安装完成了。让我们回到<NAVI>[阿尔德巴兰]<INFO>aldebaran,118,97,0,101,0</INFO></NAVI>报告吧。" },
+		Summary = "回到阿尔德巴兰"
 	},
 [299865] = { Title = "每日签到第二天", Description = { "每日签到第二天" }, Summary = "每日签到第二天" },
 [299296] = {
@@ -77314,7 +77314,7 @@ QuestInfoList = {
 		Title = "待机:这该保密吗？",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"等到凌晨过后，家人再次出发狩猎时，请在回到<NAVI>[艾尔帕兰]<INFO>aldebaran,105,167,0,101,0</INFO></NAVI>。我会在这里等你"
+			"等到凌晨过后，家人再次出发狩猎时，请在回到<NAVI>[阿尔德巴兰]<INFO>aldebaran,105,167,0,101,0</INFO></NAVI>。我会在这里等你"
 		},
 		Summary = "04点重置",
 		CoolTimeQuest = 1
@@ -77440,7 +77440,7 @@ QuestInfoList = {
 		Title = "熊熊燃起的胜负欲",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"在艾尔帕兰冬季狩猎大赛中，王室<NAVI>[狩猎部]<INFO>aldebaran,119,53,0,101,0</INFO></NAVI>的荣誉必须得到维护。请狩猎20只150级以上的怪物。"
+			"在阿尔德巴兰冬季狩猎大赛中，王室<NAVI>[狩猎部]<INFO>aldebaran,119,53,0,101,0</INFO></NAVI>的荣誉必须得到维护。请狩猎20只150级以上的怪物。"
 		},
 		Summary = "Lv.150以上的怪物"
 	},
@@ -77689,7 +77689,7 @@ QuestInfoList = {
 		Title = "有害魔物没有益处",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"在这个时期需要注意念属性魔物。请击退100只150等级的念属性魔物后，再返回<NAVI>[艾尔帕兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
+			"在这个时期需要注意念属性魔物。请击退100只150等级的念属性魔物后，再返回<NAVI>[阿尔德巴兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "Lv.150念属性"
 	},
@@ -77732,7 +77732,7 @@ QuestInfoList = {
 		Title = "这该保密吗?",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"在艾尔帕兰冬季狩猎大赛中，许多猎手以个人或团体形式参加，为大赛增添了更多热度。快去见见参加狩猎大赛的其他<NAVI>[猎人]<INFO>aldebaran,105,167,0,101,0</INFO></NAVI>吧。"
+			"在阿尔德巴兰冬季狩猎大赛中，许多猎手以个人或团体形式参加，为大赛增添了更多热度。快去见见参加狩猎大赛的其他<NAVI>[猎人]<INFO>aldebaran,105,167,0,101,0</INFO></NAVI>吧。"
 		},
 		Summary = "猎人们"
 	},
@@ -77758,7 +77758,7 @@ QuestInfoList = {
 		Title = "熊熊燃起的胜负欲",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"在艾尔帕兰冬季狩猎大赛中，王室<NAVI>[狩猎部]<INFO>aldebaran,119,53,0,101,0</INFO></NAVI>的荣誉必须得到维护。请狩猎20只100级以上的怪物。"
+			"在阿尔德巴兰冬季狩猎大赛中，王室<NAVI>[狩猎部]<INFO>aldebaran,119,53,0,101,0</INFO></NAVI>的荣誉必须得到维护。请狩猎20只100级以上的怪物。"
 		},
 		Summary = "Lv.100以上的怪物"
 	},
@@ -78063,7 +78063,7 @@ QuestInfoList = {
 		Title = "彻底预防",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"卢恩·米德加兹王室正在多方面准备应对冬季有害魔物。请前往，<NAVI>[应对本部]<INFO>aldebaran,118,97,0,101,0</INFO></NAVI>确认相关内容。"
+			"卢恩-米德加尔特王室正在多方面准备应对冬季有害魔物。请前往，<NAVI>[应对本部]<INFO>aldebaran,118,97,0,101,0</INFO></NAVI>确认相关内容。"
 		},
 		Summary = "多方面准备"
 	},
@@ -78196,7 +78196,7 @@ QuestInfoList = {
 		Title = "待机:有害魔物没有益处",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"非常出色的表现！请充分休息，待凌晨过后再返回<NAVI>[艾尔帕兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
+			"非常出色的表现！请充分休息，待凌晨过后再返回<NAVI>[阿尔德巴兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "04点重置",
 		CoolTimeQuest = 1
@@ -78239,7 +78239,7 @@ QuestInfoList = {
 		Title = "拜托提供个人指导",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"请在艾尔帕兰附近巡逻，击败灵导利5只并带回10个行动纪录表给<NAVI>[我们]<INFO>aldebaran,124,97,0,101,0</INFO></NAVI>。"
+			"请在阿尔德巴兰附近巡逻，击败灵导利5只并带回10个行动纪录表给<NAVI>[我们]<INFO>aldebaran,124,97,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "10个行动纪录表"
 	},
@@ -78265,7 +78265,7 @@ QuestInfoList = {
 		Title = "有害魔物没有益处",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"在这个时期需要注意念属性魔物。请击退100只200等级的念属性魔物后，再返回<NAVI>[艾尔帕兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
+			"在这个时期需要注意念属性魔物。请击退100只200等级的念属性魔物后，再返回<NAVI>[阿尔德巴兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "Lv.200念属性"
 	},
@@ -78395,7 +78395,7 @@ QuestInfoList = {
 		Title = "这该保密吗？",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"那个…请帮忙处理20只恶灵朽魔。请在家人回到<NAVI>[艾尔帕兰]<INFO>aldebaran,105,167,0,101,0</INFO></NAVI>之前尽快完成。"
+			"那个…请帮忙处理20只恶灵朽魔。请在家人回到<NAVI>[阿尔德巴兰]<INFO>aldebaran,105,167,0,101,0</INFO></NAVI>之前尽快完成。"
 		},
 		Summary = "恶灵朽魔20只"
 	},
@@ -78672,7 +78672,7 @@ QuestInfoList = {
 		Title = "有害魔物没有益处",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"在这个时期需要注意火属性魔物。请击退100只150等级的火属性魔物后，再返回<NAVI>[艾尔帕兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
+			"在这个时期需要注意火属性魔物。请击退100只150等级的火属性魔物后，再返回<NAVI>[阿尔德巴兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "Lv.150火属性"
 	},
@@ -78821,7 +78821,7 @@ QuestInfoList = {
 		Title = "这该保密吗？",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"那个…请帮忙处理20只艾吉欧蜈蚣。请在家人回到<NAVI>[艾尔帕兰]<INFO>aldebaran,105,167,0,101,0</INFO></NAVI>之前尽快完成。"
+			"那个…请帮忙处理20只艾吉欧蜈蚣。请在家人回到<NAVI>[阿尔德巴兰]<INFO>aldebaran,105,167,0,101,0</INFO></NAVI>之前尽快完成。"
 		},
 		Summary = "艾吉欧蜈蚣20只"
 	},
@@ -78850,7 +78850,7 @@ QuestInfoList = {
 		Title = "有害魔物没有益处",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"本月中型魔物的数量大幅增加。请击退100只200等级的中型魔物后，再返回 <NAVI>[艾尔帕兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
+			"本月中型魔物的数量大幅增加。请击退100只200等级的中型魔物后，再返回 <NAVI>[阿尔德巴兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "Lv.200中型"
 	},
@@ -79109,7 +79109,7 @@ QuestInfoList = {
 		Title = "待机:彻底预防",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"有害魔物需要一些时间才能被陷阱捕捉，所以请在黎明过后再来<NAVI>[艾尔帕兰]<INFO>aldebaran,118,97,0,101,0</INFO></NAVI>。"
+			"有害魔物需要一些时间才能被陷阱捕捉，所以请在黎明过后再来<NAVI>[阿尔德巴兰]<INFO>aldebaran,118,97,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "04点重置",
 		CoolTimeQuest = 1
@@ -79193,9 +79193,9 @@ QuestInfoList = {
 		Title = "熊熊燃起的胜负欲",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"已经得知参加狩猎大赛的王室骑士团的动向。快回到艾尔帕兰的王室 <NAVI>[狩猎部]<INFO>aldebaran,119,53,0,101,0</INFO></NAVI>，将消息告诉他们吧。"
+			"已经得知参加狩猎大赛的王室骑士团的动向。快回到阿尔德巴兰的王室 <NAVI>[狩猎部]<INFO>aldebaran,119,53,0,101,0</INFO></NAVI>，将消息告诉他们吧。"
 		},
-		Summary = "前往艾尔帕兰"
+		Summary = "前往阿尔德巴兰"
 	},
 [293132] = {
 		Title = "召唤灵异的卡普拉",
@@ -79317,7 +79317,7 @@ QuestInfoList = {
 		Title = "有害魔物没有益处",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"本月中型魔物的数量大幅增加。请击退100只150等级的中型魔物后，再返回 <NAVI>[艾尔帕兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
+			"本月中型魔物的数量大幅增加。请击退100只150等级的中型魔物后，再返回 <NAVI>[阿尔德巴兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "Lv.150中型"
 	},
@@ -79334,7 +79334,7 @@ QuestInfoList = {
 		Title = "这该保密吗？",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"那个…请帮忙处理20只沙漠之狼。请在家人回到<NAVI>[艾尔帕兰]<INFO>aldebaran,105,167,0,101,0</INFO></NAVI>之前尽快完成。"
+			"那个…请帮忙处理20只沙漠之狼。请在家人回到<NAVI>[阿尔德巴兰]<INFO>aldebaran,105,167,0,101,0</INFO></NAVI>之前尽快完成。"
 		},
 		Summary = "沙漠之狼20只"
 	},
@@ -79490,7 +79490,7 @@ QuestInfoList = {
 		Title = "彻底预防",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"请将这个坚固的陷阱和番薯一起放在艾尔帕兰附近的<NAVI>[制指定地点]<INFO>yuno_fild01,188,60,0,101,0</INFO></NAVI>。"
+			"请将这个坚固的陷阱和番薯一起放在阿尔德巴兰附近的<NAVI>[制指定地点]<INFO>yuno_fild01,188,60,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "安装陷阱1"
 	},
@@ -79525,10 +79525,10 @@ QuestInfoList = {
 	},
 [293087] = { Title = "巴风特击杀完毕", Description = { "可向昆仑的英雄纪录官于翌日再次承接任务。" }, Summary = "翌日凌晨过后才能继续任务" },
 [17826] = {
-		Title = "艾尔帕兰 冬季狩猎大赛",
+		Title = "阿尔德巴兰 冬季狩猎大赛",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"完成艾尔帕兰冬季狩猎祭报名的猎手们，必须狩猎凶残冬季野猪，并将优质肉品1个带回<NAVI>[本部]<INFO>aldebaran,111,114,0,101,0</INFO></NAVI>，以此来证明自己的实力。"
+			"完成阿尔德巴兰冬季狩猎祭报名的猎手们，必须狩猎凶残冬季野猪，并将优质肉品1个带回<NAVI>[本部]<INFO>aldebaran,111,114,0,101,0</INFO></NAVI>，以此来证明自己的实力。"
 		},
 		Summary = "优质肉品1个"
 	},
@@ -79594,7 +79594,7 @@ QuestInfoList = {
 		Title = "待机:拜托提供个人指导",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"我们还在分析行动纪录表，能否过了凌晨再来呢? <NAVI>[艾尔帕兰]<INFO>aldebaran,124,97,0,101,0</INFO></NAVI>狩猎大赛期间随时都可以参加。"
+			"我们还在分析行动纪录表，能否过了凌晨再来呢? <NAVI>[阿尔德巴兰]<INFO>aldebaran,124,97,0,101,0</INFO></NAVI>狩猎大赛期间随时都可以参加。"
 		},
 		Summary = "04点重置",
 		CoolTimeQuest = 1
@@ -79661,7 +79661,7 @@ QuestInfoList = {
 		Title = "有害魔物没有益处",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"在这个时期需要注意念属性魔物。请击退100只100等级的念属性魔物后，再返回<NAVI>[艾尔帕兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
+			"在这个时期需要注意念属性魔物。请击退100只100等级的念属性魔物后，再返回<NAVI>[阿尔德巴兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "Lv.100念属性"
 	},
@@ -79878,7 +79878,7 @@ QuestInfoList = {
 		Title = "有害魔物没有益处",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"在这个时期需要注意火属性魔物。请击退100只70等级的火属性魔物后，再返回<NAVI>[艾尔帕兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
+			"在这个时期需要注意火属性魔物。请击退100只70等级的火属性魔物后，再返回<NAVI>[阿尔德巴兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "Lv.70火属性"
 	},
@@ -79919,7 +79919,7 @@ QuestInfoList = {
 		Title = "这该保密吗？",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"那个…请帮忙处理20只骷髅俄希托斯。请在家人回到<NAVI>[艾尔帕兰]<INFO>aldebaran,105,167,0,101,0</INFO></NAVI>之前尽快完成。"
+			"那个…请帮忙处理20只骷髅俄希托斯。请在家人回到<NAVI>[阿尔德巴兰]<INFO>aldebaran,105,167,0,101,0</INFO></NAVI>之前尽快完成。"
 		},
 		Summary = "骷髅俄希托斯20只"
 	},
@@ -79941,7 +79941,7 @@ QuestInfoList = {
 		Title = "有害魔物没有益处",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"在艾尔帕兰冬季狩猎大赛中，为了处理冬季有害魔物，<NAVI>[特别任务]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>已经开放。一起参与试试吧?"
+			"在阿尔德巴兰冬季狩猎大赛中，为了处理冬季有害魔物，<NAVI>[特别任务]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>已经开放。一起参与试试吧?"
 		},
 		Summary = "有害魔物处理任务"
 	},
@@ -80032,7 +80032,7 @@ QuestInfoList = {
 		Title = "有害魔物没有益处",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"在这个时期需要注意火属性魔物。请击退100只200等级的火属性魔物后，再返回<NAVI>[艾尔帕兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
+			"在这个时期需要注意火属性魔物。请击退100只200等级的火属性魔物后，再返回<NAVI>[阿尔德巴兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "Lv.200火属性"
 	},
@@ -80229,7 +80229,7 @@ QuestInfoList = {
 		Title = "肉！肉！肉！",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"如果您打算交付带来的优质肉品，请前往艾尔帕兰冬季狩猎大赛? <NAVI>[运营本部]<INFO>aldebaran,97,125,0,101,0</INFO></NAVI>。"
+			"如果您打算交付带来的优质肉品，请前往阿尔德巴兰冬季狩猎大赛? <NAVI>[运营本部]<INFO>aldebaran,97,125,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "运营本部的事"
 	},
@@ -80590,7 +80590,7 @@ QuestInfoList = {
 		Title = "有害魔物没有益处",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"本月中型魔物的数量大幅增加。请击退100只100等级的中型魔物后，再返回 <NAVI>[艾尔帕兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
+			"本月中型魔物的数量大幅增加。请击退100只100等级的中型魔物后，再返回 <NAVI>[阿尔德巴兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "Lv.100中型"
 	},
@@ -80657,7 +80657,7 @@ QuestInfoList = {
 		Title = "熊熊燃起的胜负欲",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"身份不明的人声称有话要说，并请求前往艾尔帕兰的<NAVI>[某处]<INFO>aldebaran,119,53,0,101,0</INFO></NAVI>见面。这是怎么一回事呢?"
+			"身份不明的人声称有话要说，并请求前往阿尔德巴兰的<NAVI>[某处]<INFO>aldebaran,119,53,0,101,0</INFO></NAVI>见面。这是怎么一回事呢?"
 		},
 		Summary = "奇怪的人？"
 	},
@@ -80744,7 +80744,7 @@ QuestInfoList = {
 		Title = "有害魔物没有益处",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"在这个时期需要注意火属性魔物。请击退100只100等级的火属性魔物后，再返回<NAVI>[艾尔帕兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
+			"在这个时期需要注意火属性魔物。请击退100只100等级的火属性魔物后，再返回<NAVI>[阿尔德巴兰]<INFO>aldebaran,98,119,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "Lv.100火属性"
 	},
@@ -80805,7 +80805,7 @@ QuestInfoList = {
 		Title = "熊熊燃起的胜负欲",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"在艾尔帕兰冬季狩猎大赛中，王室<NAVI>[狩猎部]<INFO>aldebaran,119,53,0,101,0</INFO></NAVI>的荣誉必须得到维护。请狩猎20只70级以上的怪物。"
+			"在阿尔德巴兰冬季狩猎大赛中，王室<NAVI>[狩猎部]<INFO>aldebaran,119,53,0,101,0</INFO></NAVI>的荣誉必须得到维护。请狩猎20只70级以上的怪物。"
 		},
 		Summary = "Lv.70以上的怪物"
 	},
@@ -80990,10 +80990,10 @@ QuestInfoList = {
 		Summary = ""
 	},
 [17827] = {
-		Title = "艾尔帕兰冬季狩猎大赛",
+		Title = "阿尔德巴兰冬季狩猎大赛",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"已经在指定的位置设置了陷阱。如果你已经收集到优质肉品，就回到艾尔帕兰冬季狩猎大赛 <NAVI>[本部]<INFO>aldebaran,111,114,0,101,0</INFO></NAVI>，证明你拥有成为猎手的资格。"
+			"已经在指定的位置设置了陷阱。如果你已经收集到优质肉品，就回到阿尔德巴兰冬季狩猎大赛 <NAVI>[本部]<INFO>aldebaran,111,114,0,101,0</INFO></NAVI>，证明你拥有成为猎手的资格。"
 		},
 		Summary = "猎手资格证明"
 	},
@@ -81001,7 +81001,7 @@ QuestInfoList = {
 		Title = "熊熊燃起的胜负欲",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"在艾尔帕兰冬季狩猎大赛中，王室<NAVI>[狩猎部]<INFO>aldebaran,119,53,0,101,0</INFO></NAVI>的荣誉必须得到维护。20只200级以上的怪物。"
+			"在阿尔德巴兰冬季狩猎大赛中，王室<NAVI>[狩猎部]<INFO>aldebaran,119,53,0,101,0</INFO></NAVI>的荣誉必须得到维护。20只200级以上的怪物。"
 		},
 		Summary = "Lv.200以上的怪物"
 	},
