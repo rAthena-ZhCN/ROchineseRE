@@ -2464,10 +2464,10 @@ mapTbl = {
 		displayName = "Rockridge"
 	},
 	["harboro1.rsw"] = {
-		displayName = "洛克理奇",
+		displayName = "洛克里奇",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "洛克理奇"
+			mainTitle = "洛克里奇"
 		},
 		backgroundBmp = "village_s2"
 	},
@@ -2475,24 +2475,24 @@ mapTbl = {
 		displayName = "地下水道",
 		notifyEnter = true, 
 		signName = {
-			subTitle = "洛克理奇",
+			subTitle = "洛克里奇",
 			mainTitle = "地下水道"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["rockmi1.rsw"] = {
-		displayName = "洛克理奇 矿山",
+		displayName = "洛克里奇 矿山",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "洛克理奇矿山 1层"
+			mainTitle = "洛克里奇矿山 1层"
 		},
 		backgroundBmp = "dungeon"
 	},
 	["rockmi2.rsw"] = {
-		displayName = "洛克理奇 矿山",
+		displayName = "洛克里奇 矿山",
 		notifyEnter = true, 
 		signName = {
-			mainTitle = "洛克理奇矿山 2层"
+			mainTitle = "洛克里奇矿山 2层"
 		},
 		backgroundBmp = "dungeon"
 	},
@@ -2500,7 +2500,7 @@ mapTbl = {
 		displayName = "契瓦瓦沙漠",
 		notifyEnter = true, 
 		signName = {
-			subTitle = "洛克理奇",
+			subTitle = "洛克里奇",
 			mainTitle = "契瓦瓦沙漠"
 		},
 		backgroundBmp = "field"
@@ -2509,7 +2509,7 @@ mapTbl = {
 		displayName = "契瓦瓦沙漠",
 		notifyEnter = true, 
 		signName = {
-			subTitle = "洛克理奇",
+			subTitle = "洛克里奇",
 			mainTitle = "契瓦瓦沙漠"
 		},
 		backgroundBmp = "field"
@@ -2649,16 +2649,16 @@ mapTbl = {
 		backgroundBmp = "dungeon_s2"
 	},
 	["conch_in.rsw"] = {
-		displayName = "康·奇丽娜号内部",
+		displayName = "康-奇丽娜号内部",
 		notifyEnter = true, 
 		signName = {
 			subTitle = "港口都市 罗札纳",
-			mainTitle = "康·奇丽娜号内部"
+			mainTitle = "康-奇丽娜号内部"
 		},
 		backgroundBmp = "village"
 	},
 	["lasa_in01.rsw"] = {
-		displayName = "Inside Lasagna"
+		displayName = "罗札纳内部"
 	},
 	["lasa_dun_q.rsw"] = {
 		displayName = "龙巢穴",

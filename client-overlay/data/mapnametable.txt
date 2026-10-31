@@ -99,7 +99,7 @@ x_lhz.rsw#次元外的里希塔乐镇#
 x_ra.rsw#次元外的拉赫#
 
 // Noodles Festival July
-lasa_sea.rsw#人鱼妖怪巢穴#
+lasa_sea.rsw#海底洞穴#
 1@drdo.rsw#Legend of Dorado#
 
 //Old office of Ninja
@@ -161,11 +161,11 @@ rebel_in.rsw#克莱纳 奈米艾利#
 
 // Doram race - Lasagna town
 lasagna.rsw#港口都市 罗札纳#
-lasa_fild01.rsw#罗比奥平原岗亭#
+lasa_fild01.rsw#罗比奥平原岗哨#
 lasa_fild02.rsw#罗比奥森林#
-lasa_dun01.rsw#龙巢穴#
-lasa_dun02.rsw#龙巢穴#
-lasa_dun03.rsw#龙巢穴#
+lasa_dun01.rsw#龙巢穴 1层#
+lasa_dun02.rsw#龙巢穴 2层#
+lasa_dun03.rsw#龙巢穴 3层#
 conch_in.rsw#康-奇丽娜号内部#
 lasa_in01.rsw#罗札纳内部#
 lasa_dun_q.rsw#龙巢穴#

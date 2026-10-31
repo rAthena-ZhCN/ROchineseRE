@@ -1523,7 +1523,7 @@ tbl = {
 		Image = "蜡历牢磐其捞胶\\tipbox\\tip00178",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"显示或隐藏始终跟随多兰族（召唤师）的灵魂珠效果。\\\\n\\\\n?指令\\\\n/marble\\\\n\\\\n?<TIPBOX>其他设置与游戏指令<INFO>166</INFO></TIPBOX>\\\\n?<TIPBOX>游戏设置窗口<INFO>32</INFO></TIPBOX>\\\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"显示或隐藏始终跟随喵族（召唤师）的灵魂珠效果。\\\\n\\\\n?指令\\\\n/marble\\\\n\\\\n?<TIPBOX>其他设置与游戏指令<INFO>166</INFO></TIPBOX>\\\\n?<TIPBOX>游戏设置窗口<INFO>32</INFO></TIPBOX>\\\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[179] = {
@@ -1577,7 +1577,7 @@ tbl = {
 		Image = "蜡历牢磐其捞胶\\tipbox\\tip00184",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"坐下或站起。人类角色在将基本技能提升至3级后可以使用。\\\\n多兰族在新基本技能达到1级后可以使用。\\\\n坐下时，HP与SP的恢复速度会提升。\\\\n重复输入同一指令也可以坐下或站起。\\\\n\\\\n?指令\\\\nInsert键, /sit, /stand\\\\n\\\\n?<TIPBOX>其他设置与游戏指令<INFO>166</INFO></TIPBOX>\\\\n?<TIPBOX>游戏设置窗口<INFO>32</INFO></TIPBOX>\\\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"坐下或站起。人类角色在将基本技能提升至3级后可以使用。\\\\n喵族在新基本技能达到1级后可以使用。\\\\n坐下时，HP与SP的恢复速度会提升。\\\\n重复输入同一指令也可以坐下或站起。\\\\n\\\\n?指令\\\\nInsert键, /sit, /stand\\\\n\\\\n?<TIPBOX>其他设置与游戏指令<INFO>166</INFO></TIPBOX>\\\\n?<TIPBOX>游戏设置窗口<INFO>32</INFO></TIPBOX>\\\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[185] = {

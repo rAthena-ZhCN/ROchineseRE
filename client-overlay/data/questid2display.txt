@@ -10135,68 +10135,68 @@ Multiple connection is a difficult thing even for Nillem. I think there is a cer
 Reset at 4 o'clock#
 
 7711#开始#SG_FEEL#QUE_NOIMAGE#
-Yo Ho! I am a fabulous Doram from Pa~sta! I've climbed Laviol mountain, came to Lasagna port. And I'm going to take over the new continent Midgard!#
-Talk with Ajena#
+哟嚯！我是来自帕-斯达最帅气的喵族！翻过罗比奥山，来到了罗札纳港。现在要去接手新大陆米德加尔特！#
+与护卫队阿杰尼亚对话#
 
 7712#这是哪里？我是谁？#SG_FEEL#QUE_NOIMAGE#
-Yo Ho! I am a fabulous Doram from Pa~sta! Road to Port town Lasagna, a Militiaman Alio can tell you more.#
-Talk with Alio#
+哟嚯！我是来自帕-斯达最帅气的喵族！前往港口村落罗札纳的路，护卫队员阿利奥会详细告诉你。#
+与护卫队阿利奥对话#
 
-7713#初次战斗!#SG_FEEL#QUE_NOIMAGE#
-I knew it. Militiaman Alio wants to check my ability. An eggring is nothing with my foot punch!#
-#
+7713#初次战斗！#SG_FEEL#QUE_NOIMAGE#
+果然如此，护卫队员阿利奥想测试我的实力。区区蛋黄波利，一脚就能解决！#
+击败蛋黄波利 3只#
 
 7714#清爽的苹果汁#SG_FEEL#QUE_NOIMAGE#
-There's nothing like sweet and cold drink after work. Militiaman Alio seems to understand.#
-Drink Apple Juice#
+工作后来一杯清爽冰凉的饮料再好不过了。护卫队这位朋友似乎也懂。#
+喝苹果汁#
 
 7715#消失的箱子#SG_FEEL#QUE_NOIMAGE#
-A kid from town is saying he lost a delivery box. A Doram's duty is to help the kid! Let's hunt Eggrings to find the box.#
-Collect Delivery Box#
+村落的小屁孩说弄丢了配送箱。帮助小孩是喵族应尽的义务！去猎杀蛋黄波利找回箱子吧。#
+获得配送箱#
 
-7716#终于抵达村落!#SG_FEEL#QUE_NOIMAGE#
-Took back the box from eggring. Militiaman Alio wants me to deliver this to the kid in the Lasagna tool shop. Indeed, delievery is an adventure!#
-Talk with Tool shop kid#
+7716#终于抵达村落！#SG_FEEL#QUE_NOIMAGE#
+终于从蛋黄波利那里拿回了箱子。护卫队员让我交给罗札纳工具商人的小屁孩。配送也是冒险的一部分！#
+与工具商人的小屁孩对话#
 
 7717#商人的亲切#SG_FEEL#QUE_NOIMAGE#
-Toolshop owner gave me some useful items, asks me to find ^4d4dffHaru the Healer^000000. Healer lives in ^4d4dffthe house full of flowerpot, east from the toolshop^000000.#
-Talk with Haru the Healer#
+工具店主人给了我一些有用的道具，让我去找^4d4dff治疗师哈鲁^000000。治疗师住在^4d4dff工具店往东、花盆最多的房子^000000里。#
+与治疗师哈鲁对话#
 
 7718#并不陌生#SG_FEEL#QUE_NOIMAGE#
-Move to the meadow near the village, work on ^4d4dffRed Grass^000000 and come back with ^4d4dff1 Red Herb^000000. It's needed for the medicine, so let's get moving.#
-1 Red Herb#
+去村落附近的草地，处理^4d4dff红草^000000，带回^4d4dff1个红色药草^000000。制作药水需要它，快去吧。#
+红色药草 1个#
 
 7719#进行消化的时间#SG_FEEL#QUE_NOIMAGE#
-To help the cat in front of Lasagna village lets do some labor. Work on ^4d4dffRed Grass and collect 2 Red Herbs^000000. Piece of cake!#
-2 Red Herb#
+为了帮罗札纳村口趴着的猫咪消化，替它做些工作。处理^4d4dff红草^000000并带回^4d4dff2个红色药草^000000，小事一桩！#
+红色药草 2个#
 
 7720#服务介绍#SG_FEEL#QUE_NOIMAGE#
-Learned a lot about how to use the warehouse, and location saving service as well.#
+了解了仓库与储存位置服务的详细用法。#
 #
 
 7721#帅气猫咪的对决#SG_FEEL#QUE_NOIMAGE#
-A bet has started! To win hunt down 3 Lunatics and 2 Fabres the fastest. Lunatics and Fabres seems to live nearby.#
-You have 10 minutes to hunt the following:#
+赌约开始了！最快狩猎3只疯兔和2只绿棉虫就算赢。疯兔和绿棉虫好像就在附近栖息。#
+10分钟内狩猎 3只疯兔和2只绿棉虫#
 
 7722#紧急治疗#SG_FEEL#QUE_NOIMAGE#
-Learned emergency medical treatment.#
+学会了紧急治疗。#
 #
 
 7723#我体内的潜力#SG_FEEL#QUE_NOIMAGE#
-Learned about status and ability. Let's talk with Militiaman Nyoki more about this.#
-Talk with Nyoki#
+了解了属性值与能力值的知识。去找附近的护卫队员尼奥基问问更详细的内容吧。#
+与护卫队尼奥基对话#
 
 7731#隐秘的行动#SG_FEEL#QUE_NOIMAGE#
-葬鷕虜薇縑憮 粽瑞喻塭朝 衛謙擊 瓊晦煎 ц棻. 辦摹 葬鷕虜薇 奢о縑憮 觼瑁蝶諦 м盟ж濠.#
-觼瑁蝶諦 渠#
+在里希塔乐镇寻找叫做布鲁诺的侍从。先到里希塔乐镇的机场与克鲁斯会合吧。#
+与克鲁斯对话#
 
 7732#搜索嫌疑犯#SG_FEEL#QUE_NOIMAGE#
-粽瑞喻蒂 瓊晦 嬪п 葬鷕虜薇 磁睡, 磁翕睡蒂 熱儀ж晦煎 ц棻.#
-粽瑞喻 瓊晦#
+为了寻找布鲁诺，搜索里希塔乐镇北部和北东部。#
+寻找布鲁诺#
 
 7733#追缉!#SG_FEEL#QUE_NOIMAGE#
-粽瑞喻陛 щи 夠擊 憲啪 腎歷棻. 葬鷕虜薇 寥俯 斬籀縑憮 晦棻葬堅 氈擊 蝶酈嬴縑啪 憲葬堅 綴團陛煎 陛憮 粽瑞喻蒂 瓊濠!#
-綴團陛 熱儀#
+知道了布鲁诺前往的地方。到里希塔乐镇等待的斯琪亚处报告，之后到贫民窟寻找布鲁诺吧！#
+搜索贫民窟#
 
 7734#逮捕#SG_FEEL#QUE_NOIMAGE#
 粽瑞喻蒂 餌煎濩朝等 撩奢ц棻. 辦摹 Щ煩纔塭 諾掙戲煎 給嬴陛 棻擠 橾縑 渠п ⑺曖ж濠.#

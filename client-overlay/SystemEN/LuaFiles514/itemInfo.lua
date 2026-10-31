@@ -176517,7 +176517,7 @@ tbl = {
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -176546,7 +176546,7 @@ tbl = {
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -176557,7 +176557,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "ÄÚÆ°¼ÅÃ÷",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Doram Suit",
+		identifiedDisplayName = "ß÷×åÍâÌ×",
 		identifiedResourceName = "µµ¶÷¿Ê",
 		identifiedDescriptionName = {
 			"A suit that the Dorams prefers.",
@@ -176581,7 +176581,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -176592,7 +176592,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "ÄÚÆ°¼ÅÃ÷",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Luxury Doram Suit",
+		identifiedDisplayName = "¸ß¼¶ß÷×åÍâÌ×",
 		identifiedResourceName = "µµ¶÷¿Ê",
 		identifiedDescriptionName = {
 			"A high-class suit with a shape that Dorams prefer.",
@@ -176625,7 +176625,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -176636,7 +176636,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Armor",
 		unidentifiedResourceName = "ÄÚÆ°¼ÅÃ÷",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Special Doram Suit",
+		identifiedDisplayName = "ÌØÊâß÷×åÍâÌ×",
 		identifiedResourceName = "µµ¶÷¿Ê",
 		identifiedDescriptionName = {
 			"An elegant suit with a shape that Doram prefer.",
@@ -176677,7 +176677,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -238439,7 +238439,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 1368,
@@ -238745,7 +238745,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 1594,
@@ -238779,7 +238779,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 1593,
@@ -266395,7 +266395,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Doram Cape",
+		identifiedDisplayName = "ß÷×å¶·Åñ",
 		identifiedResourceName = "µµ¶÷¸ÁÅä",
 		identifiedDescriptionName = {
 			"A cape with a pattern that the dorams like.",
@@ -266419,7 +266419,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -266430,7 +266430,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Luxury Doram Cape",
+		identifiedDisplayName = "¸ß¼¶ß÷×å¶·Åñ",
 		identifiedResourceName = "µµ¶÷¸ÁÅä",
 		identifiedDescriptionName = {
 			"A high-class cape with a pattern that the dorams like.",
@@ -266463,7 +266463,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -266474,7 +266474,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Garment",
 		unidentifiedResourceName = "ÈÄµå",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Exlusive Doram Cape",
+		identifiedDisplayName = "ÌØÊâß÷×å¶·Åñ",
 		identifiedResourceName = "µµ¶÷¸ÁÅä",
 		identifiedDescriptionName = {
 			"A elegant cape with a pattern that the dorams like.",
@@ -266510,7 +266510,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -273545,7 +273545,7 @@ tbl = {
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -273575,7 +273575,7 @@ tbl = {
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -273586,7 +273586,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "½´Áî",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Doram Shoes",
+		identifiedDisplayName = "ß÷×åÑ¥×Ó",
 		identifiedResourceName = "µµ¶÷½´Áî",
 		identifiedDescriptionName = {
 			"Special shoes designed to fit the small feet of the Doram.",
@@ -273610,7 +273610,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -273621,7 +273621,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "½´Áî",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Luxury Doram Shoes",
+		identifiedDisplayName = "¸ß¼¶ß÷×åÑ¥×Ó",
 		identifiedResourceName = "µµ¶÷½´Áî",
 		identifiedDescriptionName = {
 			"Luxury exclusive shoes designed to fit the small feet of the Doram.",
@@ -273654,7 +273654,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -273665,7 +273665,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Shoes",
 		unidentifiedResourceName = "½´Áî",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Exlusive Doram Shoes",
+		identifiedDisplayName = "ÌØÊâß÷×åÑ¥×Ó",
 		identifiedResourceName = "µµ¶÷½´Áî",
 		identifiedDescriptionName = {
 			"Luxury exclusive shoes designed to fit the small feet of the Doram.",
@@ -273704,7 +273704,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -308670,7 +308670,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309228,7 +309228,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -323162,10 +323162,10 @@ tbl = {
 	},
 	[25623] = {
 		Server = "jRO",
-		unidentifiedDisplayName = "Doram Soul",
+		unidentifiedDisplayName = "ß÷×åÁé»ê",
 		unidentifiedResourceName = "ºÒÅ¸´ÂÈ¥",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Doram Soul",
+		identifiedDisplayName = "ß÷×åÁé»ê",
 		identifiedResourceName = "ºÒÅ¸´ÂÈ¥",
 		identifiedDescriptionName = {
 			"A mysterious soul summoned by a soul-handling summoner.",
@@ -323181,10 +323181,10 @@ tbl = {
 	},
 	[25624] = {
 		Server = "jRO",
-		unidentifiedDisplayName = "[Doram] Doram Soul Box",
+		unidentifiedDisplayName = "¡¾ß÷×å¡¿ß÷×åÁé»êÏä",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "[Doram] Doram Soul Box",
+		identifiedDisplayName = "¡¾ß÷×å¡¿ß÷×åÁé»êÏä",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
 			"A box containing one Doram Soul.",
@@ -323223,10 +323223,10 @@ tbl = {
 	},
 	[25626] = {
 		Server = "jRO",
-		unidentifiedDisplayName = "[Doram] Special Referral Box",
+		unidentifiedDisplayName = "¡¾ß÷×å¡¿ÌØÊâ½éÉÜº¯Ïä",
 		unidentifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "[Doram] Special Referral Box",
+		identifiedDisplayName = "¡¾ß÷×å¡¿ÌØÊâ½éÉÜº¯Ïä",
 		identifiedResourceName = "Çæ¶±ÀÌ´Â»óÀÚ",
 		identifiedDescriptionName = {
 			"A box containing one Special Referral Letter.",
@@ -328074,7 +328074,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 99,
@@ -328110,7 +328110,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 10,
@@ -328144,7 +328144,7 @@ tbl = {
 			"^0000CCWeapon Level:^000000 2",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 10,
@@ -328179,7 +328179,7 @@ tbl = {
 			"^0000CCWeapon Level:^000000 2",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 10,
@@ -328213,7 +328213,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 10,
@@ -328248,7 +328248,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 10,
@@ -328283,7 +328283,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 10,
@@ -328320,7 +328320,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 10,
@@ -328358,7 +328358,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 10,
@@ -328390,7 +328390,7 @@ tbl = {
 			"^0000CCWeapon Level:^000000 2",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 10,
@@ -328423,7 +328423,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 10,
@@ -328454,7 +328454,7 @@ tbl = {
 			"^0000CCWeapon Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 10,
@@ -328489,7 +328489,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 10,
@@ -328525,7 +328525,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 10,
@@ -328705,7 +328705,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 150",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 99,
@@ -328750,7 +328750,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 150",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 100,
@@ -328844,7 +328844,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 165",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 99,
@@ -329169,7 +329169,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 2,
 		ClassNum = 10,
@@ -348681,7 +348681,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -348714,7 +348714,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -348749,7 +348749,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -348782,7 +348782,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -348815,7 +348815,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -348848,7 +348848,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -348880,7 +348880,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -348913,7 +348913,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -348946,7 +348946,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -348979,7 +348979,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -349012,7 +349012,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -349045,7 +349045,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -349077,7 +349077,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -349109,7 +349109,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -349141,7 +349141,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -349173,7 +349173,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -353138,7 +353138,7 @@ tbl = {
 		identifiedDisplayName = "Doram Shield",
 		identifiedResourceName = "Doram_Shield",
 		identifiedDescriptionName = {
-			"A shield dedicated for Doram race.",
+			"ß÷×å×¨ÓÃµÄ¶ÜÅÆ¡£",
 			"_______________________",
 			"MDEF +5",
 			"_______________________",
@@ -353155,7 +353155,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
 			"^0000CCRequirement:^000000",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 1,
@@ -375629,7 +375629,7 @@ tbl = {
 		unidentifiedDisplayName = "Unidentified Ribbon",
 		unidentifiedResourceName = "¸®º»",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Doram Ballon",
+		identifiedDisplayName = "ß÷×åÆøÇò(Ê±×°)",
 		identifiedResourceName = "Doram_Balloon",
 		identifiedDescriptionName = {
 			"Costume equipment that imitates Doram children which are fluffy and swaying happily as a balloon.",
@@ -394426,10 +394426,10 @@ tbl = {
 		costume = false
 	},
 	[101040] = {
-		unidentifiedDisplayName = "Doram Shadow Cube",
+		unidentifiedDisplayName = "ß÷×åÓ°×ÓÏä",
 		unidentifiedResourceName = "½¦µµ¿ìÅ¥ºê",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Doram Shadow Cube",
+		identifiedDisplayName = "ß÷×åÓ°×ÓÏä",
 		identifiedResourceName = "½¦µµ¿ìÅ¥ºê",
 		identifiedDescriptionName = {
 			"Shadow Equipments for the Doram classes.",
@@ -523888,7 +523888,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 2,
 		ClassNum = 99,
@@ -524486,7 +524486,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 180",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 2,
 		ClassNum = 99,
@@ -524527,7 +524527,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 180",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 2,
 		ClassNum = 99,
@@ -524766,7 +524766,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 10",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 69,
@@ -524950,7 +524950,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 45",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 99,
@@ -524987,7 +524987,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 45",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 99,
@@ -525107,7 +525107,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 99,
@@ -525149,7 +525149,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 100",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 0,
 		ClassNum = 99,
@@ -526193,7 +526193,7 @@ tbl = {
 			"_______________________",
 			"^0000CCRequirement:^000000",
 			"Base Level 170",
-			"Summoner (Doram)"
+			"ÕÙ»½Ê¦£¨ß÷×å£©"
 		},
 		slotCount = 2,
 		ClassNum = 102,

@@ -150,13 +150,13 @@ RecommendedQuestInfoList = {
 			"<NAVI>[Star Emperor to Sky Emperor]<INFO>payon,213,202,0,101,0</INFO></NAVI>",
 			"<NAVI>[Soul Reaper to Soul Ascetic]<INFO>payon,197,119,0,101,0</INFO></NAVI>",
 			"<NAVI>[Kagerou, Oboro to Shinkiro, Shiranui]<INFO>amatsu,82,118,0,101,0</INFO></NAVI>",
-			"<NAVI>[Summoner to Spirit Handler]<INFO>payon,165,116,0,101,0</INFO></NAVI>",
+			"<NAVI>[召唤师转魂灵师]<INFO>payon,165,116,0,101,0</INFO></NAVI>",
 			"<NAVI>[Super Novice to Hyper Novice]<INFO>aldebaran,110,70,0,101,0</INFO></NAVI>"
 		},
 		QuestInfo2 = {
 			"Base Level 200",
 			"Job Level 70",
-			"(Summoner Job Level 60)"
+			"(召唤师职业等级 60)"
 		},
 		QuestInfo3 = {
 			"^ff0000?For more detailed information, please check with the NPC for each job.^000000"
@@ -347,7 +347,7 @@ RecommendedQuestInfoList = {
 			"Job Lv: ^950a0a65^000000"
 		},
 		QuestInfo3 = {
-			"^3f3199Rebellion/Kagerou/Oborou/Star Emperor/Soul Reaper/Super Novice/Doram friends are affected ~^000000"
+			"^3f3199反叛者/影狼/胧/星帝/猎灵士/超级初心者/喵族等职业会受到影响~^000000"
 		}
 	},
 	[89] = {
