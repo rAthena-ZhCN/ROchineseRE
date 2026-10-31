@@ -27308,11 +27308,11 @@ QuestInfoList = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
 		Description = { "向议员们报告结束。" },
-		Summary = "必须重新去见三国同盟长，但是……",
-		NpcSpr = "4_M_RUSMAN1",
-		NpcNavi = "moc_fild22b",
-		NpcPosX = 230,
-		NpcPosY = 197
+		Summary = "先去见<NAVI>[次元裂缝守卫]<INFO>moc_fild20,349,179,0,101,0</INFO></NAVI>，通过次元裂缝前往同盟长那里。",
+		NpcSpr = "4_M_LGTGUARD2",
+		NpcNavi = "moc_fild20",
+		NpcPosX = 349,
+		NpcPosY = 179
 	},
 	[10077] = {
 		Title = "人类前往异界",
