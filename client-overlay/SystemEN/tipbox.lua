@@ -1927,7 +1927,7 @@ tbl = {
 		Image = "蜡历牢磐其捞胶\\tipbox\\tip04014",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"在妙勒尼山脉更北处，有一座在冰天雪地的荒芜环境中制作玩具的小镇。\\n那座想让孩子们露出笑容的小小玩具工厂，一定出了什么问题。来听听远道赶来阿尔德巴兰求助的冒险者们的故事吧。\\n?<NAVI>[玩具工厂]<INFO>xmas,143,312,0,101,0</INFO></NAVI>\\n?<NAVI>[圣诞老人的家]<INFO>xmas,149,237,0,101,0</INFO></NAVI>\\n?<NAVI>[教堂]<INFO>xmas,104,287,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>米德加尔特大陆<INFO>4001</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"在妙勒尼山脉更北处，有一座在冰天雪地的荒芜环境中制作玩具的小镇。\\n那座想让孩子们露出笑容的小小玩具工厂，一定出了什么问题。来听听远道赶来艾尔帕兰求助的冒险者们的故事吧。\\n?<NAVI>[玩具工厂]<INFO>xmas,143,312,0,101,0</INFO></NAVI>\\n?<NAVI>[圣诞老人的家]<INFO>xmas,149,237,0,101,0</INFO></NAVI>\\n?<NAVI>[教堂]<INFO>xmas,104,287,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>米德加尔特大陆<INFO>4001</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[4015] = {
@@ -6373,7 +6373,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"这些副本位于米德加尔特地区。\\n\\n?^663399普通副本^000000\\n?<TIPBOX>盖菲尼亚<INFO>6200</INFO></TIPBOX>\\n?<TIPBOX>吉芬兽人地下洞窟<INFO>6201</INFO></TIPBOX>\\n?<TIPBOX>吉芬地下迷宫<INFO>6202</INFO></TIPBOX>\\n?<TIPBOX>格拉斯海姆<INFO>6203</INFO></TIPBOX>\\n?<TIPBOX>尼夫海姆，死者之国<INFO>6204</INFO></TIPBOX>\\n?<TIPBOX>拉赫尔神殿圣域<INFO>6205</INFO></TIPBOX>\\n?<TIPBOX>拉赫尔冰洞<INFO>6206</INFO></TIPBOX>\\n?<TIPBOX>露缇玩具工厂<INFO>6207</INFO></TIPBOX>\\n?<TIPBOX>里希塔乐人体学研究所<INFO>6208</INFO></TIPBOX>\\n?<TIPBOX>力量扭曲平原<INFO>6209</INFO></TIPBOX>\\n?<TIPBOX>莫洛克狮身人面像<INFO>6210</INFO></TIPBOX>\\n?<TIPBOX>莫洛克金字塔<INFO>6211</INFO></TIPBOX>\\n?<TIPBOX>妙尔尼尔地下洞窟<INFO>6212</INFO></TIPBOX>\\n?TIPBOX>妙尔尼尔废弃矿坑<INFO>6213</INFO></TIPBOX>\\n?<TIPBOX>瓦蒙德宅邸<INFO>6214</INFO></TIPBOX>\\n?<TIPBOX>废弃研究所阿米西提亚<INFO>6215</INFO></TIPBOX><TIPBOX>贝鲁斯城<INFO>6216</INFO></TIPBOX>\\n?<TIPBOX>维尔纳研究所<INFO>6217</INFO></TIPBOX>\\n?<TIPBOX>维恩斯·托尔火山<INFO>6218</INFO></TIPBOX>\\n?<TIPBOX>星光珊瑚地带<INFO>6219</INFO></TIPBOX>\\n?<TIPBOX>艾因贝赫矿山<INFO>6220</INFO></TIPBOX>\\n?<TIPBOX>阿尔德巴兰时钟塔<INFO>6221</INFO></TIPBOX>\\n?<TIPBOX>阿尔贝塔龟岛<INFO>6222</INFO></TIPBOX>\\n?<TIPBOX>阿尔贝塔沉船<INFO>6223</INFO></TIPBOX>\\n?<TIPBOX>奥兹的迷宫<INFO>6224</INFO></TIPBOX>\\n?<TIPBOX>鲁杜斯，实验废弃物处理设施<INFO>6225</INFO></TIPBOX>\\n?<TIPBOX>尤诺诺格之路<INFO>6226</INFO></TIPBOX>\\n?<TIPBOX>朱佩罗斯<INFO>6227</INFO></TIPBOX>\\n?TIPBOX>伊斯鲁德海底洞窟<INFO>6228</INFO></TIPBOX>\\n?<TIPBOX>被入侵的普隆德拉<INFO>6229</INFO></TIPBOX>\\n?<TIPBOX>科莫多洞窟<INFO>6230</INFO></TIPBOX>\\n?<TIPBOX>基尔海尔学院机器人工厂<INFO>6231</INFO>\\n?<TIPBOX>塔纳托斯之塔<INFO>6232</INFO></TIPBOX>\\n?<TIPBOX>斐扬洞窟<INFO>6233</INFO></TIPBOX>\\n?<TIPBOX>普隆德拉迷宫<INFO>6234</INFO></TIPBOX>\\n?<TIPBOX>普隆德拉地下迷宫<INFO>6235</INFO></TIPBOX>\\n?<TIPBOX>普隆德拉下水道<INFO>6236</INFO></TIPBOX>\\n?<TIPBOX>休格尔深渊湖地下洞窟<INFO>6237</INFO></TIPBOX>\\n?<TIPBOX>休格尔奥丁神殿<INFO>6238</INFO></TIPBOX>\\n?<TIPBOX>莫洛克蚁地狱<INFO>6239</INFO></TIPBOX>\\n?<TIPBOX>特殊边境区域 OS<INFO>6240</INFO></TIPBOX>\\n?<TIPBOX>龙巢<INFO>6242</INFO></TIPBOX>\\n\\n?^663399噩梦副本^000000\\n?<TIPBOX>莫洛克金字塔噩梦<INFO>6211</INFO></TIPBOX>\\n?<TIPBOX>阿尔德巴兰时钟塔噩梦<INFO>6221</INFO></TIPBOX>\\n\\n?^663399幻影副本^000000\\n?<TIPBOX>月光幻影<INFO>9086</INFO></TIPBOX>\\n?<TIPBOX>吸血鬼幻影<INFO>9087</INFO></TIPBOX>\\n?<TIPBOX>冰封幻影<INFO>9088</INFO></TIPBOX>\\n?<TIPBOX>深渊幻影<INFO>9089</INFO></TIPBOX>\\n?<TIPBOX>泰迪熊幻影<INFO>9090</INFO></TIPBOX>\\n?<TIPBOX>卢安达幻影<INFO>9091</INFO></TIPBOX>\\n?<TIPBOX>迷宫幻影<INFO>9092</INFO></TIPBOX>\\n?<TIPBOX>海底幻影<INFO>9093</INFO></TIPBOX>\\n?<TIPBOX>双子幻影<INFO>9157</INFO></TIPBOX>\\n\\n?^663399纪念副本^000000\\n?<TIPBOX>EDDA 白昼半月<INFO>7138</INFO></TIPBOX>\\n?<TIPBOX>EDDA 格拉斯海姆<INFO>7139</INFO></TIPBOX>\\n?<TIPBOX>EDDA 远征之旅<INFO>7140</INFO></TIPBOX>\\n?<TIPBOX>MD 旧格拉斯海姆 挑战模式<INFO>7106</INFO></TIPBOX>\\n?<TIPBOX>MD 旧格拉斯海姆 新手<INFO>7103</INFO></TIPBOX>\\n?<TIPBOX>MD 旧格拉斯海姆<INFO>7104</INFO></TIPBOX>\\n?<TIPBOX>MD 旧格拉斯海姆 困难模式<INFO>7105</INFO></TIPBOX>\\n?<TIPBOX>MD 塔纳托斯的记忆<INFO>6241</INFO></TIPBOX>\\n\\n?<TIPBOX>前往副本页面<INFO>6150</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"这些副本位于米德加尔特地区。\\n\\n?^663399普通副本^000000\\n?<TIPBOX>盖菲尼亚<INFO>6200</INFO></TIPBOX>\\n?<TIPBOX>吉芬兽人地下洞窟<INFO>6201</INFO></TIPBOX>\\n?<TIPBOX>吉芬地下迷宫<INFO>6202</INFO></TIPBOX>\\n?<TIPBOX>格拉斯海姆<INFO>6203</INFO></TIPBOX>\\n?<TIPBOX>尼夫海姆，死者之国<INFO>6204</INFO></TIPBOX>\\n?<TIPBOX>拉赫尔神殿圣域<INFO>6205</INFO></TIPBOX>\\n?<TIPBOX>拉赫尔冰洞<INFO>6206</INFO></TIPBOX>\\n?<TIPBOX>露缇玩具工厂<INFO>6207</INFO></TIPBOX>\\n?<TIPBOX>里希塔乐人体学研究所<INFO>6208</INFO></TIPBOX>\\n?<TIPBOX>力量扭曲平原<INFO>6209</INFO></TIPBOX>\\n?<TIPBOX>莫洛克狮身人面像<INFO>6210</INFO></TIPBOX>\\n?<TIPBOX>莫洛克金字塔<INFO>6211</INFO></TIPBOX>\\n?<TIPBOX>妙尔尼尔地下洞窟<INFO>6212</INFO></TIPBOX>\\n?TIPBOX>妙尔尼尔废弃矿坑<INFO>6213</INFO></TIPBOX>\\n?<TIPBOX>瓦蒙德宅邸<INFO>6214</INFO></TIPBOX>\\n?<TIPBOX>废弃研究所阿米西提亚<INFO>6215</INFO></TIPBOX><TIPBOX>贝鲁斯城<INFO>6216</INFO></TIPBOX>\\n?<TIPBOX>维尔纳研究所<INFO>6217</INFO></TIPBOX>\\n?<TIPBOX>维恩斯·托尔火山<INFO>6218</INFO></TIPBOX>\\n?<TIPBOX>星光珊瑚地带<INFO>6219</INFO></TIPBOX>\\n?<TIPBOX>艾因贝赫矿山<INFO>6220</INFO></TIPBOX>\\n?<TIPBOX>艾尔帕兰时钟塔<INFO>6221</INFO></TIPBOX>\\n?<TIPBOX>阿尔贝塔龟岛<INFO>6222</INFO></TIPBOX>\\n?<TIPBOX>阿尔贝塔沉船<INFO>6223</INFO></TIPBOX>\\n?<TIPBOX>奥兹的迷宫<INFO>6224</INFO></TIPBOX>\\n?<TIPBOX>鲁杜斯，实验废弃物处理设施<INFO>6225</INFO></TIPBOX>\\n?<TIPBOX>尤诺诺格之路<INFO>6226</INFO></TIPBOX>\\n?<TIPBOX>朱佩罗斯<INFO>6227</INFO></TIPBOX>\\n?TIPBOX>伊斯鲁德海底洞窟<INFO>6228</INFO></TIPBOX>\\n?<TIPBOX>被入侵的普隆德拉<INFO>6229</INFO></TIPBOX>\\n?<TIPBOX>科莫多洞窟<INFO>6230</INFO></TIPBOX>\\n?<TIPBOX>基尔海尔学院机器人工厂<INFO>6231</INFO>\\n?<TIPBOX>塔纳托斯之塔<INFO>6232</INFO></TIPBOX>\\n?<TIPBOX>斐扬洞窟<INFO>6233</INFO></TIPBOX>\\n?<TIPBOX>普隆德拉迷宫<INFO>6234</INFO></TIPBOX>\\n?<TIPBOX>普隆德拉地下迷宫<INFO>6235</INFO></TIPBOX>\\n?<TIPBOX>普隆德拉下水道<INFO>6236</INFO></TIPBOX>\\n?<TIPBOX>休格尔深渊湖地下洞窟<INFO>6237</INFO></TIPBOX>\\n?<TIPBOX>休格尔奥丁神殿<INFO>6238</INFO></TIPBOX>\\n?<TIPBOX>莫洛克蚁地狱<INFO>6239</INFO></TIPBOX>\\n?<TIPBOX>特殊边境区域 OS<INFO>6240</INFO></TIPBOX>\\n?<TIPBOX>龙巢<INFO>6242</INFO></TIPBOX>\\n\\n?^663399噩梦副本^000000\\n?<TIPBOX>莫洛克金字塔噩梦<INFO>6211</INFO></TIPBOX>\\n?<TIPBOX>艾尔帕兰时钟塔噩梦<INFO>6221</INFO></TIPBOX>\\n\\n?^663399幻影副本^000000\\n?<TIPBOX>月光幻影<INFO>9086</INFO></TIPBOX>\\n?<TIPBOX>吸血鬼幻影<INFO>9087</INFO></TIPBOX>\\n?<TIPBOX>冰封幻影<INFO>9088</INFO></TIPBOX>\\n?<TIPBOX>深渊幻影<INFO>9089</INFO></TIPBOX>\\n?<TIPBOX>泰迪熊幻影<INFO>9090</INFO></TIPBOX>\\n?<TIPBOX>卢安达幻影<INFO>9091</INFO></TIPBOX>\\n?<TIPBOX>迷宫幻影<INFO>9092</INFO></TIPBOX>\\n?<TIPBOX>海底幻影<INFO>9093</INFO></TIPBOX>\\n?<TIPBOX>双子幻影<INFO>9157</INFO></TIPBOX>\\n\\n?^663399纪念副本^000000\\n?<TIPBOX>EDDA 白昼半月<INFO>7138</INFO></TIPBOX>\\n?<TIPBOX>EDDA 格拉斯海姆<INFO>7139</INFO></TIPBOX>\\n?<TIPBOX>EDDA 远征之旅<INFO>7140</INFO></TIPBOX>\\n?<TIPBOX>MD 旧格拉斯海姆 挑战模式<INFO>7106</INFO></TIPBOX>\\n?<TIPBOX>MD 旧格拉斯海姆 新手<INFO>7103</INFO></TIPBOX>\\n?<TIPBOX>MD 旧格拉斯海姆<INFO>7104</INFO></TIPBOX>\\n?<TIPBOX>MD 旧格拉斯海姆 困难模式<INFO>7105</INFO></TIPBOX>\\n?<TIPBOX>MD 塔纳托斯的记忆<INFO>6241</INFO></TIPBOX>\\n\\n?<TIPBOX>前往副本页面<INFO>6150</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[6152] = {
@@ -6593,12 +6593,12 @@ tbl = {
 		}
 	},
 	[6221] = {
-		Title = "阿尔德巴兰钟塔#Dungeon#Nightmare#庵ぎ艜#唏虽暧昧#Level Expansion#240",
+		Title = "艾尔帕兰钟塔#Dungeon#Nightmare#庵ぎ艜#唏虽暧昧#Level Expansion#240",
 		Search = 1,
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"这是边境之城阿尔德巴兰的象征——地上4层、地下4层的钟塔副本。由于结构宛如迷宫，据说至今仍有新的副本不断被发现。\\n\\n?^663399进入条件^000000\\n^FF0000进入副本内的部分区域需要金币、物品、等级或前置任务。^000000\\n\\n?^663399副本列表^000000\\n?<NAVI>[阿尔德巴兰钟塔4层]<INFO>c_tower4,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[阿尔德巴兰钟塔3层]<INFO>c_tower3,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[阿尔德巴兰钟塔2层]<INFO>c_tower2,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[阿尔德巴兰钟塔1层]<INFO>c_tower1,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[阿尔德巴兰钟塔 地下1层]<INFO>alde_dun01,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[阿尔德巴兰钟塔 地下2层]<INFO>alde_dun02,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[阿尔德巴兰钟塔 地下3层]<INFO>alde_dun03,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[阿尔德巴兰钟塔 地下4层]<INFO>alde_dun04,0,0,0,-222,1</INFO></NAVI>\\n\\n?^663399噩梦副本^000000\\n?<NAVI>[扭曲钟塔2层]<INFO>c_tower2_,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[扭曲钟塔3层]<INFO>c_tower3_,0,0,0,-222,1</INFO></NAVI>\\n\\n?^663399扩展副本^000000\\n?<NAVI>[钟塔未知地下室]<INFO>clock_01,0,0,0,-222,1</INFO></NAVI>\\n\\n?<TIPBOX>前往副本页面<INFO>6150</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"这是边境之城艾尔帕兰的象征——地上4层、地下4层的钟塔副本。由于结构宛如迷宫，据说至今仍有新的副本不断被发现。\\n\\n?^663399进入条件^000000\\n^FF0000进入副本内的部分区域需要金币、物品、等级或前置任务。^000000\\n\\n?^663399副本列表^000000\\n?<NAVI>[艾尔帕兰钟塔4层]<INFO>c_tower4,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[艾尔帕兰钟塔3层]<INFO>c_tower3,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[艾尔帕兰钟塔2层]<INFO>c_tower2,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[艾尔帕兰钟塔1层]<INFO>c_tower1,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[艾尔帕兰钟塔 地下1层]<INFO>alde_dun01,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[艾尔帕兰钟塔 地下2层]<INFO>alde_dun02,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[艾尔帕兰钟塔 地下3层]<INFO>alde_dun03,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[艾尔帕兰钟塔 地下4层]<INFO>alde_dun04,0,0,0,-222,1</INFO></NAVI>\\n\\n?^663399噩梦副本^000000\\n?<NAVI>[扭曲钟塔2层]<INFO>c_tower2_,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[扭曲钟塔3层]<INFO>c_tower3_,0,0,0,-222,1</INFO></NAVI>\\n\\n?^663399扩展副本^000000\\n?<NAVI>[钟塔未知地下室]<INFO>clock_01,0,0,0,-222,1</INFO></NAVI>\\n\\n?<TIPBOX>前往副本页面<INFO>6150</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[6222] = {
@@ -6715,7 +6715,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"普隆德拉迷宫森林横跨妙勒尼山脉，是普隆德拉通往阿尔德巴兰的门户，也是迷宫型副本。这里出没从10级到90级的各种怪物，其中包括著名的首领怪物巴风特。\\n\\n?^663399进入条件^000000\\n^FF0000进入副本内的部分区域需要金币、物品、等级或前置任务。^000000\\n\\n?^663399副本列表^000000\\n?<NAVI>[迷宫森林1层]<INFO>prt_maze01,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[迷宫森林2层]<INFO>prt_maze02,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[迷宫森林3层]<INFO>prt_maze03,0,0,0,-222,1</INFO></NAVI>\\n\\n?^663399其他^000000\\n?<TIPBOX>地区任务：普隆德拉<INFO>4143</INFO></TIPBOX>\\n?<TIPBOX>地区任务：阿尔德巴兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>迷宫幻影<INFO>9092</INFO></TIPBOX>\\n\\n?<TIPBOX>前往副本页面<INFO>6150</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"普隆德拉迷宫森林横跨妙勒尼山脉，是普隆德拉通往艾尔帕兰的门户，也是迷宫型副本。这里出没从10级到90级的各种怪物，其中包括著名的首领怪物巴风特。\\n\\n?^663399进入条件^000000\\n^FF0000进入副本内的部分区域需要金币、物品、等级或前置任务。^000000\\n\\n?^663399副本列表^000000\\n?<NAVI>[迷宫森林1层]<INFO>prt_maze01,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[迷宫森林2层]<INFO>prt_maze02,0,0,0,-222,1</INFO></NAVI>\\n?<NAVI>[迷宫森林3层]<INFO>prt_maze03,0,0,0,-222,1</INFO></NAVI>\\n\\n?^663399其他^000000\\n?<TIPBOX>地区任务：普隆德拉<INFO>4143</INFO></TIPBOX>\\n?<TIPBOX>地区任务：艾尔帕兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>迷宫幻影<INFO>9092</INFO></TIPBOX>\\n\\n?<TIPBOX>前往副本页面<INFO>6150</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[6235] = {
@@ -7790,7 +7790,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"冬天是让身心都蜷缩的季节。来阿尔德巴兰吧。让我们一起度过温暖的冬天！\\n?^663399活动期间：12月^000000\\n关于节日活动的详情，请参阅官方网站的活动信息。\\n?<URL>进行中的活动<INFO>https://ro.gnjoy.com/news/event/list.asp,1024,768</INFO></URL>\\n\\n?<TIPBOX>节日活动<INFO>7150</INFO></TIPBOX>\\n?<TIPBOX>任务<INFO>4100</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"冬天是让身心都蜷缩的季节。来艾尔帕兰吧。让我们一起度过温暖的冬天！\\n?^663399活动期间：12月^000000\\n关于节日活动的详情，请参阅官方网站的活动信息。\\n?<URL>进行中的活动<INFO>https://ro.gnjoy.com/news/event/list.asp,1024,768</INFO></URL>\\n\\n?<TIPBOX>节日活动<INFO>7150</INFO></TIPBOX>\\n?<TIPBOX>任务<INFO>4100</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[8048] = {
@@ -7972,8 +7972,8 @@ tbl = {
 		Image = "蜡历牢磐其捞胶\\tipbox\\tip08108",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"与阿尔德巴兰的<NAVI>[拉格尔]<INFO>aldebaran,183,159,0,101,0</INFO></NAVI>对话\\n\\n^EE0000?注意：除特别说明外，组合材料仅使用无插槽装备。\\n若背包中有重复物品，可能会在制作时消耗非预期物品，请只持有想用于制作的物品。^000000\\n\\n?^006699<ITEM>[服装 黄金紫罗兰]<INFO>31709</INFO></ITEM> 组合材料^000000\\n?22x <ITEM>[星尘]<INFO>1001</INFO></ITEM>，\\n?<NAVI>[白幽灵]<INFO>WHISPER,0,0,3,-222,1</INFO></NAVI> 掉落\\n?50x <ITEM>[坚固贝壳]<INFO>943</INFO></ITEM>，\\n?<NAVI>[异变鱼]<INFO>VADON,0,0,3,-222,1</INFO></NAVI> 掉落\\n?300x <ITEM>[羽毛]<INFO>949</INFO></ITEM>，\\n?<NAVI>[疯兔]<INFO>LUNATIC,0,0,3,-222,1</INFO></NAVI> 掉落\\n?3x <ITEM>[紫色染料]<INFO>981</INFO></ITEM>\\n?<NAVI>[爪哇·杜里汉]<INFO>morocc_in,146,99,0,101,0</INFO></NAVI> 染料制作\\n?2,000,000 Zeny\\n\\n?<TIPBOX>服装设计大赛<INFO>8105</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>",
-			"去阿尔德巴兰找拉格尔，制作华丽美丽、能吸引所有人目光的黄金紫罗兰吧。\\n\\n?<TIPBOX>服装设计大赛<INFO>8105</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"与艾尔帕兰的<NAVI>[拉格尔]<INFO>aldebaran,183,159,0,101,0</INFO></NAVI>对话\\n\\n^EE0000?注意：除特别说明外，组合材料仅使用无插槽装备。\\n若背包中有重复物品，可能会在制作时消耗非预期物品，请只持有想用于制作的物品。^000000\\n\\n?^006699<ITEM>[服装 黄金紫罗兰]<INFO>31709</INFO></ITEM> 组合材料^000000\\n?22x <ITEM>[星尘]<INFO>1001</INFO></ITEM>，\\n?<NAVI>[白幽灵]<INFO>WHISPER,0,0,3,-222,1</INFO></NAVI> 掉落\\n?50x <ITEM>[坚固贝壳]<INFO>943</INFO></ITEM>，\\n?<NAVI>[异变鱼]<INFO>VADON,0,0,3,-222,1</INFO></NAVI> 掉落\\n?300x <ITEM>[羽毛]<INFO>949</INFO></ITEM>，\\n?<NAVI>[疯兔]<INFO>LUNATIC,0,0,3,-222,1</INFO></NAVI> 掉落\\n?3x <ITEM>[紫色染料]<INFO>981</INFO></ITEM>\\n?<NAVI>[爪哇·杜里汉]<INFO>morocc_in,146,99,0,101,0</INFO></NAVI> 染料制作\\n?2,000,000 Zeny\\n\\n?<TIPBOX>服装设计大赛<INFO>8105</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>",
+			"去艾尔帕兰找拉格尔，制作华丽美丽、能吸引所有人目光的黄金紫罗兰吧。\\n\\n?<TIPBOX>服装设计大赛<INFO>8105</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[8118] = {
@@ -7991,7 +7991,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"普隆德拉、吉芬等各地区的王室职员正在寻找前往异世界远征的英雄。\\n?<TIPBOX>异世界入场任务<INFO>6015</INFO></TIPBOX> 完成\\n?^663399等级100以上^000000\\n\\n与下列王室侍从之一对话\\n普隆德拉 ?<NAVI>[王室使者]<INFO>prontera,121,72,0,101,0</INFO></NAVI>\\n吉芬\\n?<NAVI>[王室使者]<INFO>geffen,123,68,0,101,0</INFO></NAVI>\\n斐扬\\n?<NAVI>[王室使者]<INFO>payon,168,65,0,101,0</INFO></NAVI>\\n梦罗克\\n?<NAVI>[王室使者]<INFO>morroc,152,97,0,101,0</INFO></NAVI>\\n艾尔贝塔\\n?<NAVI>[王室使者]<INFO>alberta,119,59,0,101,0</INFO></NAVI>\\n阿尔德巴兰\\n?<NAVI>[王室使者]<INFO>aldebaran,159,113,0,101,0</INFO></NAVI>\\n尤诺\\n?<NAVI>[王室使者]<INFO>yuno,162,132,0,101,0</INFO></NAVI>\\n里希塔尔\\n?<NAVI>[王室使者]<INFO>lighthalzen,150,100,0,101,0</INFO></NAVI>\\n雷切尔\\n?<NAVI>[王室使者]<INFO>rachel,119,131,0,101,0</INFO></NAVI>\\n贝因\\n?<NAVI>[王室使者]<INFO>veins,200,108,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>返回上一页<INFO>8118</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"普隆德拉、吉芬等各地区的王室职员正在寻找前往异世界远征的英雄。\\n?<TIPBOX>异世界入场任务<INFO>6015</INFO></TIPBOX> 完成\\n?^663399等级100以上^000000\\n\\n与下列王室侍从之一对话\\n普隆德拉 ?<NAVI>[王室使者]<INFO>prontera,121,72,0,101,0</INFO></NAVI>\\n吉芬\\n?<NAVI>[王室使者]<INFO>geffen,123,68,0,101,0</INFO></NAVI>\\n斐扬\\n?<NAVI>[王室使者]<INFO>payon,168,65,0,101,0</INFO></NAVI>\\n梦罗克\\n?<NAVI>[王室使者]<INFO>morroc,152,97,0,101,0</INFO></NAVI>\\n艾尔贝塔\\n?<NAVI>[王室使者]<INFO>alberta,119,59,0,101,0</INFO></NAVI>\\n艾尔帕兰\\n?<NAVI>[王室使者]<INFO>aldebaran,159,113,0,101,0</INFO></NAVI>\\n尤诺\\n?<NAVI>[王室使者]<INFO>yuno,162,132,0,101,0</INFO></NAVI>\\n里希塔尔\\n?<NAVI>[王室使者]<INFO>lighthalzen,150,100,0,101,0</INFO></NAVI>\\n雷切尔\\n?<NAVI>[王室使者]<INFO>rachel,119,131,0,101,0</INFO></NAVI>\\n贝因\\n?<NAVI>[王室使者]<INFO>veins,200,108,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>返回上一页<INFO>8118</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[8120] = {
@@ -9377,7 +9377,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"阿尔德巴兰的丝卡蒂总想为执勤中的儿子送上一口热饭。但边境检查站可不是轻易能进去的地方。\\n?^66339970级以上^000000\\n?<NAVI>[中年妇人]<INFO>aldebaran,114,180,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：阿尔德巴兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 70~79<INFO>4122</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"艾尔帕兰的丝卡蒂总想为执勤中的儿子送上一口热饭。但边境检查站可不是轻易能进去的地方。\\n?^66339970级以上^000000\\n?<NAVI>[中年妇人]<INFO>aldebaran,114,180,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：艾尔帕兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 70~79<INFO>4122</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[8274] = {
@@ -9386,7 +9386,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"据说通过边境检查站的人们抱怨不断。让我们尽一份力，让边境检查站用起来更舒心一些吧。\\n?^66339970级以上^000000\\n?<TIPBOX>任务：妈妈的便当<INFO>8273</INFO></TIPBOX>已完成\\n?<NAVI>[检查站站长切萨雷]<INFO>yuno_fild01,193,158,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：阿尔德巴兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 70~79<INFO>4122</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"据说通过边境检查站的人们抱怨不断。让我们尽一份力，让边境检查站用起来更舒心一些吧。\\n?^66339970级以上^000000\\n?<TIPBOX>任务：妈妈的便当<INFO>8273</INFO></TIPBOX>已完成\\n?<NAVI>[检查站站长切萨雷]<INFO>yuno_fild01,193,158,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：艾尔帕兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 70~79<INFO>4122</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[8275] = {
@@ -9395,7 +9395,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"在阿尔德巴兰北部边境检查站遇到的少女看见山羊后，似乎想到了一个好主意。\\n?^66339970级以上^000000\\n?<TIPBOX>任务：边境检查站的工作<INFO>8274</INFO></TIPBOX>进行中\\n?<NAVI>[基尔海尔学院学生]<INFO>yuno_fild01,189,154,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：阿尔德巴兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 70~79<INFO>4122</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"在艾尔帕兰北部边境检查站遇到的少女看见山羊后，似乎想到了一个好主意。\\n?^66339970级以上^000000\\n?<TIPBOX>任务：边境检查站的工作<INFO>8274</INFO></TIPBOX>进行中\\n?<NAVI>[基尔海尔学院学生]<INFO>yuno_fild01,189,154,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：艾尔帕兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 70~79<INFO>4122</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[8276] = {
@@ -9404,7 +9404,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"位于阿尔德巴兰西北、朱诺东南的基尔海尔学院附近，有一只猫正忙着开发新产品。猫究竟会做怎样的梦呢？\\n?^66339970级以上^000000\\n?<TIPBOX>任务：柔软蓬松<INFO>8275</INFO></TIPBOX>已完成\\n?<NAVI>[猫爪商人]<INFO>yuno_fild08,172,198,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：阿尔德巴兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 70~79<INFO>4122</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"位于艾尔帕兰西北、朱诺东南的基尔海尔学院附近，有一只猫正忙着开发新产品。猫究竟会做怎样的梦呢？\\n?^66339970级以上^000000\\n?<TIPBOX>任务：柔软蓬松<INFO>8275</INFO></TIPBOX>已完成\\n?<NAVI>[猫爪商人]<INFO>yuno_fild08,172,198,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：艾尔帕兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 70~79<INFO>4122</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[8277] = {
@@ -9413,7 +9413,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"是时候击败一路窜到学院附近的山羊和大魔王啄木鸟了。就靠冒险者的协助了！\\n?^66339970级以上^000000\\n?<TIPBOX>任务：柔软蓬松<INFO>8275</INFO></TIPBOX>已完成\\n?<NAVI>[基尔海尔学院学生]<INFO>yuno_fild08,179,200,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：阿尔德巴兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 70~79<INFO>4122</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"是时候击败一路窜到学院附近的山羊和大魔王啄木鸟了。就靠冒险者的协助了！\\n?^66339970级以上^000000\\n?<TIPBOX>任务：柔软蓬松<INFO>8275</INFO></TIPBOX>已完成\\n?<NAVI>[基尔海尔学院学生]<INFO>yuno_fild08,179,200,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：艾尔帕兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 70~79<INFO>4122</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[8278] = {
@@ -9422,7 +9422,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"位于阿尔德巴兰西北、朱诺东南的基尔海尔学院，警卫员最近因为学院附近鹰身女妖增多而头疼不已。\\n?^66339970级以上^000000\\n?<NAVI>[学院警卫]<INFO>yuno_fild08,198,200,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：阿尔德巴兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 70~79<INFO>4122</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"位于艾尔帕兰西北、朱诺东南的基尔海尔学院，警卫员最近因为学院附近鹰身女妖增多而头疼不已。\\n?^66339970级以上^000000\\n?<NAVI>[学院警卫]<INFO>yuno_fild08,198,200,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：艾尔帕兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 70~79<INFO>4122</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[8279] = {
@@ -9431,7 +9431,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"阿尔德巴兰的钟楼管理员瑟丁想打扫钟楼内部，可等着他的却是又大又粗鲁的墙壁……\\n?^66339970级以上^000000\\n?<NAVI>[钟楼管理员]<INFO>aldebaran,143,132,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：阿尔德巴兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 70~79<INFO>4122</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"艾尔帕兰的钟楼管理员瑟丁想打扫钟楼内部，可等着他的却是又大又粗鲁的墙壁……\\n?^66339970级以上^000000\\n?<NAVI>[钟楼管理员]<INFO>aldebaran,143,132,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：艾尔帕兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 70~79<INFO>4122</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[8280] = {
@@ -9440,7 +9440,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"阿尔德巴兰钟楼的宏伟并不只是因为钟楼的钟又大又漂亮。自己会走动的钟才是真正的钟..！\\n?^66339980级以上^000000\\n?<NAVI>[钟楼管理员]<INFO>aldebaran,143,132,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：阿尔德巴兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 80~89<INFO>4123</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"艾尔帕兰钟楼的宏伟并不只是因为钟楼的钟又大又漂亮。自己会走动的钟才是真正的钟..！\\n?^66339980级以上^000000\\n?<NAVI>[钟楼管理员]<INFO>aldebaran,143,132,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：艾尔帕兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 80~89<INFO>4123</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[8281] = {
@@ -9449,7 +9449,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"著名的阿尔德巴兰钟楼，自己会走动的钟！钟楼管理员瑟丁却讨厌它。无论如何都得把它处理掉……\\n?^66339980级以上^000000\\n?<NAVI>[钟楼管理员]<INFO>aldebaran,143,132,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：阿尔德巴兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 80~89<INFO>4123</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"著名的艾尔帕兰钟楼，自己会走动的钟！钟楼管理员瑟丁却讨厌它。无论如何都得把它处理掉……\\n?^66339980级以上^000000\\n?<NAVI>[钟楼管理员]<INFO>aldebaran,143,132,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：艾尔帕兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 80~89<INFO>4123</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[8282] = {
@@ -9458,7 +9458,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"阿尔德巴兰钟楼在地面上是钟楼，地下则连接着怪物出没的地下城。不知钟楼为何建在这种地方，但也许正因为钟楼充当着封印，阿尔德巴兰才得以平安。而钟楼管理员瑟丁正被地下怪物们的笑声困扰着……\\n?^66339980级以上^000000\\n?<NAVI>[钟楼管理员]<INFO>aldebaran,143,132,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：阿尔德巴兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 80~89<INFO>4123</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"艾尔帕兰钟楼在地面上是钟楼，地下则连接着怪物出没的地下城。不知钟楼为何建在这种地方，但也许正因为钟楼充当着封印，艾尔帕兰才得以平安。而钟楼管理员瑟丁正被地下怪物们的笑声困扰着……\\n?^66339980级以上^000000\\n?<NAVI>[钟楼管理员]<INFO>aldebaran,143,132,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>地区任务：艾尔帕兰<INFO>4150</INFO></TIPBOX>\\n?<TIPBOX>任务等级 80~89<INFO>4123</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[8283] = {
@@ -10428,7 +10428,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"阿尔德巴兰的换车商似乎想展示新的手推车设计。\\n?^663399可习得技能：更换手推车 2^000000\\n?^663399适用职业：商人系^000000\\n?^663399前置技能：更换手推车^000000\\n?<NAVI>[换车商]<INFO>aldebaran,72,240,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>返回上一页<INFO>9015</INFO></TIPBOX>\\n?<TIPBOX>查看目录<INFO>1000</INFO></TIPBOX>"
+			"艾尔帕兰的换车商似乎想展示新的手推车设计。\\n?^663399可习得技能：更换手推车 2^000000\\n?^663399适用职业：商人系^000000\\n?^663399前置技能：更换手推车^000000\\n?<NAVI>[换车商]<INFO>aldebaran,72,240,0,101,0</INFO></NAVI>\\n\\n?<TIPBOX>返回上一页<INFO>9015</INFO></TIPBOX>\\n?<TIPBOX>查看目录<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[9031] = {
@@ -11662,7 +11662,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"世上有人能用各种材料做出很酷的东西。若想戴上与众不同的头饰，不妨试着制作帽子。\\n你可以在下方的地区目录中找到世界各地的帽子工匠。\\n\\n部分制作出的帽子可以兑换成时装。\\n带着<ITEM>[时装兑换券]<INFO>6697</INFO></ITEM>和指定的帽子前往<NAVI>[伊芙·帕特森]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>即可兑换。\\n详情请参阅各份说明。\\n\\n?<TIPBOX>[普隆德拉]<INFO>9168</INFO></TIPBOX>\\n?<TIPBOX>[梦罗克]<INFO>9169</INFO></TIPBOX>\\n?<TIPBOX>[吉芬]<INFO>9170</INFO></TIPBOX>\\n?<TIPBOX>[斐扬]<INFO>9171</INFO></TIPBOX>\\n?<TIPBOX>[露缇]<INFO>9172</INFO></TIPBOX>\\n?<TIPBOX>[阿尔贝塔]<INFO>9173</INFO></TIPBOX>\\n?<TIPBOX>[阿尔德巴兰]<INFO>9174</INFO></TIPBOX>\\n?<TIPBOX>[科莫多]<INFO>9175</INFO></TIPBOX>\\n?<TIPBOX>[朱诺]<INFO>9176</INFO></TIPBOX>\\n?<TIPBOX>[艾因贝赫]<INFO>9177</INFO></TIPBOX>\\n?<TIPBOX>[里希塔乐镇]<INFO>9178</INFO></TIPBOX>\\n?<TIPBOX>[拉赫尔]<INFO>9179</INFO></TIPBOX>\\n?<TIPBOX>[胡格尔]<INFO>9180</INFO></TIPBOX>\\n?<TIPBOX>[其他地区与野外]<INFO>9181</INFO></TIPBOX>\\n\\n\\n?<TIPBOX>查看目录<INFO>1000</INFO></TIPBOX>"
+			"世上有人能用各种材料做出很酷的东西。若想戴上与众不同的头饰，不妨试着制作帽子。\\n你可以在下方的地区目录中找到世界各地的帽子工匠。\\n\\n部分制作出的帽子可以兑换成时装。\\n带着<ITEM>[时装兑换券]<INFO>6697</INFO></ITEM>和指定的帽子前往<NAVI>[伊芙·帕特森]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>即可兑换。\\n详情请参阅各份说明。\\n\\n?<TIPBOX>[普隆德拉]<INFO>9168</INFO></TIPBOX>\\n?<TIPBOX>[梦罗克]<INFO>9169</INFO></TIPBOX>\\n?<TIPBOX>[吉芬]<INFO>9170</INFO></TIPBOX>\\n?<TIPBOX>[斐扬]<INFO>9171</INFO></TIPBOX>\\n?<TIPBOX>[露缇]<INFO>9172</INFO></TIPBOX>\\n?<TIPBOX>[阿尔贝塔]<INFO>9173</INFO></TIPBOX>\\n?<TIPBOX>[艾尔帕兰]<INFO>9174</INFO></TIPBOX>\\n?<TIPBOX>[科莫多]<INFO>9175</INFO></TIPBOX>\\n?<TIPBOX>[朱诺]<INFO>9176</INFO></TIPBOX>\\n?<TIPBOX>[艾因贝赫]<INFO>9177</INFO></TIPBOX>\\n?<TIPBOX>[里希塔乐镇]<INFO>9178</INFO></TIPBOX>\\n?<TIPBOX>[拉赫尔]<INFO>9179</INFO></TIPBOX>\\n?<TIPBOX>[胡格尔]<INFO>9180</INFO></TIPBOX>\\n?<TIPBOX>[其他地区与野外]<INFO>9181</INFO></TIPBOX>\\n\\n\\n?<TIPBOX>查看目录<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[9168] = {
@@ -11720,12 +11720,12 @@ tbl = {
 		}
 	},
 	[9174] = {
-		Title = "头饰制作：阿尔德巴兰#Headgear Costume Headband Crafting,Doctor Band,Feather Bonnet,Opera Masque,Sakkat,Alarm Mask",
+		Title = "头饰制作：艾尔帕兰#Headgear Costume Headband Crafting,Doctor Band,Feather Bonnet,Opera Masque,Sakkat,Alarm Mask",
 		Search = 1,
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"你可以在阿尔德巴兰组合以下独特帽子。\n\n?<NAVI>[商人]<INFO>aldeba_in,152,166,0,101,0</INFO></NAVI> 组合列表\n?<ITEM>[医生发带]<INFO>2273</INFO></ITEM>\n1x 裂开的钻石、1x 红色头巾、50x 铁和3500 Zeny\n?<ITEM>[羽毛软帽]<INFO>5018</INFO></ITEM>\n1x 浪漫绅士、300x 鸟之羽毛和500 Zeny\n?可在以下地点兑换为时装：<NAVI>[伊芙·帕特森]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n?<ITEM>[歌剧面具]<INFO>2281</INFO></ITEM>\n20x 钢铁、1x 歌唱植物和5000 Zeny\n?<ITEM>[笠帽]<INFO>2280</INFO></ITEM>\n120x 树干和10000 Zeny\n?可在以下地点兑换为时装：<NAVI>[伊芙·帕特森]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n?<NAVI>[肌肉男]<INFO>alde_alche,88,180,0,101,0</INFO></NAVI> 组合列表\n?<ITEM>[闹钟面具]<INFO>5086</INFO></ITEM>\n3000x 钟表指针和1x 尖叫先生\n?可在以下地点兑换为时装：<NAVI>[伊芙·帕特森]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n?<TIPBOX>返回上一页<INFO>9167</INFO></TIPBOX>\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"你可以在艾尔帕兰组合以下独特帽子。\n\n?<NAVI>[商人]<INFO>aldeba_in,152,166,0,101,0</INFO></NAVI> 组合列表\n?<ITEM>[医生发带]<INFO>2273</INFO></ITEM>\n1x 裂开的钻石、1x 红色头巾、50x 铁和3500 Zeny\n?<ITEM>[羽毛软帽]<INFO>5018</INFO></ITEM>\n1x 浪漫绅士、300x 鸟之羽毛和500 Zeny\n?可在以下地点兑换为时装：<NAVI>[伊芙·帕特森]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n?<ITEM>[歌剧面具]<INFO>2281</INFO></ITEM>\n20x 钢铁、1x 歌唱植物和5000 Zeny\n?<ITEM>[笠帽]<INFO>2280</INFO></ITEM>\n120x 树干和10000 Zeny\n?可在以下地点兑换为时装：<NAVI>[伊芙·帕特森]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n?<NAVI>[肌肉男]<INFO>alde_alche,88,180,0,101,0</INFO></NAVI> 组合列表\n?<ITEM>[闹钟面具]<INFO>5086</INFO></ITEM>\n3000x 钟表指针和1x 尖叫先生\n?可在以下地点兑换为时装：<NAVI>[伊芙·帕特森]<INFO>mal_in01,11,110,0,101,0</INFO></NAVI>\n\n?<TIPBOX>返回上一页<INFO>9167</INFO></TIPBOX>\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[9175] = {
