@@ -27227,11 +27227,11 @@ QuestInfoList = {
 		Title = "人类前往异界",
 		IconName = "ico_ep.bmp",
 		Description = { "接受三国同盟长希凯兹的委托。" },
-		Summary = "去见见<NAVI>[拉赫神殿同盟管理人]<INFO>ra_temple,119,113,0,101,0</INFO></NAVI>。",
+		Summary = "去见见<NAVI>[普隆德拉同盟管理人]<INFO>prt_cas,19,98,0,101,0</INFO></NAVI>。",
 		NpcSpr = "4W_SAILOR",
 		NpcNavi = "prt_cas",
-		NpcPosX = 163,
-		NpcPosY = 53
+		NpcPosX = 19,
+		NpcPosY = 98
 	},
 	[10069] = {
 		Title = "人类前往异界",
