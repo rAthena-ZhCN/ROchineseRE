@@ -176560,7 +176560,7 @@ tbl = {
 		identifiedDisplayName = "喵族外套",
 		identifiedResourceName = "档恩渴",
 		identifiedDescriptionName = {
-			"A suit that the Dorams prefers.",
+			"喵族所喜爱的轻装外套。",
 			"_______________________",
 			"MDEF +5",
 			"_______________________",
@@ -176595,7 +176595,7 @@ tbl = {
 		identifiedDisplayName = "高级喵族外套",
 		identifiedResourceName = "档恩渴",
 		identifiedDescriptionName = {
-			"A high-class suit with a shape that Dorams prefer.",
+			"喵族所喜爱的高级轻装外套。",
 			"_______________________",
 			"MDEF +5",
 			"_______________________",
@@ -176639,7 +176639,7 @@ tbl = {
 		identifiedDisplayName = "特殊喵族外套",
 		identifiedResourceName = "档恩渴",
 		identifiedDescriptionName = {
-			"An elegant suit with a shape that Doram prefer.",
+			"喵族所喜爱的优雅轻装外套。",
 			"_______________________",
 			"MDEF +5",
 			"_______________________",
@@ -266398,7 +266398,7 @@ tbl = {
 		identifiedDisplayName = "喵族斗篷",
 		identifiedResourceName = "档恩噶配",
 		identifiedDescriptionName = {
-			"A cape with a pattern that the dorams like.",
+			"喵族所喜爱的纹样斗篷。",
 			"_______________________",
 			"MDEF +5",
 			"_______________________",
@@ -266433,7 +266433,7 @@ tbl = {
 		identifiedDisplayName = "高级喵族斗篷",
 		identifiedResourceName = "档恩噶配",
 		identifiedDescriptionName = {
-			"A high-class cape with a pattern that the dorams like.",
+			"喵族所喜爱的高级纹样斗篷。",
 			"_______________________",
 			"MDEF +5",
 			"_______________________",
@@ -273589,7 +273589,7 @@ tbl = {
 		identifiedDisplayName = "喵族靴子",
 		identifiedResourceName = "档恩酱令",
 		identifiedDescriptionName = {
-			"Special shoes designed to fit the small feet of the Doram.",
+			"为喵族的小脚订制的专属靴子。",
 			"_______________________",
 			"MDEF +5",
 			"_______________________",
@@ -273624,7 +273624,7 @@ tbl = {
 		identifiedDisplayName = "高级喵族靴子",
 		identifiedResourceName = "档恩酱令",
 		identifiedDescriptionName = {
-			"Luxury exclusive shoes designed to fit the small feet of the Doram.",
+			"为喵族的小脚订制的高级靴子。",
 			"_______________________",
 			"MDEF +5",
 			"_______________________",
@@ -273668,7 +273668,7 @@ tbl = {
 		identifiedDisplayName = "特殊喵族靴子",
 		identifiedResourceName = "档恩酱令",
 		identifiedDescriptionName = {
-			"Luxury exclusive shoes designed to fit the small feet of the Doram.",
+			"为喵族的小脚订制的高级靴子。",
 			"_______________________",
 			"MDEF +5",
 			"_______________________",
