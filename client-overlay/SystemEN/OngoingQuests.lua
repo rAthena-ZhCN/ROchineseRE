@@ -41723,8 +41723,11 @@ QuestInfoList = {
 	},
 	[14600] = {
 		Title = "2层的绅士",
-		Description = { "先到2层的绅士，鲁柏对话吧，如果说服不了的话就去找女士们吧。" },
-		Summary = "先去找2层的绅士"
+		Description = { "先到2层与<NAVI>[鲁柏]<INFO>rebel_in,122,71,0,101,0</INFO></NAVI>对话。如果说服不了，再去找女士们。" },
+		Summary = "先去找2层的绅士",
+		NpcNavi = "rebel_in",
+		NpcPosX = 122,
+		NpcPosY = 71
 	},
 	[14601] = {
 		Title = "2层的女士们",
