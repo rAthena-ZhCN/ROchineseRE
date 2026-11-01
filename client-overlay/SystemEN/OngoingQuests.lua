@@ -18141,8 +18141,11 @@ QuestInfoList = {
 	},
 	[7682] = {
 		Title = "社交从面晤开始",
-		Description = { "在开始宴会前，先拜访七大王室家族进行问候吧。西边别宫是海尔内、内里乌斯、博尔特家族，东边别宫是雷哈特、维格纳、雷根布尔格、吉尔伯格家族。" },
-		Summary = "访问各王室"
+		Description = { "在宴会开始前，先去向<NAVI>[贝尔侍从长]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>确认今天的行程，再拜访七大王室家族。" },
+		Summary = "去找贝尔侍从长确认行程",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 26,
+		NpcPosY = 30
 	},
 	[7683] = {
 		Title = "访问海尔内家族",
