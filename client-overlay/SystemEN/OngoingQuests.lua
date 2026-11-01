@@ -12771,8 +12771,11 @@ QuestInfoList = {
 	},
 	[5732] = {
 		Title = "前往里希塔乐镇",
-		Description = { "收到新的情报。往四方环水的豪宅带去水灵原石1个和<ITEM>风灵矿石<INFO>992</INFO></ITEM>3个。" },
-		Summary = ""
+		Description = { "收到新的情报。往四方环水的豪宅带去<ITEM>水灵矿石<INFO>991</INFO></ITEM>1个和<ITEM>风灵矿石<INFO>992</INFO></ITEM>3个。" },
+		Summary = "",
+		NpcNavi = "lighthalzen",
+		NpcPosX = 135,
+		NpcPosY = 233
 	},
 	[5733] = {
 		Title = "去找克莱纳 奈米艾利",
@@ -14473,7 +14476,7 @@ QuestInfoList = {
 	[7008] = {
 		Title = "太阳与月亮及星星的战士–自然",
 		Description = { "去收集散落在世界各地的自然力量吧，那些风之碎片、大地之证据、冰的结晶、炽热的火花，都是你迈向拳圣的第一道考验" },
-		Summary = "风灵原石、<ITEM>地灵矿石<INFO>993</INFO></ITEM>、水灵原石、火灵原石"
+		Summary = "风灵原石、<ITEM>地灵矿石<INFO>993</INFO></ITEM>、<ITEM>水灵矿石<INFO>991</INFO></ITEM>、火灵原石"
 	},
 	[7009] = {
 		Title = "太阳与月亮及星星的战士-圣域",
