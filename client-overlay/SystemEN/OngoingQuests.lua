@@ -18133,8 +18133,11 @@ QuestInfoList = {
 	},
 	[7681] = {
 		Title = "王宫宴会请帖",
-		Description = { "为了慰劳远征灰暗尘世并击极恶无道的梦罗克的所有人，普隆德拉王宫将举行一场盛大的宴会。欢迎大家前来参加！" },
-		Summary = "访问普隆德拉王宫"
+		Description = { "为了慰劳远征灰烬真空、击败梦罗克的所有人，普隆德拉王宫将举行盛大宴会。先在<NAVI>[皇家使者]<INFO>prontera,121,72,0,101,0</INFO></NAVI>处领取<ITEM>宴会请帖<INFO>6933</INFO></ITEM>，再前往<NAVI>[普隆德拉王宫]<INFO>prt_cas,215,146,0,101,0</INFO></NAVI>。" },
+		Summary = "领取请帖后前往普隆德拉王宫",
+		NpcNavi = "prt_cas",
+		NpcPosX = 215,
+		NpcPosY = 146
 	},
 	[7682] = {
 		Title = "社交从面晤开始",
