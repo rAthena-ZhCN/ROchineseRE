@@ -7060,7 +7060,7 @@ QuestInfoList = {
 	},
 	[4023] = {
 		Title = "与王子的晤谈",
-		Description = { "与海涅家族的王子见面后交谈" },
+		Description = { "与海尔内家族的王子见面后交谈" },
 		Summary = ""
 	},
 	[4024] = {
@@ -18474,7 +18474,7 @@ QuestInfoList = {
 	},
 	[7735] = {
 		Title = "隐秘的行动2",
-		Description = { "需要施瓦茨瓦尔德共和国的情报协助。前往<NAVI>[朱诺机场]<INFO>y_airport,168,41,0,101,0</INFO></NAVI>，与克鲁斯会合，护卫斯皮卡。" },
+		Description = { "需要秀发兹共和国的情报协助。前往<NAVI>[朱诺机场]<INFO>y_airport,168,41,0,101,0</INFO></NAVI>，与克鲁斯会合，护卫斯皮卡。" },
 		Summary = "与克鲁斯会合",
 		NpcNavi = "y_airport",
 		NpcPosX = 168,
@@ -27148,7 +27148,7 @@ QuestInfoList = {
 	},
 	[10008] = {
 		Title = "帕特王子",
-		Description = { "去见海涅家族的王子后，调查他的底细吧" },
+		Description = { "去见海尔内家族的王子后，调查他的底细吧" },
 		Summary = ""
 	},
 	[10009] = {
@@ -41269,7 +41269,7 @@ QuestInfoList = {
 	},
 	[14495] = {
 		Title = "去找沃尔夫",
-		Description = { "前往<NAVI>[沃尔夫·雷根布尔格]<INFO>prt_cas_q,96,186,0,101,0</INFO></NAVI>处，听一听雷根布尔格家族的故事。" },
+		Description = { "前往<NAVI>[沃尔夫·雷根贝格]<INFO>prt_cas_q,96,186,0,101,0</INFO></NAVI>处，听一听雷根贝格家族的故事。" },
 		Summary = "去找沃尔夫",
 		NpcNavi = "prt_cas_q",
 		NpcPosX = 96,
@@ -41285,7 +41285,7 @@ QuestInfoList = {
 	},
 	[14497] = {
 		Title = "给沃尔夫传递物品",
-		Description = { "把箱子交给<NAVI>[沃尔夫·雷根布尔格]<INFO>prt_cas_q,96,186,0,101,0</INFO></NAVI>，路上小心。" },
+		Description = { "把箱子交给<NAVI>[沃尔夫·雷根贝格]<INFO>prt_cas_q,96,186,0,101,0</INFO></NAVI>，路上小心。" },
 		Summary = "给沃尔夫送箱子",
 		NpcNavi = "prt_cas_q",
 		NpcPosX = 96,
