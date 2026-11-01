@@ -44201,12 +44201,18 @@ QuestInfoList = {
 	[16017] = {
 		Title = "双胞胎的真心告白",
 		Description = { "听说了双胞胎为什么会惹出那么多事情，去和埃琳娜说说吧。" },
-		Summary = "去找埃琳娜"
+		Summary = "去找埃琳娜",
+		NpcNavi = "rebel_in",
+		NpcPosX = 70,
+		NpcPosY = 78
 	},
 	[16018] = {
-		Title = "星星根据惩罚",
+		Title = "鼓励代替惩罚",
 		Description = { "埃琳娜委托带来俩兄妹，激励两个气馁的兄妹并带过来吧。" },
-		Summary = "回去找列别杰夫双胞胎"
+		Summary = "回去找列别杰夫双胞胎",
+		NpcNavi = "rebel_in",
+		NpcPosX = 105,
+		NpcPosY = 54
 	},
 	[16019] = {
 		Title = "埃琳娜的决策",
