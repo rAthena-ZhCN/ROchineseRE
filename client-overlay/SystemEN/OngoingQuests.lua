@@ -15655,35 +15655,49 @@ QuestInfoList = {
 	[7206] = {
 		Title = "契休的新任务",
 		IconName = "ico_dq.bmp",
-		Description = {
-			"在^4d4dff卡米达隧道的中间应该会看到一只猫咪手商队的猫咪。而^4d4dff斯卡勒伯熔岩入口西边的商队物品中，有个另外标示的箱子，你去把那个箱子移到别的地方，地点写在箱子上。"
-		},
-		Summary = ""
+		Description = { "柴郡要你去<NAVI>[卡米达隧道]<INFO>dic_dun01,274,114,0,101,0</INFO></NAVI>中央、斯卡勒伯熔岩入口西侧的货物堆中，找出做过标记的箱子。" },
+		Summary = "去卡米达隧道寻找标记箱子",
+		NpcNavi = "dic_dun01",
+		NpcPosX = 274,
+		NpcPosY = 114
 	},
+
 	[7207] = {
 		Title = "契休提及的箱子",
 		IconName = "ico_dq.bmp",
-		Description = { "在卡米达隧道找到契休所说的箱子而箱子底下写有小小的字样，^4d4dff彩虹桥的裂缝前。必须将箱子交给位在彩虹桥某处的契休才行。" },
-		Summary = ""
+		Description = { "把从卡米达隧道取得的<ITEM>魔力之石箱<INFO>6392</INFO></ITEM>送到<NAVI>[彩虹桥裂隙]<INFO>bif_fild01,335,168,0,101,0</INFO></NAVI>，交给奇西尔。" },
+		Summary = "把箱子送到彩虹桥裂隙",
+		NpcNavi = "bif_fild01",
+		NpcPosX = 335,
+		NpcPosY = 168
 	},
 	[7208] = {
 		Title = "明天也会来吗？",
 		IconName = "ico_dq.bmp",
-		Description = { "说好一天一次，将卡米达隧道中的箱子搬去给契休，有时间的话就去搬箱子吧！" },
-		Summary = "",
+		Description = { "每天前往<NAVI>[卡米达隧道]<INFO>dic_dun01,274,114,0,101,0</INFO></NAVI>的货物堆，把标记箱子搬到<NAVI>[彩虹桥裂隙]<INFO>bif_fild01,335,168,0,101,0</INFO></NAVI>交给奇西尔。" },
+		Summary = "去卡米达隧道搬箱子",
+		NpcNavi = "dic_dun01",
+		NpcPosX = 274,
+		NpcPosY = 114,
 		CoolTimeQuest = 1
 	},
 	[7209] = {
 		Title = "莫名其妙",
 		IconName = "ico_dq.bmp",
-		Description = { "箱子搞丢了，契休要求精制过的钸镭20个替箱子。" },
-		Summary = "精制过的钸镭20个"
+		Description = { "箱子遗失后，奇西尔要求赔偿。准备<ITEM>精炼魔力之石<INFO>6090</INFO></ITEM>20个，前往<NAVI>[彩虹桥裂隙]<INFO>bif_fild01,335,168,0,101,0</INFO></NAVI>交给他。" },
+		Summary = "准备精炼魔力之石20个",
+		NpcNavi = "bif_fild01",
+		NpcPosX = 335,
+		NpcPosY = 168
 	},
 	[7210] = {
 		Title = "每天配送",
 		IconName = "ico_dq.bmp",
-		Description = { "契休要求的魔怒克钸镭箱。要将今天的量交给位于彩虹桥的契休才行。" },
-		Summary = ""
+		Description = { "把<ITEM>魔力之石箱<INFO>6392</INFO></ITEM>送到<NAVI>[彩虹桥裂隙]<INFO>bif_fild01,335,168,0,101,0</INFO></NAVI>交给奇西尔。" },
+		Summary = "把魔力之石箱交给奇西尔",
+		NpcNavi = "bif_fild01",
+		NpcPosX = 335,
+		NpcPosY = 168
 	},
 	[7211] = {
 		Title = "雾林探险",
