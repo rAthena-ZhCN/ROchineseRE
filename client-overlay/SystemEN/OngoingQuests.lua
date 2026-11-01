@@ -8457,8 +8457,11 @@ QuestInfoList = {
 	[5016] = {
 		Title = "给我研究工具！",
 		IconName = "ico_nq.bmp",
-		Description = { "草精研究员在三温暖遭到不明物体袭击，研究工具被洗劫一空。" },
-		Summary = "向不明物体讨回研究员的研究工具吧！"
+		Description = { "草精研究员拉夫尔在浴池遭到不明生物袭击，研究工具被抢走。找回<ITEM>研究工具箱<INFO>6385</INFO></ITEM>后，回到<NAVI>[拉夫尔研究员]<INFO>mora,31,138,0,101,0</INFO></NAVI>交给他。" },
+		Summary = "把研究工具箱交给拉夫尔研究员",
+		NpcNavi = "mora",
+		NpcPosX = 31,
+		NpcPosY = 138
 	},
 	[5017] = {
 		Title = "研究员的复仇",
