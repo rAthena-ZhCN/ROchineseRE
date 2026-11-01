@@ -28056,42 +28056,66 @@ QuestInfoList = {
 	[11093] = {
 		Title = "发送配给品",
 		Description = { "^0000FF第一个箱子是要递送给驻地西北部的扎安的东西。^000000她大概会在篱笆附近。" },
-		Summary = "把第一个箱子送给扎安。"
+		Summary = "把第一个箱子送给<NAVI>[扎安]<INFO>mid_camp,160,298,0,101,0</INFO></NAVI>。",
+		NpcNavi = "mid_camp",
+		NpcPosX = 160,
+		NpcPosY = 298
 	},
 	[11094] = {
 		Title = "发送配给品",
 		Description = { "赶紧打开看看~帮我向教官说谢谢哦~哈哈哈" },
-		Summary = "把配给品送给了扎安。回到路跟那里。"
+		Summary = "把配给品送给了扎安。回到<NAVI>[卢根教官]<INFO>mid_camp,261,284,0,101,0</INFO></NAVI>那里。",
+		NpcNavi = "mid_camp",
+		NpcPosX = 261,
+		NpcPosY = 284
 	},
 	[11095] = {
 		Title = "发送配给品",
-		Description = { "^0000FF第二个箱子是要递送给杰拉尔的东西。^000000他在驻地外围西侧的桥那边做调查。" },
-		Summary = "配送第二个箱子。"
+		Description = { "^0000FF第二个箱子是要递送给杰拉德的东西。^000000他在驻地外围西侧的桥那边做调查。" },
+		Summary = "把第二个箱子送给<NAVI>[杰拉德]<INFO>mid_camp,30,168,0,101,0</INFO></NAVI>。",
+		NpcNavi = "mid_camp",
+		NpcPosX = 30,
+		NpcPosY = 168
 	},
 	[11096] = {
 		Title = "发送配给品",
 		Description = { "你就转告卢根，我一时半会儿是回不去的。" },
-		Summary = "把配给品送给了杰拉尔。回到路跟那里。"
+		Summary = "把配给品送给了杰拉德。回到<NAVI>[卢根教官]<INFO>mid_camp,261,284,0,101,0</INFO></NAVI>那里。",
+		NpcNavi = "mid_camp",
+		NpcPosX = 261,
+		NpcPosY = 284
 	},
 	[11097] = {
 		Title = "发送配给品",
 		Description = { "^0000FF最后的箱子是要送去给东边旷野入口处的阿尔贝托的东西。^000000也许……我听说他订的似乎是厚重的衣物，那一带相当寒冷，你还是尽快送去吧。" },
-		Summary = "配送最后一个箱子。"
+		Summary = "把最后一个箱子送给<NAVI>[阿尔贝托]<INFO>man_fild01,80,248,0,101,0</INFO></NAVI>。",
+		NpcNavi = "man_fild01",
+		NpcPosX = 80,
+		NpcPosY = 248
 	},
 	[11098] = {
 		Title = "发送配给品",
 		Description = { "请你转告教官，我还没被冻死。吸鼻涕" },
-		Summary = "把配给品送给了阿尔贝托。回到路跟那里。"
+		Summary = "把配给品送给了阿尔贝托。回到<NAVI>[卢根教官]<INFO>mid_camp,261,284,0,101,0</INFO></NAVI>那里。",
+		NpcNavi = "mid_camp",
+		NpcPosX = 261,
+		NpcPosY = 284
 	},
 	[11099] = {
 		Title = "给好友送信……",
 		Description = { "我的朋友是在^0000FF西边防御壁上工作的奥托^000000。那就拜托你了。" },
-		Summary = "向奥托问安，并转交卢根的信。"
+		Summary = "向<NAVI>[奥托]<INFO>mid_camp,123,290,0,101,0</INFO></NAVI>问安，并转交卢根的信。",
+		NpcNavi = "mid_camp",
+		NpcPosX = 123,
+		NpcPosY = 290
 	},
 	[11100] = {
 		Title = "给好友送信……",
 		Description = { "那就麻烦你把我的回信和我很好的消息一起带回去吧。而且不久我大概就能休假了，帮我告诉他，我会去看他的。" },
-		Summary = "把奥托的回信交给卢根。"
+		Summary = "把奥托的回信交给<NAVI>[卢根教官]<INFO>mid_camp,261,284,0,101,0</INFO></NAVI>。",
+		NpcNavi = "mid_camp",
+		NpcPosX = 261,
+		NpcPosY = 284
 	},
 	[11101] = {
 		Title = "巴杰特的秘密记事本",
