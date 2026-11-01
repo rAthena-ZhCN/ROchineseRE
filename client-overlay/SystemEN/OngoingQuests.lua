@@ -18574,13 +18574,19 @@ QuestInfoList = {
 	},
 	[7761] = {
 		Title = "给予凯美拉安息",
-		Description = { "研究所内部因处理活跃的实验体而困扰。^4d4dff物质型凯美拉，人型凯美拉各处理^4d4dff10个吧。" },
-		Summary = "处理凯美拉"
+		Description = { "研究所内部因活跃实验体而困扰。前往<NAVI>[尤斯兰]<INFO>que_swat,161,53,0,101,0</INFO></NAVI>处接取委托，击败物质型凯美拉和人型凯美拉各10只。完成后可获得<ITEM>秀发兹荣耀徽章<INFO>25155</INFO></ITEM>。" },
+		Summary = "处理凯美拉",
+		NpcNavi = "que_swat",
+		NpcPosX = 161,
+		NpcPosY = 53
 	},
 	[7762] = {
 		Title = "给予凯美拉安息-待机",
-		Description = { "该任务为每日任务，待冷却时间过后才能再次接取。可通过已占领的邪心猎人军事基地处的柳小蓝再次接取。" },
+		Description = { "每日任务，冷却结束后可再次接取。前往<NAVI>[尤斯兰]<INFO>que_swat,161,53,0,101,0</INFO></NAVI>处再次接取。" },
 		Summary = "04点初始化",
+		NpcNavi = "que_swat",
+		NpcPosX = 161,
+		NpcPosY = 53,
 		CoolTimeQuest = 1
 	},
 	[7763] = {
@@ -19193,7 +19199,7 @@ QuestInfoList = {
 		Title = "佣兵vs佣兵",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"特殊警戒区柯尔的 <NAVI>[柳小蓝]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI>委托消灭在欧斯出现的邪心猎人贝拉雷和萨纳雷。"
+			"特殊警戒区柯尔的 <NAVI>[尤斯兰]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI>委托消灭在欧斯出现的邪心猎人贝拉雷和萨纳雷。"
 		},
 		Summary = "击杀邪心猎人",
 		RewardEXP = "200000",
@@ -19203,7 +19209,7 @@ QuestInfoList = {
 		Title = "佣兵vs佣兵-待机",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"该任务为每日任务，冷却时间过后可再次进行。通过特殊警戒区柯尔的 <NAVI>[柳小蓝]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI>处接取即可。"
+			"该任务为每日任务，冷却时间过后可再次进行。通过特殊警戒区柯尔的 <NAVI>[尤斯兰]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI>处接取即可。"
 		},
 		Summary = "04点初始化",
 		CoolTimeQuest = 1
