@@ -15448,8 +15448,11 @@ QuestInfoList = {
 	[7184] = {
 		Title = "前往艾尔迪卡斯特！",
 		IconName = "ico_ep.bmp",
-		Description = { "已经从阿巴蓝齐那得到许可，可进入连接魔怒克和首都艾尔迪卡斯特的隧道，终于可以前往邪派的首都了！" },
-		Summary = ""
+		Description = { "已经从阿巴蓝齐那得到许可，可进入连接魔怒克和首都艾尔迪卡斯特的隧道，终于可以前往邪派的首都了！去村子东边的<NAVI>[隧道入口]<INFO>manuk,321,182,0,101,0</INFO></NAVI>找入口管理员。" },
+		Summary = "前往<NAVI>[隧道入口]<INFO>manuk,321,182,0,101,0</INFO></NAVI>",
+		NpcNavi = "manuk",
+		NpcPosX = 321,
+		NpcPosY = 182
 	},
 	[7185] = {
 		Title = "督察都夏",
