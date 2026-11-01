@@ -30480,8 +30480,11 @@ QuestInfoList = {
 	},
 	[11454] = {
 		Title = "不和",
-		Description = { "说服反叛者队长鲁柏德失败，先去见见其他人吧。" },
-		Summary = "先去见见其他人吧"
+		Description = { "说服反叛者首领鲁柏失败。先去<NAVI>[鲁柏]<INFO>rebel_in,122,71,0,101,0</INFO></NAVI>处见其他人，再继续打探。" },
+		Summary = "先去见其他人",
+		NpcNavi = "rebel_in",
+		NpcPosX = 122,
+		NpcPosY = 71
 	},
 	[11455] = {
 		Title = "不和",
@@ -30500,28 +30503,31 @@ QuestInfoList = {
 	},
 	[11458] = {
 		Title = "不和",
-		Description = { "也获得了艾丝特的同意，再次和鲁柏德对话吧。" },
-		Summary = "与鲁柏德对话"
+		Description = { "也获得了艾丝特的同意，再次和鲁柏对话吧。" },
+		Summary = "与鲁柏对话"
 	},
 	[11459] = {
 		Title = "不和",
-		Description = { "读了狄恩发来的信的鲁柏德觉得不可置信，让罗希斯重新读一遍，到罗希斯处确认一下内容。" },
+		Description = { "读了狄恩发来的信的鲁柏觉得不可置信，让罗希斯重新读一遍，到罗希斯处确认一下内容。" },
 		Summary = "与罗希斯对话"
 	},
 	[11460] = {
 		Title = "不和",
-		Description = { "确认过内容没有问题，再次和鲁柏德对话。" },
-		Summary = "与鲁柏德对话"
+		Description = { "确认过内容没有问题，再次和鲁柏对话。" },
+		Summary = "与鲁柏对话"
 	},
 	[11461] = {
 		Title = "不和",
-		Description = { "与鲁柏德对话中狄恩忽然出现了。快去和狄恩对话吧。" },
+		Description = { "与鲁柏对话中狄恩忽然出现了。快去和狄恩对话吧。" },
 		Summary = "与狄恩对话"
 	},
 	[11462] = {
 		Title = "不和",
-		Description = { "忽然出现的狄恩和鲁柏德开始了争吵，快听听鲁柏德怎么说的。" },
-		Summary = "与鲁柏德对话"
+		Description = { "突然出现的狄恩和鲁柏争吵起来。前往<NAVI>[鲁柏]<INFO>rebel_in,122,71,0,101,0</INFO></NAVI>处听听他说什么。" },
+		Summary = "与鲁柏对话",
+		NpcNavi = "rebel_in",
+		NpcPosX = 122,
+		NpcPosY = 71
 	},
 	[11463] = {
 		Title = "不是说是准备派对的吗？",
