@@ -41656,11 +41656,11 @@ QuestInfoList = {
 	},
 	[14597] = {
 		Title = "艾因贝克的一角",
-		Description = { "前往<NAVI>[艾因贝克东南角]<INFO>einbech,44,207,0,101,0</INFO></NAVI>，跟随印记进入反叛者的秘密通道。" },
+		Description = { "跟随雷兹留下的印记前往<NAVI>[艾因贝克东南角]<INFO>einbech,217,82,0,101,0</INFO></NAVI>，那里倒着一名反叛者。" },
 		Summary = "前往艾因贝克东南角",
 		NpcNavi = "einbech",
-		NpcPosX = 44,
-		NpcPosY = 207
+		NpcPosX = 217,
+		NpcPosY = 82
 	},
 	[14598] = {
 		Title = "看不见的入口",
