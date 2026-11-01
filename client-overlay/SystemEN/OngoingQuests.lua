@@ -15591,19 +15591,28 @@ QuestInfoList = {
 		Title = "整理裂缝",
 		IconName = "ico_ep.bmp",
 		Description = { "我每天按照<NAVI>[契休]<INFO>dic_in01,300,280,0,101,0</INFO></NAVI>的命令整理裂缝的痕迹，今天也和平常一样收集各痕迹10个吧！" },
-		Summary = ""
+		Summary = "前往<NAVI>[裂缝]<INFO>dic_fild02,228,55,0,101,0</INFO></NAVI>收集痕迹",
+		NpcNavi = "dic_fild02",
+		NpcPosX = 228,
+		NpcPosY = 55
 	},
 	[7202] = {
 		Title = "都夏的密令-收集证据",
 		IconName = "ico_ep.bmp",
 		Description = { "在阿哈特和契休没发现的情况下，偷偷将要交给都夏的证据-裂缝的痕迹各偷一个放进报告里吧！<ITEM>凝固的血痕<INFO>6306</INFO></ITEM>、<ITEM>冻住的皮肤碎片<INFO>6305</INFO></ITEM>和<ITEM>奇怪的魔力之石<INFO>6307</INFO></ITEM>各搜集1个。" },
-		Summary = ""
+		Summary = "在<NAVI>[裂缝]<INFO>dic_fild02,228,55,0,101,0</INFO></NAVI>附近偷取证据",
+		NpcNavi = "dic_fild02",
+		NpcPosX = 228,
+		NpcPosY = 55
 	},
 	[7203] = {
 		Title = "都夏的密令-最终报告",
 		IconName = "ico_ep.bmp",
 		Description = { "和另一位贾鲁特·赫斯兰塔交谈过后，将从他那里得到的情报整理好制成报告交给都夏。" },
-		Summary = "向都夏进行最终报告"
+		Summary = "向<NAVI>[都夏]<INFO>mid_campin,168,170,0,101,0</INFO></NAVI>进行最终报告",
+		NpcNavi = "mid_campin",
+		NpcPosX = 168,
+		NpcPosY = 170
 	},
 	[7204] = {
 		Title = "带来春天的花",
@@ -28662,7 +28671,7 @@ QuestInfoList = {
 	[11171] = {
 		Title = "弗雷德的请托",
 		Description = { "快坐下来吃点东西休息吧！" },
-		Summary = "再次展开对话",
+		Summary = "再次和<NAVI>[弗雷德]<INFO>dic_in01,165,104,0,101,0</INFO></NAVI>对话",
 		NpcNavi = "dic_in01",
 		NpcPosX = 165,
 		NpcPosY = 104
@@ -28670,10 +28679,10 @@ QuestInfoList = {
 	[11172] = {
 		Title = "弗雷德的请托",
 		Description = { "我有看到几天前回来补充钸镭的同伴们又回到洞穴里，所以他们应该都在那里！拜托他们一定要平安无事才行，你方便替我到洞穴里查看我的同伴们是否安然无恙吗？" },
-		Summary = "去见完弗雷德的朋友布莱恩、约翰、泰勒、萝丝、巴恩和拉什后再回来",
-		NpcNavi = "dic_in01",
-		NpcPosX = 165,
-		NpcPosY = 104
+		Summary = "去见<NAVI>[布莱恩]<INFO>dic_dun01,205,43,0,101,0</INFO></NAVI>、<NAVI>[约翰]<INFO>dic_dun01,235,243,0,101,0</INFO></NAVI>、<NAVI>[泰勒]<INFO>dic_dun01,153,107,0,101,0</INFO></NAVI>、<NAVI>[萝丝]<INFO>dic_dun02,110,127,0,101,0</INFO></NAVI>、<NAVI>[巴恩]<INFO>dic_dun01,64,107,0,101,0</INFO></NAVI>和<NAVI>[拉什]<INFO>dic_dun01,58,225,0,101,0</INFO></NAVI>后再回来",
+		NpcNavi = "dic_dun01",
+		NpcPosX = 205,
+		NpcPosY = 43
 	},
 	[11173] = {
 		Title = "弗雷德的请托",
@@ -28688,7 +28697,10 @@ QuestInfoList = {
 		Description = {
 			"若是精制巨大的钸镭矿石，需花上许多时间，但若是尺寸较小的<ITEM>细小的魔力之石<INFO>6319</INFO></ITEM>碎片的话，就马上可以使用。要想得到小尺寸<ITEM>细小的魔力之石<INFO>6319</INFO></ITEM>碎片的话，只要去猎杀在周围闲晃的怪物就可以轻易取得，30个的话大约可制成6人份的份量。"
 		},
-		Summary = "<ITEM>细小的魔力之石<INFO>6319</INFO></ITEM>的存量不足，去寻找30个回来"
+		Summary = "<ITEM>细小的魔力之石<INFO>6319</INFO></ITEM>的存量不足，去寻找30个回来",
+		NpcNavi = "dic_in01",
+		NpcPosX = 349,
+		NpcPosY = 129
 	},
 	[11175] = {
 		Title = "存量不足",
@@ -28701,10 +28713,10 @@ QuestInfoList = {
 	[11176] = {
 		Title = "为了朋友们",
 		Description = { "完成了！虽然很久没手工制作有些紧张，不过成果似乎不错，赶紧拿去给他们吧！" },
-		Summary = "精制钸镭分给朋友后，再回去向弗雷德告知消息",
-		NpcNavi = "dic_in01",
-		NpcPosX = 165,
-		NpcPosY = 104
+		Summary = "把精制钸镭分给<NAVI>[布莱恩]<INFO>dic_dun01,205,43,0,101,0</INFO></NAVI>等朋友后，再回去向弗雷德告知消息",
+		NpcNavi = "dic_dun01",
+		NpcPosX = 205,
+		NpcPosY = 43
 	},
 	[11177] = {
 		Title = "Fairy in the Box",
