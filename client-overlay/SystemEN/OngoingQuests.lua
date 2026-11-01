@@ -20428,7 +20428,11 @@ QuestInfoList = {
 		Description = {
 			"请你帮我把这些文件交给里希塔乐镇的文件负责人休和阿鲁纳佩尔兹的文件负责人汉吉纳。如果不先去里希塔乐镇的话，他们拿这说事。所以请你先去那边吧。然后让他们在下面签上名。"
 		},
-		Summary = "把文件交给休和汉吉纳，让他们签上名后，回去交给廖森"
+		Summary = "把文件交给<NAVI>[休]<INFO>mid_camp,247,255,0,101,0</INFO></NAVI>和<NAVI>[汉吉纳]<INFO>mid_camp,222,218,0,101,0</INFO></NAVI>，让他们签上名后，回去交给<NAVI>[廖森]<INFO>mid_camp,165,245,0,101,0</INFO></NAVI>",
+		NpcSpr = "4_M_LGTGUARD",
+		NpcNavi = "mid_camp",
+		NpcPosX = 247,
+		NpcPosY = 255
 	},
 	[8198] = {
 		Title = "向事务官报告",
