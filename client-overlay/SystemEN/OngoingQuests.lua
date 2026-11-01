@@ -41069,8 +41069,11 @@ QuestInfoList = {
 	},
 	[14472] = {
 		Title = "美食家 bigfoot",
-		Description = { "我现在想吃3个烤煎包和1个绿色沙拉。带来这些的话我就告诉你。" },
-		Summary = "带来吃的"
+		Description = { "大脚想要<ITEM>香辣煎包<INFO>12055</INFO></ITEM>3个和<ITEM>绿色沙拉<INFO>12065</INFO></ITEM>1个。前往<NAVI>[大脚]<INFO>prt_pri00,57,119,0,101,0</INFO></NAVI>处交给他。" },
+		Summary = "给大脚送食物",
+		NpcNavi = "prt_pri00",
+		NpcPosX = 57,
+		NpcPosY = 119
 	},
 	[14473] = {
 		Title = "往伯仁斯",
