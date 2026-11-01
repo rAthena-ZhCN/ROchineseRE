@@ -28040,12 +28040,18 @@ QuestInfoList = {
 	[11091] = {
 		Title = "发送配给品",
 		Description = { "分配国内送来的配给物品的事情，不是很难，就当是借机会认识认识驻地的同伴们吧。你先去找^0000FF你刚来驻地时遇到的玛丽安^000000去取回配给物品吧。" },
-		Summary = "去玛丽安那里取回配给品。"
+		Summary = "去<NAVI>[玛丽安]<INFO>mid_camp,222,283,0,101,0</INFO></NAVI>那里取回配给品。",
+		NpcNavi = "mid_camp",
+		NpcPosX = 222,
+		NpcPosY = 283
 	},
 	[11092] = {
 		Title = "发送配给品",
 		Description = { "" },
-		Summary = "获得了配给品。回到卢根那里。"
+		Summary = "获得了配给品。回到<NAVI>[卢根教官]<INFO>mid_camp,261,284,0,101,0</INFO></NAVI>那里。",
+		NpcNavi = "mid_camp",
+		NpcPosX = 261,
+		NpcPosY = 284
 	},
 	[11093] = {
 		Title = "发送配给品",
