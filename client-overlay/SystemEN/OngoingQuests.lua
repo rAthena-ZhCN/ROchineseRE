@@ -28016,17 +28016,26 @@ QuestInfoList = {
 	[11088] = {
 		Title = "修理营舍",
 		Description = { "那就麻烦你帮我把这根柱子用树枝和猪笼草绳子固定起来吧。" },
-		Summary = "帮助迭戈修理柱子。"
+		Summary = "帮助迭戈修理柱子。前往<NAVI>[木桩]<INFO>mid_camp,267,263,0,101,0</INFO></NAVI>。",
+		NpcNavi = "mid_camp",
+		NpcPosX = 267,
+		NpcPosY = 263
 	},
 	[11089] = {
 		Title = "修理营舍",
 		Description = { "这边的柱子好像已经固定好了。那边的柱子也麻烦你一下。" },
-		Summary = "修好了一根柱子。再修理其他柱子。"
+		Summary = "修好了一根柱子。再修理<NAVI>[另一根木桩]<INFO>mid_camp,267,258,0,101,0</INFO></NAVI>。",
+		NpcNavi = "mid_camp",
+		NpcPosX = 267,
+		NpcPosY = 258
 	},
 	[11090] = {
 		Title = "修理营舍",
 		Description = { "断了的柱子完全修好了！" },
-		Summary = "柱子修理完成。回去和迭戈说话。"
+		Summary = "柱子修理完成。回去和<NAVI>[迭戈]<INFO>mid_camp,266,263,0,101,0</INFO></NAVI>说话。",
+		NpcNavi = "mid_camp",
+		NpcPosX = 266,
+		NpcPosY = 263
 	},
 	[11091] = {
 		Title = "发送配给品",
