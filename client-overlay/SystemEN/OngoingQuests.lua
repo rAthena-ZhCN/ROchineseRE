@@ -18324,17 +18324,17 @@ QuestInfoList = {
 		Title = "无法放弃的希望",
 		Description = { "前往<NAVI>[过去仪式的房间]<INFO>prt_lib_q,91,85,0,101,0</INFO></NAVI>，击退毕尤并守住依美乐心脏碎片。" },
 		Summary = "前往过去仪式的房间",
-		NpcNavi = "prt_lib_q",
-		NpcPosX = 91,
-		NpcPosY = 85
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 21,
+		NpcPosY = 83
 	},
 	[7706] = {
 		Title = "尼勒姆不是万能的",
 		Description = { "多重连接对尼勒姆也是负担。等待尼勒姆恢复后再去仪式房间。" },
 		Summary = "等待尼勒姆恢复",
-		NpcNavi = "prt_lib",
-		NpcPosX = 91,
-		NpcPosY = 85,
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 21,
+		NpcPosY = 83,
 		CoolTimeQuest = 1
 	},
 	[7711] = {
