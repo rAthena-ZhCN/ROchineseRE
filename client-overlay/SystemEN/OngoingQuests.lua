@@ -18149,18 +18149,27 @@ QuestInfoList = {
 	},
 	[7683] = {
 		Title = "访问海尔内家族",
-		Description = { "访问并问候海尔内家族。" },
-		Summary = ""
+		Description = { "前往<NAVI>[海尔内家族]<INFO>prt_cas_q,21,83,0,101,0</INFO></NAVI>拜访并问候。" },
+		Summary = "拜访海尔内家族",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 21,
+		NpcPosY = 83
 	},
 	[7684] = {
 		Title = "访问内里乌斯家族",
-		Description = { "访问并问候内里乌斯家族。" },
-		Summary = ""
+		Description = { "前往<NAVI>[内里乌斯家族]<INFO>prt_cas_q,18,136,0,101,0</INFO></NAVI>拜访并问候。" },
+		Summary = "拜访内里乌斯家族",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 18,
+		NpcPosY = 136
 	},
 	[7685] = {
 		Title = "下个行程是什么呢？",
-		Description = { "完成与7个王室的日程。回到房间问侍卫比尔下一个行程吧。" },
-		Summary = "与比尔对话"
+		Description = { "完成七大王室的问候后，回到<NAVI>[贝尔侍从长]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>处询问下一个行程。" },
+		Summary = "回去找贝尔侍从长",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 26,
+		NpcPosY = 30
 	},
 	[7686] = {
 		Title = "尼希尔和斯琪亚",
@@ -18169,8 +18178,11 @@ QuestInfoList = {
 	},
 	[7687] = {
 		Title = "出席宴会",
-		Description = { "还有一些时间让你去参加宴会的比尔。在宴会厅内里乌斯的小姐，斯皮卡要求见面。" },
-		Summary = "与斯皮卡对话"
+		Description = { "前往<NAVI>[宴会厅]<INFO>prt_cas,107,237,0,101,0</INFO></NAVI>，与内里乌斯家族的斯皮卡见面。" },
+		Summary = "与斯皮卡对话",
+		NpcNavi = "prt_cas",
+		NpcPosX = 107,
+		NpcPosY = 237
 	},
 	[7688] = {
 		Title = "可疑的动态",
