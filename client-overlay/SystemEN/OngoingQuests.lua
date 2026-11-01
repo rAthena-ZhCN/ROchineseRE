@@ -41736,8 +41736,11 @@ QuestInfoList = {
 	},
 	[14602] = {
 		Title = "2层的猎狗",
-		Description = { "去找2层的埃琳娜聊聊看吧。不管什么时候去看是强大的冒险家的话都会欢迎的吧……" },
-		Summary = "去找2层的埃琳娜"
+		Description = { "前往<NAVI>[埃琳娜·沃尔科娃]<INFO>rebel_in,70,78,0,101,0</INFO></NAVI>处。只要展现出强大冒险者的实力，她应该会欢迎你。" },
+		Summary = "去找2层的埃琳娜",
+		NpcNavi = "rebel_in",
+		NpcPosX = 70,
+		NpcPosY = 78
 	},
 	[14603] = {
 		Title = "为了修复管道的材料",
