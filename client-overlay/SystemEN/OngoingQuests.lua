@@ -44336,57 +44336,90 @@ QuestInfoList = {
 	[16021] = {
 		Title = "服务：代行租借图书",
 		Description = { "去找普隆德拉图书馆负责青年图书的管理员租借^0000CD摇一千次头会晕^000000吧。被强风吹了千年的著名作家摇摇晃晃写出的热门新刊。" },
-		Summary = "访问普隆德拉图书馆"
+		Summary = "访问普隆德拉图书馆",
+		NpcNavi = "prt_in",
+		NpcPosX = 165,
+		NpcPosY = 89
 	},
 	[16022] = {
 		Title = "服务：代行租借图书",
 		Description = { "去找普隆德拉图书馆负责青年图书的管理员租借^0000CD反叛者、自由的历史^000000吧。逆袭时代传承下来的反叛者飞行大叔们的自由及放纵的历史！" },
-		Summary = "访问普隆德拉图书馆"
+		Summary = "访问普隆德拉图书馆",
+		NpcNavi = "prt_in",
+		NpcPosX = 165,
+		NpcPosY = 89
 	},
 	[16023] = {
 		Title = "服务：代行租借图书",
 		Description = { "去找普隆德拉图书馆负责青年图书的管理员租借^0000CD诺可罗德地平线^000000吧。 唯美的写出诺可罗德地区栖息的生物们的真实记录书" },
-		Summary = "访问普隆德拉图书馆"
+		Summary = "访问普隆德拉图书馆",
+		NpcNavi = "prt_in",
+		NpcPosX = 165,
+		NpcPosY = 89
 	},
 	[16024] = {
 		Title = "服务：配送租借的图书",
 		Description = { "租借了普隆德拉图书馆的书籍，配送时小心不要弄丢了。他们应该会自行还书吧？" },
-		Summary = "回去找双胞胎"
+		Summary = "回去找双胞胎",
+		NpcNavi = "rebel_in",
+		NpcPosX = 105,
+		NpcPosY = 54
 	},
 	[16025] = {
 		Title = "服务：矿山副本提前调查",
 		Description = { "为了双胞胎的事前调查。 击败^0000CD矿工魔30个^000000并带去^0000cd火药粉末1个^000000吧" },
-		Summary = "矿工魔30个, 火药粉末1个"
+		Summary = "矿工魔30个, 火药粉末1个",
+		NpcNavi = "einbech",
+		NpcPosX = 212,
+		NpcPosY = 212
 	},
 	[16026] = {
 		Title = "服务：矿山副本提前调查",
 		Description = { "为了双胞胎的事前调查。 击败^0000CD毒液魔20个和废气魔20个^000000，带来^0000CD炸弹粉末1个^000000吧" },
-		Summary = "毒液魔, 废气魔各20个, 炸弹粉末1个"
+		Summary = "毒液魔, 废气魔各20个, 炸弹粉末1个",
+		NpcNavi = "einbech",
+		NpcPosX = 212,
+		NpcPosY = 212
 	},
 	[16027] = {
 		Title = "服务：配送饼干",
 		Description = { "双胞胎想给反叛者们分发他们制作的饼干。给米洛·里弗带去刚做好的饼干吧。" },
-		Summary = "给米洛·里弗配送饼干"
+		Summary = "给米洛·里弗配送饼干",
+		NpcNavi = "rebel_in",
+		NpcPosX = 108,
+		NpcPosY = 27
 	},
 	[16028] = {
 		Title = "服务：配送饼干",
 		Description = { "双胞胎想给反叛者们分发他们制作的饼干。给梅森·班德带去刚做好的饼干吧。" },
-		Summary = "给梅森·班德配送饼干"
+		Summary = "给梅森·班德配送饼干",
+		NpcNavi = "rebel_in",
+		NpcPosX = 19,
+		NpcPosY = 48
 	},
 	[16029] = {
 		Title = "服务：配送饼干",
 		Description = { "双胞胎想给反叛者们分发他们制作的饼干。给瑞切尔工匠带去刚做好的饼干吧。" },
-		Summary = "给瑞切尔工匠配送饼干"
+		Summary = "给瑞切尔工匠配送饼干",
+		NpcNavi = "rebel_in",
+		NpcPosX = 122,
+		NpcPosY = 71
 	},
 	[16030] = {
 		Title = "服务：配送饼干",
 		Description = { "双胞胎想给反叛者们分发他们制作的饼干。给埃里克森带去刚做好的饼干吧。" },
-		Summary = "给埃里克森配送饼干"
+		Summary = "给埃里克森配送饼干",
+		NpcNavi = "rebel_in",
+		NpcPosX = 91,
+		NpcPosY = 67
 	},
 	[16031] = {
 		Title = "服务：配送饼干",
 		Description = { "双胞胎想给反叛者们分发他们制作的饼干。给埃琳娜带去刚做好的饼干吧。" },
-		Summary = "给埃琳娜配送饼干"
+		Summary = "给埃琳娜配送饼干",
+		NpcNavi = "rebel_in",
+		NpcPosX = 70,
+		NpcPosY = 78
 	},
 	[16032] = {
 		Title = "给元老送去茶果",
