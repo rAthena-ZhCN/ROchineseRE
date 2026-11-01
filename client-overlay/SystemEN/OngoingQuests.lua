@@ -18256,12 +18256,18 @@ QuestInfoList = {
 	[7694] = {
 		Title = "那个我也要看",
 		Description = { "大家都出去后，看一下克罗内克确认过的王室文书。" },
-		Summary = "与史书的对话"
+		Summary = "与史书的对话",
+		NpcNavi = "prt_lib",
+		NpcPosX = 76,
+		NpcPosY = 80
 	},
 	[7695] = {
 		Title = "逃离王室的记忆",
 		Description = { "替无法启动的传送装置，要从秘密通道离开。从守卫前方的骑士处获得引导。" },
-		Summary = "与守护骑士对话"
+		Summary = "与守护骑士对话",
+		NpcNavi = "prt_lib",
+		NpcPosX = 56,
+		NpcPosY = 61
 	},
 	[7696] = {
 		Title = "下一个是什么？！",
