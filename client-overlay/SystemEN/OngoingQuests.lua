@@ -18473,13 +18473,19 @@ QuestInfoList = {
 	},
 	[7742] = {
 		Title = "扫荡残党",
-		Description = { "维尔纳研究所中枢室里出现了从未见过的强力凯美拉。小虫委托你击败'小可爱’。" },
-		Summary = "击败小可爱"
+		Description = { "中央房间出现了强力凯美拉。前往<NAVI>[新人]<INFO>que_swat,150,58,0,101,0</INFO></NAVI>处接取任务，击败<ITEM>小可爱<INFO>25155</INFO></ITEM>。" },
+		Summary = "击败小可爱",
+		NpcNavi = "que_swat",
+		NpcPosX = 150,
+		NpcPosY = 58
 	},
 	[7743] = {
 		Title = "扫荡残党-待机",
-		Description = { "虽然不知道是怎么回事，但怪物凯美拉持续出现，近期还是需要每天过来处理一下。" },
+		Description = { "小可爱每日都会再生。冷却结束后前往<NAVI>[新人]<INFO>que_swat,150,58,0,101,0</INFO></NAVI>处再次接取。" },
 		Summary = "04点初始化",
+		NpcNavi = "que_swat",
+		NpcPosX = 150,
+		NpcPosY = 58,
 		CoolTimeQuest = 1
 	},
 	[7744] = {
