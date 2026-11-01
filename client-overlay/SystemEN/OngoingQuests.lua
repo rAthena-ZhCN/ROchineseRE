@@ -15692,7 +15692,7 @@ QuestInfoList = {
 	[7207] = {
 		Title = "契休提及的箱子",
 		IconName = "ico_dq.bmp",
-		Description = { "把从卡米达隧道取得的<ITEM>魔力之石箱<INFO>6392</INFO></ITEM>送到<NAVI>[彩虹桥裂隙]<INFO>bif_fild01,335,168,0,101,0</INFO></NAVI>，交给奇西尔。" },
+		Description = { "把从卡米达隧道取得的<ITEM>马努克魔力之石箱子<INFO>6392</INFO></ITEM>送到<NAVI>[彩虹桥裂隙]<INFO>bif_fild01,335,168,0,101,0</INFO></NAVI>，交给奇西尔。" },
 		Summary = "把箱子送到彩虹桥裂隙",
 		NpcNavi = "bif_fild01",
 		NpcPosX = 335,
@@ -15720,7 +15720,7 @@ QuestInfoList = {
 	[7210] = {
 		Title = "每天配送",
 		IconName = "ico_dq.bmp",
-		Description = { "把<ITEM>魔力之石箱<INFO>6392</INFO></ITEM>送到<NAVI>[彩虹桥裂隙]<INFO>bif_fild01,335,168,0,101,0</INFO></NAVI>交给奇西尔。" },
+		Description = { "把<ITEM>马努克魔力之石箱子<INFO>6392</INFO></ITEM>送到<NAVI>[彩虹桥裂隙]<INFO>bif_fild01,335,168,0,101,0</INFO></NAVI>交给奇西尔。" },
 		Summary = "把魔力之石箱交给奇西尔",
 		NpcNavi = "bif_fild01",
 		NpcPosX = 335,
@@ -18160,7 +18160,7 @@ QuestInfoList = {
 	},
 	[7681] = {
 		Title = "王宫宴会请帖",
-		Description = { "为了慰劳远征灰烬真空、击败梦罗克的所有人，普隆德拉王宫将举行盛大宴会。先在<NAVI>[皇家使者]<INFO>prontera,121,72,0,101,0</INFO></NAVI>处领取<ITEM>宴会请帖<INFO>6933</INFO></ITEM>，再前往<NAVI>[普隆德拉王宫]<INFO>prt_cas,215,146,0,101,0</INFO></NAVI>。" },
+		Description = { "为了慰劳远征灰烬真空、击败梦罗克的所有人，普隆德拉王宫将举行盛大宴会。先在<NAVI>[皇家使者]<INFO>prontera,121,72,0,101,0</INFO></NAVI>处领取<ITEM>宴会 请帖<INFO>6933</INFO></ITEM>，再前往<NAVI>[普隆德拉王宫]<INFO>prt_cas,215,146,0,101,0</INFO></NAVI>。" },
 		Summary = "领取请帖后前往普隆德拉王宫",
 		NpcNavi = "prt_cas",
 		NpcPosX = 215,
@@ -23626,7 +23626,7 @@ QuestInfoList = {
 	[8782] = {
 		Title = "Karkatan's Proposal",
 		Description = {
-			"<NAVI>[Karkatan]<INFO>um_in,39,122,0,101,0</INFO></NAVI> asks you to get 1x <ITEM>笑脸面具<INFO>2278</INFO></ITEM> for Puchuchartan before allowing it."
+			"<NAVI>[Karkatan]<INFO>um_in,39,122,0,101,0</INFO></NAVI> asks you to get 1x <ITEM>面具<INFO>2278</INFO></ITEM> for Puchuchartan before allowing it."
 		},
 		Summary = "Talk to Karkatan"
 	},
@@ -37823,7 +37823,7 @@ QuestInfoList = {
 	[12644] = {
 		Title = "波利王兑换券",
 		Description = {
-			"处理波利王后，去找<NAVI>[蔬菜强化师]<INFO>prt_fild05,173,238,0,101,0</INFO></NAVI>吧。\n\t\t\t若找到<ITEM>波利村红萝卜<INFO>19239</INFO></ITEM>或者<ITEM>波利村大葱<INFO>19238</INFO></ITEM>，可以通过兑换券进行^0000ff免费强化^000000。"
+			"处理波利王后，去找<NAVI>[蔬菜强化师]<INFO>prt_fild05,173,238,0,101,0</INFO></NAVI>吧。\n\t\t\t若找到<ITEM>饰品<INFO>19239</INFO></ITEM>或者<ITEM>饰品<INFO>19238</INFO></ITEM>，可以通过兑换券进行^0000ff免费强化^000000。"
 		},
 		Summary = "该兑换券可以免费强化蔬菜"
 	},
@@ -58323,7 +58323,7 @@ QuestInfoList = {
         Description = {
             "Um... I'm sorry, but could you get me a pair of glasses that look like the ones I've been wearing? I can't see anything in front of me, so I can't move. I'd be really grateful if you could help me with this.",
             "   ",
-            "Get <ITEM>旋转眼镜<INFO>2243</INFO></ITEM> and take them to <NAVI>[Pisrik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>.",
+            "Get <ITEM>眼镜<INFO>2243</INFO></ITEM> and take them to <NAVI>[Pisrik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>.",
             "^FF0000∝ Please be careful not to have other Sphinx Glasses in your inventory in use.^000000"
         },
         Summary = "1 Sphinx Glasses",
@@ -64708,7 +64708,7 @@ QuestInfoList = {
 	[22064] = {
 		Title = "Man with the Fox Mask",
 		Description = {
-			"<NAVI>[The Man with the Fox Mask]<INFO>pay_arche,63,109,101,0</INFO></NAVI> says he needs 999 <ITEM>狐狸尾巴<INFO>1022</INFO></ITEM>, and if you bring them, he will give you his <ITEM>狐狸假面<INFO>5069</INFO></ITEM>."
+			"<NAVI>[The Man with the Fox Mask]<INFO>pay_arche,63,109,101,0</INFO></NAVI> says he needs 999 <ITEM>狐狸尾巴<INFO>1022</INFO></ITEM>, and if you bring them, he will give you his <ITEM>头盔<INFO>5069</INFO></ITEM>."
 		},
 		Summary = "Gather 999 Nine Tails"
 	},
