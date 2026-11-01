@@ -41078,7 +41078,10 @@ QuestInfoList = {
 	[14473] = {
 		Title = "往伯仁斯",
 		Description = { "在伯仁斯，那个人。那个人就在伯仁斯来着！" },
-		Summary = "前往伯仁斯"
+		Summary = "前往伯仁斯",
+		NpcNavi = "veins",
+		NpcPosX = 156,
+		NpcPosY = 160
 	},
 	[14474] = {
 		Title = "向艾森雅纳报告",
