@@ -20426,7 +20426,7 @@ QuestInfoList = {
 	[8197] = {
 		Title = "传送文件",
 		Description = {
-			"请你帮我把这些文件交给里希塔乐镇的文件负责人休和阿鲁纳佩尔兹的文件负责人汉吉纳。如果不先去里希塔乐镇的话，他们拿这说事。所以请你先去那边吧。然后让他们在下面签上名。"
+			"请你帮我把这些文件交给<NAVI>[休]<INFO>mid_camp,247,255,0,101,0</INFO></NAVI>和<NAVI>[汉吉纳]<INFO>mid_camp,222,218,0,101,0</INFO></NAVI>。他们都在<NAVI>[联合军驻地]<INFO>mid_camp,247,255,0,101,0</INFO></NAVI>，如果不先去找他们的话，他们拿这说事。所以请你先去那边吧。然后让他们在下面签上名，最后交给<NAVI>[廖森]<INFO>mid_camp,165,245,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "把文件交给<NAVI>[休]<INFO>mid_camp,247,255,0,101,0</INFO></NAVI>和<NAVI>[汉吉纳]<INFO>mid_camp,222,218,0,101,0</INFO></NAVI>，让他们签上名后，回去交给<NAVI>[廖森]<INFO>mid_camp,165,245,0,101,0</INFO></NAVI>",
 		NpcSpr = "4_M_LGTGUARD",
