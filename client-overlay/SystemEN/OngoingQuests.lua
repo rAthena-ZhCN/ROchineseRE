@@ -40885,8 +40885,11 @@ QuestInfoList = {
 	},
 	[14469] = {
 		Title = "查看博尔特家",
-		Description = { "有点寂静的维格纳家。查看周边后和有些凝重的艾森雅纳谈一谈吧。" },
-		Summary = "查看周边"
+		Description = { "前往<NAVI>[沃尔特家族]<INFO>prt_cas_q,20,184,0,101,0</INFO></NAVI>查看周边，再和神情凝重的伊森霍诺谈一谈。" },
+		Summary = "查看沃尔特家族周边",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 20,
+		NpcPosY = 184
 	},
 	[14470] = {
 		Title = "寻找守护骑士",
@@ -41122,8 +41125,11 @@ QuestInfoList = {
 	},
 	[14516] = {
 		Title = "可疑的影子",
-		Description = { "听到可疑的人出现和伊安秘密对话的事。" },
-		Summary = "可疑的影子"
+		Description = { "听到了可疑男子与伊恩的秘密对话。回<NAVI>[沃尔特家族]<INFO>prt_cas_q,20,184,0,101,0</INFO></NAVI>向伊恩确认。" },
+		Summary = "向伊恩确认可疑男子",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 20,
+		NpcPosY = 184
 	},
 	[14517] = {
 		Title = "夜宵配送",
