@@ -41815,8 +41815,11 @@ QuestInfoList = {
 	},
 	[14615] = {
 		Title = "协商与协作之间",
-		Description = { "我们这边准备好进行协作的人了，到商店那边走廊处见见反叛者队员吧。" },
-		Summary = "区间反叛者队员"
+		Description = { "反叛者已安排协作人员。前往<NAVI>[商店通道]<INFO>rebel_in,65,46,0,101,0</INFO></NAVI>见反叛者队员，并可用<ITEM>秀发兹荣耀徽章<INFO>25155</INFO></ITEM>兑换物品。" },
+		Summary = "与反叛者队员见面",
+		NpcNavi = "rebel_in",
+		NpcPosX = 65,
+		NpcPosY = 46
 	},
 	[14616] = {
 		Title = "Hani, how are you?",
