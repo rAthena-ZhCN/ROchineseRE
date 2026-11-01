@@ -12753,8 +12753,8 @@ QuestInfoList = {
 	},
 	[5729] = {
 		Title = "前往艾因贝克",
-		Description = { "带着^C33120充满火属性气息的东西到艾因贝克列车最后一间里。" },
-		Summary = "",
+		Description = { "带着充满火属性的<ITEM>火灵原石<INFO>994</INFO></ITEM>，前往<NAVI>[艾因贝克货运列车]<INFO>einbech,212,212,0,101,0</INFO></NAVI>最尾端。" },
+		Summary = "前往艾因贝克",
 		NpcNavi = "einbech",
 		NpcPosX = 212,
 		NpcPosY = 212
@@ -12771,8 +12771,8 @@ QuestInfoList = {
 	},
 	[5732] = {
 		Title = "前往里希塔乐镇",
-		Description = { "收到新的情报。往四方环水的豪宅带去<ITEM>水灵矿石<INFO>991</INFO></ITEM>1个和<ITEM>风灵矿石<INFO>992</INFO></ITEM>3个。" },
-		Summary = "",
+		Description = { "收到新情报。前往<NAVI>[里希塔乐镇宅邸]<INFO>lighthalzen,135,233,0,101,0</INFO></NAVI>，带上1个<ITEM>水灵原石<INFO>995</INFO></ITEM>和3个<ITEM>风灵原石<INFO>996</INFO></ITEM>。" },
+		Summary = "前往里希塔乐镇",
 		NpcNavi = "lighthalzen",
 		NpcPosX = 135,
 		NpcPosY = 233
@@ -12789,16 +12789,19 @@ QuestInfoList = {
 	},
 	[5735] = {
 		Title = "前往朱诺",
-		Description = { "已确认装置所在位置。收集4个地属性<ITEM>地灵矿石<INFO>993</INFO></ITEM>到朱诺 206 224坐标吧。" },
-		Summary = "",
+		Description = { "已确认装置位置。前往<NAVI>[朱诺设备点]<INFO>yuno,206,224,0,101,0</INFO></NAVI>，带4个<ITEM>土灵原石<INFO>997</INFO></ITEM>。" },
+		Summary = "前往朱诺",
 		NpcNavi = "yuno",
 		NpcPosX = 206,
 		NpcPosY = 224
 	},
 	[5736] = {
 		Title = "前往艾因布罗克",
-		Description = { "韦罗好像被什么追赶着一样。收集3个火灵原石到艾因布罗克的风力发电厂吧。" },
-		Summary = ""
+		Description = { "韦罗似乎被什么追赶。收集3个<ITEM>火灵原石<INFO>994</INFO></ITEM>和1个<ITEM>土灵原石<INFO>997</INFO></ITEM>，前往<NAVI>[艾因布罗克风力发电厂]<INFO>einbroch,262,42,0,101,0</INFO></NAVI>。" },
+		Summary = "前往艾因布罗克",
+		NpcNavi = "einbroch",
+		NpcPosX = 262,
+		NpcPosY = 42
 	},
 	[5737] = {
 		Title = "去找克莱纳 奈米艾利",
