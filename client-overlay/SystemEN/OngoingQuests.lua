@@ -18433,8 +18433,11 @@ QuestInfoList = {
 	},
 	[7737] = {
 		Title = "与反叛者一起",
-		Description = { "决定与准备拉入反叛者的要员合作说服反叛者。到艾音布罗克火车站与协商要员雷兹一起成功与反叛者协商吧。" },
-		Summary = "反叛者"
+		Description = { "决定与反叛者合作。前往<NAVI>[艾因布罗克火车站]<INFO>einbroch,239,269,0,101,0</INFO></NAVI>，与代理人雷兹会合，共同说服反叛者。" },
+		Summary = "与雷兹会合",
+		NpcNavi = "einbroch",
+		NpcPosX = 239,
+		NpcPosY = 269
 	},
 	[7738] = {
 		Title = "为了下一个作战",
