@@ -12737,13 +12737,19 @@ QuestInfoList = {
 	},
 	[5727] = {
 		Title = "突然接到的事情",
-		Description = { "忽然出现的叫韦罗的男子邀请共事。明天4点后将准备出发，等明天再来找吧。" },
-		Summary = ""
+		Description = { "突然出现的韦罗邀请你共事。前往<NAVI>[韦罗]<INFO>rebel_in,78,66,0,101,0</INFO></NAVI>处，明天凌晨4点后再来找他。" },
+		Summary = "找韦罗",
+		NpcNavi = "rebel_in",
+		NpcPosX = 78,
+		NpcPosY = 66
 	},
 	[5728] = {
 		Title = "头疼",
-		Description = { "韦罗好像因为忽然用脑过度有些头疼。稍微休息一下再继续吧。" },
-		Summary = ""
+		Description = { "韦罗因突然用脑过度有些头疼。前往<NAVI>[韦罗]<INFO>rebel_in,78,66,0,101,0</INFO></NAVI>处，稍作休息后继续。" },
+		Summary = "找韦罗",
+		NpcNavi = "rebel_in",
+		NpcPosX = 78,
+		NpcPosY = 66
 	},
 	[5729] = {
 		Title = "前往艾音贝赫",
