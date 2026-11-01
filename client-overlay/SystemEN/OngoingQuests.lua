@@ -18300,12 +18300,18 @@ QuestInfoList = {
 	[7701] = {
 		Title = "依美乐心脏的遗失",
 		Description = { "确认在仪式的房间里的真正依美乐心脏碎片如何遗失的。" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "prt_lib_q",
+		NpcPosX = 91,
+		NpcPosY = 85
 	},
 	[7702] = {
 		Title = "此时的普隆德拉",
 		Description = { "过去普隆德拉正在被骸灵侵略中。在尼勒姆执意的劝说下决定出去看一看。" },
-		Summary = "前往外面"
+		Summary = "前往外面",
+		NpcNavi = "prt_q",
+		NpcPosX = 157,
+		NpcPosY = 334
 	},
 	[7703] = {
 		Title = "知道真相的人",
