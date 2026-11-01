@@ -15553,11 +15553,11 @@ QuestInfoList = {
 	[7197] = {
 		Title = "沙帕功勋证？沙帕功勋证！",
 		IconName = "ico_ep.bmp",
-		Description = { "最后为解开所有的谜题我决定直接去找名为阿哈特的人，但要谒见阿哈特必须拥有<ITEM>沙帕功勋证<INFO>6304</INFO></ITEM>。执行在首都随处可接取的委托后便可获得<ITEM>沙帕功勋证<INFO>6304</INFO></ITEM>。" },
+		Description = { "最后为解开所有的谜题我决定直接去找名为阿哈特的人，但要谒见阿哈特必须拥有<ITEM>沙帕功勋证<INFO>6304</INFO></ITEM>。前往<NAVI>[委托柜台]<INFO>dic_in01,42,264,0,101,0</INFO></NAVI>接取委托后便可获得<ITEM>沙帕功勋证<INFO>6304</INFO></ITEM>。收集够3枚后，利用狄奥内部电梯抵达行政室，前往<NAVI>[阿哈特]<INFO>dic_in01,300,280,0,101,0</INFO></NAVI>谒见。" },
 		Summary = "收集3枚<ITEM>沙帕功勋证<INFO>6304</INFO></ITEM>",
 		NpcNavi = "dic_in01",
-		NpcPosX = 42,
-		NpcPosY = 264
+		NpcPosX = 300,
+		NpcPosY = 280
 	},
 	[7198] = {
 		Title = "谒见大臣阿哈特",
