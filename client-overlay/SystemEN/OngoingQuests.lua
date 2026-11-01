@@ -18385,8 +18385,11 @@ QuestInfoList = {
 	},
 	[7731] = {
 		Title = "隐秘的行动",
-		Description = { "在里希塔乐镇寻找叫做布鲁诺的侍从。先到里希塔乐镇的机场与克鲁斯会合吧。" },
-		Summary = "与克鲁斯对话"
+		Description = { "前往<NAVI>[里希塔乐镇机场]<INFO>lhz_airport,189,39,0,101,0</INFO></NAVI>，与克鲁斯会合，调查侍从布鲁诺。" },
+		Summary = "与克鲁斯会合",
+		NpcNavi = "lhz_airport",
+		NpcPosX = 189,
+		NpcPosY = 39
 	},
 	[7732] = {
 		Title = "搜索嫌疑犯",
@@ -18400,8 +18403,11 @@ QuestInfoList = {
 	},
 	[7734] = {
 		Title = "逮捕",
-		Description = { "缉拿布鲁诺成功。先回到普隆德拉王宫讨论接下来的事情吧。" },
-		Summary = "与尼希尔对话"
+		Description = { "已逮捕布鲁诺。回到<NAVI>[普隆德拉王宫]<INFO>prt_cas_q,21,39,0,101,0</INFO></NAVI>向尼希尔报告。" },
+		Summary = "回王宫向尼希尔报告",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 21,
+		NpcPosY = 39
 	},
 	[7735] = {
 		Title = "隐秘的行动2",
