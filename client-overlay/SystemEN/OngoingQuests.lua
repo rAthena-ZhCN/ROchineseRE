@@ -10515,81 +10515,90 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[5402] = {
-		Title = "雷哈特 王室",
+		Title = "理查德王室",
+		Description = { "前往<NAVI>[理查德家管家]<INFO>prt_cas_q,80,80,0,101,0</INFO></NAVI>处，预约与下一任家主波·理查德的会面。" },
+		Summary = "前往理查德家族",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 80,
+		NpcPosY = 80,
 		IconName = "ico_ep.bmp",
-		Description = { "与雷哈特 王室的家主的会面时间。到房间内部的雷哈特家族的家主保罗处吧。" },
-		Summary = ""
 	},
 	[5403] = {
-		Title = "雷哈特 王室",
+		Title = "理查德王室的修炼邀请",
+		Description = { "理查德家族邀请你参加武士修炼。前往<NAVI>[理查德家管家]<INFO>prt_cas_q,80,80,0,101,0</INFO></NAVI>处接受修炼。" },
+		Summary = "接受理查德家族修炼",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 80,
+		NpcPosY = 80,
 		IconName = "ico_nq.bmp",
-		Description = { "虽然不知道理由但是接到雷哈特家族的修炼邀请。也有适当的奖励就先做一做吧？" },
-		Summary = ""
 	},
 	[5404] = {
 		Title = "[反复]武士修炼-人型",
+		Description = { "执行理查德王室的武士修炼课程，狩猎50个人型怪物。完成后回去找<NAVI>[理查德家管家]<INFO>prt_cas_q,80,80,0,101,0</INFO></NAVI>。" },
+		Summary = "狩猎50个人型怪物",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 80,
+		NpcPosY = 80,
 		IconName = "ico_dq.bmp",
-		Description = { "执行雷哈特 王室的武士修炼课程 狩猎50个人型怪物吧。" },
-		Summary = ""
 	},
 	[5405] = {
 		Title = "[反复]武士修炼-动物型",
 		IconName = "ico_dq.bmp",
-		Description = { "执行雷哈特 王室的武士修炼课程 狩猎50个动物型怪物吧。" },
+		Description = { "执行理查德王室的武士修炼课程 狩猎50个动物型怪物吧。" },
 		Summary = ""
 	},
 	[5406] = {
 		Title = "[反复]武士修炼-昆虫型",
 		IconName = "ico_dq.bmp",
-		Description = { "执行雷哈特 王室的武士修炼课程 狩猎昆虫型怪物50只吧。" },
+		Description = { "执行理查德王室的武士修炼课程 狩猎昆虫型怪物50只吧。" },
 		Summary = ""
 	},
 	[5407] = {
 		Title = "[反复]武士修炼-水栖型",
 		IconName = "ico_dq.bmp",
-		Description = { "执行雷哈特 王室的五十修炼课程 狩猎水栖型怪物50只吧。" },
+		Description = { "执行理查德王室的五十修炼课程 狩猎水栖型怪物50只吧。" },
 		Summary = ""
 	},
 	[5408] = {
 		Title = "[反复]武士修炼-植物型",
 		IconName = "ico_dq.bmp",
-		Description = { "执行雷哈特 王室的五十修炼课程 狩猎植物型怪物50只吧。" },
+		Description = { "执行理查德王室的五十修炼课程 狩猎植物型怪物50只吧。" },
 		Summary = ""
 	},
 	[5409] = {
 		Title = "[反复]武士修炼-恶魔型",
 		IconName = "ico_dq.bmp",
-		Description = { "执行雷哈特 王室的五十修炼课程 狩猎恶魔型怪物50只吧。" },
+		Description = { "执行理查德王室的五十修炼课程 狩猎恶魔型怪物50只吧。" },
 		Summary = ""
 	},
 	[5410] = {
 		Title = "[反复]武士修炼-天使型",
 		IconName = "ico_dq.bmp",
-		Description = { "执行雷哈特 王室的五十修炼课程 狩猎天使型怪物50只吧。" },
+		Description = { "执行理查德王室的五十修炼课程 狩猎天使型怪物50只吧。" },
 		Summary = ""
 	},
 	[5411] = {
 		Title = "[反复]武士修炼-不死型",
 		IconName = "ico_dq.bmp",
-		Description = { "执行雷哈特 王室的五十修炼课程 狩猎不死型怪物50只吧。" },
+		Description = { "执行理查德王室的五十修炼课程 狩猎不死型怪物50只吧。" },
 		Summary = ""
 	},
 	[5412] = {
 		Title = "[反复]武士修炼-无形",
 		IconName = "ico_dq.bmp",
-		Description = { "执行雷哈特 王室的五十修炼课程 狩猎无型怪物50只吧。" },
+		Description = { "执行理查德王室的五十修炼课程 狩猎无型怪物50只吧。" },
 		Summary = ""
 	},
 	[5413] = {
 		Title = "[反复]武士修炼-龙族",
 		IconName = "ico_dq.bmp",
-		Description = { "执行雷哈特 王室的五十修炼课程 狩猎龙族怪物50只吧。" },
+		Description = { "执行理查德王室的五十修炼课程 狩猎龙族怪物50只吧。" },
 		Summary = ""
 	},
 	[5414] = {
 		Title = "[待机]武士修炼",
 		IconName = "ico_dq.bmp",
-		Description = { "雷哈特 王室的战斗训练可第二天重新进行。" },
+		Description = { "理查德王室的战斗训练可第二天重新进行。" },
 		Summary = "初始化时间 04点",
 		CoolTimeQuest = 1
 	},
