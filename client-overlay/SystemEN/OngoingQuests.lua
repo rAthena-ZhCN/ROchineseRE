@@ -18417,17 +18417,23 @@ QuestInfoList = {
 	},
 	[7735] = {
 		Title = "隐秘的行动2",
-		Description = { "看来需要秀发兹发德共和国的情报协助。接取了护卫秘密前往协商的斯皮卡的安全的委托。到朱诺机场会合吧。" },
-		Summary = "与克鲁斯对话"
+		Description = { "需要施瓦茨瓦尔德共和国的情报协助。前往<NAVI>[朱诺机场]<INFO>y_airport,168,41,0,101,0</INFO></NAVI>，与克鲁斯会合，护卫斯皮卡。" },
+		Summary = "与克鲁斯会合",
+		NpcNavi = "y_airport",
+		NpcPosX = 168,
+		NpcPosY = 41
 	},
 	[7736] = {
 		Title = "观光和密会只是一纸之差",
-		Description = { "说好在朱诺回合的斯皮卡为了保密先前往了里希塔乐镇的酒店。前往里希塔乐镇的酒店和伪装为观光的斯皮卡见面吧。" },
-		Summary = "与斯皮卡对话"
+		Description = { "斯皮卡为保密已先前往里希塔乐镇旅馆。前往<NAVI>[里希塔乐镇旅馆]<INFO>lhz_in02,239,145,0,101,0</INFO></NAVI>与伪装成游客的斯皮卡见面。" },
+		Summary = "与斯皮卡见面",
+		NpcNavi = "lhz_in02",
+		NpcPosX = 239,
+		NpcPosY = 145
 	},
 	[7737] = {
 		Title = "与反叛者一起",
-		Description = { "决定与准备拉入反叛者的要员合作说服反叛者。到艾音布罗克火车站与协商要员雷基一起成功与反叛者协商吧。" },
+		Description = { "决定与准备拉入反叛者的要员合作说服反叛者。到艾音布罗克火车站与协商要员雷兹一起成功与反叛者协商吧。" },
 		Summary = "反叛者"
 	},
 	[7738] = {
@@ -19142,7 +19148,7 @@ QuestInfoList = {
 	[7864] = {
 		Title = "换气",
 		IconName = "ico_ep.bmp",
-		Description = { "泰斯在分析资料的时候，帮助雷基吧，找出酒吧某处的雷基。" },
+		Description = { "泰斯在分析资料的时候，帮助雷兹吧，找出酒吧某处的雷兹。" },
 		Summary = "与雷基对话"
 	},
 	[7865] = {
@@ -41646,7 +41652,7 @@ QuestInfoList = {
 	},
 	[14598] = {
 		Title = "看不见的入口",
-		Description = { "雷基在这里好像有事情，快进去吧。" },
+		Description = { "雷兹在这里好像有事情，快进去吧。" },
 		Summary = "前往看不见的门"
 	},
 	[14599] = {
@@ -47580,7 +47586,7 @@ QuestInfoList = {
 	[16654] = {
 		Title = "积累的怀疑",
 		IconName = "ico_ep.bmp",
-		Description = { "在冰封之城，与雷基和<NAVI>[米里亚姆]<INFO>icas_in,249,199,0,101,0</INFO></NAVI>继续对话。" },
+		Description = { "在冰封之城，与雷兹和<NAVI>[米里亚姆]<INFO>icas_in,249,199,0,101,0</INFO></NAVI>继续对话。" },
 		Summary = "与米里亚姆对话"
 	},
 	[16655] = {
@@ -49953,7 +49959,7 @@ QuestInfoList = {
 	[17000] = {
 		Title = "拒绝对话",
 		IconName = "ico_ep.bmp",
-		Description = { "<NAVI>[雷基]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI>拒绝再次和副社长亚托斯对话，问问发生了什么事吧。" },
+		Description = { "<NAVI>[雷兹]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI>拒绝再次和副社长亚托斯对话，问问发生了什么事吧。" },
 		Summary = "与雷基对话"
 	},
 	[17001] = {
