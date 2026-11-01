@@ -15599,11 +15599,11 @@ QuestInfoList = {
 	[7202] = {
 		Title = "都夏的密令-收集证据",
 		IconName = "ico_ep.bmp",
-		Description = { "在阿哈特和契休没发现的情况下，偷偷将要交给都夏的证据-裂缝的痕迹各偷一个放进报告里吧！<ITEM>凝固的血痕<INFO>6306</INFO></ITEM>、<ITEM>冻住的皮肤碎片<INFO>6305</INFO></ITEM>和<ITEM>奇怪的魔力之石<INFO>6307</INFO></ITEM>各搜集1个。下一步：在<NAVI>[裂缝]<INFO>dic_fild02,228,55,0,101,0</INFO></NAVI>附近偷取证据。" },
-		Summary = "在裂缝附近偷取证据",
-		NpcNavi = "dic_fild02",
-		NpcPosX = 228,
-		NpcPosY = 55
+		Description = { "在阿哈特和契休没发现的情况下，偷偷将要交给都夏的证据-裂缝的痕迹各偷一个放进报告里吧！<ITEM>凝固的血痕<INFO>6306</INFO></ITEM>、<ITEM>冻住的皮肤碎片<INFO>6305</INFO></ITEM>和<ITEM>奇怪的魔力之石<INFO>6307</INFO></ITEM>各搜集1个。证据齐全后，先前往<NAVI>[赫斯兰塔]<INFO>dic_in01,158,188,0,101,0</INFO></NAVI>确认情报，再向<NAVI>[都夏]<INFO>mid_campin,168,170,0,101,0</INFO></NAVI>提交报告。" },
+		Summary = "证据齐全后去找赫斯兰塔，再向都夏报告",
+		NpcNavi = "dic_in01",
+		NpcPosX = 158,
+		NpcPosY = 188
 	},
 	[7203] = {
 		Title = "都夏的密令-最终报告",
