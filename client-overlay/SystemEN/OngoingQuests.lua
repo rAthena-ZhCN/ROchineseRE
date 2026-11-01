@@ -19150,7 +19150,7 @@ QuestInfoList = {
 		Title = "企业的危机",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"为了夺回被内部叛徒强占的雷根修芦研究所，加入了艾丝特一行。快去和里希塔乐镇等待作战的 <NAVI>[共和国警卫兵]<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI>碰头吧。"
+			"为了夺回被内部叛徒强占的雷根修芦研究所，加入了埃尔斯特一行。快去和里希塔乐镇等待作战的 <NAVI>[共和国警卫兵]<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI>碰头吧。"
 		},
 		Summary = "与共和国警卫兵对话"
 	},
@@ -30498,28 +30498,40 @@ QuestInfoList = {
 	},
 	[11457] = {
 		Title = "不和",
-		Description = { "收到狄恩的同意，快去见见其他元老特殊部队大队长艾丝特吧。" },
-		Summary = "与艾丝特对话"
+		Description = { "收到狄恩的同意，快去见见其他元老特殊部队大队长埃尔斯特吧。" },
+		Summary = "与埃尔斯特对话"
 	},
 	[11458] = {
 		Title = "不和",
-		Description = { "也获得了艾丝特的同意，再次和鲁柏对话吧。" },
-		Summary = "与鲁柏对话"
+		Description = { "也获得了埃尔斯特的同意。前往<NAVI>[鲁柏]<INFO>rebel_in,122,71,0,101,0</INFO></NAVI>处再次对话。" },
+		Summary = "与鲁柏对话",
+		NpcNavi = "rebel_in",
+		NpcPosX = 122,
+		NpcPosY = 71
 	},
 	[11459] = {
 		Title = "不和",
-		Description = { "读了狄恩发来的信的鲁柏觉得不可置信，让罗希斯重新读一遍，到罗希斯处确认一下内容。" },
-		Summary = "与罗希斯对话"
+		Description = { "鲁柏读完狄恩的信后难以置信，让拉西斯重新读一遍。前往<NAVI>[拉西斯]<INFO>rebel_in,122,71,0,101,0</INFO></NAVI>处确认内容。" },
+		Summary = "与拉西斯对话",
+		NpcNavi = "rebel_in",
+		NpcPosX = 122,
+		NpcPosY = 71
 	},
 	[11460] = {
 		Title = "不和",
-		Description = { "确认过内容没有问题，再次和鲁柏对话。" },
-		Summary = "与鲁柏对话"
+		Description = { "确认内容无误后，再次和<NAVI>[鲁柏]<INFO>rebel_in,122,71,0,101,0</INFO></NAVI>对话。" },
+		Summary = "与鲁柏对话",
+		NpcNavi = "rebel_in",
+		NpcPosX = 122,
+		NpcPosY = 71
 	},
 	[11461] = {
 		Title = "不和",
-		Description = { "与鲁柏对话中狄恩忽然出现了。快去和狄恩对话吧。" },
-		Summary = "与狄恩对话"
+		Description = { "与鲁柏对话时狄恩突然出现。前往<NAVI>[狄恩]<INFO>rebel_in,122,71,0,101,0</INFO></NAVI>处对话。" },
+		Summary = "与狄恩对话",
+		NpcNavi = "rebel_in",
+		NpcPosX = 122,
+		NpcPosY = 71
 	},
 	[11462] = {
 		Title = "不和",
@@ -30531,13 +30543,16 @@ QuestInfoList = {
 	},
 	[11463] = {
 		Title = "不是说是准备派对的吗？",
-		Description = { "从狄恩的房间门口听到了一些奇怪的事情，但还是装作没听到吧。进到房间跟狄恩对话，先把承诺的事情做了吧。" },
-		Summary = "与狄恩对话"
+		Description = { "从狄恩房间门口听到奇怪的事，但还是装作没听到。进入房间与<NAVI>[狄恩]<INFO>rebel_in,122,71,0,101,0</INFO></NAVI>对话，先完成承诺的事。" },
+		Summary = "与狄恩对话",
+		NpcNavi = "rebel_in",
+		NpcPosX = 122,
+		NpcPosY = 71
 	},
 	[11464] = {
 		Title = "不是说是准备派对的吗？",
-		Description = { "关于事情已经跟罗希斯说过了。快去和罗希斯对话吧。" },
-		Summary = "与罗希斯对话"
+		Description = { "关于事情已经跟拉西斯说过了。快去和拉西斯对话吧。" },
+		Summary = "与拉西斯对话"
 	},
 	[11465] = {
 		Title = "狄恩的上等茗茶",
@@ -31319,8 +31334,8 @@ QuestInfoList = {
 	[11618] = {
 		Title = "下水道的落伍者",
 		IconName = "ico_ep.bmp",
-		Description = { "终于来到地面上了，和<NAVI>[罗希斯]<INFO>ba_in01,20,319,0,101,0</INFO></NAVI>对话吧。" },
-		Summary = "与罗希斯对话"
+		Description = { "终于来到地面上了，和<NAVI>[拉西斯]<INFO>ba_in01,20,319,0,101,0</INFO></NAVI>对话吧。" },
+		Summary = "与拉西斯对话"
 	},
 	[11619] = {
 		Title = "Blackmail",
@@ -41774,9 +41789,9 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[14613] = {
-		Title = "2层的艾丝特",
-		Description = { "去找2层的艾丝特对话吧，说服了那位的话之后会很顺利的。" },
-		Summary = "去找2层的艾丝特"
+		Title = "2层的埃尔斯特",
+		Description = { "去找2层的埃尔斯特对话吧，说服了那位的话之后会很顺利的。" },
+		Summary = "去找2层的埃尔斯特"
 	},
 	[14614] = {
 		Title = "说服实权者",
@@ -55174,8 +55189,8 @@ QuestInfoList = {
 	[18016] = {
 		Title = "作战会议",
 		IconName = "ico_ep.bmp",
-		Description = { "和艾丝特并肩作战，找出躲在霸肋门德大宅的邪心猎人与虚幻派。" },
-		Summary = "与艾丝特对话"
+		Description = { "和埃尔斯特并肩作战，找出躲在霸肋门德大宅的邪心猎人与虚幻派。" },
+		Summary = "与埃尔斯特对话"
 	},
 	[18017] = {
 		Title = "消灭害虫大作战",
