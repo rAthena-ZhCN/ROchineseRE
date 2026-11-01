@@ -98289,7 +98289,7 @@ tbl = {
 		costume = false
 	},
 	[6929] = {
-		unidentifiedDisplayName = "用印 之 信",
+		unidentifiedDisplayName = "盖印之信",
 		unidentifiedResourceName = "救何祈瘤",
 		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]鉴定。" },
 		identifiedDisplayName = "用印之信",

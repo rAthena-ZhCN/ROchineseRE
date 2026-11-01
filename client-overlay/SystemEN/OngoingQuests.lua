@@ -41085,8 +41085,11 @@ QuestInfoList = {
 	},
 	[14474] = {
 		Title = "向艾森雅纳报告",
-		Description = { "找到艾森雅兰的守护骑士拿到他寄来的舒心。快到亚森雅纳处报告吧。" },
-		Summary = "向艾森雅纳报告"
+		Description = { "把凯恩交出的<ITEM>盖印之信<INFO>6929</INFO></ITEM>和证词交给<NAVI>[伊森霍诺]<INFO>prt_cas_q,14,184,0,101,0</INFO></NAVI>。" },
+		Summary = "向伊森霍诺报告",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 14,
+		NpcPosY = 184
 	},
 	[14475] = {
 		Title = "去找尤尔根",
