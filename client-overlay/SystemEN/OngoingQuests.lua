@@ -2752,7 +2752,7 @@ QuestInfoList = {
 		Title = "Knights of the Neighborhood - The Boss' Run",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"This is an order from <NAVI>[Knights of the Neighborhood Boss]<INFO>mora,116,165,0,101,0</INFO></NAVI> in Mora Village. You need to collect 20x <ITEM>[Mysterious Seed]<INFO>12561</INFO></ITEM>. It is said that the mysterious seeds can be easily obtained from the Hazy Forest Labyrinth."
+			"This is an order from <NAVI>[Knights of the Neighborhood Boss]<INFO>mora,116,165,0,101,0</INFO></NAVI> in Mora Village. You need to collect 20x <ITEM>神奇种子<INFO>12561</INFO></ITEM>. It is said that the mysterious seeds can be easily obtained from the Hazy Forest Labyrinth."
 		},
 		Summary = "Collect 20 Mysterious Seeds"
 	},
@@ -5946,7 +5946,7 @@ QuestInfoList = {
 		Title = "火鸡的饲料",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"急需火鸡饲料，收集 <ITEM>[蝗虫后腿]<INFO>940</INFO></ITEM> 30个、<ITEM>[绿色药草]<INFO>511</INFO></ITEM> 20个、<ITEM>[丰年祭纪念饼干]<INFO>11613</INFO></ITEM> 20个后交给鲁伊斯吧!"
+			"急需火鸡饲料，收集 <ITEM>蝗虫后腿<INFO>940</INFO></ITEM> 30个、<ITEM>绿色药草<INFO>511</INFO></ITEM> 20个、<ITEM>丰年祭纪念饼干<INFO>11613</INFO></ITEM> 20个后交给鲁伊斯吧!"
 		},
 		Summary = "收集火鸡饲料"
 	},
@@ -5954,7 +5954,7 @@ QuestInfoList = {
 		Title = "火鸡的饲料 - 重复",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"还需要火鸡饲料，再收集 <ITEM>[蝗虫后腿]<INFO>940</INFO></ITEM> 30个、<ITEM>[绿色药草]<INFO>511</INFO></ITEM> 20个、<ITEM>[丰年祭纪念饼干]<INFO>11613</INFO></ITEM> 20个后交给鲁伊斯吧!"
+			"还需要火鸡饲料，再收集 <ITEM>蝗虫后腿<INFO>940</INFO></ITEM> 30个、<ITEM>绿色药草<INFO>511</INFO></ITEM> 20个、<ITEM>丰年祭纪念饼干<INFO>11613</INFO></ITEM> 20个后交给鲁伊斯吧!"
 		},
 		Summary = "收集收集火鸡饲料"
 	},
@@ -5974,13 +5974,13 @@ QuestInfoList = {
 	[3382] = {
 		Title = "前往昆仑的理由",
 		IconName = "ico_ev.bmp",
-		Description = { "金师傅为了见自己的女儿凯真，希望帮忙收集 <ITEM>[一票通船票]<INFO>25392</INFO></ITEM> 2张给他。" },
+		Description = { "金师傅为了见自己的女儿凯真，希望帮忙收集 <ITEM>一票通船票<INFO>25392</INFO></ITEM> 2张给他。" },
 		Summary = "协助金师傅"
 	},
 	[3383] = {
 		Title = "前往昆仑的理由 - 重复",
 		IconName = "ico_ev.bmp",
-		Description = { "金师傅今天也想见自己的女儿凯真，希望再帮忙收集 <ITEM>[一票通船票]<INFO>25392</INFO></ITEM> 2张给他。" },
+		Description = { "金师傅今天也想见自己的女儿凯真，希望再帮忙收集 <ITEM>一票通船票<INFO>25392</INFO></ITEM> 2张给他。" },
 		Summary = "协助金师傅"
 	},
 	[3384] = {
@@ -5999,13 +5999,13 @@ QuestInfoList = {
 	[3386] = {
 		Title = "交给丰年祭纪念饼干",
 		IconName = "ico_ev.bmp",
-		Description = { "为了研究丰年祭饼干，希望帮忙收集 <ITEM>[丰年祭纪念饼干]<INFO>25392</INFO></ITEM> 10个给他。" },
+		Description = { "为了研究丰年祭饼干，希望帮忙收集 <ITEM>一票通船票<INFO>25392</INFO></ITEM> 10个给他。" },
 		Summary = "协助银月"
 	},
 	[3387] = {
 		Title = "交给丰年祭纪念饼干 - 重复",
 		IconName = "ico_ev.bmp",
-		Description = { "似乎还需要更多的 <ITEM>[丰年祭纪念饼干]<INFO>25392</INFO></ITEM>，再收集10个给他吧!" },
+		Description = { "似乎还需要更多的 <ITEM>一票通船票<INFO>25392</INFO></ITEM>，再收集10个给他吧!" },
 		Summary = "协助银月"
 	},
 	[3388] = {
@@ -12774,7 +12774,7 @@ QuestInfoList = {
 	[5846] = {
 		Title = "[Standby] Illusion Corridor",
 		Description = {
-			"You can receive a <ITEM>[Illusion Seal]<INFO>25504</INFO></ITEM> from the <NAVI>Illusion of Ghost<INFO>comodo,214,186,0,101,0</INFO></NAVI> once a day for 1 hour."
+			"You can receive a <ITEM>Illusion Seal<INFO>25504</INFO></ITEM> from the <NAVI>Illusion of Ghost<INFO>comodo,214,186,0,101,0</INFO></NAVI> once a day for 1 hour."
 		},
 		Summary = "Reset at 04:00",
 		CoolTimeQuest = 1
@@ -12794,7 +12794,7 @@ QuestInfoList = {
 	[5848] = {
 		Title = "击退巨石族的证据",
 		IconName = "ico_nq.bmp",
-		Description = { "村落因为巨石族魔物非常头疼，击杀它们并带去3个 <ITEM>[证明]<INFO>25638</INFO></ITEM>的话或许能够获得一次奖励吧。" },
+		Description = { "村落因为巨石族魔物非常头疼，击杀它们并带去3个 <ITEM>巨石徽章<INFO>25638</INFO></ITEM>的话或许能够获得一次奖励吧。" },
 		Summary = "巨石徽章3个",
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
@@ -12822,7 +12822,7 @@ QuestInfoList = {
 	[5850] = {
 		Title = "击退伍坦族的证据",
 		IconName = "ico_nq.bmp",
-		Description = { "村落因为伍坦族魔物非常头疼，击杀它们并带去3个  <ITEM>[证明]<INFO>25633</INFO></ITEM> 的话或许能够获得一次奖励吧。" },
+		Description = { "村落因为伍坦族魔物非常头疼，击杀它们并带去3个  <ITEM>伍坦徽章<INFO>25633</INFO></ITEM> 的话或许能够获得一次奖励吧。" },
 		Summary = "伍坦徽章3个",
 		NpcSpr = "4_M_THAIONGBAK",
 		NpcNavi = "com_d02_i",
@@ -12919,7 +12919,7 @@ QuestInfoList = {
 		Title = "帮晨光找朋友",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"你好，看到这封信的朋友！谢谢你帮我喂他，不知道是不是你之前跟他讲过关于波利的故事的原因，他好像很喜欢波利，如果有只波利当宠物就好了，所以说你能帮我找来一个 <ITEM>[波利宠物蛋]<INFO>9001</INFO></ITEM> 给他吗？拜托你了。-欧克"
+			"你好，看到这封信的朋友！谢谢你帮我喂他，不知道是不是你之前跟他讲过关于波利的故事的原因，他好像很喜欢波利，如果有只波利当宠物就好了，所以说你能帮我找来一个 <ITEM>波利宠物蛋<INFO>9001</INFO></ITEM> 给他吗？拜托你了。-欧克"
 		},
 		Summary = "波利宠物蛋",
 		NpcSpr = "4_EP17_MORNING",
@@ -12936,7 +12936,7 @@ QuestInfoList = {
 		Title = "帮晨光找朋友",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"你好，朋友！晨光好像把你当做专门喂他吃饭的人了呢。啊，对了，之前我跟他讲过关于摇滚蝗虫的故事，这次他想要摇滚蝗虫了，可以帮我找一个 <ITEM>[摇滚蝗虫宠物蛋]<INFO>9011</INFO></ITEM>给他吗？拜托你了。 -欧克"
+			"你好，朋友！晨光好像把你当做专门喂他吃饭的人了呢。啊，对了，之前我跟他讲过关于摇滚蝗虫的故事，这次他想要摇滚蝗虫了，可以帮我找一个 <ITEM>摇滚蝗虫宠物蛋<INFO>9011</INFO></ITEM>给他吗？拜托你了。 -欧克"
 		},
 		Summary = "摇滚蝗虫宠物蛋",
 		NpcSpr = "4_EP17_MORNING",
@@ -12953,7 +12953,7 @@ QuestInfoList = {
 		Title = "帮晨光找朋友",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"你好，朋友！可能是因为给晨光讲过关于小鸡冒险的故事，现在对小鸡非常好奇。这次能帮我找一个 <ITEM>[小鸡宠物蛋]<INFO>9005</INFO></ITEM>吗？我都无法多陪陪他，只能给他多找一些朋友了。拜托了。 -欧克"
+			"你好，朋友！可能是因为给晨光讲过关于小鸡冒险的故事，现在对小鸡非常好奇。这次能帮我找一个 <ITEM>小鸡宠物蛋<INFO>9005</INFO></ITEM>吗？我都无法多陪陪他，只能给他多找一些朋友了。拜托了。 -欧克"
 		},
 		Summary = "小鸡宠物蛋",
 		NpcSpr = "4_EP17_MORNING",
@@ -12970,7 +12970,7 @@ QuestInfoList = {
 		Title = "帮晨光找朋友",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"你好，朋友！抱歉，我又来拜托你了，这次可能是从玉兔故事中获得的激发，很是喜欢疯兔。能帮我找一个 <ITEM>[疯兔宠物蛋]<INFO>9004</INFO></ITEM>吗？拜托你了。-欧克"
+			"你好，朋友！抱歉，我又来拜托你了，这次可能是从玉兔故事中获得的激发，很是喜欢疯兔。能帮我找一个 <ITEM>疯兔宠物蛋<INFO>9004</INFO></ITEM>吗？拜托你了。-欧克"
 		},
 		Summary = "疯兔宠物蛋",
 		NpcSpr = "4_EP17_MORNING",
@@ -13000,7 +13000,7 @@ QuestInfoList = {
 		Title = "晨光选择的食物",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃杰勒比结晶，带回 <ITEM>[杰勒比结晶]<INFO>909</INFO></ITEM> 10个给他吧。"
+			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃杰勒比结晶，带回 <ITEM>杰勒比结晶<INFO>909</INFO></ITEM> 10个给他吧。"
 		},
 		Summary = "杰勒比结晶 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -13018,7 +13018,7 @@ QuestInfoList = {
 		Title = "晨光选择的食物",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃树根，带回 <ITEM>[树根]<INFO>902</INFO></ITEM> 10个给他吧。"
+			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃树根，带回 <ITEM>树根<INFO>902</INFO></ITEM> 10个给他吧。"
 		},
 		Summary = "树根 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -13036,7 +13036,7 @@ QuestInfoList = {
 		Title = "晨光选择的食物",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃蝗虫后腿，带回 <ITEM>[蝗虫后腿]<INFO>940</INFO></ITEM> 10个给他吧。"
+			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃蝗虫后腿，带回 <ITEM>蝗虫后腿<INFO>940</INFO></ITEM> 10个给他吧。"
 		},
 		Summary = "蝗虫后腿 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -13054,7 +13054,7 @@ QuestInfoList = {
 		Title = "晨光选择的食物",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃三叶幸运草，带回 <ITEM>[三叶幸运草]<INFO>705</INFO></ITEM> 10个给他吧。"
+			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃三叶幸运草，带回 <ITEM>三叶幸运草<INFO>705</INFO></ITEM> 10个给他吧。"
 		},
 		Summary = "三叶幸运草 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -13072,7 +13072,7 @@ QuestInfoList = {
 		Title = "晨光选择的食物",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃羽毛，带回 <ITEM>[羽毛]<INFO>916</INFO></ITEM> 10个给他吧。"
+			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃羽毛，带回 <ITEM>羽毛<INFO>916</INFO></ITEM> 10个给他吧。"
 		},
 		Summary = "羽毛 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -13090,7 +13090,7 @@ QuestInfoList = {
 		Title = "晨光选择的食物",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃鼠尾，带回 <ITEM>[鼠尾]<INFO>1016</INFO></ITEM> 10个给他吧。"
+			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃鼠尾，带回 <ITEM>鼠尾<INFO>1016</INFO></ITEM> 10个给他吧。"
 		},
 		Summary = "鼠尾 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -13108,7 +13108,7 @@ QuestInfoList = {
 		Title = "晨光选择的食物",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃毒牙，带回 <ITEM>[毒牙]<INFO>937</INFO></ITEM> 10个给他吧。"
+			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃毒牙，带回 <ITEM>毒牙<INFO>937</INFO></ITEM> 10个给他吧。"
 		},
 		Summary = "毒牙 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -13126,7 +13126,7 @@ QuestInfoList = {
 		Title = "晨光选择的食物",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃猴子尾巴，带回 <ITEM>[猴子尾巴]<INFO>942</INFO></ITEM> 10个给他吧。"
+			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃猴子尾巴，带回 <ITEM>猴子尾巴<INFO>942</INFO></ITEM> 10个给他吧。"
 		},
 		Summary = "猴子尾巴 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -13144,7 +13144,7 @@ QuestInfoList = {
 		Title = "晨光选择的食物",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃蝙蝠牙，带回 <ITEM>[蝙蝠牙]<INFO>913</INFO></ITEM> 10个给他吧。"
+			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃蝙蝠牙，带回 <ITEM>蝙蝠牙<INFO>913</INFO></ITEM> 10个给他吧。"
 		},
 		Summary = "蝙蝠牙 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -13162,7 +13162,7 @@ QuestInfoList = {
 		Title = "晨光选择的食物",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃熊掌，带回 <ITEM>[熊掌]<INFO>948</INFO></ITEM> 10个给他吧。"
+			"<NAVI>[晨光]<INFO>sp_rudus,130,200,0,101,0</INFO></NAVI>今天好像想吃熊掌，带回 <ITEM>熊掌<INFO>948</INFO></ITEM> 10个给他吧。"
 		},
 		Summary = "熊掌 10",
 		NpcSpr = "4_EP17_MORNING",
@@ -13957,7 +13957,7 @@ QuestInfoList = {
 		Title = "[待机]恶魔的零食",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"为<NAVI>[箱子里的恶魔]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>准备了零食，明天肯定有其他需求，要不提前积攒<ITEM>[王牌外卡]<INFO>25505</INFO></ITEM>、<ITEM>[可爱的扫把]<INFO>25506</INFO></ITEM>、<ITEM>[绚丽的珊瑚]<INFO>25507</INFO></ITEM>、<ITEM>[亮晶晶圆壳]<INFO>25509</INFO></ITEM>各100个？"
+			"为<NAVI>[箱子里的恶魔]<INFO>c_tower1,243,202,0,101,0</INFO></NAVI>准备了零食，明天肯定有其他需求，要不提前积攒<ITEM>Jokers Wild<INFO>25505</INFO></ITEM>、<ITEM>Cute Broom<INFO>25506</INFO></ITEM>、<ITEM>Colorful Coral<INFO>25507</INFO></ITEM>、<ITEM>Shiny Round Shell<INFO>25509</INFO></ITEM>各100个？"
 		},
 		Summary = "04点重置",
 		CoolTimeQuest = 1
@@ -14089,15 +14089,15 @@ QuestInfoList = {
 			"一种温暖的羽毛来抵挡寒冷，从以下",
 			"选择一种羽毛并带来10个。",
 			"-",
-			"<ITEM>[轻盈羽毛]<INFO>6393</INFO></ITEM>",
-			"<ITEM>[柔软的羽毛]<INFO>7063</INFO></ITEM>",
-			"<ITEM>[火焰羽毛]<INFO>6691</INFO></ITEM>",
-			"<ITEM>[红色羽毛]<INFO>7440</INFO></ITEM>",
-			"<ITEM>[羽毛]<INFO>916</INFO></ITEM>",
-			"<ITEM>[天堂鸟羽毛]<INFO>6405</INFO></ITEM>",
-			"<ITEM>[七彩大嘴鸟之羽]<INFO>7101</INFO></ITEM>",
-			"<ITEM>[蓝色羽毛]<INFO>7441</INFO></ITEM>",
-			"<ITEM>[哈比的羽毛]<INFO>7115</INFO></ITEM>"
+			"<ITEM>轻盈羽毛<INFO>6393</INFO></ITEM>",
+			"<ITEM>柔软的羽毛<INFO>7063</INFO></ITEM>",
+			"<ITEM>火焰羽毛<INFO>6691</INFO></ITEM>",
+			"<ITEM>红色羽毛<INFO>7440</INFO></ITEM>",
+			"<ITEM>羽毛<INFO>916</INFO></ITEM>",
+			"<ITEM>天堂鸟羽毛<INFO>6405</INFO></ITEM>",
+			"<ITEM>七彩大嘴鸟之羽<INFO>7101</INFO></ITEM>",
+			"<ITEM>蓝色羽毛<INFO>7441</INFO></ITEM>",
+			"<ITEM>哈比的羽毛<INFO>7115</INFO></ITEM>"
 		},
 		Summary = ""
 	},
@@ -14118,7 +14118,7 @@ QuestInfoList = {
 		IconName = "ico_ep.bmp",
 		Description = {
 			"在冰鳞平原上遇到的朋友日光",
-			"好像能够变换不同的外貌，带着日光给的<ITEM>[蠕虫变身卷轴]<INFO>101162</INFO></ITEM>",
+			"好像能够变换不同的外貌，带着日光给的<ITEM>Rgan Transformation Scroll<INFO>101162</INFO></ITEM>",
 			"前去<NAVI>[冰封之城]<INFO>icecastle,27,126,0,101,0</INFO></NAVI>报告。"
 		},
 		Summary = "前往冰封之城..."
@@ -14140,7 +14140,7 @@ QuestInfoList = {
 		Title = "日光的菜单选择",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要吃破碎的酒缸，带来10个<ITEM>[破碎的酒缸]<INFO>7158</INFO></ITEM>吧。"
+			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要吃破碎的酒缸，带来10个<ITEM>破碎的酒缸<INFO>7158</INFO></ITEM>吧。"
 		},
 		Summary = "破碎的酒缸10",
 		NpcSpr = "4_EP19_LUNCH",
@@ -14152,7 +14152,7 @@ QuestInfoList = {
 		Title = "日光的菜单选择",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用片云，带来10个<ITEM>[片云]<INFO>7162</INFO></ITEM>吧。"
+			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用片云，带来10个<ITEM>片云<INFO>7162</INFO></ITEM>吧。"
 		},
 		Summary = "片云10",
 		NpcSpr = "4_EP19_LUNCH",
@@ -14164,7 +14164,7 @@ QuestInfoList = {
 		Title = "日光的菜单选择",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用竹篮，带来10个<ITEM>[竹篮]<INFO>7299</INFO></ITEM>吧。"
+			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用竹篮，带来10个<ITEM>竹篮<INFO>7299</INFO></ITEM>吧。"
 		},
 		Summary = "竹篮10",
 		NpcSpr = "4_EP19_LUNCH",
@@ -14176,7 +14176,7 @@ QuestInfoList = {
 		Title = "日光的菜单选择",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用舞狮的假牙，带来10个<ITEM>[舞狮的假牙]<INFO>7266</INFO></ITEM>吧。"
+			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用舞狮的假牙，带来10个<ITEM>舞狮的假牙<INFO>7266</INFO></ITEM>吧。"
 		},
 		Summary = "舞狮的假牙10",
 		NpcSpr = "4_EP19_LUNCH",
@@ -14188,7 +14188,7 @@ QuestInfoList = {
 		Title = "日光的菜单选择",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用亚卡祖母的杵棒，带来10个<ITEM>[亚卡祖母的杵棒]<INFO>7762</INFO></ITEM>吧。"
+			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用亚卡祖母的杵棒，带来10个<ITEM>亚卡祖母的杵棒<INFO>7762</INFO></ITEM>吧。"
 		},
 		Summary = "亚卡祖母的杵棒10",
 		NpcSpr = "4_EP19_LUNCH",
@@ -14200,7 +14200,7 @@ QuestInfoList = {
 		Title = "日光的菜单选择",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用花豹外皮，带来10个<ITEM>[花豹外皮]<INFO>7171</INFO></ITEM>吧。"
+			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用花豹外皮，带来10个<ITEM>花豹外皮<INFO>7171</INFO></ITEM>吧。"
 		},
 		Summary = "花豹外皮10",
 		NpcSpr = "4_EP19_LUNCH",
@@ -14212,7 +14212,7 @@ QuestInfoList = {
 		Title = "日光的菜单选择",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用天堂鸟羽毛，带来10个<ITEM>[天堂鸟羽毛]<INFO>6405</INFO></ITEM>吧。"
+			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用天堂鸟羽毛，带来10个<ITEM>天堂鸟羽毛<INFO>6405</INFO></ITEM>吧。"
 		},
 		Summary = "天堂鸟羽毛10",
 		NpcSpr = "4_EP19_LUNCH",
@@ -14224,7 +14224,7 @@ QuestInfoList = {
 		Title = "日光的菜单选择",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用光泽杰勒比结晶，带来10个<ITEM>[光泽杰勒比结晶]<INFO>6498</INFO></ITEM>吧。"
+			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用光泽杰勒比结晶，带来10个<ITEM>光泽杰勒比结晶<INFO>6498</INFO></ITEM>吧。"
 		},
 		Summary = "光泽杰勒比结晶10",
 		NpcSpr = "4_EP19_LUNCH",
@@ -14236,7 +14236,7 @@ QuestInfoList = {
 		Title = "日光的菜单选择",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用沟鼠尾巴，带来10个<ITEM>[沟鼠尾巴]<INFO>25285</INFO></ITEM>吧。"
+			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用沟鼠尾巴，带来10个<ITEM>沟鼠尾巴<INFO>25285</INFO></ITEM>吧。"
 		},
 		Summary = "沟鼠尾巴10",
 		NpcSpr = "4_EP19_LUNCH",
@@ -14248,7 +14248,7 @@ QuestInfoList = {
 		Title = "日光的菜单选择",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用竹筒，带来10个<ITEM>[竹筒]<INFO>7150</INFO></ITEM>吧。"
+			"<NAVI>[日光]<INFO>jor_back2,250,30,0,101,0</INFO></NAVI>今天好像想要享用竹筒，带来10个<ITEM>竹筒<INFO>7150</INFO></ITEM>吧。"
 		},
 		Summary = "竹筒10",
 		NpcSpr = "4_EP19_LUNCH",
@@ -22193,7 +22193,7 @@ QuestInfoList = {
 		Title = "恶臭的根源",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"若要处理贝鲁兹<NAVI>[垃圾场]<INFO>verus04,28,115,0,101,0</INFO></NAVI>的问题，需要<ITEM>[黑色布条]<INFO>7205</INFO></ITEM> 20个、<ITEM>[绣针包]<INFO>7213</INFO></ITEM> 1个、<ITEM>[黑炭]<INFO>6251</INFO></ITEM> 10个。",
+			"若要处理贝鲁兹<NAVI>[垃圾场]<INFO>verus04,28,115,0,101,0</INFO></NAVI>的问题，需要<ITEM>黑色布条<INFO>7205</INFO></ITEM> 20个、<ITEM>绣针包<INFO>7213</INFO></ITEM> 1个、<ITEM>黑炭<INFO>6251</INFO></ITEM> 10个。",
 			"我看过<NAVI>[炼金术师转职所]<INFO>alde_alche,38,184,0,101,0</INFO></NAVI>有在卖黑炭。"
 		},
 		Summary = "收集材料后回到贝鲁兹"
@@ -22250,7 +22250,7 @@ QuestInfoList = {
 		Title = "植物设计",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"<NAVI>[克蕾儿]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI>说要准备<ITEM>[枯树枝]<INFO>604</INFO></ITEM> 1个、<ITEM>[纠缠铁链]<INFO>7221</INFO></ITEM> 10个、<ITEM>[珊瑚]<INFO>7013</INFO></ITEM> 10个、<ITEM>[漂亮的花]<INFO>6511</INFO></ITEM> 10个，\n\t\t\t参考研究室内的书制作需要的东西。"
+			"<NAVI>[克蕾儿]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI>说要准备<ITEM>枯树枝<INFO>604</INFO></ITEM> 1个、<ITEM>纠缠铁链<INFO>7221</INFO></ITEM> 10个、<ITEM>珊瑚<INFO>7013</INFO></ITEM> 10个、<ITEM>漂亮的花<INFO>6511</INFO></ITEM> 10个，\n\t\t\t参考研究室内的书制作需要的东西。"
 		},
 		Summary = "带着材料进行作业"
 	},
@@ -22258,7 +22258,7 @@ QuestInfoList = {
 		Title = "植物设计",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"<NAVI>[克蕾儿]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI>说要准备<ITEM>[年老的树枝]<INFO>7939</INFO></ITEM> 10个、<ITEM>[纠缠铁链]<INFO>7221</INFO></ITEM> 10个、<ITEM>[珊瑚]<INFO>7013</INFO></ITEM> 10个、<ITEM>[神奇的花]<INFO>6509</INFO></ITEM> 1个，\n\t\t\t参考研究室内的书制作需要的东西。"
+			"<NAVI>[克蕾儿]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI>说要准备<ITEM>年老的树枝<INFO>7939</INFO></ITEM> 10个、<ITEM>纠缠铁链<INFO>7221</INFO></ITEM> 10个、<ITEM>珊瑚<INFO>7013</INFO></ITEM> 10个、<ITEM>神奇的花<INFO>6509</INFO></ITEM> 1个，\n\t\t\t参考研究室内的书制作需要的东西。"
 		},
 		Summary = "带着材料进行作业"
 	},
@@ -22266,7 +22266,7 @@ QuestInfoList = {
 		Title = "植物设计",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"<NAVI>[克蕾儿]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI>说要准备<ITEM>[芽苗]<INFO>711</INFO></ITEM> 10个、<ITEM>[纠缠铁链]<INFO>7221</INFO></ITEM> 10个、<ITEM>[珊瑚]<INFO>7013</INFO></ITEM> 10个、<ITEM>[淡雅的花]<INFO>6510</INFO></ITEM> 10个，\n\t\t\t参考研究室内的书制作需要的东西。"
+			"<NAVI>[克蕾儿]<INFO>job4_bio,31,30,0,101,0</INFO></NAVI>说要准备<ITEM>芽苗<INFO>711</INFO></ITEM> 10个、<ITEM>纠缠铁链<INFO>7221</INFO></ITEM> 10个、<ITEM>珊瑚<INFO>7013</INFO></ITEM> 10个、<ITEM>淡雅的花<INFO>6510</INFO></ITEM> 10个，\n\t\t\t参考研究室内的书制作需要的东西。"
 		},
 		Summary = "带着材料进行作业"
 	},
@@ -22938,7 +22938,7 @@ QuestInfoList = {
 	[8717] = {
 		Title = "神殿封锁 (14)",
 		Description = {
-			"<NAVI>[内马神官]<INFO>rachel,116,174,0,101,0</INFO></NAVI>说拜托采购<ITEM>[鞭炮]<INFO>12018</INFO></ITEM> 20个。"
+			"<NAVI>[内马神官]<INFO>rachel,116,174,0,101,0</INFO></NAVI>说拜托采购<ITEM>鞭炮<INFO>12018</INFO></ITEM> 20个。"
 		},
 		Summary = "转达采购品"
 	},
@@ -23016,7 +23016,7 @@ QuestInfoList = {
 		Title = "地质调查",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>说要帮他击败胆大的基尔瑟并获得 <ITEM>[极度干沙]<INFO>1000504</INFO></ITEM> 20个。"
+			"<NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>说要帮他击败胆大的基尔瑟并获得 <ITEM>Fine Dry Sand<INFO>1000504</INFO></ITEM> 20个。"
 		},
 		Summary = "筹集20个极度干沙"
 	},
@@ -23032,7 +23032,7 @@ QuestInfoList = {
 		Title = "力量之源",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>说要击败在认知的庭院出没的勤奋的白蚁或兵蚁并收集 <ITEM>[浑浊的液体]<INFO>1000505</INFO></ITEM> 20个。"
+			"<NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>说要击败在认知的庭院出没的勤奋的白蚁或兵蚁并收集 <ITEM>Opaque Liquid<INFO>1000505</INFO></ITEM> 20个。"
 		},
 		Summary = "筹集20个浑浊的液体"
 	},
@@ -23064,7 +23064,7 @@ QuestInfoList = {
 		Title = "共同的记忆",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"在认知的庭院击败魔物时偶尔会获得 <ITEM>[蚁识之壳]<INFO>1000506</INFO></ITEM>，收集20个左右给到 <NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>吧。"
+			"在认知的庭院击败魔物时偶尔会获得 <ITEM>Shell of Awareness<INFO>1000506</INFO></ITEM>，收集20个左右给到 <NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>吧。"
 		},
 		Summary = "收集20个蚁识之壳"
 	},
@@ -23088,7 +23088,7 @@ QuestInfoList = {
 		Title = "Job Change to Alchemist",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"<NAVI>[Vine]<INFO>yuno_in01,103,157,101,0</INFO></NAVI> and Bajin brothers, you will need 1x <ITEM>[Mixture]<INFO>974</INFO></ITEM>, 5x <ITEM>[Mini Furnace]<INFO>612</INFO></ITEM>, 5x <ITEM>[Burnt Tree]<INFO>7068</INFO></ITEM>, 5x <ITEM>[Coal]<INFO>1003</INFO></ITEM>, 5x <ITEM>[Fine Sand]<INFO>7043</INFO></ITEM>, 3x <ITEM>[Rough Elunium]<INFO>757</INFO></ITEM>, 3x <ITEM>[Rough Oridecon]<INFO>756</INFO></ITEM> and 2000 Zeny."
+			"<NAVI>[Vine]<INFO>yuno_in01,103,157,101,0</INFO></NAVI> and Bajin brothers, you will need 1x <ITEM>混合剂<INFO>974</INFO></ITEM>, 5x <ITEM>携带用熔矿炉<INFO>612</INFO></ITEM>, 5x <ITEM>燃烧一半的木材<INFO>7068</INFO></ITEM>, 5x <ITEM>煤矿<INFO>1003</INFO></ITEM>, 5x <ITEM>黄晶沙<INFO>7043</INFO></ITEM>, 3x <ITEM>铝原石<INFO>757</INFO></ITEM>, 3x <ITEM>神之金属原石<INFO>756</INFO></ITEM> and 2000 Zeny."
 		},
 		Summary = "Procurement of experimental materials"
 	},
@@ -23128,7 +23128,7 @@ QuestInfoList = {
 		Title = "Lutie's Talking Snowman (5)",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"<NAVI>[Cantata]<INFO>xmas,176,236,0,101,0</INFO></NAVI> asks you to bring one <ITEM>[Squid Ink]<INFO>1024</INFO></ITEM> and <ITEM>[Sticky Mucus]<INFO>938</INFO></ITEM>."
+			"<NAVI>[Cantata]<INFO>xmas,176,236,0,101,0</INFO></NAVI> asks you to bring one <ITEM>墨汁<INFO>1024</INFO></ITEM> and <ITEM>粘稠液体<INFO>938</INFO></ITEM>."
 		},
 		Summary = "Item Procurement"
 	},
@@ -23309,7 +23309,7 @@ QuestInfoList = {
 	[8768] = {
 		Title = "Dark Crystal Fragment",
 		Description = {
-			"Fortunately, the armed struggle with Rybio was avoided. I tell <NAVI>[Phendark]<INFO>gl_prison1,97,104,0,101,0</INFO></NAVI>to feed him 369x <ITEM>[Dark Crystal Fragment]<INFO>7315</INFO></ITEM>, will they eat these?"
+			"Fortunately, the armed struggle with Rybio was avoided. I tell <NAVI>[Phendark]<INFO>gl_prison1,97,104,0,101,0</INFO></NAVI>to feed him 369x <ITEM>黑色水晶碎片<INFO>7315</INFO></ITEM>, will they eat these?"
 		},
 		Summary = "Item Procurement"
 	},
@@ -23337,7 +23337,7 @@ QuestInfoList = {
 	[8772] = {
 		Title = "Zealotus' Request",
 		Description = {
-			"<NAVI>[Zealotus]<INFO>gl_prison1,137,138,0,101,0</INFO></NAVI> asks you to bring 30x <ITEM>[Worn-out Magic Scroll]<INFO>7099</INFO></ITEM>, 1x [Cat's Eye]<INFO>7263</INFO></ITEM>, 1x <ITEM>[Forbidden Red Candle]<INFO>660</INFO></ITEM> for the contract."
+			"<NAVI>[Zealotus]<INFO>gl_prison1,137,138,0,101,0</INFO></NAVI> asks you to bring 30x <ITEM>老旧魔法图<INFO>7099</INFO></ITEM>, 1x [Cat's Eye]<INFO>7263</INFO></ITEM>, 1x <ITEM>红色蜡烛<INFO>660</INFO></ITEM> for the contract."
 		},
 		Summary = "Item Procurement"
 	},
@@ -23402,7 +23402,7 @@ QuestInfoList = {
 	[8780] = {
 		Title = "Utan Language Acquisition",
 		Description = {
-			"The Chieftain of the Utan tribe <NAVI>[Karkatan]<INFO>um_in,39,122,0,101,0</INFO></NAVI> is said to teach you the Umbala language if you bring 10x <ITEM>[Oil Paper]<INFO>7151</INFO></ITEM>, 5x <ITEM>[Slick Paper]<INFO>7111</INFO></ITEM>, 1x <ITEM>[Squid Ink]<INFO>1024</INFO></ITEM>, 1x <ITEM>[Feather of Birds]<INFO>916</INFO></ITEM>."
+			"The Chieftain of the Utan tribe <NAVI>[Karkatan]<INFO>um_in,39,122,0,101,0</INFO></NAVI> is said to teach you the Umbala language if you bring 10x <ITEM>油纸<INFO>7151</INFO></ITEM>, 5x <ITEM>光滑的纸<INFO>7111</INFO></ITEM>, 1x <ITEM>墨汁<INFO>1024</INFO></ITEM>, 1x <ITEM>羽毛<INFO>916</INFO></ITEM>."
 		},
 		Summary = "Return after preparing materials"
 	},
@@ -23416,7 +23416,7 @@ QuestInfoList = {
 	[8782] = {
 		Title = "Karkatan's Proposal",
 		Description = {
-			"<NAVI>[Karkatan]<INFO>um_in,39,122,0,101,0</INFO></NAVI> asks you to get 1x <ITEM>[Mr. Smile]<INFO>2278</INFO></ITEM> for Puchuchartan before allowing it."
+			"<NAVI>[Karkatan]<INFO>um_in,39,122,0,101,0</INFO></NAVI> asks you to get 1x <ITEM>笑脸面具<INFO>2278</INFO></ITEM> for Puchuchartan before allowing it."
 		},
 		Summary = "Talk to Karkatan"
 	},
@@ -23455,7 +23455,7 @@ QuestInfoList = {
 		Title = "与佐拉拉的愉快午餐时光",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"原以为会协助佐拉拉烹饪…结果却被派去拿白鹰幼崽喜欢的冰蛇鳗外皮，将<ITEM>[薄而坚固的外皮]<INFO>1000830</INFO></ITEM>15个，交给在冰封之城餐厅的<NAVI>[佐拉拉]<INFO>icas_in,241,66,0,101,0</INFO></NAVI>。"
+			"原以为会协助佐拉拉烹饪…结果却被派去拿白鹰幼崽喜欢的冰蛇鳗外皮，将<ITEM>Thin and Tough Skin<INFO>1000830</INFO></ITEM>15个，交给在冰封之城餐厅的<NAVI>[佐拉拉]<INFO>icas_in,241,66,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "获得薄而坚固的外皮15个"
 	},
@@ -23471,7 +23471,7 @@ QuestInfoList = {
 		Title = "与佐拉拉的愉快午餐时光",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"将15个白鹰幼崽喜欢的<ITEM>[薄而坚固的外皮]<INFO>1000830</INFO></ITEM>交给冰之城餐厅的<NAVI>[佐拉拉]<INFO>icas_in,241,66,0,101,0</INFO></NAVI>。"
+			"将15个白鹰幼崽喜欢的<ITEM>Thin and Tough Skin<INFO>1000830</INFO></ITEM>交给冰之城餐厅的<NAVI>[佐拉拉]<INFO>icas_in,241,66,0,101,0</INFO></NAVI>。"
 		},
 		Summary = "获得薄而坚固的外皮15个"
 	},
@@ -23479,7 +23479,7 @@ QuestInfoList = {
 		Title = "神父，慈悲？",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"在蛇穴的<NAVI>[帕布亚萨维冈德]<INFO>jor_nest,235,57,0,101,0</INFO></NAVI>请求从外面获得<ITEM>[壳]<INFO>1000822</INFO></ITEM>，大约需要30个。"
+			"在蛇穴的<NAVI>[帕布亚萨维冈德]<INFO>jor_nest,235,57,0,101,0</INFO></NAVI>请求从外面获得<ITEM>Rgan's Shell<INFO>1000822</INFO></ITEM>，大约需要30个。"
 		},
 		Summary = "获得壳30个"
 	},
@@ -23495,7 +23495,7 @@ QuestInfoList = {
 		Title = "神父，慈悲？？",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"在蛇穴的<NAVI>[帕布亚萨维冈德]<INFO>jor_nest,235,57,0,101,0</INFO></NAVI>请求从外面获得<ITEM>[壳]<INFO>1000822</INFO></ITEM>，大约需要30个。"
+			"在蛇穴的<NAVI>[帕布亚萨维冈德]<INFO>jor_nest,235,57,0,101,0</INFO></NAVI>请求从外面获得<ITEM>Rgan's Shell<INFO>1000822</INFO></ITEM>，大约需要30个。"
 		},
 		Summary = "获得壳30个"
 	},
@@ -23511,7 +23511,7 @@ QuestInfoList = {
 		Title = "年老的蛇",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"在蛇穴的<NAVI>[阿雷冈德]<INFO>jor_nest,74,100,0,101,0</INFO></NAVI>要求带来<ITEM>[蠕虫的低级魔力核]<INFO>1000707</INFO></ITEM>15个。"
+			"在蛇穴的<NAVI>[阿雷冈德]<INFO>jor_nest,74,100,0,101,0</INFO></NAVI>要求带来<ITEM>Rgan's Low Grade Magic Core<INFO>1000707</INFO></ITEM>15个。"
 		},
 		Summary = "获得蠕虫的低级魔力核"
 	},
@@ -23658,7 +23658,7 @@ QuestInfoList = {
 		Title = "Gift of Ink",
 		IconName = "ico_vr.bmp",
 		Description = {
-			"Receive a clear gift from Ink. Experience can be received directly, or it can be exchanged for <ITEM>[Fantasy Growth Potion]<INFO>101404</INFO></ITEM> although there might be a loss in efficiency."
+			"Receive a clear gift from Ink. Experience can be received directly, or it can be exchanged for <ITEM>Fantasy Growth Potion<INFO>101404</INFO></ITEM> although there might be a loss in efficiency."
 		},
 		Summary = "Conversation with Ink"
 	},
@@ -23845,7 +23845,7 @@ QuestInfoList = {
 		IconName = "ico_vr.bmp",
 		Description = {
 			"Receive a clear gift from Ink.",
-			"Experience can be received directly, or it can be exchanged for <ITEM>[Fantasy Growth Potion]<INFO>101404</INFO></ITEM> although there might be a loss in efficiency."
+			"Experience can be received directly, or it can be exchanged for <ITEM>Fantasy Growth Potion<INFO>101404</INFO></ITEM> although there might be a loss in efficiency."
 		},
 		Summary = "Conversation with Ink"
 	},
@@ -23891,7 +23891,7 @@ QuestInfoList = {
 		Title = "You are very angry",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Sacred Root's <NAVI>[Halseybygand]<INFO>jor_sanct,190,128,0,101,0</INFO></NAVI> asks you to bring 30x <ITEM>[Copo's Feathers]<INFO>1001246</INFO></ITEM>."
+			"Sacred Root's <NAVI>[Halseybygand]<INFO>jor_sanct,190,128,0,101,0</INFO></NAVI> asks you to bring 30x <ITEM>Copo's Feathers<INFO>1001246</INFO></ITEM>."
 		},
 		Summary = "Deliver 30 Copo's Feathers"
 	},
@@ -23899,7 +23899,7 @@ QuestInfoList = {
 		Title = "Silent Answer",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"Pamosugand of the Sacred Root asks you to get 20x <ITEM>[Large Gray Feather]<INFO>1001244</INFO></ITEM>.",
+			"Pamosugand of the Sacred Root asks you to get 20x <ITEM>Large Gray Feather<INFO>1001244</INFO></ITEM>.",
 			"Leaving <NAVI>[Doririrogand]<INFO>jor_sanct,258,117,0,101,0</INFO></NAVI> alone, who was assigned as his direct subordinate... !"
 		},
 		Summary = "After delivering the items, talk to Doririrogand"
@@ -23917,7 +23917,7 @@ QuestInfoList = {
 		Title = "Example of Silent Answer",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[Pamosugand]<INFO>jor_sanct,257,115,0,101,0</INFO></NAVI> asks you to get 20x <ITEM>[Large Gray Feather]<INFO>1001244</INFO></ITEM>. ...But whose orders are these? Doririrogand?"
+			"<NAVI>[Pamosugand]<INFO>jor_sanct,257,115,0,101,0</INFO></NAVI> asks you to get 20x <ITEM>Large Gray Feather<INFO>1001244</INFO></ITEM>. ...But whose orders are these? Doririrogand?"
 		},
 		Summary = "Deliver 20 Large Gray Feathers"
 	},
@@ -24005,8 +24005,8 @@ QuestInfoList = {
 		Description = {
 			"Zoryara's cousin, Toryoryo, joined the daycare center.",
 			"Kill 20 Angel Snails and 20 Snow Rabbit Snails.",
-			"Bring 10x <ITEM>[Soft Fluorescent Cells(Salty)]<INFO>1001232</INFO></ITEM>,",
-			"10x <ITEM>[Soft Fluorescent Cells(Daldal)]<INFO>1001233</INFO></ITEM> to <NAVI>[Toryoryo]<INFO>icas_in,243,66,0,101,0</INFO></NAVI>."
+			"Bring 10x <ITEM>Soft Fluorescent Cells(Salty)<INFO>1001232</INFO></ITEM>,",
+			"10x <ITEM>Soft Fluorescent Cells(Sweet)<INFO>1001233</INFO></ITEM> to <NAVI>[Toryoryo]<INFO>icas_in,243,66,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Gather Materials"
 	},
@@ -24024,8 +24024,8 @@ QuestInfoList = {
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Kill 20 Angel Snails and 20 Snow Rabbit Snails.",
-			"Bring 10x <ITEM>[Soft Fluorescent Cells(Salty)]<INFO>1001232</INFO></ITEM>,",
-			"10x <ITEM>[Soft Fluorescent Cells(Sweet)]<INFO>1001233</INFO></ITEM> to <NAVI>[Toryoryo]<INFO>icas_in,243,66,0,101,0</INFO></NAVI>."
+			"Bring 10x <ITEM>Soft Fluorescent Cells(Salty)<INFO>1001232</INFO></ITEM>,",
+			"10x <ITEM>Soft Fluorescent Cells(Sweet)<INFO>1001233</INFO></ITEM> to <NAVI>[Toryoryo]<INFO>icas_in,243,66,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Gather Materials"
 	},
@@ -24034,9 +24034,9 @@ QuestInfoList = {
 		IconName = "ico_dq.bmp",
 		Description = {
 			"Kill 20 Angel Snails, 20 Snow Rabbit Snails and 20 Melive Snails.",
-			"Bring 10x <ITEM>[Soft Fluorescent Cells(Salty)]<INFO>1001232</INFO></ITEM>,",
-			"10x <ITEM>[Soft Fluorescent Cells(Sweet)]<INFO>1001233</INFO></ITEM>,",
-			"10x <ITEM>[Soft Fluorescent Cells(Sour)]<INFO>1001231</INFO></ITEM> to <NAVI>[Toryoryo]<INFO>icas_in,243,66,0,101,0</INFO></NAVI>."
+			"Bring 10x <ITEM>Soft Fluorescent Cells(Salty)<INFO>1001232</INFO></ITEM>,",
+			"10x <ITEM>Soft Fluorescent Cells(Sweet)<INFO>1001233</INFO></ITEM>,",
+			"10x <ITEM>Soft Fluorescent Cells(Sour)<INFO>1001231</INFO></ITEM> to <NAVI>[Toryoryo]<INFO>icas_in,243,66,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Gather Materials"
 	},
@@ -24059,7 +24059,7 @@ QuestInfoList = {
 		IconName = "ico_vr.bmp",
 		Description = {
 			"This quest is a daily quest. When the standby time expires, you can read the <NAVI>[book]<INFO>prt_elib,40,35,0,101,0</INFO></NAVI> again.",
-			"For Dr. Eggman's Secret Base, you can read the <NAVI>[book]<INFO>prt_elib,40,35,0,101,0</INFO></NAVI> once a day by giving the <ITEM>[Sonic Badge]<INFO>1001549</INFO></ITEM> to <NAVI>[Tails]<INFO>prt_elib,40,39,0,101,0</INFO></NAVI>."
+			"For Dr. Eggman's Secret Base, you can read the <NAVI>[book]<INFO>prt_elib,40,35,0,101,0</INFO></NAVI> once a day by giving the <ITEM>Sonic Badge<INFO>1001549</INFO></ITEM> to <NAVI>[Tails]<INFO>prt_elib,40,39,0,101,0</INFO></NAVI>."
 		},
 		Summary = "Reset at 04:00",
 		CoolTimeQuest = 1
@@ -24391,7 +24391,7 @@ QuestInfoList = {
 		Title = "Songpyeon Making Experience",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Payon's <NAVI>[Lanai]<INFO>payon,217,109,0,101,0</INFO></NAVI> offers a songpyeon making experience if you defeat 10 Resurrected Pines and bring them 10x <ITEM>[Pine Needles]<INFO>1001827</INFO></ITEM>, 2x <ITEM>[Bag of Grain]<INFO>577</INFO></ITEM>, 1x <ITEM>[Honey]<INFO>518</INFO></ITEM>."
+			"Payon's <NAVI>[Lanai]<INFO>payon,217,109,0,101,0</INFO></NAVI> offers a songpyeon making experience if you defeat 10 Resurrected Pines and bring them 10x <ITEM>Pine Needles<INFO>1001827</INFO></ITEM>, 2x <ITEM>谷物<INFO>577</INFO></ITEM>, 1x <ITEM>蜂蜜<INFO>518</INFO></ITEM>."
 		},
 		Summary = "Slay Resurrected Pines and obtain Items"
 	},
@@ -24407,7 +24407,7 @@ QuestInfoList = {
 		Title = "Making Holiday Food (1)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Bring 10 <ITEM>[Potato]<INFO>516</INFO></ITEM> and 1 <ITEM>[Cooking Oil]<INFO>7457</INFO></ITEM> to <NAVI>[Birun]<INFO>payon_in01,193,37,0,101,0</INFO></NAVI> in Payon."
+			"Bring 10 <ITEM>番薯<INFO>516</INFO></ITEM> and 1 <ITEM>食用油<INFO>7457</INFO></ITEM> to <NAVI>[Birun]<INFO>payon_in01,193,37,0,101,0</INFO></NAVI> in Payon."
 		},
 		Summary = "Procuring Items"
 	},
@@ -24424,7 +24424,7 @@ QuestInfoList = {
 		Title = "Making Holiday Food (2)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Payon's <NAVI>[Jisoo]<INFO>payon,199,128,0,101,0</INFO></NAVI> is in charge of making yakgwa at the holiday food experience festival. I wondered why yakgwa was so sweet and delicious, and upon seeing the ingredients, it seems to be the case. All you need are 2 <ITEM>[Bag of Grain]<INFO>577</INFO></ITEM>, 3 <ITEM>[Honey]<INFO>518</INFO></ITEM> and 5 <ITEM>[Cooking Oil]<INFO>7457</INFO></ITEM>."
+			"Payon's <NAVI>[Jisoo]<INFO>payon,199,128,0,101,0</INFO></NAVI> is in charge of making yakgwa at the holiday food experience festival. I wondered why yakgwa was so sweet and delicious, and upon seeing the ingredients, it seems to be the case. All you need are 2 <ITEM>谷物<INFO>577</INFO></ITEM>, 3 <ITEM>蜂蜜<INFO>518</INFO></ITEM> and 5 <ITEM>食用油<INFO>7457</INFO></ITEM>."
 		},
 		Summary = "Procuring Items"
 	},
@@ -24441,7 +24441,7 @@ QuestInfoList = {
 		Title = "Making Holiday Food (3)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Payon's <NAVI>[Naite]<INFO>payon,230,111,0,101,0</INFO></NAVI> is in charge of preparing the fish for the holiday food experience festival. The CEO says he needs bluefish instead of whitefish because he prefers bluefish. Still, it's delicious. All you need is 3 <ITEM>[Fish Tail]<INFO>1023</INFO></ITEM> and 2 <ITEM>[Cooking Oil]<INFO>7457</INFO></ITEM>."
+			"Payon's <NAVI>[Naite]<INFO>payon,230,111,0,101,0</INFO></NAVI> is in charge of preparing the fish for the holiday food experience festival. The CEO says he needs bluefish instead of whitefish because he prefers bluefish. Still, it's delicious. All you need is 3 <ITEM>鱼尾<INFO>1023</INFO></ITEM> and 2 <ITEM>食用油<INFO>7457</INFO></ITEM>."
 		},
 		Summary = "Procuring Items"
 	},
@@ -24449,7 +24449,7 @@ QuestInfoList = {
 		Title = "A commemorative hat for not returning home",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"After completing all three food-making experiences, come to the event headquarters! You'll receive a special souvenir from <NAVI>[Lanai]<INFO>payon,217,109,0,101,0</INFO></NAVI>! However, this only applies to those who bring their own <ITEM>[Self-made Songpyeon]<INFO>103463</INFO></ITEM>..."
+			"After completing all three food-making experiences, come to the event headquarters! You'll receive a special souvenir from <NAVI>[Lanai]<INFO>payon,217,109,0,101,0</INFO></NAVI>! However, this only applies to those who bring their own <ITEM>Self-made Songpyeon<INFO>103463</INFO></ITEM>..."
 		},
 		Summary = "Bring the Self-made Songpyeon to Lanai"
 	},
@@ -24457,7 +24457,7 @@ QuestInfoList = {
 		Title = "Making Sweet Potato Pancakes",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Bring 10 <ITEM>[Potato]<INFO>516</INFO></ITEM> and 1 <ITEM>[Cooking Oil]<INFO>7457</INFO></ITEM> to <NAVI>[Birun]<INFO>payon_in01,193,37,0,101,0</INFO></NAVI> in Payon."
+			"Bring 10 <ITEM>番薯<INFO>516</INFO></ITEM> and 1 <ITEM>食用油<INFO>7457</INFO></ITEM> to <NAVI>[Birun]<INFO>payon_in01,193,37,0,101,0</INFO></NAVI> in Payon."
 		},
 		Summary = "Procuring Items"
 	},
@@ -24465,7 +24465,7 @@ QuestInfoList = {
 		Title = "Making Yakgwa",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Payon's <NAVI>[Jisoo]<INFO>payon,199,128,0,101,0</INFO></NAVI> is in charge of making yakgwa at the holiday food experience festival. I wondered why yakgwa was so sweet and delicious, and upon seeing the ingredients, it seems to be the case. All you need are 2 <ITEM>[Bag of Grain]<INFO>577</INFO></ITEM>, 3 <ITEM>[Honey]<INFO>518</INFO></ITEM> and 5 <ITEM>[Cooking Oil]<INFO>7457</INFO></ITEM>."
+			"Payon's <NAVI>[Jisoo]<INFO>payon,199,128,0,101,0</INFO></NAVI> is in charge of making yakgwa at the holiday food experience festival. I wondered why yakgwa was so sweet and delicious, and upon seeing the ingredients, it seems to be the case. All you need are 2 <ITEM>谷物<INFO>577</INFO></ITEM>, 3 <ITEM>蜂蜜<INFO>518</INFO></ITEM> and 5 <ITEM>食用油<INFO>7457</INFO></ITEM>."
 		},
 		Summary = "Procuring Items"
 	},
@@ -24473,7 +24473,7 @@ QuestInfoList = {
 		Title = "Making Jeonyu Fish",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Payon's <NAVI>[Naite]<INFO>payon,230,111,0,101,0</INFO></NAVI> is in charge of preparing the fish for the holiday food experience festival. The CEO says he needs bluefish instead of whitefish because he prefers bluefish. Still, it's delicious. All you need is 3 <ITEM>[Fish Tail]<INFO>1023</INFO></ITEM> and 2 <ITEM>[Cooking Oil]<INFO>7457</INFO></ITEM>."
+			"Payon's <NAVI>[Naite]<INFO>payon,230,111,0,101,0</INFO></NAVI> is in charge of preparing the fish for the holiday food experience festival. The CEO says he needs bluefish instead of whitefish because he prefers bluefish. Still, it's delicious. All you need is 3 <ITEM>鱼尾<INFO>1023</INFO></ITEM> and 2 <ITEM>食用油<INFO>7457</INFO></ITEM>."
 		},
 		Summary = "Procuring Items"
 	},
@@ -24529,7 +24529,7 @@ QuestInfoList = {
 		Title = "Songpyeon Making Experience",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Payon's <NAVI>[Lanai]<INFO>payon,217,109,0,101,0</INFO></NAVI> offers a songpyeon making experience if you defeat 10 Resurrected Pines and bring them 10x <ITEM>[Pine Needles]<INFO>1001827</INFO></ITEM>, 2x <ITEM>[Bag of Grain]<INFO>577</INFO></ITEM>, 1x <ITEM>[Honey]<INFO>518</INFO></ITEM>."
+			"Payon's <NAVI>[Lanai]<INFO>payon,217,109,0,101,0</INFO></NAVI> offers a songpyeon making experience if you defeat 10 Resurrected Pines and bring them 10x <ITEM>Pine Needles<INFO>1001827</INFO></ITEM>, 2x <ITEM>谷物<INFO>577</INFO></ITEM>, 1x <ITEM>蜂蜜<INFO>518</INFO></ITEM>."
 		},
 		Summary = "Slay Resurrected Pines and obtain Items"
 	},
@@ -24545,7 +24545,7 @@ QuestInfoList = {
 		Title = "Making Holiday Food (1)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Bring 10 <ITEM>[Potato]<INFO>516</INFO></ITEM> and 1 <ITEM>[Cooking Oil]<INFO>7457</INFO></ITEM> to <NAVI>[Birun]<INFO>payon_in01,193,37,0,101,0</INFO></NAVI> in Payon."
+			"Bring 10 <ITEM>番薯<INFO>516</INFO></ITEM> and 1 <ITEM>食用油<INFO>7457</INFO></ITEM> to <NAVI>[Birun]<INFO>payon_in01,193,37,0,101,0</INFO></NAVI> in Payon."
 		},
 		Summary = "Procuring Items"
 	},
@@ -24562,7 +24562,7 @@ QuestInfoList = {
 		Title = "Making Holiday Food (2)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Payon's <NAVI>[Jisoo]<INFO>payon,199,128,0,101,0</INFO></NAVI> is in charge of making yulan at the holiday food experience festival. I wondered why yakgwa was so sweet and delicious, and upon seeing the ingredients, it seems to be the case. All you need are 2 <ITEM>[Bag of Grain]<INFO>577</INFO></ITEM>, 3 <ITEM>[Honey]<INFO>518</INFO></ITEM> and 2 <ITEM>[Yellow Spice]<INFO>7452</INFO></ITEM>."
+			"Payon's <NAVI>[Jisoo]<INFO>payon,199,128,0,101,0</INFO></NAVI> is in charge of making yulan at the holiday food experience festival. I wondered why yakgwa was so sweet and delicious, and upon seeing the ingredients, it seems to be the case. All you need are 2 <ITEM>谷物<INFO>577</INFO></ITEM>, 3 <ITEM>蜂蜜<INFO>518</INFO></ITEM> and 2 <ITEM>黄色香料<INFO>7452</INFO></ITEM>."
 		},
 		Summary = "Procuring Items"
 	},
@@ -24579,7 +24579,7 @@ QuestInfoList = {
 		Title = "Making Holiday Food (3)",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Payon's <NAVI>[Naite]<INFO>payon,230,111,0,101,0</INFO></NAVI> is in charge of preparing the fish for the holiday food experience festival. The CEO says he needs bluefish instead of whitefish because he prefers bluefish. Still, it's delicious. All you need is 3 <ITEM>[Fish Tail]<INFO>1023</INFO></ITEM> and 2 <ITEM>[Cooking Oil]<INFO>7457</INFO></ITEM>."
+			"Payon's <NAVI>[Naite]<INFO>payon,230,111,0,101,0</INFO></NAVI> is in charge of preparing the fish for the holiday food experience festival. The CEO says he needs bluefish instead of whitefish because he prefers bluefish. Still, it's delicious. All you need is 3 <ITEM>鱼尾<INFO>1023</INFO></ITEM> and 2 <ITEM>食用油<INFO>7457</INFO></ITEM>."
 		},
 		Summary = "Procuring Items"
 	},
@@ -24587,7 +24587,7 @@ QuestInfoList = {
 		Title = "A commemorative hat for not returning home",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"After completing all three food-making experiences, come to the event headquarters! You'll receive a special souvenir from <NAVI>[Lanai]<INFO>payon,217,109,0,101,0</INFO></NAVI>! However, this only applies to those who bring their own <ITEM>[Self-made Songpyeon]<INFO>103463</INFO></ITEM>..."
+			"After completing all three food-making experiences, come to the event headquarters! You'll receive a special souvenir from <NAVI>[Lanai]<INFO>payon,217,109,0,101,0</INFO></NAVI>! However, this only applies to those who bring their own <ITEM>Self-made Songpyeon<INFO>103463</INFO></ITEM>..."
 		},
 		Summary = "Bring the Self-made Songpyeon to Lanai"
 	},
@@ -24595,7 +24595,7 @@ QuestInfoList = {
 		Title = "Making Sweet Potato Pancakes",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Bring 10 <ITEM>[Potato]<INFO>516</INFO></ITEM> and 1 <ITEM>[Cooking Oil]<INFO>7457</INFO></ITEM> to <NAVI>[Birun]<INFO>payon_in01,193,37,0,101,0</INFO></NAVI> in Payon."
+			"Bring 10 <ITEM>番薯<INFO>516</INFO></ITEM> and 1 <ITEM>食用油<INFO>7457</INFO></ITEM> to <NAVI>[Birun]<INFO>payon_in01,193,37,0,101,0</INFO></NAVI> in Payon."
 		},
 		Summary = "Procuring Items"
 	},
@@ -24603,7 +24603,7 @@ QuestInfoList = {
 		Title = "Making Yulan",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Payon's <NAVI>[Jisoo]<INFO>payon,199,128,0,101,0</INFO></NAVI> is in charge of making Yulan at the holiday food experience festival. What is Yulan? It's a traditional snack made from chestnuts. You'll need 2 <ITEM>[Bag of Grain]<INFO>577</INFO></ITEM>, 3 <ITEM>[Honey]<INFO>518</INFO></ITEM> and 2 <ITEM>[Yellow Spice]<INFO>7452</INFO></ITEM>."
+			"Payon's <NAVI>[Jisoo]<INFO>payon,199,128,0,101,0</INFO></NAVI> is in charge of making Yulan at the holiday food experience festival. What is Yulan? It's a traditional snack made from chestnuts. You'll need 2 <ITEM>谷物<INFO>577</INFO></ITEM>, 3 <ITEM>蜂蜜<INFO>518</INFO></ITEM> and 2 <ITEM>黄色香料<INFO>7452</INFO></ITEM>."
 		},
 		Summary = "Procuring Items"
 	},
@@ -24611,7 +24611,7 @@ QuestInfoList = {
 		Title = "Making Jeonyu Fish",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Payon's <NAVI>[Naite]<INFO>payon,230,111,0,101,0</INFO></NAVI> is in charge of preparing the fish for the holiday food experience festival. The CEO says he needs bluefish instead of whitefish because he prefers bluefish. Still, it's delicious. All you need is 3 <ITEM>[Fish Tail]<INFO>1023</INFO></ITEM> and 2 <ITEM>[Cooking Oil]<INFO>7457</INFO></ITEM>."
+			"Payon's <NAVI>[Naite]<INFO>payon,230,111,0,101,0</INFO></NAVI> is in charge of preparing the fish for the holiday food experience festival. The CEO says he needs bluefish instead of whitefish because he prefers bluefish. Still, it's delicious. All you need is 3 <ITEM>鱼尾<INFO>1023</INFO></ITEM> and 2 <ITEM>食用油<INFO>7457</INFO></ITEM>."
 		},
 		Summary = "Procuring Items"
 	},
@@ -34171,9 +34171,10 @@ QuestInfoList = {
 	[12102] = {
 		Title = "有智能的蛇",
 		Description = {
-			"听说在守护精灵基地附近的沼泽地发现了叫那迦的新种族。问题是他们具有原始的智能，且性格残暴。要是他们的部落扩张的话，那问题会更严重，请去消灭已经成形的那迦吧！"
+			"听说在守护精灵基地附近的沼泽地发现了叫那迦的新种族。问题是他们具有原始的智能，且性格残暴。要是他们的部落扩张的话，那问题会更严重，请去消灭已经成形的那迦吧！",
+			"可从<NAVI>[那迦]<INFO>spl_fild01,200,200,0,101,0</INFO></NAVI>附近取得。",
 		},
-		Summary = "消灭那迦10个-向狩猎1课负责人报告处理结果",
+		Summary = "消灭那迦10个-向狩猎1课负责人报告处理结果 可从<NAVI>[那迦]<INFO>spl_fild01,200,200,0,101,0</INFO></NAVI>附近取得。",
 		NpcNavi = "dic_in01",
 		NpcPosX = 48,
 		NpcPosY = 263
@@ -34267,7 +34268,8 @@ QuestInfoList = {
 	[12117] = {
 		Title = "凋谢的花",
 		Description = {
-			"听说这里很久以前曾是湿地，但不知道何故，导致环境渐渐开始产生变化。在守护精灵基地的附近，还保有尚未变化的湿地，你可以去那里将凋谢的花制成标本带回来吗？相信那会是研究环境变化的有利资料。"
+			"听说这里很久以前曾是湿地，但不知道何故，导致环境渐渐开始产生变化。在守护精灵基地的附近，还保有尚未变化的湿地，你可以去那里将凋谢的花制成标本带回来吗？相信那会是研究环境变化的有利资料。",
+			"需要收集：<ITEM>凋谢的花<INFO>6086</INFO></ITEM>。",
 		},
 		Summary = "收集枯花6个-向补给1课负责人报告处理结果 <ITEM>凋谢的花<INFO>6086</INFO></ITEM>",
 		NpcNavi = "dic_in01",
@@ -34277,9 +34279,11 @@ QuestInfoList = {
 	[12118] = {
 		Title = "欢乐矿石",
 		Description = {
-			"钸镭精制机发生故障的缘故，要提供给矿坑同伴的精制钸镭，生产因而遭到阻碍。因此正出动所有的冒险家去收集精制过的钸镭。你可以从附近的钸镭巨人那取得精制钸镭，请带3个回来就好。"
+			"钸镭精制机发生故障的缘故，要提供给矿坑同伴的精制钸镭，生产因而遭到阻碍。因此正出动所有的冒险家去收集精制过的钸镭。你可以从附近的钸镭巨人那取得精制钸镭，请带3个回来就好。",
+			"需要收集：<ITEM>精炼魔力之石<INFO>6090</INFO></ITEM>。",
+			"可从<NAVI>[钸镭巨人]<INFO>man_fild02,200,200,0,101,0</INFO></NAVI>取得。",
 		},
-		Summary = "收集精制钸镭3个-向补给1课负责人报告处理结果 <ITEM>精炼魔力之石<INFO>6090</INFO></ITEM>",
+		Summary = "收集精制钸镭3个-向补给1课负责人报告处理结果 <ITEM>精炼魔力之石<INFO>6090</INFO></ITEM> 可从<NAVI>[钸镭巨人]<INFO>man_fild02,200,200,0,101,0</INFO></NAVI>取得。",
 		NpcNavi = "dic_in01",
 		NpcPosX = 51,
 		NpcPosY = 270
@@ -34287,7 +34291,8 @@ QuestInfoList = {
 	[12119] = {
 		Title = "珍贵纤维",
 		Description = {
-			"这是来自补给负责人的委托，请带回16根龙的鬃毛。可从暴躁龙身上取得的稀少龙的鬃毛，是非常珍贵的东西。经常拿来用于缝有我们传统图腾的旗帜、衣物或是野战物品上。"
+			"这是来自补给负责人的委托，请带回16根龙的鬃毛。可从暴躁龙身上取得的稀少龙的鬃毛，是非常珍贵的东西。经常拿来用于缝有我们传统图腾的旗帜、衣物或是野战物品上。",
+			"需要收集：<ITEM>龙鬃<INFO>6073</INFO></ITEM>。",
 		},
 		Summary = "收集龙的鬃毛16个-向补给1课负责人报告处理结果 <ITEM>龙鬃<INFO>6073</INFO></ITEM>",
 		NpcNavi = "dic_in01",
@@ -34296,15 +34301,15 @@ QuestInfoList = {
 	},
 	[12120] = {
 		Title = "不明肉块",
-		Description = { "这是来自为异界居民而开设的酒店的请求，他们希望取得可长期保存野战料理食材的龙尾。人类好像很喜欢这种东西，收集6个回来应该就够了。" },
-		Summary = "收集龙尾6个-向补给1课负责人报告处理结果 <ITEM>黑蛇<INFO>1037</INFO></ITEM>",
+		Description = { "这是来自为异界居民而开设的酒店的请求，他们希望取得可长期保存野战料理食材的龙尾。人类好像很喜欢这种东西，收集6个回来应该就够了。 需要收集：<ITEM>龙尾<INFO>1037</INFO></ITEM>。" },
+		Summary = "收集龙尾6个-向补给1课负责人报告处理结果 <ITEM>龙尾<INFO>1037</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 51,
 		NpcPosY = 270
 	},
 	[12121] = {
 		Title = "除雪道具",
-		Description = { "因因雪下太大，导致通往都市郊区的道路都结冰了。若将蛋壳碎片磨碎后洒在路面，应该会有帮助。请尽可能多带些回来，大约26个左右……" },
+		Description = { "因因雪下太大，导致通往都市郊区的道路都结冰了。若将蛋壳碎片磨碎后洒在路面，应该会有帮助。请尽可能多带些回来，大约26个左右…… 需要收集：<ITEM>蛋壳碎片<INFO>7032</INFO></ITEM>。" },
 		Summary = "收集<ITEM>蛋壳碎片<INFO>7032</INFO></ITEM>26个-向补给1课负责人报告处理结果",
 		NpcNavi = "dic_in01",
 		NpcPosX = 51,
@@ -34313,7 +34318,8 @@ QuestInfoList = {
 	[12122] = {
 		Title = "最佳冷却材料",
 		Description = {
-			"钸镭原石精制机在运转时产生严重的热能，用普通的水不易将它冷却因此我们将融化的雪水，和从水精灵那取得的眼泪结晶，适当混合后使用。由于这是每天的必需品，请带回6个就好。"
+			"钸镭原石精制机在运转时产生严重的热能，用普通的水不易将它冷却因此我们将融化的雪水，和从水精灵那取得的眼泪结晶，适当混合后使用。由于这是每天的必需品，请带回6个就好。",
+			"需要收集：<ITEM>眼泪结晶<INFO>6075</INFO></ITEM>。",
 		},
 		Summary = "收集<ITEM>眼泪结晶<INFO>6075</INFO></ITEM>6个-向补给1课负责人报告处理结果",
 		NpcNavi = "dic_in01",
@@ -34322,7 +34328,7 @@ QuestInfoList = {
 	},
 	[12123] = {
 		Title = "最佳涂料",
-		Description = { "补给负责人正在紧急寻找，修补首都各处建筑物所需的涂料。要是可以从水精灵那取得荧光色的液体，就可以制造出我们所需涂料的量，请大约带回26个就好。" },
+		Description = { "补给负责人正在紧急寻找，修补首都各处建筑物所需的涂料。要是可以从水精灵那取得荧光色的液体，就可以制造出我们所需涂料的量，请大约带回26个就好。 需要收集：<ITEM>荧光色的液体<INFO>7326</INFO></ITEM>。" },
 		Summary = "收集<ITEM>荧光色的液体<INFO>7326</INFO></ITEM>26个-向补给1课负责人报告处理结果",
 		NpcNavi = "dic_in01",
 		NpcPosX = 51,
@@ -34331,7 +34337,8 @@ QuestInfoList = {
 	[12124] = {
 		Title = "贵重物品",
 		Description = {
-			"大臣房内的珍贵装饰品水瓶好像遭到破坏，但外面的客人进进出出的，要揪出犯人其实有点困难……这是可以从水精灵那取得的珍贵物品，你可以去带回来吗？只要带回1个就好。"
+			"大臣房内的珍贵装饰品水瓶好像遭到破坏，但外面的客人进进出出的，要揪出犯人其实有点困难……这是可以从水精灵那取得的珍贵物品，你可以去带回来吗？只要带回1个就好。",
+			"需要收集：<ITEM>小水瓶<INFO>12353</INFO></ITEM>。",
 		},
 		Summary = "收集<ITEM>小水瓶<INFO>12353</INFO></ITEM>1个-向补给1课负责人报告处理结果",
 		NpcNavi = "dic_in01",
@@ -34340,7 +34347,7 @@ QuestInfoList = {
 	},
 	[12125] = {
 		Title = "护具材料",
-		Description = { "可以从那迦身上取得的鳞片皮肤，正好适合用来作为护具的材料呢，请你去带回18个就好。" },
+		Description = { "可以从那迦身上取得的鳞片皮肤，正好适合用来作为护具的材料呢，请你去带回18个就好。 需要收集：<ITEM>鳞片皮肤<INFO>936</INFO></ITEM>。" },
 		Summary = "收集<ITEM>鳞片皮肤<INFO>936</INFO></ITEM>18个-向补给1课负责人报告处理结果",
 		NpcNavi = "dic_in01",
 		NpcPosX = 51,
@@ -34348,7 +34355,7 @@ QuestInfoList = {
 	},
 	[12126] = {
 		Title = "高级护具材料",
-		Description = { "这是有关补给给禁卫军指挥官的护具内里材料的委托，请注意这和一般内里的材料不同。那迦的发亮鳞片11个左右刚刚好，我想对你来说应该不会很困难吧！" },
+		Description = { "这是有关补给给禁卫军指挥官的护具内里材料的委托，请注意这和一般内里的材料不同。那迦的发亮鳞片11个左右刚刚好，我想对你来说应该不会很困难吧！ 需要收集：<ITEM>发亮鳞片<INFO>954</INFO></ITEM>。" },
 		Summary = "收集<ITEM>发亮鳞片<INFO>954</INFO></ITEM>11个-向补给1课负责人报告处理结果",
 		NpcNavi = "dic_in01",
 		NpcPosX = 51,
@@ -34357,7 +34364,8 @@ QuestInfoList = {
 	[12127] = {
 		Title = "监工道具",
 		Description = {
-			"矿坑监工们使用的喇叭过于老旧，是时候该维修一下了。事实上，没有喇叭的话，很难管理工人们。独角飞马头上的角，很适合用来当作制作喇叭的材料，要是你能带5个回来那就太感谢啦！"
+			"矿坑监工们使用的喇叭过于老旧，是时候该维修一下了。事实上，没有喇叭的话，很难管理工人们。独角飞马头上的角，很适合用来当作制作喇叭的材料，要是你能带5个回来那就太感谢啦！",
+			"需要收集：<ITEM>魔力之角<INFO>6023</INFO></ITEM>。",
 		},
 		Summary = "收集魔力长角5个-向补给2课负责人报告处理结果 <ITEM>魔力之角<INFO>6023</INFO></ITEM>",
 		NpcNavi = "dic_in01",
@@ -34366,7 +34374,7 @@ QuestInfoList = {
 	},
 	[12128] = {
 		Title = "暖房设备",
-		Description = { "为冒险家而开设的酒店内，暖房专用的毛皮似乎不太够。要是有塔塔丘温暖的毛皮就好了，要麻烦你去带回来啰，应该21块就够了。" },
+		Description = { "为冒险家而开设的酒店内，暖房专用的毛皮似乎不太够。要是有塔塔丘温暖的毛皮就好了，要麻烦你去带回来啰，应该21块就够了。 需要收集：<ITEM>银色毛皮<INFO>6020</INFO></ITEM>。" },
 		Summary = "收集毛皮21个-向补给2课负责人报告处理结果 <ITEM>银色毛皮<INFO>6020</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 48,
@@ -34374,8 +34382,8 @@ QuestInfoList = {
 	},
 	[12129] = {
 		Title = "怪异食物",
-		Description = { "这是来自酒店的请求，请带回27只昆虫后脚。虽然不清楚是要用在什么地方，但对方不肯告知，总之，这次也麻烦你啰！" },
-		Summary = "收集昆虫后脚27个-向补给2课负责人报告处理结果 <ITEM>绿苍蝇<INFO>1042</INFO></ITEM>",
+		Description = { "这是来自酒店的请求，请带回27只昆虫后脚。虽然不清楚是要用在什么地方，但对方不肯告知，总之，这次也麻烦你啰！ 需要收集：<ITEM>昆虫后脚<INFO>1042</INFO></ITEM>。可从<NAVI>[变异蜈蚣]<INFO>dic_fild01,200,200,0,101,0</INFO></NAVI>取得。" },
+		Summary = "收集昆虫后脚27个-向补给2课负责人报告处理结果 <ITEM>昆虫后脚<INFO>1042</INFO></ITEM> 可从<NAVI>[变异蜈蚣]<INFO>dic_fild01,200,200,0,101,0</INFO></NAVI>取得。",
 		NpcNavi = "dic_in01",
 		NpcPosX = 48,
 		NpcPosY = 273
@@ -34383,7 +34391,8 @@ QuestInfoList = {
 	[12130] = {
 		Title = "有用材料",
 		Description = {
-			"名为刹勒空结晶的物质是相当受当地居民欢迎的物品，外形又圆又美，将其粉末加水调匀后，也可以当作粘着剂使用。听说这在常于此地出入的冒险家的世界里，是常见的物品，你可以带点回来吗？26个左右应该就够了。"
+			"名为刹勒空结晶的物质是相当受当地居民欢迎的物品，外形又圆又美，将其粉末加水调匀后，也可以当作粘着剂使用。听说这在常于此地出入的冒险家的世界里，是常见的物品，你可以带点回来吗？26个左右应该就够了。",
+			"需要收集：<ITEM>刹勒空结晶<INFO>912</INFO></ITEM>。",
 		},
 		Summary = "收集<ITEM>刹勒空结晶<INFO>912</INFO></ITEM>26个-向补给2课负责人报告处理结果",
 		NpcNavi = "dic_in01",
@@ -34392,7 +34401,7 @@ QuestInfoList = {
 	},
 	[12131] = {
 		Title = "建筑所需材料",
-		Description = { "有个委托请你带回来，是每季进行建筑物维修工程时所需的材料。请带回13个在变异蜈蚣或是变异蜈蚣幼虫身上掉落的坚硬外皮，这是要紧急用于维修工程上的。" },
+		Description = { "有个委托请你带回来，是每季进行建筑物维修工程时所需的材料。请带回13个在变异蜈蚣或是变异蜈蚣幼虫身上掉落的坚硬外皮，这是要紧急用于维修工程上的。 需要收集：<ITEM>坚硬外皮<INFO>943</INFO></ITEM>。" },
 		Summary = "收集<ITEM>坚硬外皮<INFO>943</INFO></ITEM>13个-向补给2课负责人报告处理结果",
 		NpcNavi = "dic_in01",
 		NpcPosX = 48,
@@ -34400,7 +34409,7 @@ QuestInfoList = {
 	},
 	[12132] = {
 		Title = "建筑所需材料2",
-		Description = { "有个委托请你带回来，是每季进行建筑物维修工程时所需的材料。请带回16个可以从猪笼草身上取得的坚韧的藤蔓，这是进行维修工程时，不可或缺的有用道具。" },
+		Description = { "有个委托请你带回来，是每季进行建筑物维修工程时所需的材料。请带回16个可以从猪笼草身上取得的坚韧的藤蔓，这是进行维修工程时，不可或缺的有用道具。 需要收集：<ITEM>结实的藤<INFO>6041</INFO></ITEM>。" },
 		Summary = "收集坚韧的藤蔓16个-向补给2课负责人报告处理结果 <ITEM>结实的藤<INFO>6041</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 48,
@@ -34408,7 +34417,7 @@ QuestInfoList = {
 	},
 	[12133] = {
 		Title = "制作饰品",
-		Description = { "有个委托进来，需要很多用来作为禁卫军个人饰品的尖锐的叶子，也已有委托给其他冒险家了。要求的量颇多的，约需26片左右，虽然很辛苦，但还是麻烦你啰" },
+		Description = { "有个委托进来，需要很多用来作为禁卫军个人饰品的尖锐的叶子，也已有委托给其他冒险家了。要求的量颇多的，约需26片左右，虽然很辛苦，但还是麻烦你啰 需要收集：<ITEM>尖锐的叶子<INFO>7100</INFO></ITEM>。" },
 		Summary = "收集<ITEM>尖锐的叶子<INFO>7100</INFO></ITEM>26个-向补给2课负责人报告处理结果",
 		NpcNavi = "dic_in01",
 		NpcPosX = 48,
@@ -34416,7 +34425,7 @@ QuestInfoList = {
 	},
 	[12134] = {
 		Title = "急需一次性碗盘",
-		Description = { "最近外来的冒险家骤增，酒店老板似乎很头痛。真希望能有方便盛装食物的一次性道具，巨大叶子应该很适合吧！" },
+		Description = { "最近外来的冒险家骤增，酒店老板似乎很头痛。真希望能有方便盛装食物的一次性道具，巨大叶子应该很适合吧！ 需要收集：<ITEM>巨大叶子<INFO>7198</INFO></ITEM>。" },
 		Summary = "收集<ITEM>巨大叶子<INFO>7198</INFO></ITEM>11个-向补给2课负责人报告处理结果",
 		NpcNavi = "dic_in01",
 		NpcPosX = 48,
@@ -34424,7 +34433,7 @@ QuestInfoList = {
 	},
 	[12135] = {
 		Title = "药材不足",
-		Description = { "矿坑最近有很多人受伤，应该是每次都觊觎施工者的猪笼草的所作所为。总之，需要敷在伤口上的药材，请带回16根褐色树根。" },
+		Description = { "矿坑最近有很多人受伤，应该是每次都觊觎施工者的猪笼草的所作所为。总之，需要敷在伤口上的药材，请带回16根褐色树根。 需要收集：<ITEM>褐色树根<INFO>7188</INFO></ITEM>。" },
 		Summary = "收集<ITEM>褐色树根<INFO>7188</INFO></ITEM>16个-向补给2课负责人报告处理结果",
 		NpcNavi = "dic_in01",
 		NpcPosX = 48,
@@ -34433,16 +34442,17 @@ QuestInfoList = {
 	[12136] = {
 		Title = "蜂蜜大盗",
 		Description = {
-			"酒店老板来这里，抱怨一堆你们种族有多挑嘴的事后才离开呢！老板说蜂蜜和果实的存货都已经用完了，你该展现一下诚意啰，拿2罐蜂蜜去讨好耍脾气的老板，我想应该就很足够了。"
+			"酒店老板来这里，抱怨一堆你们种族有多挑嘴的事后才离开呢！老板说蜂蜜和果实的存货都已经用完了，你该展现一下诚意啰，拿2罐蜂蜜去讨好耍脾气的老板，我想应该就很足够了。",
+			"需要收集：<ITEM>蜂蜜<INFO>518</INFO></ITEM>。",
 		},
-		Summary = "收集蜂蜜2个-向补给2课负责人报告处理结果 <ITEM>GS_DUST<INFO>518</INFO></ITEM>",
+		Summary = "收集蜂蜜2个-向补给2课负责人报告处理结果 <ITEM>蜂蜜<INFO>518</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 48,
 		NpcPosY = 273
 	},
 	[12137] = {
 		Title = "实验专用工具",
-		Description = { "我们的产业研究所正在研究，如何能有效精制钸镭，但经常拿来做实验的材料不足。听说在你们冒险家的都市里，有商人在贩卖一种叫生化试管的东西，请你带4个回来。" },
+		Description = { "我们的产业研究所正在研究，如何能有效精制钸镭，但经常拿来做实验的材料不足。听说在你们冒险家的都市里，有商人在贩卖一种叫生化试管的东西，请你带4个回来。 需要收集：<ITEM>生化试管<INFO>7143</INFO></ITEM>。" },
 		Summary = "收集<ITEM>生化试管<INFO>7143</INFO></ITEM>4个-向运输1课负责人报告处理结果",
 		NpcNavi = "dic_in01",
 		NpcPosX = 43,
@@ -34450,8 +34460,8 @@ QuestInfoList = {
 	},
 	[12138] = {
 		Title = "谢礼标本",
-		Description = { "酒店老板想送东西给老主顾的邪派客人当作谢礼。但似乎犹豫不知该送什么好，若你在米德加尔特找到适合作为礼物的东西，请你带5个回来好吗？" },
-		Summary = "收集花束5个-向运输1课负责人报告处理结果 <ITEM>NPC_ELECTRICWALK<INFO>744</INFO></ITEM>",
+		Description = { "酒店老板想送东西给老主顾的邪派客人当作谢礼。但似乎犹豫不知该送什么好，若你在米德加尔特找到适合作为礼物的东西，请你带5个回来好吗？ 需要收集：<ITEM>花束<INFO>744</INFO></ITEM>。" },
+		Summary = "收集花束5个-向运输1课负责人报告处理结果 <ITEM>花束<INFO>744</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 43,
 		NpcPosY = 273
@@ -34459,17 +34469,18 @@ QuestInfoList = {
 	[12139] = {
 		Title = "尊重喜好！",
 		Description = {
-			"最近大臣经常在寻找米德加尔特的产物-永恒玫瑰，我偶尔会看到他将玫瑰戴在头上，一脸欢喜的样子，但我不知道是否恰当。因此……希望请你配送一朵永恒玫瑰给他，当然，要对其他地方保密。"
+			"最近大臣经常在寻找米德加尔特的产物-永恒玫瑰，我偶尔会看到他将玫瑰戴在头上，一脸欢喜的样子，但我不知道是否恰当。因此……希望请你配送一朵永恒玫瑰给他，当然，要对其他地方保密。",
+			"需要收集：<ITEM>永恒玫瑰<INFO>748</INFO></ITEM>。",
 		},
-		Summary = "收集永恒玫瑰1个-向运输1课负责人报告处理结果 <ITEM>NPC_WIDELEASH<INFO>748</INFO></ITEM>",
+		Summary = "收集永恒玫瑰1个-向运输1课负责人报告处理结果 <ITEM>永恒玫瑰<INFO>748</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 43,
 		NpcPosY = 273
 	},
 	[12140] = {
 		Title = "礼遇常客",
-		Description = { "这是来自酒店老板的委托，用叶子做成的一次性碗盘，不能端到常客面前。听说米德加尔特有个洁白坚硬的碗盘，若你能得到的话，想请你带回15个。" },
-		Summary = "收集白色盘子15个-向运输1课负责人报告处理结果 <ITEM>NPC_PSYCHIC_WAVE<INFO>736</INFO></ITEM>",
+		Description = { "这是来自酒店老板的委托，用叶子做成的一次性碗盘，不能端到常客面前。听说米德加尔特有个洁白坚硬的碗盘，若你能得到的话，想请你带回15个。 需要收集：<ITEM>白色盘子<INFO>736</INFO></ITEM>。" },
+		Summary = "收集白色盘子15个-向运输1课负责人报告处理结果 <ITEM>白色盘子<INFO>736</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 43,
 		NpcPosY = 273
@@ -34477,7 +34488,8 @@ QuestInfoList = {
 	[12141] = {
 		Title = "这是好东西",
 		Description = {
-			"这是我私人的请求，我听说米德加尔特大陆有种透明圆形的工艺品。好像叫……琉璃石的样子，虽然这里也有很多类似的加工产品，但没办法找到像它那么精巧的球体，请帮我带回10个。"
+			"这是我私人的请求，我听说米德加尔特大陆有种透明圆形的工艺品。好像叫……琉璃石的样子，虽然这里也有很多类似的加工产品，但没办法找到像它那么精巧的球体，请帮我带回10个。",
+			"需要收集：<ITEM>玻璃珠<INFO>746</INFO></ITEM>。",
 		},
 		Summary = "收集<ITEM>玻璃珠<INFO>746</INFO></ITEM>10个-向运输1课负责人报告处理结果",
 		NpcNavi = "dic_in01",
@@ -34486,8 +34498,8 @@ QuestInfoList = {
 	},
 	[12142] = {
 		Title = "危险任务",
-		Description = { "嗯……还是该跟你说吧，大臣要你去米德加尔特带回名为疯兔娃娃的东西。虽然我不清楚那是什么，但因为是大臣提出的要求，所以一定很重要，请你带回15个。" },
-		Summary = "收集疯兔娃娃15个-向运输1课负责人报告处理结果 <ITEM>NPC_IGNITIONBREAK<INFO>740</INFO></ITEM>",
+		Description = { "嗯……还是该跟你说吧，大臣要你去米德加尔特带回名为疯兔娃娃的东西。虽然我不清楚那是什么，但因为是大臣提出的要求，所以一定很重要，请你带回15个。 需要收集：<ITEM>疯兔娃娃<INFO>740</INFO></ITEM>。" },
+		Summary = "收集疯兔娃娃15个-向运输1课负责人报告处理结果 <ITEM>疯兔娃娃<INFO>740</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 43,
 		NpcPosY = 273
@@ -34495,7 +34507,8 @@ QuestInfoList = {
 	[12143] = {
 		Title = "奇怪流行",
 		Description = {
-			"最近在许多同伴间很流行，用米德加尔特的鸟嘴制作而成，会发出声音的配饰。我在想要不要趁这个机会，也发送给营运署内部的同事。听说米德加尔特都市内，有商人在进行贩卖，可以替我带50个左右回来吗？"
+			"最近在许多同伴间很流行，用米德加尔特的鸟嘴制作而成，会发出声音的配饰。我在想要不要趁这个机会，也发送给营运署内部的同事。听说米德加尔特都市内，有商人在进行贩卖，可以替我带50个左右回来吗？",
+			"需要收集：<ITEM>鸟嘴<INFO>925</INFO></ITEM>。",
 		},
 		Summary = "收集<ITEM>鸟嘴<INFO>925</INFO></ITEM>50个-向运输1课负责人报告处理结果",
 		NpcNavi = "dic_in01",
@@ -34505,7 +34518,8 @@ QuestInfoList = {
 	[12144] = {
 		Title = "用途不明",
 		Description = {
-			"酒店老板说想拿蛤蜊外壳来装饰店内，所以来提出委托。听说这是生活在水里生物的家，但我不清楚他要拿这个怎么装饰店内。看来跟冒险家们经常相处后，喜好也变得很独特呢！"
+			"酒店老板说想拿蛤蜊外壳来装饰店内，所以来提出委托。听说这是生活在水里生物的家，但我不清楚他要拿这个怎么装饰店内。看来跟冒险家们经常相处后，喜好也变得很独特呢！",
+			"需要收集：<ITEM>蛤蜊外壳<INFO>965</INFO></ITEM>。",
 		},
 		Summary = "收集<ITEM>蛤蜊外壳<INFO>965</INFO></ITEM>50个-向运输1课负责人报告处理结果",
 		NpcNavi = "dic_in01",
@@ -34515,7 +34529,8 @@ QuestInfoList = {
 	[12145] = {
 		Title = "异界料理",
 		Description = {
-			"虽然我们不太吃东西，但冒险家们似乎可以从吃东西的行为中获得快乐。酒店老板要用来盛装新菜色的碗盘……他说要20个螃蟹外壳，虽然我不清楚哪里有卖，但总之要麻烦你啰！"
+			"虽然我们不太吃东西，但冒险家们似乎可以从吃东西的行为中获得快乐。酒店老板要用来盛装新菜色的碗盘……他说要20个螃蟹外壳，虽然我不清楚哪里有卖，但总之要麻烦你啰！",
+			"需要收集：<ITEM>螃蟹外壳<INFO>964</INFO></ITEM>。",
 		},
 		Summary = "收集<ITEM>螃蟹外壳<INFO>964</INFO></ITEM>20个-向运输1课负责人报告处理结果",
 		NpcNavi = "dic_in01",
@@ -34525,7 +34540,8 @@ QuestInfoList = {
 	[12146] = {
 		Title = "填补缝隙",
 		Description = {
-			"米德加尔特的物品中，最好用的果然是雪勒结晶。无论是再怎么破损，或是坑坑洞洞的建筑物，只要填满雪勒结晶，再涂上粉碎的加勒结晶，就能简单快速的修复完成，你可以帮我带回30个吗？"
+			"米德加尔特的物品中，最好用的果然是雪勒结晶。无论是再怎么破损，或是坑坑洞洞的建筑物，只要填满雪勒结晶，再涂上粉碎的加勒结晶，就能简单快速的修复完成，你可以帮我带回30个吗？",
+			"需要收集：<ITEM>雪勒结晶<INFO>911</INFO></ITEM>。",
 		},
 		Summary = "收集<ITEM>雪勒结晶<INFO>911</INFO></ITEM>30个-向运输1课负责人报告处理结果",
 		NpcNavi = "dic_in01",
@@ -34535,7 +34551,8 @@ QuestInfoList = {
 	[12147] = {
 		Title = "粘着剂材料",
 		Description = {
-			"要说到修复建筑物当然不能漏掉加勒结晶啰，它和雪勒结晶一样，都是不可或缺的修复建筑物佳品。虽然在加勒结晶出现前，是将刹勒空结晶磨碎后使用，但不仅难找，数量也不多，所以很艰难。请带回40个加勒结晶。"
+			"要说到修复建筑物当然不能漏掉加勒结晶啰，它和雪勒结晶一样，都是不可或缺的修复建筑物佳品。虽然在加勒结晶出现前，是将刹勒空结晶磨碎后使用，但不仅难找，数量也不多，所以很艰难。请带回40个加勒结晶。",
+			"需要收集：<ITEM>加勒结晶<INFO>910</INFO></ITEM>。",
 		},
 		Summary = "收集<ITEM>加勒结晶<INFO>910</INFO></ITEM>40个-向运输1课负责人报告处理结果",
 		NpcNavi = "dic_in01",
@@ -34545,17 +34562,18 @@ QuestInfoList = {
 	[12148] = {
 		Title = "捕塔塔丘饲料",
 		Description = {
-			"每当我想去抓塔塔丘时，它们就以飞快的速度逃跑，真的很难对付。所以此地的高尔顿就以魔物饲料引诱它们，听说在米德加尔特有位大量制作此饲料的匠人，请你带100个回来。"
+			"每当我想去抓塔塔丘时，它们就以飞快的速度逃跑，真的很难对付。所以此地的高尔顿就以魔物饲料引诱它们，听说在米德加尔特有位大量制作此饲料的匠人，请你带100个回来。",
+			"需要收集：<ITEM>魔物饲料<INFO>528</INFO></ITEM>。",
 		},
-		Summary = "收集魔物饲料100个-向运输2课负责人报告处理结果 <ITEM>NJ_KASUMIKIRI<INFO>528</INFO></ITEM>",
+		Summary = "收集魔物饲料100个-向运输2课负责人报告处理结果 <ITEM>魔物饲料<INFO>528</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 40,
 		NpcPosY = 270
 	},
 	[12149] = {
 		Title = "修炼刀法",
-		Description = { "酒店老板说想要好好学做菜，要请你带回苹果。但我从未听来自米德加尔特的冒险家们说过，喜欢酒店老板做的料理但他坚持要做，你就去替他找苹果吧！" },
-		Summary = "收集苹果100个-向运输2课负责人报告处理结果 <ITEM>GS_TRACKING<INFO>512</INFO></ITEM>",
+		Description = { "酒店老板说想要好好学做菜，要请你带回苹果。但我从未听来自米德加尔特的冒险家们说过，喜欢酒店老板做的料理但他坚持要做，你就去替他找苹果吧！ 需要收集：<ITEM>苹果<INFO>512</INFO></ITEM>。" },
+		Summary = "收集苹果100个-向运输2课负责人报告处理结果 <ITEM>苹果<INFO>512</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 40,
 		NpcPosY = 270
@@ -34563,9 +34581,10 @@ QuestInfoList = {
 	[12150] = {
 		Title = "红色漂亮蔬菜",
 		Description = {
-			"这是来自酒店老板的委托，他说想在料理中添加漂亮的色彩，要请你去找红色蔬菜。名字叫……红萝卜？总之听说你们的世界都是这么说的……虽然我不怎么期待，呃……没有啦，我刚才在自言自语，请准备100个就好。"
+			"这是来自酒店老板的委托，他说想在料理中添加漂亮的色彩，要请你去找红色蔬菜。名字叫……红萝卜？总之听说你们的世界都是这么说的……虽然我不怎么期待，呃……没有啦，我刚才在自言自语，请准备100个就好。",
+			"需要收集：<ITEM>红萝卜<INFO>515</INFO></ITEM>。",
 		},
-		Summary = "收集红萝卜100个-向运输2课负责人报告处理结果 <ITEM>GS_RAPIDSHOWER<INFO>515</INFO></ITEM>",
+		Summary = "收集红萝卜100个-向运输2课负责人报告处理结果 <ITEM>红萝卜<INFO>515</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 40,
 		NpcPosY = 270
@@ -34573,9 +34592,10 @@ QuestInfoList = {
 	[12151] = {
 		Title = "酒店老板的坚持",
 		Description = {
-			"听说不久前酒店发生大爆炸呢，据说是因为老板将将米德加尔特一种叫南瓜的蔬菜，整个放在火上烤。听说其他南瓜也因此无法使用，所以若你能带回15个，那真是感激不尽。"
+			"听说不久前酒店发生大爆炸呢，据说是因为老板将将米德加尔特一种叫南瓜的蔬菜，整个放在火上烤。听说其他南瓜也因此无法使用，所以若你能带回15个，那真是感激不尽。",
+			"需要收集：<ITEM>南瓜<INFO>535</INFO></ITEM>。",
 		},
-		Summary = "收集南瓜100个-向运输2课负责人报告处理结果 <ITEM>NJ_KAENSIN<INFO>535</INFO></ITEM>",
+		Summary = "收集南瓜100个-向运输2课负责人报告处理结果 <ITEM>南瓜<INFO>535</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 40,
 		NpcPosY = 270
@@ -34583,25 +34603,26 @@ QuestInfoList = {
 	[12152] = {
 		Title = "家乡味",
 		Description = {
-			"这是来自酒店老板的委托，他说他很思念一种在家乡吃过，名叫做番薯的根茎植物，请你带50个回来。酒店老板自从离开家乡后，在此地停留已有很长一段时间，所以很想一尝家乡味，如果你有去米德加尔特的话，请务必要带回来。"
+			"这是来自酒店老板的委托，他说他很思念一种在家乡吃过，名叫做番薯的根茎植物，请你带50个回来。酒店老板自从离开家乡后，在此地停留已有很长一段时间，所以很想一尝家乡味，如果你有去米德加尔特的话，请务必要带回来。",
+			"需要收集：<ITEM>番薯<INFO>516</INFO></ITEM>。",
 		},
-		Summary = "收集地瓜50个-向运输2课负责人报告处理结果 <ITEM>GS_DESPERADO<INFO>516</INFO></ITEM>",
+		Summary = "收集地瓜50个-向运输2课负责人报告处理结果 <ITEM>番薯<INFO>516</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 40,
 		NpcPosY = 270
 	},
 	[12153] = {
 		Title = "不宜烧烤的植物",
-		Description = { "听说酒店老板要做名为烤香蕉的神奇料理，我总觉得他上次也做过类似的料理……嗯，真奇怪，我就是想不起详细情形，应该是因为心情的关系吧，带回100个应该就够了。" },
-		Summary = "收集香蕉100个-向运输2课负责人报告处理结果 <ITEM>GS_DISARM<INFO>513</INFO></ITEM>",
+		Description = { "听说酒店老板要做名为烤香蕉的神奇料理，我总觉得他上次也做过类似的料理……嗯，真奇怪，我就是想不起详细情形，应该是因为心情的关系吧，带回100个应该就够了。 需要收集：<ITEM>香蕉<INFO>513</INFO></ITEM>。" },
+		Summary = "收集香蕉100个-向运输2课负责人报告处理结果 <ITEM>香蕉<INFO>513</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 40,
 		NpcPosY = 270
 	},
 	[12154] = {
 		Title = "出乎意料很普通？",
-		Description = { "这次的委托……也是来自酒店老板，他要请你带肉回来。嗯……只有这个要求呢，就带50块回来吧，真的是要做生意吗？" },
-		Summary = "收集肉50个-向运输2课负责人报告处理结果 <ITEM>GS_GATLINGFEVER<INFO>517</INFO></ITEM>",
+		Description = { "这次的委托……也是来自酒店老板，他要请你带肉回来。嗯……只有这个要求呢，就带50块回来吧，真的是要做生意吗？ 需要收集：<ITEM>肉<INFO>517</INFO></ITEM>。" },
+		Summary = "收集肉50个-向运输2课负责人报告处理结果 <ITEM>肉<INFO>517</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 40,
 		NpcPosY = 270
@@ -34609,9 +34630,10 @@ QuestInfoList = {
 	[12155] = {
 		Title = "有心的礼物",
 		Description = {
-			"我想要送酒店老板礼物，这是我私人的委托，就请你爽快地答应吧。不久前酒店老板的汤勺全都坏了，他看起来很灰心的样子。虽然是自作自受，但看起来总觉得不忍，所以请你带20个米德加尔特卖的黑色汤勺回来。"
+			"我想要送酒店老板礼物，这是我私人的委托，就请你爽快地答应吧。不久前酒店老板的汤勺全都坏了，他看起来很灰心的样子。虽然是自作自受，但看起来总觉得不忍，所以请你带20个米德加尔特卖的黑色汤勺回来。",
+			"需要收集：<ITEM>黑色杓子<INFO>737</INFO></ITEM>。",
 		},
-		Summary = "收集黑色杓子20个-向运输2课负责人报告处理结果 <ITEM>NPC_RAYOFGENESIS<INFO>737</INFO></ITEM>",
+		Summary = "收集黑色杓子20个-向运输2课负责人报告处理结果 <ITEM>黑色杓子<INFO>737</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 40,
 		NpcPosY = 270
@@ -34619,16 +34641,17 @@ QuestInfoList = {
 	[12156] = {
 		Title = "尊重喜好！-2",
 		Description = {
-			"大臣要求带来以米德加尔特的水晶制成的镜子，虽然在魔怒克首都这里也有很多水晶镜子，但不知为何，他好像喜欢米德加尔特所生产的产品。另一方面，虽然我有点担心，但这是贤能的大臣吩咐的事，想必是有他的理由吧！"
+			"大臣要求带来以米德加尔特的水晶制成的镜子，虽然在魔怒克首都这里也有很多水晶镜子，但不知为何，他好像喜欢米德加尔特所生产的产品。另一方面，虽然我有点担心，但这是贤能的大臣吩咐的事，想必是有他的理由吧！",
+			"需要收集：<ITEM>水晶镜子<INFO>747</INFO></ITEM>。",
 		},
-		Summary = "收集水晶镜子5个-向运输2课负责人报告处理结果 <ITEM>NPC_LEASH<INFO>747</INFO></ITEM>",
+		Summary = "收集水晶镜子5个-向运输2课负责人报告处理结果 <ITEM>水晶镜子<INFO>747</INFO></ITEM>",
 		NpcNavi = "dic_in01",
 		NpcPosX = 40,
 		NpcPosY = 270
 	},
 	[12157] = {
 		Title = "酒店老板的决定",
-		Description = { "这次……是来自酒店老板的委托，他要我请你带2颗菠萝回来。他想挑战特调鸡尾酒，他对制毒很在行，稍加融会贯通的话，他有信心可以成功。" },
+		Description = { "这次……是来自酒店老板的委托，他要我请你带2颗菠萝回来。他想挑战特调鸡尾酒，他对制毒很在行，稍加融会贯通的话，他有信心可以成功。 需要收集：<ITEM>菠萝<INFO>6265</INFO></ITEM>。" },
 		Summary = "收集<ITEM>菠萝<INFO>6265</INFO></ITEM>2个-向运输2课负责人报告处理结果",
 		NpcNavi = "dic_in01",
 		NpcPosX = 40,
@@ -34637,7 +34660,8 @@ QuestInfoList = {
 	[12158] = {
 		Title = "酒店老板的愤怒",
 		Description = {
-			"这次也是……来自酒店老板的委托，他要我请你带2颗哈密瓜回来。他想挑战特调鸡尾酒，他对制毒很在行，稍加融会贯通的话，他有信心可以成功。这些话上次好像也说过……"
+			"这次也是……来自酒店老板的委托，他要我请你带2颗哈密瓜回来。他想挑战特调鸡尾酒，他对制毒很在行，稍加融会贯通的话，他有信心可以成功。这些话上次好像也说过……",
+			"需要收集：<ITEM>甜瓜<INFO>6264</INFO></ITEM>。",
 		},
 		Summary = "收集哈密瓜2个-向运输2课负责人报告处理结果 <ITEM>甜瓜<INFO>6264</INFO></ITEM>",
 		NpcNavi = "dic_in01",
@@ -36610,7 +36634,7 @@ QuestInfoList = {
 	[12532] = {
 		Title = "出货的困难",
 		IconName = "ico_ep.bmp",
-		Description = { "出货似乎出现了困难。需要找到可以修复坏掉的车轮的 <ITEM>[材料]<INFO>7197</INFO></ITEM>。" },
+		Description = { "出货似乎出现了困难。需要找到可以修复坏掉的车轮的 <ITEM>强韧木藤条<INFO>7197</INFO></ITEM>。" },
 		Summary = "寻找合适的材料"
 	},
 	[12533] = {
@@ -36728,7 +36752,7 @@ QuestInfoList = {
 		Title = "Gorleung Fishing Grounds",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's go catch 10x <ITEM>[Piece of Fish]<INFO>6039</INFO></ITEM> for <NAVI>[Gorleung]<INFO>mid_camp,67,142,0,101,0</INFO></NAVI> at the Midgard Union Garrison.",
+			"Let's go catch 10x <ITEM>鱼尾巴<INFO>6039</INFO></ITEM> for <NAVI>[Gorleung]<INFO>mid_camp,67,142,0,101,0</INFO></NAVI> at the Midgard Union Garrison.",
 			"<NAVI>[Point 1]<INFO>mid_camp,71,129,0,101,0</INFO></NAVI><NAVI>[Point 2]<INFO>spl_fild02,321,166,0,101,0</INFO></NAVI><NAVI>[Point 3]<INFO>spl_fild02,326,168,0,101,0</INFO></NAVI>",
 			"<NAVI>[Point 4]<INFO>spl_fild02,314,162,0,101,0</INFO></NAVI><NAVI>[Point 5]<INFO>spl_fild03,226,151,0,101,0</INFO></NAVI><NAVI>[Point 6]<INFO>spl_fild03,268,230,0,101,0</INFO></NAVI>",
 			"<NAVI>[Point 7]<INFO>spl_fild03,293,253,0,101,0</INFO></NAVI><NAVI>[Point 8]<INFO>spl_fild03,165,100,0,101,0</INFO></NAVI><NAVI>[Point 9]<INFO>spl_fild03,317,190,0,101,0</INFO></NAVI>",
@@ -36741,7 +36765,7 @@ QuestInfoList = {
 		Title = "Help the Miners",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's dig 3x <ITEM>[Unidentified Mineral]<INFO>6048</INFO></ITEM> for <NAVI>[Cat Hand Miner]<INFO>mid_camp,86,98,0,101,0</INFO></NAVI> at the Midgard Union Garrison.",
+			"Let's dig 3x <ITEM>未确认矿石<INFO>6048</INFO></ITEM> for <NAVI>[Cat Hand Miner]<INFO>mid_camp,86,98,0,101,0</INFO></NAVI> at the Midgard Union Garrison.",
 			"<NAVI>[Point 1]<INFO>man_fild01,178,170,0,101,0</INFO></NAVI><NAVI>[Point 2]<INFO>man_fild01,147,160,0,101,0</INFO></NAVI><NAVI>[Point 3]<INFO>man_fild01,112,174,0,101,0</INFO></NAVI>",
 			"<NAVI>[Point 4]<INFO>man_fild01,92,159,0,101,0</INFO></NAVI><NAVI>[Point 5]<INFO>man_fild01,170,315,0,101,0</INFO></NAVI><NAVI>[Point 6]<INFO>man_fild01,146,267,0,101,0</INFO></NAVI>",
 			"<NAVI>[Point 7]<INFO>man_fild01,118,236,0,101,0</INFO></NAVI><NAVI>[Point 8]<INFO>man_fild01,70,243,0,101,0</INFO></NAVI><NAVI>[Point 9]<INFO>man_fild01,64,194,0,101,0</INFO></NAVI>",
@@ -36759,7 +36783,7 @@ QuestInfoList = {
 		Title = "Gorleung Fishing Grounds",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's go catch 10x <ITEM>[Piece of Fish]<INFO>6039</INFO></ITEM> for <NAVI>[Gorleung]<INFO>mid_camp,67,142,0,101,0</INFO></NAVI> at the Midgard Union Garrison.",
+			"Let's go catch 10x <ITEM>鱼尾巴<INFO>6039</INFO></ITEM> for <NAVI>[Gorleung]<INFO>mid_camp,67,142,0,101,0</INFO></NAVI> at the Midgard Union Garrison.",
 			"<NAVI>[Point 1]<INFO>mid_camp,71,129,0,101,0</INFO></NAVI><NAVI>[Point 2]<INFO>spl_fild02,321,166,0,101,0</INFO></NAVI><NAVI>[Point 3]<INFO>spl_fild02,326,168,0,101,0</INFO></NAVI>",
 			"<NAVI>[Point 4]<INFO>spl_fild02,314,162,0,101,0</INFO></NAVI><NAVI>[Point 5]<INFO>spl_fild03,226,151,0,101,0</INFO></NAVI><NAVI>[Point 6]<INFO>spl_fild03,268,230,0,101,0</INFO></NAVI>",
 			"<NAVI>[Point 7]<INFO>spl_fild03,293,253,0,101,0</INFO></NAVI><NAVI>[Point 8]<INFO>spl_fild03,165,100,0,101,0</INFO></NAVI><NAVI>[Point 9]<INFO>spl_fild03,317,190,0,101,0</INFO></NAVI>",
@@ -36772,7 +36796,7 @@ QuestInfoList = {
 		Title = "Help the Miners",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Let's dig 3x <ITEM>[Unidentified Mineral]<INFO>6048</INFO></ITEM> for <NAVI>[Cat Hand Miner]<INFO>mid_camp,86,98,0,101,0</INFO></NAVI> at the Midgard Union Garrison.",
+			"Let's dig 3x <ITEM>未确认矿石<INFO>6048</INFO></ITEM> for <NAVI>[Cat Hand Miner]<INFO>mid_camp,86,98,0,101,0</INFO></NAVI> at the Midgard Union Garrison.",
 			"<NAVI>[Point 1]<INFO>man_fild01,178,170,0,101,0</INFO></NAVI><NAVI>[Point 2]<INFO>man_fild01,147,160,0,101,0</INFO></NAVI><NAVI>[Point 3]<INFO>man_fild01,112,174,0,101,0</INFO></NAVI>",
 			"<NAVI>[Point 4]<INFO>man_fild01,92,159,0,101,0</INFO></NAVI><NAVI>[Point 5]<INFO>man_fild01,170,315,0,101,0</INFO></NAVI><NAVI>[Point 6]<INFO>man_fild01,146,267,0,101,0</INFO></NAVI>",
 			"<NAVI>[Point 7]<INFO>man_fild01,118,236,0,101,0</INFO></NAVI><NAVI>[Point 8]<INFO>man_fild01,70,243,0,101,0</INFO></NAVI><NAVI>[Point 9]<INFO>man_fild01,64,194,0,101,0</INFO></NAVI>",
@@ -36870,7 +36894,7 @@ QuestInfoList = {
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Although we are supplying necessities to the National Guard, there are some areas that are slightly lacking, so we are getting help from adventurers who are willing to donate.",
-			"Can you buy 20x <ITEM>[Milk]<INFO>519</INFO></ITEM> from the merchant in Prontera Castle and deliver it to the cook at the desired National Guard base using the <NAVI>[Bulletin Board]<INFO>prt_fild08,156,349,0,101,0</INFO></NAVI> at the South Gate of Prontera?",
+			"Can you buy 20x <ITEM>牛奶<INFO>519</INFO></ITEM> from the merchant in Prontera Castle and deliver it to the cook at the desired National Guard base using the <NAVI>[Bulletin Board]<INFO>prt_fild08,156,349,0,101,0</INFO></NAVI> at the South Gate of Prontera?",
 			" "
 		},
 		Summary = "Donate 20x Milk"
@@ -36880,7 +36904,7 @@ QuestInfoList = {
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Although we are supplying necessities to the National Guard, there are some areas that are slightly lacking, so we are getting help from adventurers who are willing to donate.",
-			"Can you buy 30x <ITEM>[Apple]<INFO>512</INFO></ITEM> from the merchant in Prontera Castle and deliver it to the cook at the desired National Guard base using the <NAVI>[Bulletin Board]<INFO>prt_fild08,156,349,0,101,0</INFO></NAVI> at the South Gate of Prontera?",
+			"Can you buy 30x <ITEM>苹果<INFO>512</INFO></ITEM> from the merchant in Prontera Castle and deliver it to the cook at the desired National Guard base using the <NAVI>[Bulletin Board]<INFO>prt_fild08,156,349,0,101,0</INFO></NAVI> at the South Gate of Prontera?",
 			" "
 		},
 		Summary = "Donate 30x Apple"
@@ -36890,7 +36914,7 @@ QuestInfoList = {
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Although we are supplying necessities to the National Guard, there are some areas that are slightly lacking, so we are getting help from adventurers who are willing to donate.",
-			"Can you buy 30x <ITEM>[Banana]<INFO>513</INFO></ITEM> from the merchant in Prontera Castle and deliver it to the cook at the desired National Guard base using the <NAVI>[Bulletin Board]<INFO>prt_fild08,156,349,0,101,0</INFO></NAVI> at the South Gate of Prontera?",
+			"Can you buy 30x <ITEM>香蕉<INFO>513</INFO></ITEM> from the merchant in Prontera Castle and deliver it to the cook at the desired National Guard base using the <NAVI>[Bulletin Board]<INFO>prt_fild08,156,349,0,101,0</INFO></NAVI> at the South Gate of Prontera?",
 			" "
 		},
 		Summary = "Donate 30x Banana"
@@ -36900,7 +36924,7 @@ QuestInfoList = {
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Although we are supplying necessities to the National Guard, there are some areas that are slightly lacking, so we are getting help from adventurers who are willing to donate.",
-			"Can you buy 10x <ITEM>[Meat]<INFO>517</INFO></ITEM> from the merchant in Prontera Castle and deliver it to the cook at the desired National Guard base using the <NAVI>[Bulletin Board]<INFO>prt_fild08,156,349,0,101,0</INFO></NAVI> at the South Gate of Prontera?",
+			"Can you buy 10x <ITEM>肉<INFO>517</INFO></ITEM> from the merchant in Prontera Castle and deliver it to the cook at the desired National Guard base using the <NAVI>[Bulletin Board]<INFO>prt_fild08,156,349,0,101,0</INFO></NAVI> at the South Gate of Prontera?",
 			" "
 		},
 		Summary = "Donate 10x Meat"
@@ -36910,7 +36934,7 @@ QuestInfoList = {
 		IconName = "ico_ev.bmp",
 		Description = {
 			"Although we are supplying necessities to the National Guard, there are some areas that are slightly lacking, so we are getting help from adventurers who are willing to donate.",
-			"Can you buy 30x <ITEM>[Potato]<INFO>516</INFO></ITEM> from the merchant in Prontera Castle and deliver it to the cook at the desired National Guard base using the <NAVI>[Bulletin Board]<INFO>prt_fild08,156,349,0,101,0</INFO></NAVI> at the South Gate of Prontera?",
+			"Can you buy 30x <ITEM>番薯<INFO>516</INFO></ITEM> from the merchant in Prontera Castle and deliver it to the cook at the desired National Guard base using the <NAVI>[Bulletin Board]<INFO>prt_fild08,156,349,0,101,0</INFO></NAVI> at the South Gate of Prontera?",
 			" "
 		},
 		Summary = "Doante 30x Potato"
@@ -37495,7 +37519,7 @@ QuestInfoList = {
 	[12644] = {
 		Title = "波利王兑换券",
 		Description = {
-			"处理波利王后，去找<NAVI>[蔬菜强化师]<INFO>prt_fild05,173,238,0,101,0</INFO></NAVI>吧。\n\t\t\t若找到<ITEM>[波利村胡萝卜]<INFO>19239</INFO></ITEM>或者<ITEM>[波利村 大葱]<INFO>19238</INFO></ITEM>，可以通过兑换券进行^0000ff免费强化^000000。"
+			"处理波利王后，去找<NAVI>[蔬菜强化师]<INFO>prt_fild05,173,238,0,101,0</INFO></NAVI>吧。\n\t\t\t若找到<ITEM>波利村红萝卜<INFO>19239</INFO></ITEM>或者<ITEM>波利村大葱<INFO>19238</INFO></ITEM>，可以通过兑换券进行^0000ff免费强化^000000。"
 		},
 		Summary = "该兑换券可以免费强化蔬菜"
 	},
@@ -44802,14 +44826,14 @@ QuestInfoList = {
 	[16190] = {
 		Title = "Adventurer I need your help",
 		Description = {
-			"Bring 2 <ITEM>[Nipper]<INFO>960</INFO></ITEM> that can be obtained from either <NAVI>[Vadon]<INFO>VADON,0,0,3,-222,1</INFO></NAVI> or <NAVI>[Crab]<INFO>CRAB,0,0,3,-222,1</INFO></NAVI>, the essential ingredient for Dragon Beard noodles, and bring them to Comodo's chef <NAVI>[Guksunsu]<INFO>comodo,103,205,0,101,0</INFO></NAVI>."
+			"Bring 2 <ITEM>钳子<INFO>960</INFO></ITEM> that can be obtained from either <NAVI>[Vadon]<INFO>VADON,0,0,3,-222,1</INFO></NAVI> or <NAVI>[Crab]<INFO>CRAB,0,0,3,-222,1</INFO></NAVI>, the essential ingredient for Dragon Beard noodles, and bring them to Comodo's chef <NAVI>[Guksunsu]<INFO>comodo,103,205,0,101,0</INFO></NAVI>."
 		},
 		Summary = "2 Claws for Guksunsu"
 	},
 	[16191] = {
 		Title = "Only adventurers can save you",
 		Description = {
-			"Bring 2 <ITEM>[Green Herb]<INFO>511</INFO></ITEM>, that can be obtained from either <NAVI>[Green Plant]<INFO>GREEN_PLANT,0,0,3,-222,1</INFO></NAVI> or <NAVI>[Fabre]<INFO>FABRE,0,0,3,-222,1</INFO></NAVI>, the essential ingredient for Breath Dumplings, and bring them to Comodo's chef <NAVI>[Mantue Tara]<INFO>comodo,108,205,0,101,0</INFO></NAVI>."
+			"Bring 2 <ITEM>绿色药草<INFO>511</INFO></ITEM>, that can be obtained from either <NAVI>[Green Plant]<INFO>GREEN_PLANT,0,0,3,-222,1</INFO></NAVI> or <NAVI>[Fabre]<INFO>FABRE,0,0,3,-222,1</INFO></NAVI>, the essential ingredient for Breath Dumplings, and bring them to Comodo's chef <NAVI>[Mantue Tara]<INFO>comodo,108,205,0,101,0</INFO></NAVI>."
 		},
 		Summary = "2 Green Herbs for Mantue"
 	},
@@ -45755,7 +45779,7 @@ QuestInfoList = {
 		Title = "幸福的幸运草装饰",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"庆典继续。在副本及野外狩猎3只幸运草疯兔,<ITEM>[幸福的三叶幸运草]<INFO>25295</INFO></ITEM>收集来3个回到 <NAVI>[庆典装饰设计师]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>处。"
+			"庆典继续。在副本及野外狩猎3只幸运草疯兔,<ITEM>幸福的三叶幸运草<INFO>25295</INFO></ITEM>收集来3个回到 <NAVI>[庆典装饰设计师]<INFO>yuno.gat,165,153,0,101,0</INFO></NAVI>处。"
 		},
 		Summary = "参加幸运草装饰"
 	},
@@ -47364,7 +47388,7 @@ QuestInfoList = {
 		Title = "悄悄潜行",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"蛇巢内待机的 <NAVI>[蓉可儿]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI> 需要带回 <NAVI>[冰封之城]<INFO>icas_in,245,197,0,101,0</INFO></NAVI>，可获得的冰冻饼干1个或 <ITEM>[蠕虫的低级魔力核]<INFO>1000707</INFO></ITEM> 10个。"
+			"蛇巢内待机的 <NAVI>[蓉可儿]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI> 需要带回 <NAVI>[冰封之城]<INFO>icas_in,245,197,0,101,0</INFO></NAVI>，可获得的冰冻饼干1个或 <ITEM>Rgan's Low Grade Magic Core<INFO>1000707</INFO></ITEM> 10个。"
 		},
 		Summary = "完成蓉可儿的请求"
 	},
@@ -47372,7 +47396,7 @@ QuestInfoList = {
 		Title = "悄悄潜行",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"蛇巢内待机的 <NAVI>[蓉可儿]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI> 需要带回 <NAVI>[冰封之城]<INFO>icas_in,245,197,0,101,0</INFO></NAVI>，可获得的冰冻饼干1个或 <ITEM>[蠕虫的低级魔力核]<INFO>1000707</INFO></ITEM> 10个。"
+			"蛇巢内待机的 <NAVI>[蓉可儿]<INFO>jor_nest,31,140,0,101,0</INFO></NAVI> 需要带回 <NAVI>[冰封之城]<INFO>icas_in,245,197,0,101,0</INFO></NAVI>，可获得的冰冻饼干1个或 <ITEM>Rgan's Low Grade Magic Core<INFO>1000707</INFO></ITEM> 10个。"
 		},
 		Summary = "完成蓉可儿的请求"
 	},
@@ -47967,7 +47991,7 @@ QuestInfoList = {
         Title = "Deep 1st Floor Fire Specimen Research I",
         IconName = "ico_dq.bmp",
         Description = {
-            "Defeat 50 each of <NAVI>[Deep Lava Toad]<INFO>BIO_LAVA_TOAD,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Fire Frilldora]<INFO>BIO_FIRE_FRILLDORA,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biospere, and collect 15 <ITEM>[Deep Fire Specimen]<INFO>1001330</INFO></ITEM>. Then, bring them to <NAVI>[Fire Specimen Research Administrator]<INFO>ba_in01,286,114,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
+            "Defeat 50 each of <NAVI>[Deep Lava Toad]<INFO>BIO_LAVA_TOAD,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Fire Frilldora]<INFO>BIO_FIRE_FRILLDORA,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biospere, and collect 15 <ITEM>Deep Flame Specimen<INFO>1001330</INFO></ITEM>. Then, bring them to <NAVI>[Fire Specimen Research Administrator]<INFO>ba_in01,286,114,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
         },
         Summary = "15 Deep Fire Specimens"
     },
@@ -47984,7 +48008,7 @@ QuestInfoList = {
         Title = "Deep 1st Floor Fire Specimen Research II",
         IconName = "ico_dq.bmp",
         Description = {
-            "Defeat 80 each of <NAVI>[Deep Lava Toad]<INFO>BIO_LAVA_TOAD,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Fire Frilldora]<INFO>BIO_FIRE_FRILLDORA,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biospere, and collect 20 <ITEM>[Deep Fire Specimen]<INFO>1001330</INFO></ITEM>. Then, bring them to <NAVI>[Fire Specimen Research Administrator]<INFO>ba_in01,286,114,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
+            "Defeat 80 each of <NAVI>[Deep Lava Toad]<INFO>BIO_LAVA_TOAD,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Fire Frilldora]<INFO>BIO_FIRE_FRILLDORA,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biospere, and collect 20 <ITEM>Deep Flame Specimen<INFO>1001330</INFO></ITEM>. Then, bring them to <NAVI>[Fire Specimen Research Administrator]<INFO>ba_in01,286,114,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
         },
         Summary = "20 Deep Fire Specimens"
     },
@@ -48001,7 +48025,7 @@ QuestInfoList = {
         Title = "Deep 1st Floor Ice Specimen Research I",
         IconName = "ico_dq.bmp",
         Description = {
-            "Defeat 50 each of <NAVI>[Deep Anolian]<INFO>BIO_ANOLIAN,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Kapha]<INFO>BIO_KAPHA,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biospere, and collect 15 <ITEM>[Deep Ice Specimen]<INFO>1001332</INFO></ITEM>. Then, bring them to <NAVI>[Ice Specimen Research Administrator]<INFO>ba_in01,286,116,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
+            "Defeat 50 each of <NAVI>[Deep Anolian]<INFO>BIO_ANOLIAN,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Kapha]<INFO>BIO_KAPHA,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biospere, and collect 15 <ITEM>Deep Cold Specimen<INFO>1001332</INFO></ITEM>. Then, bring them to <NAVI>[Ice Specimen Research Administrator]<INFO>ba_in01,286,116,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
         },
         Summary = "15 Deep Ice Specimens"
     },
@@ -48018,7 +48042,7 @@ QuestInfoList = {
         Title = "Deep 1st Floor Ice Specimen Research II",
         IconName = "ico_dq.bmp",
         Description = {
-            "Defeat 80 each of <NAVI>[Deep Anolian]<INFO>BIO_ANOLIAN,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Kapha]<INFO>BIO_KAPHA,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biospere, and collect 20 <ITEM>[Deep Ice Specimen]<INFO>1001332</INFO></ITEM>. Then, bring them to <NAVI>[Ice Specimen Research Administrator]<INFO>ba_in01,286,116,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
+            "Defeat 80 each of <NAVI>[Deep Anolian]<INFO>BIO_ANOLIAN,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Kapha]<INFO>BIO_KAPHA,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biospere, and collect 20 <ITEM>Deep Cold Specimen<INFO>1001332</INFO></ITEM>. Then, bring them to <NAVI>[Ice Specimen Research Administrator]<INFO>ba_in01,286,116,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
         },
         Summary = "20 Deep Ice Specimens"
     },
@@ -48035,7 +48059,7 @@ QuestInfoList = {
         Title = "Deep 1st Floor Earth Specimen Research I",
         IconName = "ico_dq.bmp",
         Description = {
-            "Defeat 50 each of <NAVI>[Deep Sting]<INFO>BIO_STING,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Wood Goblin]<INFO>BIO_WOOD_GOBLIN,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biospere, and collect 15 <ITEM>[Deep Earth Specimen]<INFO>1001331</INFO></ITEM>. Then, bring them to <NAVI>[Earth Specimen Research Administrator]<INFO>ba_in01,286,118,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
+            "Defeat 50 each of <NAVI>[Deep Sting]<INFO>BIO_STING,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Wood Goblin]<INFO>BIO_WOOD_GOBLIN,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biospere, and collect 15 <ITEM>Deep Earth Specimen<INFO>1001331</INFO></ITEM>. Then, bring them to <NAVI>[Earth Specimen Research Administrator]<INFO>ba_in01,286,118,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
         },
         Summary = "15 Deep Earth Specimens"
     },
@@ -48052,7 +48076,7 @@ QuestInfoList = {
         Title = "Deep 1st Floor Earth Specimen Research II",
         IconName = "ico_dq.bmp",
         Description = {
-            "Defeat 80 each of <NAVI>[Deep Sting]<INFO>BIO_STING,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Wood Goblin]<INFO>BIO_WOOD_GOBLIN,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biospere, and collect 20 <ITEM>[Deep Earth Specimen]<INFO>1001331</INFO></ITEM>. Then, bring them to <NAVI>[Earth Specimen Research Administrator]<INFO>ba_in01,286,118,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
+            "Defeat 80 each of <NAVI>[Deep Sting]<INFO>BIO_STING,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Wood Goblin]<INFO>BIO_WOOD_GOBLIN,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biospere, and collect 20 <ITEM>Deep Earth Specimen<INFO>1001331</INFO></ITEM>. Then, bring them to <NAVI>[Earth Specimen Research Administrator]<INFO>ba_in01,286,118,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
         },
         Summary = "20 Deep Earth Specimens"
     },
@@ -48069,7 +48093,7 @@ QuestInfoList = {
         Title = "Deep 1st Floor Storm Specimen Research I",
         IconName = "ico_dq.bmp",
         Description = {
-            "Defeat 50 each of <NAVI>[Deep Dragon Tail]<INFO>BIO_DRAGON_TAIL,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Little Fattum]<INFO>BIO_LITTLE_FATUM,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biospere, and collect 15 <ITEM>[Deep Storm Specimen]<INFO>1001333</INFO></ITEM>. Then, bring them to <NAVI>[Storm Specimen Research Administrator]<INFO>ba_in01,286,120,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
+            "Defeat 50 each of <NAVI>[Deep Dragon Tail]<INFO>BIO_DRAGON_TAIL,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Little Fattum]<INFO>BIO_LITTLE_FATUM,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biospere, and collect 15 <ITEM>Deep Storm Specimen<INFO>1001333</INFO></ITEM>. Then, bring them to <NAVI>[Storm Specimen Research Administrator]<INFO>ba_in01,286,120,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
         },
         Summary = "15 Deep Storm Specimens"
     },
@@ -48086,7 +48110,7 @@ QuestInfoList = {
         Title = "Deep 1st Floor Storm Specimen Research II",
         IconName = "ico_dq.bmp",
         Description = {
-            "Defeat 80 each of <NAVI>[Deep Dragon Tail]<INFO>BIO_DRAGON_TAIL,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Little Fattum]<INFO>BIO_LITTLE_FATUM,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 20 <ITEM>[Deep Storm Specimen]<INFO>1001333</INFO></ITEM>. Then, bring them to <NAVI>[Storm Specimen Research Administrator]<INFO>ba_in01,286,120,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
+            "Defeat 80 each of <NAVI>[Deep Dragon Tail]<INFO>BIO_DRAGON_TAIL,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Little Fattum]<INFO>BIO_LITTLE_FATUM,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 20 <ITEM>Deep Storm Specimen<INFO>1001333</INFO></ITEM>. Then, bring them to <NAVI>[Storm Specimen Research Administrator]<INFO>ba_in01,286,120,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
         },
         Summary = "20 Deep Storm Specimens"
     },
@@ -48103,7 +48127,7 @@ QuestInfoList = {
         Title = "Deep 1st Floor Purification Specimen Research I",
         IconName = "ico_dq.bmp",
         Description = {
-            "Defeat 50 each of <NAVI>[Deep Holy Frus]<INFO>BIO_HOLY_FRUS,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Holy Skogul]<INFO>BIO_HOLY_SKOGUL,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 15 <ITEM>[Deep Purification Specimen]<INFO>1001335</INFO></ITEM>. Then, bring them to <NAVI>[Purification Specimen Research Administrator]<INFO>ba_in01,283,114,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
+            "Defeat 50 each of <NAVI>[Deep Holy Frus]<INFO>BIO_HOLY_FRUS,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Holy Skogul]<INFO>BIO_HOLY_SKOGUL,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 15 <ITEM>Deep Purified Specimen<INFO>1001335</INFO></ITEM>. Then, bring them to <NAVI>[Purification Specimen Research Administrator]<INFO>ba_in01,283,114,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
         },
         Summary = "15 Deep Purification Specimens"
     },
@@ -48120,7 +48144,7 @@ QuestInfoList = {
         Title = "Deep 1st Floor Purification Specimen Research II",
         IconName = "ico_dq.bmp",
         Description = {
-            "Defeat 80 each of <NAVI>[Deep Holy Frus]<INFO>BIO_HOLY_FRUS,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Holy Skogul]<INFO>BIO_HOLY_SKOGUL,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 20 <ITEM>[Deep Purification Specimen]<INFO>1001335</INFO></ITEM>. Then, bring them to <NAVI>[Purification Specimen Research Administrator]<INFO>ba_in01,283,114,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
+            "Defeat 80 each of <NAVI>[Deep Holy Frus]<INFO>BIO_HOLY_FRUS,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Holy Skogul]<INFO>BIO_HOLY_SKOGUL,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 20 <ITEM>Deep Purified Specimen<INFO>1001335</INFO></ITEM>. Then, bring them to <NAVI>[Purification Specimen Research Administrator]<INFO>ba_in01,283,114,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
         },
         Summary = "20 Deep Purification Specimens"
     },
@@ -48137,7 +48161,7 @@ QuestInfoList = {
         Title = "Deep 1st Floor Corruption Specimen Research I",
         IconName = "ico_dq.bmp",
         Description = {
-            "Defeat 50 each of <NAVI>[Deep Archer Skeleton]<INFO>BIO_SKEL_ARCHER,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Soldier Skeleton]<INFO>BIO_SKEL_SOLDIER,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 15 <ITEM>[Deep Corruption Specimen]<INFO>1001336</INFO></ITEM>. Then, bring them to <NAVI>[Corruption Specimen Research Administrator]<INFO>ba_in01,283,116,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
+            "Defeat 50 each of <NAVI>[Deep Archer Skeleton]<INFO>BIO_SKEL_ARCHER,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Soldier Skeleton]<INFO>BIO_SKEL_SOLDIER,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 15 <ITEM>Deep Corruption Specimen<INFO>1001336</INFO></ITEM>. Then, bring them to <NAVI>[Corruption Specimen Research Administrator]<INFO>ba_in01,283,116,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
         },
         Summary = "15 Deep Corruption Specimens"
     },
@@ -48154,7 +48178,7 @@ QuestInfoList = {
         Title = "Deep 1st Floor Corruption Specimen Research II",
         IconName = "ico_dq.bmp",
         Description = {
-            "Defeat 80 each of <NAVI>[Deep Archer Skeleton]<INFO>BIO_SKEL_ARCHER,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Soldier Skeleton]<INFO>BIO_SKEL_SOLDIER,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 20 <ITEM>[Deep Corruption Specimen]<INFO>1001336</INFO></ITEM>. Then, bring them to <NAVI>[Corruption Specimen Research Administrator]<INFO>ba_in01,283,116,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
+            "Defeat 80 each of <NAVI>[Deep Archer Skeleton]<INFO>BIO_SKEL_ARCHER,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Soldier Skeleton]<INFO>BIO_SKEL_SOLDIER,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 20 <ITEM>Deep Corruption Specimen<INFO>1001336</INFO></ITEM>. Then, bring them to <NAVI>[Corruption Specimen Research Administrator]<INFO>ba_in01,283,116,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
         },
         Summary = "20 Deep Corruption Specimens"
     },
@@ -48171,7 +48195,7 @@ QuestInfoList = {
         Title = "Deep 1st Floor Soul Specimen Research I",
         IconName = "ico_dq.bmp",
         Description = {
-            "Defeat 50 each of <NAVI>[Deep Empathizer]<INFO>BIO_EMPATHIZER,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Pray Giver]<INFO>BIO_PRAY_GIVER,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 15 <ITEM>[Deep Soul Specimen]<INFO>1001334</INFO></ITEM>. Then, bring them to <NAVI>[Soul Specimen Research Administrator]<INFO>ba_in01,283,118,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
+            "Defeat 50 each of <NAVI>[Deep Empathizer]<INFO>BIO_EMPATHIZER,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Pray Giver]<INFO>BIO_PRAY_GIVER,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 15 <ITEM>Deep Soul Specimen<INFO>1001334</INFO></ITEM>. Then, bring them to <NAVI>[Soul Specimen Research Administrator]<INFO>ba_in01,283,118,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
         },
         Summary = "15 Deep Soul Specimens"
     },
@@ -48188,7 +48212,7 @@ QuestInfoList = {
         Title = "Deep 1st Floor Soul Specimen Research II",
         IconName = "ico_dq.bmp",
         Description = {
-            "Defeat 80 each of <NAVI>[Deep Empathizer]<INFO>BIO_EMPATHIZER,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Pray Giver]<INFO>BIO_PRAY_GIVER,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 20 <ITEM>[Deep Soul Specimen]<INFO>1001334</INFO></ITEM>. Then, bring them to <NAVI>[Soul Specimen Research Administrator]<INFO>ba_in01,283,118,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
+            "Defeat 80 each of <NAVI>[Deep Empathizer]<INFO>BIO_EMPATHIZER,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Pray Giver]<INFO>BIO_PRAY_GIVER,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 20 <ITEM>Deep Soul Specimen<INFO>1001334</INFO></ITEM>. Then, bring them to <NAVI>[Soul Specimen Research Administrator]<INFO>ba_in01,283,118,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
         },
         Summary = "20 Deep Soul Specimens"
     },
@@ -48205,7 +48229,7 @@ QuestInfoList = {
         Title = "Deep 1st Floor Venom Specimen Research I",
         IconName = "ico_dq.bmp",
         Description = {
-            "Defeat 50 each of <NAVI>[Deep Pinguicula Dark]<INFO>BIO_PINGUICULA_D,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Pom Spider]<INFO>BIO_POM_SPIDER,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 15 <ITEM>[Deep Venom Specimen]<INFO>1001337</INFO></ITEM>. Then, bring them to <NAVI>[Venom Specimen Research Administrator]<INFO>ba_in01,283,120,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
+            "Defeat 50 each of <NAVI>[Deep Pinguicula Dark]<INFO>BIO_PINGUICULA_D,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Pom Spider]<INFO>BIO_POM_SPIDER,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 15 <ITEM>Deep Venom Specimen<INFO>1001337</INFO></ITEM>. Then, bring them to <NAVI>[Venom Specimen Research Administrator]<INFO>ba_in01,283,120,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
         },
         Summary = "15 Deep Venom Specimens"
     },
@@ -48222,7 +48246,7 @@ QuestInfoList = {
         Title = "Deep 1st Floor Venom Specimen Research II",
         IconName = "ico_dq.bmp",
         Description = {
-            "Defeat 80 each of <NAVI>[Deep Pinguicula Dark]<INFO>BIO_PINGUICULA_D,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Pom Spider]<INFO>BIO_POM_SPIDER,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 20 <ITEM>[Deep Venom Specimen]<INFO>1001337</INFO></ITEM>. Then, bring them to <NAVI>[Venom Specimen Research Administrator]<INFO>ba_in01,283,120,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
+            "Defeat 80 each of <NAVI>[Deep Pinguicula Dark]<INFO>BIO_PINGUICULA_D,0,0,3,-222,1</INFO></NAVI> and <NAVI>[Deep Pom Spider]<INFO>BIO_POM_SPIDER,0,0,3,-222,1</INFO></NAVI> on the deep 1st floor of the Biosphere, and collect 20 <ITEM>Deep Venom Specimen<INFO>1001337</INFO></ITEM>. Then, bring them to <NAVI>[Venom Specimen Research Administrator]<INFO>ba_in01,283,120,0,101,0</INFO></NAVI> inside Barmunt's Mansion."
         },
         Summary = "20 Deep Venom Specimens"
     },
@@ -48247,7 +48271,7 @@ QuestInfoList = {
         Title = "Hot People of Popcorn Festival!",
         IconName = "ico_ev.bmp",
         Description = {
-            "Bring 20 <ITEM>[Eagle Beads]<INFO>25341</INFO></ITEM> to <NAVI>[Aru Hia]<INFO>comodo.gat,204,143,0,101,0</INFO></NAVI> to receive fabulous Popcorn Festival attire."
+            "Bring 20 <ITEM>炙热弹珠<INFO>25341</INFO></ITEM> to <NAVI>[Aru Hia]<INFO>comodo.gat,204,143,0,101,0</INFO></NAVI> to receive fabulous Popcorn Festival attire."
         },
         Summary = "Collect 20 Eagle Beads"
     },
@@ -52549,7 +52573,7 @@ QuestInfoList = {
 		Title = "Make a Snow Bouquet",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Want to make a snow bouquet? Then, take 10x <ITEM>[Magical Snow Flower]<INFO>25425</INFO></ITEM> from the pupil and come back <NAVI>[here]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>."
+			"Want to make a snow bouquet? Then, take 10x <ITEM>魔力雪花<INFO>25425</INFO></ITEM> from the pupil and come back <NAVI>[here]<INFO>aldebaran,174,164,0,101,0</INFO></NAVI>."
 		},
 		Summary = "10x Magical Snow Flower"
 	},
@@ -52589,7 +52613,7 @@ QuestInfoList = {
 		Title = "Make a Snow Bouquet",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"You need 10x <ITEM>[Magical Snow Flower]<INFO>25425</INFO></ITEM> to make a Snow Bouquet. The snowmen also want carrots to decorate their noses, so don't forget a <ITEM>[Carrot]<INFO>515</INFO></ITEM>. - <NAVI>[Marin]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
+			"You need 10x <ITEM>魔力雪花<INFO>25425</INFO></ITEM> to make a Snow Bouquet. The snowmen also want carrots to decorate their noses, so don't forget a <ITEM>红萝卜<INFO>515</INFO></ITEM>. - <NAVI>[Marin]<INFO>aldebaran,172,162,0,101,0</INFO></NAVI>"
 		},
 		Summary = "10x Magical Snow Flower, 1x Carrot"
 	},
@@ -52606,7 +52630,7 @@ QuestInfoList = {
 		Title = "Heartwarming Winter Days",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"Snow for children who can't see! Warm cotton clothes for children in cold regions! Please donate 10 <ITEM>[Warm Cotton]<INFO>25426</INFO></ITEM> to <NAVI>[us]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>!"
+			"Snow for children who can't see! Warm cotton clothes for children in cold regions! Please donate 10 <ITEM>温暖的棉花<INFO>25426</INFO></ITEM> to <NAVI>[us]<INFO>aldebaran,124,238,0,101,0</INFO></NAVI>!"
 		},
 		Summary = "10x Warm Cotton"
 	},
@@ -54929,7 +54953,7 @@ QuestInfoList = {
 		Title = "幻象追踪器",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"爱鲁梅纳说会制作可以追踪虚幻派的追踪器。制作追踪器需要的材料有<ITEM>[荧光色液体]<INFO>7326</INFO></ITEM> 10个，<ITEM>[破裂之剑]<INFO>7110</INFO></ITEM> 10个。"
+			"爱鲁梅纳说会制作可以追踪虚幻派的追踪器。制作追踪器需要的材料有<ITEM>荧光色的液体<INFO>7326</INFO></ITEM> 10个，<ITEM>破裂之剑<INFO>7110</INFO></ITEM> 10个。"
 		},
 		Summary = "给爱鲁梅纳提交荧光色液体和破裂之剑"
 	},
@@ -55459,7 +55483,7 @@ QuestInfoList = {
 	[18081] = {
 		Title = "上交兽人战士之证-待机",
 		IconName = "ico_dq.bmp",
-		Description = { "作为帮助哥布灵管理区域而处理了兽人的证明，给哥布灵首领一天一次上交 <ITEM>[兽人战士之证]<INFO>931</INFO></ITEM>100个。" },
+		Description = { "作为帮助哥布灵管理区域而处理了兽人的证明，给哥布灵首领一天一次上交 <ITEM>兽人战士之证<INFO>931</INFO></ITEM>100个。" },
 		Summary = "04点重置",
 		CoolTimeQuest = 1
 	},
@@ -55594,7 +55618,7 @@ QuestInfoList = {
 		Title = "Special Delivery Request 1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Collect 10x <ITEM>[Fluff]<INFO>914</INFO></ITEM>, 10x <ITEM>[Clover]<INFO>705</INFO></ITEM>, 5x <ITEM>[Feather]<INFO>949</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained near Prontera."
+			"Collect 10x <ITEM>毛<INFO>914</INFO></ITEM>, 10x <ITEM>三叶幸运草<INFO>705</INFO></ITEM>, 5x <ITEM>柔毛<INFO>949</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained near Prontera."
 		},
 		Summary = "10x Fluff, 10x Clover, 5x Feather"
 	},
@@ -55611,7 +55635,7 @@ QuestInfoList = {
 		Title = "Special Delivery Request 2",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Collect 5x <ITEM>[Pointed Scale]<INFO>906</INFO></ITEM>, 10x <ITEM>[Mushroom Spore]<INFO>921</INFO></ITEM>, 10x <ITEM>[Snake Scale]<INFO>926</INFO></ITEM>  and deliver it to \'Lime Evenor\' through a booster call. The items of the quest can be obtained near Payon."
+			"Collect 5x <ITEM>鳞片梗<INFO>906</INFO></ITEM>, 10x <ITEM>香菇芽孢<INFO>921</INFO></ITEM>, 10x <ITEM>蛇鳞<INFO>926</INFO></ITEM>  and deliver it to \'Lime Evenor\' through a booster call. The items of the quest can be obtained near Payon."
 		},
 		Summary = "5x Pointed Scale, 10x Mushroom Spore, 10x Snake Scale"
 	},
@@ -55628,7 +55652,7 @@ QuestInfoList = {
 		Title = "Special Delivery Request 3",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Collect 10x <ITEM>[Poison Spore]<INFO>7033</INFO></ITEM>, 10x <ITEM>[Worm Peeling]<INFO>955</INFO></ITEM>, 10x <ITEM>[Insect Feeler]<INFO>928</INFO></ITEM> 10俺甫 and deliver it to \'Lime Evenor\' through a booster call.  The items of the quest can be obtained from the Prontera Culvert."
+			"Collect 10x <ITEM>毒魔菇芽孢<INFO>7033</INFO></ITEM>, 10x <ITEM>昆虫外壳<INFO>955</INFO></ITEM>, 10x <ITEM>昆虫触角<INFO>928</INFO></ITEM> 10俺甫 and deliver it to \'Lime Evenor\' through a booster call.  The items of the quest can be obtained from the Prontera Culvert."
 		},
 		Summary = "10x Poison Spore, 10x Worm Peeling, 10x Insect Feeler"
 	},
@@ -55645,7 +55669,7 @@ QuestInfoList = {
 		Title = "Special Delivery Request 4",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Collect 15x <ITEM>[Lantern]<INFO>1041</INFO></ITEM>, 15x <ITEM>[Mole Whiskers]<INFO>1017</INFO></ITEM>, 5x <ITEM>[Elder Pixie's Moustache]<INFO>1040</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained from Einbech's Abandoned Mine Dungeon."
+			"Collect 15x <ITEM>手提灯<INFO>1041</INFO></ITEM>, 15x <ITEM>鼠须<INFO>1017</INFO></ITEM>, 5x <ITEM>老妖精胡须<INFO>1040</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained from Einbech's Abandoned Mine Dungeon."
 		},
 		Summary = "15x Lantern, 15x Mole Whiskers, 5x Elder Pixie's Moustache"
 	},
@@ -55662,7 +55686,7 @@ QuestInfoList = {
 		Title = "Special Delivery Request 5",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Collect 10x <ITEM>[Sharp Scale]<INFO>963</INFO></ITEM>, 10x <ITEM>[Fin]<INFO>951</INFO></ITEM>, 10x <ITEM>[Gill]<INFO>956</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained from the Izlude's Undersea Tunnel."
+			"Collect 10x <ITEM>锐利麟片<INFO>963</INFO></ITEM>, 10x <ITEM>背鳍<INFO>951</INFO></ITEM>, 10x <ITEM>鳃刺<INFO>956</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained from the Izlude's Undersea Tunnel."
 		},
 		Summary = "10x Sharp Scale, 10x Fin, 10x Gill"
 	},
@@ -55679,7 +55703,7 @@ QuestInfoList = {
 		Title = "Special Delivery Request 6",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Collect 15x <ITEM>[Daenggie]<INFO>901</INFO></ITEM>, 10x <ITEM>[Short Daenggie]<INFO>1094</INFO></ITEM>, 15x <ITEM>[Black Hair]<INFO>1020</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained from the Abandoned Village in the Payon Dungeon."
+			"Collect 15x <ITEM>辫子<INFO>901</INFO></ITEM>, 10x <ITEM>短辫子<INFO>1094</INFO></ITEM>, 15x <ITEM>长发<INFO>1020</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained from the Abandoned Village in the Payon Dungeon."
 		},
 		Summary = "15x Daenggie, 10x Short Daenggie 10, 15x Black Hair"
 	},
@@ -55696,7 +55720,7 @@ QuestInfoList = {
 		Title = "Special Delivery Request 7",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Collect 15x <ITEM>[Needle of Alarm]<INFO>1095</INFO></ITEM>, 15x <ITEM>[Mould Powder]<INFO>7001</INFO></ITEM>, 10x <ITEM>[Worn Out Page]<INFO>1097</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained from the Aldebaran Clock Tower."
+			"Collect 15x <ITEM>指针<INFO>1095</INFO></ITEM>, 15x <ITEM>霉菌粉末<INFO>7001</INFO></ITEM>, 10x <ITEM>破旧书页<INFO>1097</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained from the Aldebaran Clock Tower."
 		},
 		Summary = "15x Needle of Alarm, 15x Mould Powder, 10x Worn Out Page"
 	},
@@ -55713,7 +55737,7 @@ QuestInfoList = {
 		Title = "Special Delivery Request 8",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Collect 20x <ITEM>[Turtle Shell]<INFO>967</INFO></ITEM>, 5x <ITEM>[Ice Cubic]<INFO>7066</INFO></ITEM>, 5x <ITEM>[Old Shuriken]<INFO>7072</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained from the Turtle Island dungeon near Alberta."
+			"Collect 20x <ITEM>乌龟外壳<INFO>967</INFO></ITEM>, 5x <ITEM>冰块一角<INFO>7066</INFO></ITEM>, 5x <ITEM>锈的飞镖<INFO>7072</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained from the Turtle Island dungeon near Alberta."
 		},
 		Summary = "20x Turtle Shell, 5x Ice Cubic, 5x Old Shuriken"
 	},
@@ -55730,7 +55754,7 @@ QuestInfoList = {
 		Title = "Special Delivery Request 9",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Collect 10x <ITEM>[Tongue]<INFO>1015</INFO></ITEM>, 15x <ITEM>[Manacles]<INFO>1098</INFO></ITEM>, 15x <ITEM>[Worn-out Prison Uniform]<INFO>1099</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained from the Glastheim Prison."
+			"Collect 10x <ITEM>细长舌头<INFO>1015</INFO></ITEM>, 15x <ITEM>手铐<INFO>1098</INFO></ITEM>, 15x <ITEM>老旧犯人服<INFO>1099</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained from the Glastheim Prison."
 		},
 		Summary = "10x Tongue, 15x Manacles, 15x Worn-out Prison Uniform"
 	},
@@ -55747,7 +55771,7 @@ QuestInfoList = {
 		Title = "Special Delivery Request 10",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Collect 30x <ITEM>[Glacial Heart]<INFO>7561</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained from Rachel's Ice Dungeon."
+			"Collect 30x <ITEM>冰块心脏<INFO>7561</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained from Rachel's Ice Dungeon."
 		},
 		Summary = "30x Glacial Heart"
 	},
@@ -55764,7 +55788,7 @@ QuestInfoList = {
 		Title = "Special Delivery Request 11",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"Collect 15x <ITEM>[Rusty Screw]<INFO>7317</INFO></ITEM>, 15x <ITEM>[Used Iron Plate]<INFO>7319</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained near Juperos and Einbroch."
+			"Collect 15x <ITEM>生锈的螺丝<INFO>7317</INFO></ITEM>, 15x <ITEM>老旧的铁板<INFO>7319</INFO></ITEM> and deliver it to \'Lime Evenor\' through a booster call. The quest items can be obtained near Juperos and Einbroch."
 		},
 		Summary = "15x Rusty Screw, 15x Used Iron Plate"
 	},
@@ -57795,10 +57819,10 @@ QuestInfoList = {
         IconName = "ico_jq.bmp",
         Description = {
             "If you supply me with the materials I need right now, I'll teach you what I can make in return. The materials I need right now are...",
-            "⒑<ITEM>[Yellow Gemstone]<INFO>715</INFO></ITEM> x 5,",
-            "⒑<ITEM>[Empty Potion Bottle]<INFO>1093</INFO></ITEM> x 4,",
-            "⒑<ITEM>[Heart of Mermaid]<INFO>950</INFO></ITEM> x 10,",
-            "⒑<ITEM>[Powder of Butterfly Wing]<INFO>1057</INFO></ITEM> x 10",
+            "⒑<ITEM>黄色魔力矿石<INFO>715</INFO></ITEM> x 5,",
+            "⒑<ITEM>空药瓶<INFO>1093</INFO></ITEM> x 4,",
+            "⒑<ITEM>人鱼之心<INFO>950</INFO></ITEM> x 10,",
+            "⒑<ITEM>蛾蝶翅膀粉末<INFO>1057</INFO></ITEM> x 10",
             "   ",
             "Once you have all the materials, take them to <NAVI>[Pisrik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
         },
@@ -57812,7 +57836,7 @@ QuestInfoList = {
         Title = "Pisrik's Research (2-1)",
         IconName = "ico_jq.bmp",
         Description = {
-            "I need about 20 <ITEM>[Carnivorous Plant's Seed]<INFO>1032</INFO></ITEM> to experiment with my theory. Could you help me with this as well?",
+            "I need about 20 <ITEM>噬人树花<INFO>1032</INFO></ITEM> to experiment with my theory. Could you help me with this as well?",
             "   ",
             "Once you have all the materials, take them to <NAVI>[Pisrik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
         },
@@ -57826,7 +57850,7 @@ QuestInfoList = {
         Title = "Pisrik's Research (2-2)",
         IconName = "ico_jq.bmp",
         Description = {
-            "My experiment doesn't seem to be going well as expected. Could you get me just one more <ITEM>[Carnivorous Plant's Seed]<INFO>1032</INFO></ITEM>? I'd appreciate it.",
+            "My experiment doesn't seem to be going well as expected. Could you get me just one more <ITEM>噬人树花<INFO>1032</INFO></ITEM>? I'd appreciate it.",
             "   ",
             "Once you have all the materials, take them to <NAVI>[Pisrik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>."
         },
@@ -57842,7 +57866,7 @@ QuestInfoList = {
         Description = {
             "Um... I'm sorry, but could you get me a pair of glasses that look like the ones I've been wearing? I can't see anything in front of me, so I can't move. I'd be really grateful if you could help me with this.",
             "   ",
-            "Get <ITEM>[Sphinx Glasses]<INFO>2243</INFO></ITEM> and take them to <NAVI>[Pisrik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>.",
+            "Get <ITEM>旋转眼镜<INFO>2243</INFO></ITEM> and take them to <NAVI>[Pisrik]<INFO>yuno_in04,33,108,0,101,0</INFO></NAVI>.",
             "^FF0000∝ Please be careful not to have other Sphinx Glasses in your inventory in use.^000000"
         },
         Summary = "1 Sphinx Glasses",
@@ -57855,7 +57879,7 @@ QuestInfoList = {
         Title = "Bard's Song (1)",
         IconName = "ico_jq.bmp",
         Description = {
-            "I'm concerned about the words of a timid young man who liked the <ITEM>[Tropical Sograt]<INFO>12112</INFO></ITEM> he met in Prontera. A bard's curse... Should I start from the <NAVI>[Morroc Tavern]<INFO>morocc_in,179,65,0,101,0</INFO></NAVI>?"
+            "I'm concerned about the words of a timid young man who liked the <ITEM>热带的苏克拉特<INFO>12112</INFO></ITEM> he met in Prontera. A bard's curse... Should I start from the <NAVI>[Morroc Tavern]<INFO>morocc_in,179,65,0,101,0</INFO></NAVI>?"
         },
         Summary = "Information Gathering"
     },
@@ -57881,7 +57905,7 @@ QuestInfoList = {
             "Is there a place where I can go through the tree branches? Niflheim?",
             "Should I get five eggs from Ihire in Niflheim?",
             "  ",
-            "Find Ihire in Niflheim and get 5 <ITEM>[Eggs]<INFO>574</INFO></ITEM> to bring to <NAVI>[Raiot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>.",
+            "Find Ihire in Niflheim and get 5 <ITEM>蛋<INFO>574</INFO></ITEM> to bring to <NAVI>[Raiot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>.",
             "  ",
             "⒑Ihire's Spawning Locations",
             "<NAVI>[Location]<INFO>niflheim,239,70,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,185,205,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,85,203,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,149,81,0,101,0</INFO></NAVI>/<NAVI>[Location]<INFO>niflheim,209,144,0,101,0</INFO></NAVI>",
@@ -57897,9 +57921,9 @@ QuestInfoList = {
         Title = "Bard's Song (2)",
         IconName = "ico_jq.bmp",
         Description = {
-            "Strange?! I thought I got five eggs from Ihire? If you want to learn the skill, bring me one <ITEM>[Ihire Doll]<INFO>7277</INFO></ITEM>?",
+            "Strange?! I thought I got five eggs from Ihire? If you want to learn the skill, bring me one <ITEM>僵尸娃娃<INFO>7277</INFO></ITEM>?",
             "  ",
-            "Get 1 <ITEM>[Ihire Doll]<INFO>7277</INFO></ITEM> and bring it to <NAVI>[Raiot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>."
+            "Get 1 <ITEM>僵尸娃娃<INFO>7277</INFO></ITEM> and bring it to <NAVI>[Raiot]<INFO>morocc_in,169,72,0,101,0</INFO></NAVI>."
         },
         Summary = "1 Ihire Doll",
         NpcSpr = "2_M_BARD_ORIENT",
@@ -57927,7 +57951,7 @@ QuestInfoList = {
         Description = {
             "Injured <NAVI>[Slarti]<INFO>gef_fild13,297,242,0,101,0</INFO></NAVI> is unable to regain his composure. To help him regain consciousness...",
             "  ",
-            "⒑Get 1 <ITEM>[Red Potion]<INFO>909</INFO></ITEM>."
+            "⒑Get 1 <ITEM>杰勒比结晶<INFO>909</INFO></ITEM>."
         },
         Summary = "Give a Red Potion to Slarti",
         NpcSpr = "4_M_CRU",
@@ -57970,9 +57994,9 @@ QuestInfoList = {
             "<NAVI>[Arthur]<INFO>prt_church,87,125,0,101,0</INFO></NAVI> in Prontera needs ingredients for the goblin poison antidote. He provided the ingredients. Get the ingredients.",
             "  ",
             "⒑Ingredients for the remedy:",
-            "<ITEM>[Grapes]<INFO>514</INFO></ITEM> x 1, <ITEM>[Unripe Apple]<INFO>619</INFO></ITEM> x 1, <ITEM>[Empty Bottle]<INFO>713</INFO></ITEM> x 3,",
-            "<ITEM>[Jellopy]<INFO>909</INFO></ITEM> x 5, <ITEM>[Squishy Liquid]<INFO>938</INFO></ITEM> x 20,",
-            "<ITEM>[Coal]<INFO>1003</INFO></ITEM> x 1, <ITEM>[Sapha]<INFO>7053</INFO></ITEM> x 3"
+            "<ITEM>葡萄<INFO>514</INFO></ITEM> x 1, <ITEM>青苹果<INFO>619</INFO></ITEM> x 1, <ITEM>空瓶<INFO>713</INFO></ITEM> x 3,",
+            "<ITEM>杰勒比结晶<INFO>909</INFO></ITEM> x 5, <ITEM>粘稠液体<INFO>938</INFO></ITEM> x 20,",
+            "<ITEM>煤矿<INFO>1003</INFO></ITEM> x 1, <ITEM>赛依伐<INFO>7053</INFO></ITEM> x 3"
         },
         Summary = "Remedy Ingredients",
         NpcSpr = "4_M_SAGE_C",
@@ -58179,7 +58203,7 @@ QuestInfoList = {
         Description = {
             "Esophe seems to have lost all his passion and enthusiasm. He mentioned something about hearing about Esophe's early days during the observation. I need to collect some items like 5 Candy and 3 Witherless Roses for a beginner knight. Should I pick them up?",
             "   ",
-            "⒑Collect 5 <ITEM>[Candy]<INFO>530</INFO></ITEM> and 3 <ITEM>[Witherless Roses]<INFO>748</INFO></ITEM> and take them to <NAVI>[Esophe]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>."
+            "⒑Collect 5 <ITEM>拐杖糖<INFO>530</INFO></ITEM> and 3 <ITEM>永恒玫瑰<INFO>748</INFO></ITEM> and take them to <NAVI>[Esophe]<INFO>prt_in,85,99,0,101,0</INFO></NAVI>."
         },
         Summary = "For the discouraged knight",
         NpcSpr = "4_M_JOB_KNIGHT2",
@@ -58250,7 +58274,7 @@ QuestInfoList = {
         Description = {
             "Prove that you can use your strength correctly.",
             "   ",
-            "⒑Collect 20 <ITEM>[Plant Stems]<INFO>905</INFO></ITEM> and 3 <ITEM>[Sprouts]<INFO>711</INFO></ITEM>",
+            "⒑Collect 20 <ITEM>植物梗<INFO>905</INFO></ITEM> and 3 <ITEM>芽苗<INFO>711</INFO></ITEM>",
             "⒑Visit <NAVI>[Master Monk]<INFO>monk_test,316,69,0,101,0</INFO></NAVI>."
         },
         Summary = "",
@@ -58279,7 +58303,7 @@ QuestInfoList = {
         Description = {
             "Do you know the skill 'Redemptio'? Redemptio is a sacrifice skill, which means that you will become incapacitated in battle instead of saving your party members. Please don't forget that point.",
             "   ",
-            "⒑Learn the Resurrection skill at level 1 or higher, collect 20 <ITEM>[Blue Gemstone]<INFO>717</INFO></ITEM>, and 30 <ITEM>[Holy Water]<INFO>523</INFO></ITEM>",
+            "⒑Learn the Resurrection skill at level 1 or higher, collect 20 <ITEM>蓝色魔力矿石<INFO>717</INFO></ITEM>, and 30 <ITEM>圣水<INFO>523</INFO></ITEM>",
             "⒑With the ingredients, visit <NAVI>[Linus Nun]<INFO>prt_church,111,112,0,101,0</INFO></NAVI>."
         },
         Summary = "",
@@ -58293,10 +58317,10 @@ QuestInfoList = {
         IconName = "ico_jq.bmp",
         Description = {
             "Once you bring the materials, I'll prepare the ambitious ^FF0000Greedy Forging^000000 skill for you.",
-            "⒑1 <ITEM>[Steel Hammer]<INFO>613</INFO></ITEM>",
-            "⒑1 <ITEM>[Detrimindextrose]<INFO>971</INFO></ITEM>",
-            "⒑1 <ITEM>[Steel]<INFO>999</INFO></ITEM>",
-            "⒑5 <ITEM>[Coal]<INFO>1003</INFO></ITEM>",
+            "⒑1 <ITEM>钢铁锤子<INFO>613</INFO></ITEM>",
+            "⒑1 <ITEM>帝特立米药水<INFO>971</INFO></ITEM>",
+            "⒑1 <ITEM>钢铁<INFO>999</INFO></ITEM>",
+            "⒑5 <ITEM>煤矿<INFO>1003</INFO></ITEM>",
             "⒑500 Zeny",
             "   ",
             "After obtaining all the materials, take them to <NAVI>[Archie]<INFO>geffen,178,72,0,101,0</INFO></NAVI>."
@@ -58326,8 +58350,8 @@ QuestInfoList = {
         IconName = "ico_jq.bmp",
         Description = {
             "Give me one more chance; I can really do it well!",
-            "⒑1 <ITEM>[Steel]<INFO>999</INFO></ITEM>",
-            "⒑3 <ITEM>[Coal]<INFO>1003</INFO></ITEM>",
+            "⒑1 <ITEM>钢铁<INFO>999</INFO></ITEM>",
+            "⒑3 <ITEM>煤矿<INFO>1003</INFO></ITEM>",
             "   ",
             "After obtaining all the materials, take them to <NAVI>[Archie]<INFO>geffen,178,72,0,101,0</INFO></NAVI>."
         },
@@ -58356,7 +58380,7 @@ QuestInfoList = {
         IconName = "ico_jq.bmp",
         Description = {
             "I think you'll need to bring a new steel hammer now.",
-            "⒑1 <ITEM>[Steel Hammer]<INFO>613</INFO></ITEM>",
+            "⒑1 <ITEM>钢铁锤子<INFO>613</INFO></ITEM>",
             "   ",
             "After obtaining a new steel hammer, take it to <NAVI>[Archie]<INFO>geffen,178,72,0,101,0</INFO></NAVI>."
         },
@@ -64227,7 +64251,7 @@ QuestInfoList = {
 	[22064] = {
 		Title = "Man with the Fox Mask",
 		Description = {
-			"<NAVI>[The Man with the Fox Mask]<INFO>pay_arche,63,109,101,0</INFO></NAVI> says he needs 999 <ITEM>[Nine Tails]<INFO>1022</INFO></ITEM>, and if you bring them, he will give you his <ITEM>[Kitsune Mask]<INFO>5069</INFO></ITEM>."
+			"<NAVI>[The Man with the Fox Mask]<INFO>pay_arche,63,109,101,0</INFO></NAVI> says he needs 999 <ITEM>狐狸尾巴<INFO>1022</INFO></ITEM>, and if you bring them, he will give you his <ITEM>狐狸假面<INFO>5069</INFO></ITEM>."
 		},
 		Summary = "Gather 999 Nine Tails"
 	},
