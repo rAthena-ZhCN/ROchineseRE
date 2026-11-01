@@ -30549,16 +30549,19 @@ QuestInfoList = {
 	},
 	[11463] = {
 		Title = "不是说是准备派对的吗？",
-		Description = { "从狄恩房间门口听到奇怪的事，但还是装作没听到。进入房间与<NAVI>[狄恩]<INFO>rebel_in,122,71,0,101,0</INFO></NAVI>对话，先完成承诺的事。" },
+		Description = { "从狄恩房间门口听到奇怪的事，但还是装作没听到。进入<NAVI>[狄恩的房间]<INFO>rebel_in,164,88,0,101,0</INFO></NAVI>与狄恩对话，先完成派对准备。" },
 		Summary = "与狄恩对话",
 		NpcNavi = "rebel_in",
-		NpcPosX = 122,
-		NpcPosY = 71
+		NpcPosX = 164,
+		NpcPosY = 88
 	},
 	[11464] = {
 		Title = "不是说是准备派对的吗？",
-		Description = { "关于事情已经跟拉西斯说过了。快去和拉西斯对话吧。" },
-		Summary = "与拉西斯对话"
+		Description = { "狄恩说派对材料由拉西斯负责。前往<NAVI>[拉西斯]<INFO>rebel_in,119,68,0,101,0</INFO></NAVI>处询问缺少的材料。" },
+		Summary = "向拉西斯询问材料",
+		NpcNavi = "rebel_in",
+		NpcPosX = 119,
+		NpcPosY = 68
 	},
 	[11465] = {
 		Title = "狄恩的上等茗茶",
