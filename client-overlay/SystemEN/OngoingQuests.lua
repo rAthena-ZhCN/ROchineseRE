@@ -30122,18 +30122,27 @@ QuestInfoList = {
 	},
 	[11400] = {
 		Title = "吉尔伯格家族",
-		Description = { "与吉尔伯格家族的首长 王妃 凯瑟琳D吉尔伯格对话。" },
-		Summary = "与王妃对话"
+		Description = { "前往<NAVI>[吉尔伯格女王]<INFO>prt_cas_q,93,129,0,101,0</INFO></NAVI>处，与凯瑟琳·D·吉尔伯格女王对话。" },
+		Summary = "与女王对话",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 93,
+		NpcPosY = 129
 	},
 	[11401] = {
 		Title = "吉尔伯格家族",
-		Description = { "王妃忙于公务没有时间对话。与警卫员杰拉德对话吧。" },
-		Summary = "与杰拉德对话"
+		Description = { "女王忙于公务。前往<NAVI>[保镖杰拉德]<INFO>prt_cas_q,85,127,0,101,0</INFO></NAVI>处询问。" },
+		Summary = "与杰拉德对话",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 85,
+		NpcPosY = 127
 	},
 	[11402] = {
 		Title = "吉尔伯格家族",
-		Description = { "到宴会厅见一下王妃的姐妹‘斯凯林 萨哈’。" },
-		Summary = "与斯凯林对话"
+		Description = { "前往<NAVI>[斯凯林·萨哈]<INFO>prt_cas,73,244,0,101,0</INFO></NAVI>处，询问吉尔伯格家族与女王的事。" },
+		Summary = "与斯凯林对话",
+		NpcNavi = "prt_cas",
+		NpcPosX = 73,
+		NpcPosY = 244
 	},
 	[11403] = {
 		Title = "吉尔伯格家族",
