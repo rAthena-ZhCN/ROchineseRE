@@ -18441,13 +18441,19 @@ QuestInfoList = {
 	},
 	[7738] = {
 		Title = "为了下一个作战",
-		Description = { "成功获得反叛者的协助后计划进行得非常顺利。前往艾音布罗克接取下一个指示。" },
-		Summary = "与尼希尔对话"
+		Description = { "成功获得反叛者协助。前往<NAVI>[艾因布罗克旅馆]<INFO>ein_in01,274,278,0,101,0</INFO></NAVI>，接取下一个指示。" },
+		Summary = "与尼希尔对话",
+		NpcNavi = "ein_in01",
+		NpcPosX = 274,
+		NpcPosY = 278
 	},
 	[7739] = {
 		Title = "寻找祝福之星！",
-		Description = { "作战地点为艾音布罗克北部野外。坐标为 280 332，协助反叛者作战并在成功后寻回祝福之星。" },
-		Summary = "回收祝福之星"
+		Description = { "作战地点为艾因布罗克北部野外。前往<NAVI>[作战地点]<INFO>ein_fild04,284,332,0,101,0</INFO></NAVI>协助反叛者，成功后寻回祝福之星。" },
+		Summary = "回收祝福之星",
+		NpcNavi = "ein_fild04",
+		NpcPosX = 284,
+		NpcPosY = 332
 	},
 	[7740] = {
 		Title = "找回的星星",
