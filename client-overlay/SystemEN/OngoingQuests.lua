@@ -44185,12 +44185,18 @@ QuestInfoList = {
 	[16015] = {
 		Title = "败因为仅仅是尝试",
 		Description = { "冲动搭话被忽视了，去找埃琳娜求救吧。" },
-		Summary = "去找埃琳娜"
+		Summary = "去找埃琳娜",
+		NpcNavi = "rebel_in",
+		NpcPosX = 70,
+		NpcPosY = 78
 	},
 	[16016] = {
 		Title = "借助熟练者的智慧",
 		Description = { "去找埃琳娜介绍的反叛者成员埃里克森，获得关于双胞胎的信息吧。" },
-		Summary = "去找埃里克森"
+		Summary = "去找埃里克森",
+		NpcNavi = "rebel_in",
+		NpcPosX = 91,
+		NpcPosY = 67
 	},
 	[16017] = {
 		Title = "双胞胎的真心告白",
