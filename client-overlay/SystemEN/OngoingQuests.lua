@@ -41796,13 +41796,19 @@ QuestInfoList = {
 	},
 	[14613] = {
 		Title = "2层的埃尔斯特",
-		Description = { "去找2层的埃尔斯特对话吧，说服了那位的话之后会很顺利的。" },
-		Summary = "去找2层的埃尔斯特"
+		Description = { "前往<NAVI>[埃尔斯特]<INFO>rebel_in,210,89,0,101,0</INFO></NAVI>处说服特种部队指挥官。" },
+		Summary = "去找2层的埃尔斯特",
+		NpcNavi = "rebel_in",
+		NpcPosX = 210,
+		NpcPosY = 89
 	},
 	[14614] = {
 		Title = "说服实权者",
-		Description = { "去说服2层的实权者们后来找我吧，不可以去别的地方，一定要来找我！我们冒险家加油哦！" },
-		Summary = "说服实权者后报告"
+		Description = { "说服2层的实权者后，回到<NAVI>[雷兹]<INFO>rebel_in,21,45,0,101,0</INFO></NAVI>处报告。" },
+		Summary = "说服实权者后报告",
+		NpcNavi = "rebel_in",
+		NpcPosX = 21,
+		NpcPosY = 45
 	},
 	[14615] = {
 		Title = "协商与协作之间",
