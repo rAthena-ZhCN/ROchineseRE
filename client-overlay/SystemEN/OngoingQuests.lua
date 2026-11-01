@@ -20457,7 +20457,7 @@ QuestInfoList = {
 	},
 	[8201] = {
 		Title = "遗失的数据",
-		Description = { "资料？是廖森让你来的吗？应该是上次玩寻宝游戏的时候掉到桥下去了！用鱼竿钓的话，能钓到吗～？听说西南面的喵呜们正在教人钓鱼。可以去<NAVI>[鱼群]<INFO>mid_camp,75,135,0,101,0</INFO></NAVI>或<NAVI>[野外鱼群]<INFO>spl_fild02,314,165,0,101,0</INFO></NAVI>钓鱼，运气好的话能钓到。" },
+		Description = { "资料？是廖森让你来的吗？应该是上次玩寻宝游戏的时候掉到桥下去了！用鱼竿钓的话，能钓到吗～？听说西南面的喵呜们正在教人钓鱼。先找<NAVI>[毛茸茸的加鲁克]<INFO>mid_camp,72,94,0,101,0</INFO></NAVI>了解钓鱼，再找<NAVI>[凶猛的戈鲁格]<INFO>mid_camp,69,144,0,101,0</INFO></NAVI>学习，然后去<NAVI>[鱼群]<INFO>mid_camp,75,135,0,101,0</INFO></NAVI>或<NAVI>[野外鱼群]<INFO>spl_fild02,314,165,0,101,0</INFO></NAVI>钓鱼，运气好的话能钓到。" },
 		Summary = "去<NAVI>[鱼群]<INFO>mid_camp,75,135,0,101,0</INFO></NAVI>钓鱼，钓到遗失的文件后回去找汉森",
 		NpcNavi = "mid_camp",
 		NpcPosX = 75,
