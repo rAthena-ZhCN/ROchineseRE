@@ -44077,8 +44077,11 @@ QuestInfoList = {
 	},
 	[16011] = {
 		Title = "进入擂台",
-		Description = { "做好心理准备后通过伊班 伊巴诺夫进入擂台吧。" },
-		Summary = "进入擂台"
+		Description = { "做好心理准备后，通过<NAVI>[伊万]<INFO>rebel_in,177,28,0,101,0</INFO></NAVI>进入竞技场。" },
+		Summary = "进入擂台",
+		NpcNavi = "rebel_in",
+		NpcPosX = 184,
+		NpcPosY = 28
 	},
 	[16012] = {
 		Title = "头疼的双胞胎",
@@ -44330,13 +44333,19 @@ QuestInfoList = {
 	},
 	[16060] = {
 		Title = "战争狂的语言就是战斗",
-		Description = { "埃琳娜用非常感兴趣的眼神看着你，去和埃琳娜对话后进入待机室吧。" },
-		Summary = "击败埃琳娜"
+		Description = { "埃琳娜对你的提议很感兴趣。前往<NAVI>[埃琳娜·沃尔科娃]<INFO>rebel_in,70,78,0,101,0</INFO></NAVI>处接受战斗，再进入等候室。" },
+		Summary = "击败埃琳娜",
+		NpcNavi = "rebel_in",
+		NpcPosX = 70,
+		NpcPosY = 78
 	},
 	[16061] = {
 		Title = "公平公正的胜负",
-		Description = { "与埃琳娜一对一战斗。" },
-		Summary = ""
+		Description = { "与埃琳娜进行一对一战斗。前往<NAVI>[埃琳娜·沃尔科娃]<INFO>rebel_in,70,78,0,101,0</INFO></NAVI>处准备。" },
+		Summary = "与埃琳娜战斗",
+		NpcNavi = "rebel_in",
+		NpcPosX = 70,
+		NpcPosY = 78
 	},
 	[16062] = {
 		Title = "Gen of Niflheim",
