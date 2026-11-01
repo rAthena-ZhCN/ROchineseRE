@@ -15428,16 +15428,22 @@ QuestInfoList = {
 	[7182] = {
 		Title = "邪派来访",
 		IconName = "ico_ep.bmp",
-		Description = { "听说邪派的使节从魔怒克来访。阿耶罗认定我是信得过的人，而现在邪派的使节团就在2楼右边的房间里。" },
-		Summary = "和邪派使节会面"
+		Description = { "听说邪派的使节从魔怒克来访。艾洛认定我是信得过的人，而现在邪派的使节团就在<NAVI>[维汉努斯]<INFO>mid_campin,168,128,0,101,0</INFO></NAVI>所在的2楼右边房间里。" },
+		Summary = "和<NAVI>[维汉努斯]<INFO>mid_campin,168,128,0,101,0</INFO></NAVI>会面",
+		NpcNavi = "mid_campin",
+		NpcPosX = 168,
+		NpcPosY = 128
 	},
 	[7183] = {
 		Title = "邪派的邀请",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"惊人的是，皮夏努斯也是从邪派的首都艾尔迪卡斯特来的邪派，邪派的拉伯邑说首都已经开放人类拜访，因此正式邀请人类前往。首先必须从警备队长阿巴蓝齐那边得到使用隧道的许可。"
+			"惊人的是，维汉纳斯也是从邪派的首都艾尔迪卡斯特来的邪派，邪派的拉维尔说首都已经开放人类拜访，因此正式邀请人类前往。首先必须从<NAVI>[阿巴蓝齐]<INFO>man_in01,315,52,0,101,0</INFO></NAVI>那边得到使用隧道的许可。"
 		},
-		Summary = "在魔怒克和阿巴蓝齐会面"
+		Summary = "在魔怒克和<NAVI>[阿巴蓝齐]<INFO>man_in01,315,52,0,101,0</INFO></NAVI>会面",
+		NpcNavi = "man_in01",
+		NpcPosX = 315,
+		NpcPosY = 52
 	},
 	[7184] = {
 		Title = "前往艾尔迪卡斯特！",
@@ -15448,8 +15454,11 @@ QuestInfoList = {
 	[7185] = {
 		Title = "督察都夏",
 		IconName = "ico_ep.bmp",
-		Description = { "离开首都前，司令官希巴阿吉普命令我要见过督察督夏后才能走，虽然不知道是什么事，但在离开魔怒克前必须去见见叫做都夏的督察才行。都夏就在皮夏努斯的隔壁房。" },
-		Summary = "和督察都夏会面"
+		Description = { "离开首都前，司令官希巴·阿吉普命令我要见过督察都夏后才能走，虽然不知道是什么事，但在离开魔怒克前必须去见见叫做都夏的督察才行。<NAVI>[都夏]<INFO>mid_campin,168,170,0,101,0</INFO></NAVI>就在维汉纳斯的隔壁房。" },
+		Summary = "和<NAVI>[都夏]<INFO>mid_campin,168,170,0,101,0</INFO></NAVI>会面",
+		NpcNavi = "mid_campin",
+		NpcPosX = 168,
+		NpcPosY = 170
 	},
 	[7186] = {
 		Title = "都夏的密令-调查",
@@ -15460,8 +15469,11 @@ QuestInfoList = {
 	[7187] = {
 		Title = "都夏的密令-夏伊",
 		IconName = "ico_ep.bmp",
-		Description = { "艾尔迪卡斯特的酒店'博曼普罗内拉'的老板夏伊，去向居住在首都的邪派打听有关'带动物耳朵的男生'的情报。" },
-		Summary = "和邪派对话收集情报"
+		Description = { "艾尔迪卡斯特的酒店'博曼普罗内拉'的老板<NAVI>[夏伊]<INFO>dic_in01,245,119,0,101,0</INFO></NAVI>，去向居住在首都的邪派打听有关'带动物耳朵的男生'的情报。" },
+		Summary = "和邪派对话收集情报",
+		NpcNavi = "dic_in01",
+		NpcPosX = 245,
+		NpcPosY = 119
 	},
 	[7188] = {
 		Title = "收集情报-在矿场",
@@ -15484,80 +15496,110 @@ QuestInfoList = {
 	[7191] = {
 		Title = "夏伊的命令-皮凯伊",
 		IconName = "ico_ep.bmp",
-		Description = { "为顺利搜集情报，夏伊将猫咪手商队的皮凯伊介绍给我，要是皮凯伊不肯配合的话，就跟他说要^4d4dff'夏伊会外送特制鸡尾酒过来'给他……" },
-		Summary = "和皮凯伊会面"
+		Description = { "为顺利搜集情报，夏伊将猫咪手商队的<NAVI>[皮凯伊]<INFO>dic_fild01,231,174,0,101,0</INFO></NAVI>介绍给我，要是皮凯伊不肯配合的话，就跟他说要^4d4dff'夏伊会外送特制鸡尾酒过来'给他……" },
+		Summary = "和<NAVI>[皮凯伊]<INFO>dic_fild01,231,174,0,101,0</INFO></NAVI>会面",
+		NpcNavi = "dic_fild01",
+		NpcPosX = 231,
+		NpcPosY = 174
 	},
 	[7192] = {
 		Title = "皮凯伊的情报",
 		IconName = "ico_ep.bmp",
-		Description = { "根据皮凯伊提供的消息指出，猫耳男和邪派首都的人气王阿哈特关系密切，且阿哈特是在裂缝附近被发现在的，但邪派否认这个说法，究竟和裂缝有何关系呢？" },
-		Summary = "和夏伊讨论"
+		Description = { "根据<NAVI>[皮凯伊]<INFO>dic_fild01,231,174,0,101,0</INFO></NAVI>提供的消息指出，猫耳男和邪派首都的人气王阿哈特关系密切，且阿哈特是在裂缝附近被发现在的，但邪派否认这个说法，究竟和裂缝有何关系呢？" },
+		Summary = "和夏伊讨论",
+		NpcNavi = "dic_in01",
+		NpcPosX = 245,
+		NpcPosY = 119
 	},
 	[7193] = {
 		Title = "调查裂缝",
 		IconName = "ico_ep.bmp",
-		Description = { "和夏伊讨论完后，我决定到南边的裂缝附近查出真相，希望可以找到足以当作证据的东西……" },
-		Summary = "调查裂缝附近"
+		Description = { "和夏伊讨论完后，我决定到南边的<NAVI>[裂缝]<INFO>dic_fild02,228,55,0,101,0</INFO></NAVI>附近查出真相，希望可以找到足以当作证据的东西……" },
+		Summary = "调查<NAVI>[裂缝]<INFO>dic_fild02,228,55,0,101,0</INFO></NAVI>附近",
+		NpcNavi = "dic_fild02",
+		NpcPosX = 228,
+		NpcPosY = 55
 	},
 	[7194] = {
 		Title = "这个血迹究竟是？",
 		IconName = "ico_ep.bmp",
-		Description = { "在裂缝附近发现鲜血渗入土壤后形成的凝固血迹，这和大臣阿哈特有何关系呢？" },
-		Summary = ""
+		Description = { "在裂缝附近发现鲜血渗入土壤后形成的<ITEM>凝固的血痕<INFO>6306</INFO></ITEM>，这和大臣阿哈特有何关系呢？" },
+		Summary = "",
+		NpcNavi = "dic_fild02",
+		NpcPosX = 228,
+		NpcPosY = 55
 	},
 	[7195] = {
 		Title = "这个皮肤碎片究竟是？",
 		IconName = "ico_ep.bmp",
-		Description = { "在裂缝附近发现类似不明生物皮肤碎片的东西，这和阿哈特有何关系呢？" },
-		Summary = ""
+		Description = { "在裂缝附近发现类似不明生物<ITEM>冻住的皮肤碎片<INFO>6305</INFO></ITEM>的东西，这和阿哈特有何关系呢？" },
+		Summary = "",
+		NpcNavi = "dic_fild02",
+		NpcPosX = 228,
+		NpcPosY = 55
 	},
 	[7196] = {
 		Title = "这神奇的魔力是？",
 		IconName = "ico_ep.bmp",
-		Description = { "发现内含神奇魔力的石头，而且和在裂缝附近感受到的魔力相当类似，这和阿哈特有何关系呢？" },
-		Summary = ""
+		Description = { "发现内含神奇魔力的<ITEM>奇怪的魔力之石<INFO>6307</INFO></ITEM>，而且和在裂缝附近感受到的魔力相当类似，这和阿哈特有何关系呢？" },
+		Summary = "",
+		NpcNavi = "dic_fild02",
+		NpcPosX = 228,
+		NpcPosY = 55
 	},
 	[7197] = {
-		Title = "功勋证？功勋证！",
+		Title = "沙帕功勋证？沙帕功勋证！",
 		IconName = "ico_ep.bmp",
-		Description = { "最后为解开所有的谜题我决定直接去找名为阿哈特的人，但要谒见阿哈特必须拥有邪派功勋证。执行在首都随处可接取的委托后便可获得邪派功勋证。" },
-		Summary = "收集3枚邪派功勋证"
+		Description = { "最后为解开所有的谜题我决定直接去找名为阿哈特的人，但要谒见阿哈特必须拥有<ITEM>沙帕功勋证<INFO>6304</INFO></ITEM>。执行在首都随处可接取的委托后便可获得<ITEM>沙帕功勋证<INFO>6304</INFO></ITEM>。" },
+		Summary = "收集3枚<ITEM>沙帕功勋证<INFO>6304</INFO></ITEM>",
+		NpcNavi = "dic_in01",
+		NpcPosX = 42,
+		NpcPosY = 264
 	},
 	[7198] = {
 		Title = "谒见大臣阿哈特",
 		IconName = "ico_ep.bmp",
-		Description = { "缴纳邪派功勋证后终于得到谒见阿哈特的许可，先利用狄奥内部的电梯抵达行政室，再另外接受导引后便可以见到阿哈特。" },
-		Summary = ""
+		Description = { "缴纳<ITEM>沙帕功勋证<INFO>6304</INFO></ITEM>后终于得到谒见<NAVI>[阿哈特]<INFO>dic_in01,300,280,0,101,0</INFO></NAVI>的许可，先利用狄奥内部的电梯抵达行政室，再另外接受导引后便可以见到阿哈特。" },
+		Summary = "",
+		NpcNavi = "dic_in01",
+		NpcPosX = 300,
+		NpcPosY = 280
 	},
 	[7199] = {
 		Title = "阿哈特的密令",
 		IconName = "ico_ep.bmp",
-		Description = { "阿哈特下令要我去清理在裂缝附近发现的各种痕迹，凝固的血迹、结冰的皮肤碎片和神奇的魔力石，必须各清理10个。" },
-		Summary = ""
+		Description = { "阿哈特下令要我去清理在裂缝附近发现的各种痕迹，<ITEM>凝固的血痕<INFO>6306</INFO></ITEM>、<ITEM>冻住的皮肤碎片<INFO>6305</INFO></ITEM>和<ITEM>奇怪的魔力之石<INFO>6307</INFO></ITEM>，必须各清理10个。" },
+		Summary = "",
+		NpcNavi = "dic_in01",
+		NpcPosX = 300,
+		NpcPosY = 280
 	},
 	[7200] = {
 		Title = "契休的呼叫",
 		IconName = "ico_ep.bmp",
-		Description = { "整理裂缝痕迹的作业必须每天掩人耳目地一点一点进行，与契休约定的时间了后就去找他吧！" },
+		Description = { "整理裂缝痕迹的作业必须每天掩人耳目地一点一点进行，与<NAVI>[契休]<INFO>dic_in01,300,280,0,101,0</INFO></NAVI>约定的时间了后就去找他吧！" },
 		Summary = "",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "dic_in01",
+		NpcPosX = 300,
+		NpcPosY = 280
 	},
 	[7201] = {
 		Title = "整理裂缝",
 		IconName = "ico_ep.bmp",
-		Description = { "我每天按照阿哈特的契休的命令整理裂缝的痕迹，今天也和平常一样收集各痕迹10个吧！" },
+		Description = { "我每天按照<NAVI>[契休]<INFO>dic_in01,300,280,0,101,0</INFO></NAVI>的命令整理裂缝的痕迹，今天也和平常一样收集各痕迹10个吧！" },
 		Summary = ""
 	},
 	[7202] = {
 		Title = "都夏的密令-收集证据",
 		IconName = "ico_ep.bmp",
-		Description = { "在阿哈特和契休没发现的情况下，偷偷将要交给都夏的证据-裂缝的痕迹各偷一个放进报告里吧！凝固的血迹、结冰的皮肤碎片和可疑的魔力石各搜集1个。" },
+		Description = { "在阿哈特和契休没发现的情况下，偷偷将要交给都夏的证据-裂缝的痕迹各偷一个放进报告里吧！<ITEM>凝固的血痕<INFO>6306</INFO></ITEM>、<ITEM>冻住的皮肤碎片<INFO>6305</INFO></ITEM>和<ITEM>奇怪的魔力之石<INFO>6307</INFO></ITEM>各搜集1个。" },
 		Summary = ""
 	},
 	[7203] = {
 		Title = "都夏的密令-最终报告",
 		IconName = "ico_ep.bmp",
-		Description = { "和另一位杰卢拓海斯蓝特交谈过后，将从他那里得到的情报整理好制成报告交给都夏。" },
+		Description = { "和另一位贾鲁特·赫斯兰塔交谈过后，将从他那里得到的情报整理好制成报告交给都夏。" },
 		Summary = "向都夏进行最终报告"
 	},
 	[7204] = {
@@ -53426,12 +53468,12 @@ QuestInfoList = {
 		Summary = "Talk to Doha"
 	},
 	[17588] = {
-		Title = "BK's Cooperation",
+		Title = "皮凯伊的合作",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"<NAVI>[BK]<INFO>dic_fild01,231,174,0,101,0,</INFO></NAVI> from the top of Cat Hand at the foot of Kamidal Mountain says that he will give you the information only if you give him a Sapha Certification. Until you get enough information, give more Sapha Certification and get more information."
+			"位于卡米达尔山脚下的猫爪商队顶端的<NAVI>[皮凯伊]<INFO>dic_fild01,231,174,0,101,0</INFO></NAVI>说，只要你给他一张<ITEM>沙帕功勋证<INFO>6304</INFO></ITEM>，他就会把情报告诉你。在收集到足够情报之前，继续交给他更多沙帕功勋证以换取情报。"
 		},
-		Summary = "Talk to BK"
+		Summary = "和<NAVI>[皮凯伊]<INFO>dic_fild01,231,174,0,101,0</INFO></NAVI>对话"
 	},
 	[17589] = {
 		Title = "Pretending to be Insinuating",
