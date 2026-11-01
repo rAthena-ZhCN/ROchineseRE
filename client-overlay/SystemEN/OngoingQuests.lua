@@ -18210,13 +18210,19 @@ QuestInfoList = {
 	},
 	[7691] = {
 		Title = "等待着仪式",
-		Description = { "回到宿舍与比尔对话吧。听说为了仪式会派来魔法师……" },
-		Summary = "与比尔对话"
+		Description = { "回到<NAVI>[贝尔侍从长]<INFO>prt_cas_q,26,30,0,101,0</INFO></NAVI>处，询问仪式与宫廷魔法师的安排。" },
+		Summary = "与贝尔侍从长对话",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 26,
+		NpcPosY = 30
 	},
 	[7692] = {
 		Title = "参观仪式",
-		Description = { "跟着魔法师的向导移动后参加仪式" },
-		Summary = "参观仪式"
+		Description = { "跟随<NAVI>[尼勒姆]<INFO>prt_lib,91,85,0,101,0</INFO></NAVI>前往王家过去的记忆参加仪式。" },
+		Summary = "参观仪式",
+		NpcNavi = "prt_lib",
+		NpcPosX = 91,
+		NpcPosY = 85
 	},
 	[7693] = {
 		Title = "袭击",
@@ -18235,8 +18241,8 @@ QuestInfoList = {
 	},
 	[7696] = {
 		Title = "下一个是什么？！",
-		Description = { "不知道接下来要做什么了。和比尔问一问所有的事情吧。" },
-		Summary = "与比尔对话"
+		Description = { "不知道接下来要做什么了。和贝尔问一问所有的事情吧。" },
+		Summary = "与贝尔对话"
 	},
 	[7697] = {
 		Title = "内里乌斯家族的邀请",
@@ -18250,13 +18256,19 @@ QuestInfoList = {
 	},
 	[7699] = {
 		Title = "前往过去",
-		Description = { "收到在房间和尼莱恩一起连接王室的记忆中的次元的缝隙的邀请。尼莱恩在哪里呢？" },
-		Summary = "与尼莱恩对话"
+		Description = { "在房间里和<NAVI>[尼勒姆]<INFO>prt_lib_q,91,85,0,101,0</INFO></NAVI>一起连接王家记忆中的次元裂缝。" },
+		Summary = "与尼勒姆对话",
+		NpcNavi = "prt_lib_q",
+		NpcPosX = 91,
+		NpcPosY = 85
 	},
 	[7700] = {
 		Title = "再一次！",
-		Description = { "再次通过尼莱恩强制扭曲的空间缝隙来移动。过去仪式的房间到底有什么事情呢……！" },
-		Summary = "前往仪式的房间"
+		Description = { "再次通过<NAVI>[尼勒姆]<INFO>prt_lib_q,91,85,0,101,0</INFO></NAVI>扭曲的空间裂缝，前往过去仪式的房间。" },
+		Summary = "前往仪式的房间",
+		NpcNavi = "prt_lib_q",
+		NpcPosX = 91,
+		NpcPosY = 85
 	},
 	[7701] = {
 		Title = "依美乐心脏的遗失",
@@ -18265,13 +18277,16 @@ QuestInfoList = {
 	},
 	[7702] = {
 		Title = "此时的普隆德拉",
-		Description = { "过去普隆德拉正在被骸灵侵略中。在尼莱恩执意的劝说下决定出去看一看。" },
+		Description = { "过去普隆德拉正在被骸灵侵略中。在尼勒姆执意的劝说下决定出去看一看。" },
 		Summary = "前往外面"
 	},
 	[7703] = {
 		Title = "知道真相的人",
-		Description = { "回到现实，到了解除文书的封印了解真相的时刻了。所有都从王室的记忆中。" },
-		Summary = "与克罗内克对话"
+		Description = { "回到现实，前往<NAVI>[克罗内克]<INFO>prt_lib,80,79,0,101,0</INFO></NAVI>处解除王室文书的封印。" },
+		Summary = "与克罗内克对话",
+		NpcNavi = "prt_lib",
+		NpcPosX = 80,
+		NpcPosY = 79
 	},
 	[7704] = {
 		Title = "无法改变的过去",
@@ -18280,13 +18295,19 @@ QuestInfoList = {
 	},
 	[7705] = {
 		Title = "无法放弃的希望",
-		Description = { "收到虽然不知道可不可行，但无法放弃希望的执意下，再次到过去仪式的房间挑战一下的请求。要击退毕尤守住依美乐的心脏碎片。" },
-		Summary = "过去仪式的房间"
+		Description = { "前往<NAVI>[过去仪式的房间]<INFO>prt_lib_q,91,85,0,101,0</INFO></NAVI>，击退毕尤并守住依美乐心脏碎片。" },
+		Summary = "前往过去仪式的房间",
+		NpcNavi = "prt_lib_q",
+		NpcPosX = 91,
+		NpcPosY = 85
 	},
 	[7706] = {
-		Title = "尼莱恩不是万能的",
-		Description = { "多重连接对尼莱恩来说也是困难的事情。连接到仪式的房间已经是他的极限了。等尼莱恩恢复吧。" },
-		Summary = "04点初始化",
+		Title = "尼勒姆不是万能的",
+		Description = { "多重连接对尼勒姆也是负担。等待尼勒姆恢复后再去仪式房间。" },
+		Summary = "等待尼勒姆恢复",
+		NpcNavi = "prt_lib",
+		NpcPosX = 91,
+		NpcPosY = 85,
 		CoolTimeQuest = 1
 	},
 	[7711] = {
