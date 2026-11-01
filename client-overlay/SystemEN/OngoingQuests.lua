@@ -41639,19 +41639,28 @@ QuestInfoList = {
 		Summary = "去找倪勒恩"
 	},
 	[14595] = {
-		Title = "前往艾音贝赫火车站",
-		Description = { "我们要前往艾音贝赫火车站，看着我的印记跟过来吧。假如没找到的话就在艾音贝赫火车站见面吧。" },
-		Summary = "前往艾音贝赫火车站"
+		Title = "前往艾因贝克火车站",
+		Description = { "跟随雷兹留下的印记前往<NAVI>[艾因贝克火车站]<INFO>einbroch,267,268,0,101,0</INFO></NAVI>。如果跟丢了，就直接到火车站见面。" },
+		Summary = "前往艾因贝克火车站",
+		NpcNavi = "einbroch",
+		NpcPosX = 267,
+		NpcPosY = 268
 	},
 	[14596] = {
 		Title = "跟着印记",
-		Description = { "从这里开始就会比较复杂，我会留下印记，要好好跟过来。地图上也标注了。如果跟错了就直接一直往下走吧。" },
-		Summary = "跟着路一直往下走"
+		Description = { "从这里开始路比较复杂，雷兹会留下印记。打开地图确认标记，跟紧他。如果跟错就一直往下走。" },
+		Summary = "跟着印记往下走",
+		NpcNavi = "einbroch",
+		NpcPosX = 267,
+		NpcPosY = 268
 	},
 	[14597] = {
-		Title = "艾音贝赫的一角",
-		Description = { "我们要到艾音贝赫东南处的一角，跟着印记好好跟过来吧。地图上也标注了。" },
-		Summary = "前往一角"
+		Title = "艾因贝克的一角",
+		Description = { "前往<NAVI>[艾因贝克东南角]<INFO>einbech,44,207,0,101,0</INFO></NAVI>，跟随印记进入反叛者的秘密通道。" },
+		Summary = "前往艾因贝克东南角",
+		NpcNavi = "einbech",
+		NpcPosX = 44,
+		NpcPosY = 207
 	},
 	[14598] = {
 		Title = "看不见的入口",
