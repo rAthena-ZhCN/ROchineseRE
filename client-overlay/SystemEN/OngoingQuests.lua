@@ -18276,7 +18276,10 @@ QuestInfoList = {
 	[7698] = {
 		Title = "伊森 海尔内",
 		Description = { "在内里乌斯聊天的途中受到海尔内家族的邀请函。" },
-		Summary = "访问海尔内家族"
+		Summary = "访问海尔内家族",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 21,
+		NpcPosY = 83
 	},
 	[7699] = {
 		Title = "前往过去",
