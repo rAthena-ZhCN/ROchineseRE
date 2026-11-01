@@ -18483,16 +18483,14 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[7744] = {
-		Title = "躲避的研究员",
-		Description = { "维尔纳研究所内还有很多未撤离的研究员。前往<NAVI>[菲洛彭特斯]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>处接受搜寻委托。" },
+		Description = { "维尔纳研究所内还有很多未撤离的研究员。前往<NAVI>[菲洛彭特斯]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>接受搜寻委托，完成后可获得<ITEM>秀发兹荣耀徽章<INFO>25155</INFO></ITEM>。" },
 		Summary = "寻找3名研究员",
 		NpcNavi = "que_swat",
 		NpcPosX = 145,
 		NpcPosY = 57
 	},
 	[7745] = {
-		Title = "躲避的研究员-待机",
-		Description = { "菲洛彭特斯的研究员搜寻工作仍会持续。前往<NAVI>[菲洛彭特斯]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>协助。" },
+		Description = { "菲洛彭特斯的研究员搜寻工作仍会持续。前往<NAVI>[菲洛彭特斯]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>协助，可获得<ITEM>秀发兹荣耀徽章<INFO>25155</INFO></ITEM>。" },
 		Summary = "04点初始化",
 		NpcNavi = "que_swat",
 		NpcPosX = 145,
