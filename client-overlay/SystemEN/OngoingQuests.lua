@@ -41046,18 +41046,27 @@ QuestInfoList = {
 	},
 	[14495] = {
 		Title = "去找沃尔夫",
-		Description = { "见到沃尔夫 雷根布尔格听一听关于家族的故事。" },
-		Summary = "去找沃尔夫"
+		Description = { "前往<NAVI>[沃尔夫·雷根布尔格]<INFO>prt_cas_q,96,186,0,101,0</INFO></NAVI>处，听一听雷根布尔格家族的故事。" },
+		Summary = "去找沃尔夫",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 96,
+		NpcPosY = 186
 	},
 	[14496] = {
 		Title = "去找艾萨克",
-		Description = { "去给维格纳家的艾萨克我拜托的东西就可以。维格纳家在出门走廊尽头那里。" },
-		Summary = "去找艾萨克"
+		Description = { "把东西交给<NAVI>[艾萨克·维格纳]<INFO>prt_cas_q,94,7,0,101,0</INFO></NAVI>。维格纳家在走廊尽头的房间。" },
+		Summary = "去找艾萨克",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 94,
+		NpcPosY = 7
 	},
 	[14497] = {
 		Title = "给沃尔夫传递物品",
-		Description = { "把这箱子交给沃尔夫吧。要小心一点。很危险。" },
-		Summary = "给沃尔夫传递物品"
+		Description = { "把箱子交给<NAVI>[沃尔夫·雷根布尔格]<INFO>prt_cas_q,96,186,0,101,0</INFO></NAVI>，路上小心。" },
+		Summary = "给沃尔夫送箱子",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 96,
+		NpcPosY = 186
 	},
 	[14498] = {
 		Title = "什么传闻",
