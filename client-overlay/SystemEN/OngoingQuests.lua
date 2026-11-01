@@ -18465,7 +18465,7 @@ QuestInfoList = {
 	},
 	[7741] = {
 		Title = "回归",
-		Description = { "祝福之星已找回。为了收尾，回到<NAVI>[普隆德拉王宫]<INFO>prt_cas_q,21,39,0,101,0</INFO></NAVI>。" },
+		Description = { "祝福之星已找回。回到<NAVI>[普隆德拉王宫]<INFO>prt_cas_q,21,39,0,101,0</INFO></NAVI>向克罗内克报告，可获得<ITEM>荣誉的徽章<INFO>6919</INFO></ITEM>。" },
 		Summary = "与斯琪亚对话",
 		NpcNavi = "prt_cas_q",
 		NpcPosX = 21,
