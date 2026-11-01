@@ -30565,8 +30565,11 @@ QuestInfoList = {
 	},
 	[11465] = {
 		Title = "狄恩的<ITEM>上等茗茶<INFO>25165</INFO></ITEM>",
-		Description = { "反叛者长老狄恩让你去找艾音布罗克北边野外北东角落的茹茹，带你进去后战胜邪心猎人后获得1个<ITEM>上等茗茶<INFO>25165</INFO></ITEM>给自己。" },
-		Summary = "狄恩的委托"
+		Description = { "前往<NAVI>[朱利安]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>处进入心猎者战争基地，击败心脏猎人艾贝尔并取得1个<ITEM>上等茗茶<INFO>25165</INFO></ITEM>。" },
+		Summary = "狄恩的委托",
+		NpcNavi = "ein_fild04",
+		NpcPosX = 281,
+		NpcPosY = 337
 	},
 	[11466] = {
 		Title = "狄恩的<ITEM>上等茗茶<INFO>25165</INFO></ITEM>",
@@ -30576,8 +30579,11 @@ QuestInfoList = {
 	},
 	[11467] = {
 		Title = "莉德希的<ITEM>老旧信纸<INFO>25167</INFO></ITEM>",
-		Description = { "反叛者长老莉德希让你去找艾音布罗克北边野外北东角落的茹茹，带你进去后击败强化邪心猎人后带来1个<ITEM>老旧信纸<INFO>25167</INFO></ITEM>给自己。" },
-		Summary = "里德什的委托"
+		Description = { "前往<NAVI>[朱利安]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>处进入心猎者战争基地，击败心脏猎人并取得<ITEM>老旧信纸<INFO>25167</INFO></ITEM>。" },
+		Summary = "里德什的委托",
+		NpcNavi = "ein_fild04",
+		NpcPosX = 281,
+		NpcPosY = 337
 	},
 	[11468] = {
 		Title = "莉德希的<ITEM>老旧信纸<INFO>25167</INFO></ITEM>",
@@ -30587,8 +30593,11 @@ QuestInfoList = {
 	},
 	[11469] = {
 		Title = "柯特蕾丝的<ITEM>光芒戒指<INFO>25166</INFO></ITEM>",
-		Description = { "反叛者长老柯特蕾丝让你去找艾音布罗克北边野外北东角落的茹茹，带你进去后击败5个邪心猎人护卫后带来4个<ITEM>光芒戒指<INFO>25166</INFO></ITEM>给自己。" },
-		Summary = "科特尼斯的委托"
+		Description = { "前往<NAVI>[朱利安]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>处进入心猎者战争基地，击败5名心脏猎人护卫并带回4个<ITEM>光芒戒指<INFO>25166</INFO></ITEM>。" },
+		Summary = "科特尼斯的委托",
+		NpcNavi = "ein_fild04",
+		NpcPosX = 281,
+		NpcPosY = 337
 	},
 	[11470] = {
 		Title = "柯特蕾丝的<ITEM>光芒戒指<INFO>25166</INFO></ITEM>",
