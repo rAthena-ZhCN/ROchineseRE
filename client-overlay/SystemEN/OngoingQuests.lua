@@ -18260,12 +18260,18 @@ QuestInfoList = {
 	[7696] = {
 		Title = "下一个是什么？！",
 		Description = { "不知道接下来要做什么了。和贝尔问一问所有的事情吧。" },
-		Summary = "与贝尔对话"
+		Summary = "与贝尔对话",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 26,
+		NpcPosY = 30
 	},
 	[7697] = {
 		Title = "内里乌斯家族的邀请",
 		Description = { "有内里乌斯家族的邀请函。要访问内里乌斯家族吗？" },
-		Summary = "访问内里乌斯家族"
+		Summary = "访问内里乌斯家族",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 18,
+		NpcPosY = 136
 	},
 	[7698] = {
 		Title = "伊森 海尔内",
