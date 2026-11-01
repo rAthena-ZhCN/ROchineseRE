@@ -41664,13 +41664,19 @@ QuestInfoList = {
 	},
 	[14598] = {
 		Title = "看不见的入口",
-		Description = { "雷兹在这里好像有事情，快进去吧。" },
-		Summary = "前往看不见的门"
+		Description = { "雷兹在海滩墙边找到了隐藏入口。前往<NAVI>[艾因贝克东南角]<INFO>einbech,217,82,0,101,0</INFO></NAVI>，跟随他进入。" },
+		Summary = "前往隐藏入口",
+		NpcNavi = "einbech",
+		NpcPosX = 217,
+		NpcPosY = 82
 	},
 	[14599] = {
 		Title = "一杯茶的报答",
-		Description = { "都到这里了得喝杯茶吧，和奈米或者艾利对话的话会带你进去的。" },
-		Summary = "进到内部"
+		Description = { "进入武器店后，和<NAVI>[内米]<INFO>rebel_in,24,45,0,101,0</INFO></NAVI>或艾莉对话，她们会带你进去。" },
+		Summary = "进入内部",
+		NpcNavi = "rebel_in",
+		NpcPosX = 24,
+		NpcPosY = 45
 	},
 	[14600] = {
 		Title = "2层的绅士",
