@@ -18457,13 +18457,19 @@ QuestInfoList = {
 	},
 	[7740] = {
 		Title = "找回的星星",
-		Description = { "找回了祝福之星，回到在艾音布罗克等待结果的同行处吧。" },
-		Summary = "与尼希尔对话"
+		Description = { "找回祝福之星后，回到<NAVI>[艾因布罗克旅馆]<INFO>ein_in01,274,278,0,101,0</INFO></NAVI>与尼希尔会合。" },
+		Summary = "与尼希尔对话",
+		NpcNavi = "ein_in01",
+		NpcPosX = 274,
+		NpcPosY = 278
 	},
 	[7741] = {
 		Title = "回归",
-		Description = { "找回了祝福之星。为了结尾回到普隆德拉王宫吧。" },
-		Summary = "与斯琪亚对话"
+		Description = { "祝福之星已找回。为了收尾，回到<NAVI>[普隆德拉王宫]<INFO>prt_cas_q,21,39,0,101,0</INFO></NAVI>。" },
+		Summary = "与斯琪亚对话",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 21,
+		NpcPosY = 39
 	},
 	[7742] = {
 		Title = "扫荡残党",
@@ -18478,13 +18484,19 @@ QuestInfoList = {
 	},
 	[7744] = {
 		Title = "躲避的研究员",
-		Description = { "维尔纳研究所内部有很多没来得及离开的研究员们，菲洛芬泰斯委托帮忙找一下躲避着的研究员和职员们。" },
-		Summary = "寻找3名研究员"
+		Description = { "维尔纳研究所内还有很多未撤离的研究员。前往<NAVI>[菲洛彭特斯]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>处接受搜寻委托。" },
+		Summary = "寻找3名研究员",
+		NpcNavi = "que_swat",
+		NpcPosX = 145,
+		NpcPosY = 57
 	},
 	[7745] = {
 		Title = "躲避的研究员-待机",
-		Description = { "菲洛芬泰斯的研究员搜寻工作还要持续进行，有时间就去帮一下吧。" },
+		Description = { "菲洛彭特斯的研究员搜寻工作仍会持续。前往<NAVI>[菲洛彭特斯]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>协助。" },
 		Summary = "04点初始化",
+		NpcNavi = "que_swat",
+		NpcPosX = 145,
+		NpcPosY = 57,
 		CoolTimeQuest = 1
 	},
 	[7746] = {
@@ -46185,7 +46197,7 @@ QuestInfoList = {
 	[16440] = {
 		Title = "我想知道真相",
 		IconName = "ico_ep.bmp",
-		Description = { "与<NAVI>[狄恩]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI>对话，听听元老们与菲洛芬泰斯对立的原因。" },
+		Description = { "与<NAVI>[狄恩]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI>对话，听听元老们与菲洛彭特斯对立的原因。" },
 		Summary = "与狄恩对话"
 	},
 	[16441] = {
