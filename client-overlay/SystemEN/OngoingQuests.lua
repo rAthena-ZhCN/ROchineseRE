@@ -3188,7 +3188,7 @@ QuestInfoList = {
 		Title = "命运的乌鸦",
 		IconName = "ico_ep.bmp",
 		Description = { "当得知研究所话题为真实事件后，于是决定去找梦境里他们所逃避的洞穴" },
-		Summary = "发现秀发兹发德原野里的洞穴"
+		Summary = "发现秀发兹原野里的洞穴"
 	},
 	[2067] = {
 		Title = "命运的乌鸦",
@@ -8868,48 +8868,75 @@ QuestInfoList = {
 	},
 	[5092] = {
 		Title = "突破初心者的极限",
-		Description = { "听说初心者世界里的传说人物不久前到克魔岛办事，根据阿瑟雷的说法，他可以指点你未来的道路。" },
-		Summary = "变强的方法应该就在克魔岛洞穴某处吧？"
+		Description = { "前往<NAVI>[艾瑟雷]<INFO>aldeba_in,216,169,0,101,0</INFO></NAVI>，询问突破初心者极限的方法。" },
+		Summary = "前往艾尔帕兰初心者公会",
+		NpcNavi = "aldeba_in",
+		NpcPosX = 216,
+		NpcPosY = 169
 	},
 	[5093] = {
 		Title = "突破初心者的极限",
-		Description = { "你想变想吗？想的话就稍后再来找我！" },
-		Summary = "与史努比对话。"
+		Description = { "在<NAVI>[诺多尔]<INFO>beach_dun2,119,92,0,101,0</INFO></NAVI>处接受他的特训。" },
+		Summary = "与诺多尔对话",
+		NpcNavi = "beach_dun2",
+		NpcPosX = 119,
+		NpcPosY = 92
 	},
 	[5094] = {
 		Title = "突破初心者的极限",
-		Description = { "哇哈哈~你想变想吗？那就先让我看看你是否有变强的资格！！" },
-		Summary = "去抓波利1000只回来！！"
+		Description = { "去狩猎1000只波利。" },
+		Summary = "与诺多尔对话",
+		NpcNavi = "beach_dun2",
+		NpcPosX = 119,
+		NpcPosY = 92
 	},
 	[5095] = {
 		Title = "突破初心者的极限",
-		Description = { "哇哈哈~你想变想吗？那就先让我看看你是否有变强的资格！！" },
-		Summary = "去抓疯兔1000只回来！！"
+		Description = { "去狩猎1000只疯兔。" },
+		Summary = "与诺多尔对话",
+		NpcNavi = "beach_dun2",
+		NpcPosX = 119,
+		NpcPosY = 92
 	},
 	[5096] = {
 		Title = "突破初心者的极限",
-		Description = { "哇哈哈~你想变想吗？那就先让我看看你是否有变强的资格！！" },
-		Summary = "去抓绿棉虫1000只回来！！"
+		Description = { "去狩猎1000只绿棉虫。" },
+		Summary = "与诺多尔对话",
+		NpcNavi = "beach_dun2",
+		NpcPosX = 119,
+		NpcPosY = 92
 	},
 	[5097] = {
 		Title = "突破初心者的极限",
-		Description = { "哇哈哈~你想变想吗？那就先让我看看你是否有变强的资格！！" },
-		Summary = "去抓小鸡1000只回来！！"
+		Description = { "去狩猎1000只小鸡。" },
+		Summary = "与诺多尔对话",
+		NpcNavi = "beach_dun2",
+		NpcPosX = 119,
+		NpcPosY = 92
 	},
 	[5098] = {
 		Title = "突破初心者的极限",
-		Description = { "你还满有毅力的嘛！那我就告诉你变强的方法吧！" },
-		Summary = "我要先准备一下，你晚点再来！！"
+		Description = { "稍后再去找<NAVI>[诺多尔]<INFO>beach_dun2,119,92,0,101,0</INFO></NAVI>。" },
+		Summary = "与诺多尔对话",
+		NpcNavi = "beach_dun2",
+		NpcPosX = 119,
+		NpcPosY = 92
 	},
 	[5099] = {
 		Title = "突破初心者的极限",
-		Description = { "我有一个弟弟要我寄钱给他，天哪~~我怎么这么命苦~喂！你帮我把学费拿去给我弟弟当作零用钱吧！" },
-		Summary = "史努比的弟弟就在秀发兹发德天空的某处。"
+		Description = { "前往<NAVI>[努多尔]<INFO>airplane,33,47,0,101,0</INFO></NAVI>，把诺多尔的钱交给他。" },
+		Summary = "把零用钱交给努多尔",
+		NpcNavi = "airplane",
+		NpcPosX = 33,
+		NpcPosY = 47
 	},
 	[5100] = {
 		Title = "突破初心者的极限",
-		Description = { "虽然觉得有种被骗的感觉，还是把钱交给史努比的弟弟史酷比。" },
-		Summary = "回去找克魔岛的史努比吧！"
+		Description = { "把钱交给努多尔后，回<NAVI>[诺多尔]<INFO>beach_dun2,119,92,0,101,0</INFO></NAVI>处。" },
+		Summary = "回去找诺多尔",
+		NpcNavi = "beach_dun2",
+		NpcPosX = 119,
+		NpcPosY = 92
 	},
 	[5101] = {
 		Title = "已选择天使阵容。",
@@ -14361,8 +14388,11 @@ QuestInfoList = {
 	},
 	[6010] = {
 		Title = "超级初心者转职",
-		Description = { "若要享受平凡无奇的人生的话，就要带给特磊杰洛平凡的2种物品" },
-		Summary = "粘稠液体30个、枯木汁30个"
+		Description = { "把<ITEM>粘稠液体<INFO>938</INFO></ITEM>30个和<ITEM>枯木汁<INFO>907</INFO></ITEM>30个交给<NAVI>[泽雷罗]<INFO>aldeba_in,223,167,0,101,0</INFO></NAVI>，申请超级初心者转职。" },
+		Summary = "粘稠液体30个、枯木汁30个",
+		NpcNavi = "aldeba_in",
+		NpcPosX = 223,
+		NpcPosY = 167
 	},
 	[6015] = {
 		Title = "库乌佳加伊的使唤",
@@ -28753,25 +28783,34 @@ QuestInfoList = {
 	},
 	[11155] = {
 		Title = "可疑的格斗家",
-		Description = { "那力量是？那么大的体格竟能一拳打趴……而且是前所未见的技术" },
-		Summary = "去了解一下那个人"
+		Description = { "酒馆里出现了一位实力惊人的格斗家。前往<NAVI>[布鲁诺]<INFO>ve_in,98,159,0,101,0</INFO></NAVI>处了解她的技艺。" },
+		Summary = "去了解那个人",
+		NpcNavi = "ve_in",
+		NpcPosX = 98,
+		NpcPosY = 159
 	},
 	[11156] = {
 		Title = "讨厌的作业",
-		Description = { "啊……你真烦耶！好吧！那去抓^f57d7d沙漠之狼100只^000000，那我再想想看" },
-		Summary = "去抓沙漠之狼100只"
+		Description = { "布鲁诺让你去狩猎100只<^f57d7d沙漠之狼^000000>。" },
+		Summary = "狩猎沙漠之狼100只",
+		NpcNavi = "ve_in",
+		NpcPosX = 98,
+		NpcPosY = 159
 	},
 	[11157] = {
 		Title = "尔迈斯峡谷-深渊的峡谷",
-		Description = {
-			"虽不是心甘情愿的约定，但约定的还是约定，你去^f57d7d位于朱诺东南方尔迈斯峡谷^000000看看，那边有我的师弟^f57d7d博迪^000000在那附近修行中"
-		},
-		Summary = "去尔迈斯峡谷见博迪"
+		Description = { "前往<NAVI>[博迪]<INFO>yuno_fild07,254,176,0,101,0</INFO></NAVI>，他在朱诺东南方的尔迈斯峡谷修行。" },
+		Summary = "去尔迈斯峡谷见博迪",
+		NpcNavi = "yuno_fild07",
+		NpcPosX = 254,
 	},
 	[11158] = {
 		Title = "修罗之路",
-		Description = { "我正在修行中无法回答你的问题，我会带你去见我师父，因为师父不喜欢吵闹，^f57d7d请你在接待室静静等候^000000。" },
-		Summary = "去接待室等师父"
+		Description = { "在<NAVI>[客厅]<INFO>sword_1-1,223,243,0,101,0</INFO></NAVI>安静等候师父。拜师后可获得<ITEM>燃烧之魂<INFO>5754</INFO></ITEM>与<ITEM>青苹果戒指<INFO>2795</INFO></ITEM>。" },
+		Summary = "去客厅等师父",
+		NpcNavi = "sword_1-1",
+		NpcPosX = 223,
+		NpcPosY = 243
 	},
 	[11159] = {
 		Title = "布莱恩的谈话",
@@ -41323,7 +41362,7 @@ QuestInfoList = {
 	},
 	[14504] = {
 		Title = "去找赫尔穆特",
-		Description = { "说服赫尔穆特并带回来可以吗？现在应该在秀发兹发德的国境检查站。" },
+		Description = { "说服赫尔穆特并带回来可以吗？现在应该在秀发兹的国境检查站。" },
 		Summary = "去找赫尔穆特"
 	},
 	[14505] = {
@@ -56302,7 +56341,7 @@ QuestInfoList = {
 		Title = "乘北风而来的访客1",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"已经充分地听到北方大地的消息，决定和马蓝、米里亚姆前往霸肋门德大宅，我们将在霸肋门德大宅的接待室待机，与<NAVI>[爱丽]<INFO>ba_in01,384,114,0,101,0</INFO></NAVI>讨论未来的计划。"
+			"已经充分地听到北方大地的消息，决定和马蓝、米里亚姆前往霸肋门德大宅，我们将在霸肋门德大宅的客厅待机，与<NAVI>[爱丽]<INFO>ba_in01,384,114,0,101,0</INFO></NAVI>讨论未来的计划。"
 		},
 		Summary = "前往霸肋门德大宅"
 	},
@@ -77194,7 +77233,7 @@ QuestInfoList = {
 	},
 [2375] = {
 		Title = "炎夏运动会",
-		Description = { "在秀发兹发德 共和国原野利用防爆装置 生擒炸弹波利后制成冰封炸弹。" },
+		Description = { "在秀发兹 共和国原野利用防爆装置 生擒炸弹波利后制成冰封炸弹。" },
 		Summary = "冰封炸弹 10个"
 	},
 [299357] = {
