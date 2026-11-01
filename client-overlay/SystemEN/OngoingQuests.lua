@@ -41731,8 +41731,11 @@ QuestInfoList = {
 	},
 	[14601] = {
 		Title = "2层的女士们",
-		Description = { "去和2层的女士们聊聊看吧，记得要有一定的礼仪哦，记住了吗？" },
-		Summary = "去找2层的女士们"
+		Description = { "前往<NAVI>[二层女士房间]<INFO>rebel_in,164,88,0,101,0</INFO></NAVI>，与狄恩、里德什、科特尼斯交谈并保持礼仪。" },
+		Summary = "去找2层的女士们",
+		NpcNavi = "rebel_in",
+		NpcPosX = 164,
+		NpcPosY = 88
 	},
 	[14602] = {
 		Title = "2层的猎狗",
