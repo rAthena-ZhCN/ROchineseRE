@@ -30220,32 +30220,50 @@ QuestInfoList = {
 	[11394] = {
 		Title = "王室厨师长的呼唤",
 		Description = { "听说厨房里的王室厨师长在找我。 " },
-		Summary = "与王室厨师长对话"
+		Summary = "与王室厨师长对话",
+		NpcNavi = "prt_cas",
+		NpcPosX = 309,
+		NpcPosY = 200
 	},
 	[11395] = {
 		Title = "为什么我要准备宴会？",
 		Description = { "料理中要用的调料不足。到周边调料匠人处拿一些回来。" },
-		Summary = "与调料匠人对话"
+		Summary = "与调料匠人对话",
+		NpcNavi = "prt_cas",
+		NpcPosX = 309,
+		NpcPosY = 200
 	},
 	[11396] = {
 		Title = "为什么我要准备宴会？",
 		Description = { "帮助匠人制作调料。" },
-		Summary = "制作调料"
+		Summary = "制作调料",
+		NpcNavi = "prt_cas",
+		NpcPosX = 309,
+		NpcPosY = 200
 	},
 	[11397] = {
 		Title = "为什么我要准备宴会？",
 		Description = { "把完成的调料带到厨师长处。" },
-		Summary = "与厨师长对话"
+		Summary = "与厨师长对话",
+		NpcNavi = "prt_cas",
+		NpcPosX = 309,
+		NpcPosY = 200
 	},
 	[11398] = {
 		Title = "为什么我要准备宴会？",
 		Description = { "到空位置制作为宇宙无敌超豪华超梦幻的宴会的美食吧。" },
-		Summary = "移动至空位"
+		Summary = "移动至空位",
+		NpcNavi = "prt_cas",
+		NpcPosX = 309,
+		NpcPosY = 200
 	},
 	[11399] = {
 		Title = "为什么我要准备宴会？",
 		Description = { "把用特制调料完成的皮酥肉嫩的烤全狮鹫兽放到食堂。" },
-		Summary = "带到食堂"
+		Summary = "带到食堂",
+		NpcNavi = "prt_cas",
+		NpcPosX = 309,
+		NpcPosY = 200
 	},
 	[11400] = {
 		Title = "吉尔伯格家族",
@@ -30274,52 +30292,82 @@ QuestInfoList = {
 	[11403] = {
 		Title = "吉尔伯格家族",
 		Description = { "在于斯凯林 萨哈谈论关于吉尔伯格家族时忽然‘莉迪温 吉尔伯格’介入对话中。" },
-		Summary = "与莉迪温对话"
+		Summary = "与莉迪温对话",
+		NpcNavi = "prt_cas",
+		NpcPosX = 82,
+		NpcPosY = 240
 	},
 	[11404] = {
 		Title = "吉尔伯格家族",
 		Description = { "莉迪温怒吼。看来无法对话还是和斯凯林说说吧。" },
-		Summary = "与斯凯林对话"
+		Summary = "与斯凯林对话",
+		NpcNavi = "prt_cas",
+		NpcPosX = 73,
+		NpcPosY = 244
 	},
 	[11405] = {
 		Title = "吉尔伯格家族",
 		Description = { "找一下吉尔伯格家族的王子 艾伦斯特。可能在宴会厅。" },
-		Summary = "调查宴会厅(0/7)"
+		Summary = "调查宴会厅(0/7)",
+		NpcNavi = "prt_cas",
+		NpcPosX = 73,
+		NpcPosY = 244
 	},
 	[11406] = {
 		Title = "吉尔伯格家族",
 		Description = { "听到关于吉尔伯格家族的传闻。继续找一下艾伦斯特王子吧。" },
-		Summary = "调查宴会厅(1/7)"
+		Summary = "调查宴会厅(1/7)",
+		NpcNavi = "prt_cas",
+		NpcPosX = 73,
+		NpcPosY = 244
 	},
 	[11407] = {
 		Title = "吉尔伯格家族",
 		Description = { "听到关于吉尔伯格家族的传闻。继续找一找艾伦斯特王子吧。" },
-		Summary = "调查宴会厅(2/7)"
+		Summary = "调查宴会厅(2/7)",
+		NpcNavi = "prt_cas",
+		NpcPosX = 73,
+		NpcPosY = 244
 	},
 	[11408] = {
 		Title = "吉尔伯格家族",
 		Description = { "听到关于吉尔伯格家族的传闻。继续找一找艾伦斯特王子吧。" },
-		Summary = "调查宴会厅(3/7)"
+		Summary = "调查宴会厅(3/7)",
+		NpcNavi = "prt_cas",
+		NpcPosX = 73,
+		NpcPosY = 244
 	},
 	[11409] = {
 		Title = "吉尔伯格家族",
 		Description = { "听到关于吉尔伯格家族的传闻。继续找一找艾伦斯特王子吧。" },
-		Summary = "调查宴会厅(4/7)"
+		Summary = "调查宴会厅(4/7)",
+		NpcNavi = "prt_cas",
+		NpcPosX = 73,
+		NpcPosY = 244
 	},
 	[11410] = {
 		Title = "吉尔伯格家族",
 		Description = { "听到关于吉尔伯格家族的传闻。继续找一找艾伦斯特王子吧。" },
-		Summary = "调查宴会厅(5/7)"
+		Summary = "调查宴会厅(5/7)",
+		NpcNavi = "prt_cas",
+		NpcPosX = 73,
+		NpcPosY = 244
 	},
 	[11411] = {
 		Title = "吉尔伯格家族",
 		Description = { "听到关于吉尔伯格家族的传闻。继续找一找艾伦斯特王子吧。" },
-		Summary = "调查宴会厅(6/7)"
+		Summary = "调查宴会厅(6/7)",
+		NpcNavi = "prt_cas",
+		NpcPosX = 73,
+		NpcPosY = 244
 	},
 	[11412] = {
 		Title = "吉尔伯格家族",
 		Description = { "听到关于吉尔伯格家族的传闻。艾伦斯特王子好像不在宴会厅。回去找斯凯林吧。" },
-		Summary = "去找斯凯林"
+		Summary = "去找斯凯林",
+		NpcNavi = "prt_cas",
+		NpcPosX = 73,
+		NpcPosY = 244
 	},
 	[11413] = {
 		Title = "为什么我要准备宴会？",
@@ -41072,12 +41120,18 @@ QuestInfoList = {
 	[14470] = {
 		Title = "寻找守护骑士",
 		Description = { "我的守护骑士应该没什么知道的。但还是要见的话可以到艾尔贝塔南边的我们的住宅可以见到。" },
-		Summary = "前往艾尔贝塔"
+		Summary = "前往艾尔贝塔",
+		NpcNavi = "alberta",
+		NpcPosX = 187,
+		NpcPosY = 147
 	},
 	[14471] = {
 		Title = "前往王宫的监狱",
 		Description = { "在普隆德拉王宫的监狱罪犯中有个叫bigfoot的小偷。见到他或许能听到什么。还有告诉艾森雅纳大人我会一直等待的。" },
-		Summary = "前往王宫的监狱"
+		Summary = "前往王宫的监狱",
+		NpcNavi = "prt_pri00",
+		NpcPosX = 57,
+		NpcPosY = 119
 	},
 	[14472] = {
 		Title = "美食家 bigfoot",
@@ -44265,13 +44319,19 @@ QuestInfoList = {
 	[16019] = {
 		Title = "埃琳娜的决策",
 		Description = { "两个孩子会满意埃琳娜的决策吗？但能肯定，冒险家以后要被孩子们折腾了。" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "rebel_in",
+		NpcPosX = 70,
+		NpcPosY = 78
 	},
 	[16020] = {
 		Title = "天天当保姆",
 		Description = { "不要忘记埃琳娜的委托，过了凌晨后再去找双胞胎对话吧。" },
 		Summary = "04点重置",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "rebel_in",
+		NpcPosX = 105,
+		NpcPosY = 54
 	},
 	[16021] = {
 		Title = "服务：代行租借图书",
@@ -44333,7 +44393,10 @@ QuestInfoList = {
 		Description = {
 			"米洛·里弗正在找送给元老们的美味甜品，为了帮忙在^0000CD葡萄汁药草茶，万叶红茶，药草蜂蜜茶，巧克力奶油蛋糕，水果色拉 ^000000中选一个带过去吧。"
 		},
-		Summary = "给米洛·里弗带去料理"
+		Summary = "给米洛·里弗带去料理",
+		NpcNavi = "rebel_in",
+		NpcPosX = 108,
+		NpcPosY = 27
 	},
 	[16033] = {
 		Title = "只要甜甜的，还有听故事",
@@ -44445,42 +44508,66 @@ QuestInfoList = {
 	[16050] = {
 		Title = "追悼的时间",
 		Description = { "埃里克森再次委托冒险家购买花束到艾因布罗克望台南边小牌匾下献祭花束。为了完成委托快去艾因布罗克吧。" },
-		Summary = "艾因布罗克牌匾下献祭鲜花"
+		Summary = "艾因布罗克牌匾下献祭鲜花",
+		NpcNavi = "einbroch",
+		NpcPosX = 167,
+		NpcPosY = 160
 	},
 	[16051] = {
 		Title = "DIY 收集花束材料",
 		Description = { "艾因布罗克的卖花的小孩说制作花束的材料用完了，收集^0000CD光滑的纸^0000003张带过来吧。" },
-		Summary = "收集3张光滑的纸"
+		Summary = "收集3张光滑的纸",
+		NpcNavi = "einbroch",
+		NpcPosX = 167,
+		NpcPosY = 160
 	},
 	[16052] = {
 		Title = "寂静的追悼仪式",
 		Description = { "今天也说好在^0000cd树下的小牌匾^000000下放置花束。希望小小年纪夭折的小女孩能够安息。" },
-		Summary = "把花束献祭在树下"
+		Summary = "把花束献祭在树下",
+		NpcNavi = "einbroch",
+		NpcPosX = 164,
+		NpcPosY = 153
 	},
 	[16053] = {
 		Title = "古老并持续的故事",
 		Description = { "完成了委托，回去和埃里克森报告吧。" },
-		Summary = "回去找埃里克森"
+		Summary = "回去找埃里克森",
+		NpcNavi = "rebel_in",
+		NpcPosX = 91,
+		NpcPosY = 67
 	},
 	[16054] = {
 		Title = "不一样的广告战略",
 		Description = { "梅森·班德发挥自己的文采编写的武器店宣传单，快给艾因贝克人们发放吧。" },
-		Summary = "在艾因贝克发放宣传单"
+		Summary = "在艾因贝克发放宣传单",
+		NpcNavi = "rebel_in",
+		NpcPosX = 19,
+		NpcPosY = 48
 	},
 	[16055] = {
 		Title = "广告：想要干净的村落吗？",
 		Description = { "把非常华丽的书写的广告纸发给^0000CD疲惫的大叔^000000。" },
-		Summary = "发给疲惫的大叔"
+		Summary = "发给疲惫的大叔",
+		NpcNavi = "rebel_in",
+		NpcPosX = 19,
+		NpcPosY = 48
 	},
 	[16056] = {
 		Title = "广告：这样的话全都飞掉吧！",
 		Description = { "把印在非常贵的纸上的广告纸硬塞给^0000CD累坏的老先生^000000。" },
-		Summary = "发给累坏的老先生"
+		Summary = "发给累坏的老先生",
+		NpcNavi = "rebel_in",
+		NpcPosX = 19,
+		NpcPosY = 48
 	},
 	[16057] = {
 		Title = "广告：为陈旧的仇恨报仇也很好！",
 		Description = { "把印成彩色的广告纸给叠成扇子给了^0000CD爱困的老奶奶^000000。" },
-		Summary = "发给爱困的老奶奶"
+		Summary = "发给爱困的老奶奶",
+		NpcNavi = "rebel_in",
+		NpcPosX = 19,
+		NpcPosY = 48
 	},
 	[16058] = {
 		Title = "广告效果还要慢慢看",
