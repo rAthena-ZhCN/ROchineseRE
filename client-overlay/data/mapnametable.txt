@@ -635,23 +635,23 @@ y_airport.rsw#朱诺机场#
 lhz_fild01.rsw#里希塔乐镇 旷野#
 lhz_fild02.rsw#里希塔乐镇 旷野(死神的峡谷)#
 lhz_fild03.rsw#里希塔乐镇 旷野#
-ein_fild01.rsw#艾音布罗克 旷野#
-ein_fild02.rsw#艾音布罗克 旷野#
-ein_fild03.rsw#艾音布罗克 旷野#
-ein_fild04.rsw#艾音布罗克 旷野#
-ein_fild05.rsw#艾音布罗克 旷野#
-ein_fild06.rsw#艾音布罗克 旷野#
-ein_fild07.rsw#艾音布罗克 旷野#
-ein_fild08.rsw#艾音布罗克 旷野#
-ein_fild09.rsw#艾音布罗克 旷野#
-ein_fild10.rsw#艾音布罗克 旷野#
-ein_dun02.rsw#艾音贝赫矿山 2层#
-ein_dun01.rsw#艾音贝赫矿山 1层#
+ein_fild01.rsw#艾因布罗克 旷野#
+ein_fild02.rsw#艾因布罗克 旷野#
+ein_fild03.rsw#艾因布罗克 旷野#
+ein_fild04.rsw#艾因布罗克 旷野#
+ein_fild05.rsw#艾因布罗克 旷野#
+ein_fild06.rsw#艾因布罗克 旷野#
+ein_fild07.rsw#艾因布罗克 旷野#
+ein_fild08.rsw#艾因布罗克 旷野#
+ein_fild09.rsw#艾因布罗克 旷野#
+ein_fild10.rsw#艾因布罗克 旷野#
+ein_dun02.rsw#艾因贝克矿山 2层#
+ein_dun01.rsw#艾因贝克矿山 1层#
 airplane.rsw#飞空艇#
-airport.rsw#艾音布罗克机场#
+airport.rsw#艾因布罗克机场#
 ein_in01.rsw#室内#
-einbech.rsw#采矿村落 艾音贝赫#
-einbroch.rsw#钢铁之都 艾音布罗克#
+einbech.rsw#采矿村落 艾因贝克#
+einbroch.rsw#钢铁之都 艾因布罗克#
 turbo_e_16.rsw#竞速场地 竞赛场#
 turbo_e_8.rsw#竞速场地 竞赛场#
 turbo_e_4.rsw#竞速场地 竞赛场#

@@ -2789,8 +2789,8 @@ QuestInfoList = {
 	[2000] = {
 		Title = "铁匠转职",
 		IconName = "ico_jq.bmp",
-		Description = { "我们很好奇你到底是不是老实的商人，以及对铁匠有多大的热情，所以要给你第一道考验，你去协助到艾音贝赫出差中的我们公会成员吧。" },
-		Summary = "与艾音贝赫铁匠盖修坢士特的相会"
+		Description = { "我们很好奇你到底是不是老实的商人，以及对铁匠有多大的热情，所以要给你第一道考验，你去协助到艾因贝克出差中的我们公会成员吧。" },
+		Summary = "与艾因贝克铁匠盖修坢士特的相会"
 	},
 	[2001] = {
 		Title = "铁匠转职",
@@ -7313,7 +7313,7 @@ QuestInfoList = {
 	},
 	[4179] = {
 		Title = "消灭矿工魔",
-		Description = { "去^8B4513艾音贝赫矿山迷宫消灭矿工魔^0000FF30只后，返回^8B4513乐园团2楼的布告栏。 <NAVI>[艾音贝赫矿山迷宫]<INFO>ein_dun01,48,252,0,101,0</INFO></NAVI>" },
+		Description = { "去^8B4513艾因贝克矿山迷宫消灭矿工魔^0000FF30只后，返回^8B4513乐园团2楼的布告栏。 <NAVI>[艾因贝克矿山迷宫]<INFO>ein_dun01,48,252,0,101,0</INFO></NAVI>" },
 		Summary = "去解决记录在乐园团86~90布告栏上的委托吧！",
 		NpcSpr = "4_BOARD3",
 		NpcNavi = "moc_para01",
@@ -7439,7 +7439,7 @@ QuestInfoList = {
 	},
 	[4193] = {
 		Title = "消灭矿石魔",
-		Description = { "去^8B4513艾音贝赫矿山迷宫消灭矿石魔^0000FF30只后，返回^8B4513乐园团2楼的布告栏。 <NAVI>[艾音贝赫矿山迷宫]<INFO>ein_dun02,281,273,0,101,0</INFO></NAVI>" },
+		Description = { "去^8B4513艾因贝克矿山迷宫消灭矿石魔^0000FF30只后，返回^8B4513乐园团2楼的布告栏。 <NAVI>[艾因贝克矿山迷宫]<INFO>ein_dun02,281,273,0,101,0</INFO></NAVI>" },
 		Summary = "去解决记录在乐园团91~99布告栏上的委托吧！",
 		NpcSpr = "4_BOARD3",
 		NpcNavi = "moc_para01",
@@ -19091,7 +19091,7 @@ QuestInfoList = {
 		Title = "喵星人子弹酒吧",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"在艾音贝赫见到的反叛者队员说最近为了掩护扩大的作战地区，把艾因布罗克的商铺作为据点使用中，快到艾因布罗克的 <NAVI>[喵星人子弹酒吧]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>吧。"
+			"在艾因贝克见到的反叛者队员说最近为了掩护扩大的作战地区，把艾因布罗克的商铺作为据点使用中，快到艾因布罗克的 <NAVI>[喵星人子弹酒吧]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>吧。"
 		},
 		Summary = "在喵星人子弹酒吧和泰斯对话"
 	},
@@ -19314,7 +19314,7 @@ QuestInfoList = {
 		Title = "新毒气研究",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"艾音贝赫矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>说要研究艾音贝赫矿山副本3层出现的夺命毒雾和绝命毒雾，委托进行适当狩猎。"
+			"艾因贝克矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>说要研究艾因贝克矿山副本3层出现的夺命毒雾和绝命毒雾，委托进行适当狩猎。"
 		},
 		Summary = "狩猎夺命毒雾和绝命毒雾",
 		NpcSpr = "4_F_LGTGIRL",
@@ -19326,7 +19326,7 @@ QuestInfoList = {
 		Title = "新毒气研究-待机",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"待机时间结束后，在艾音贝赫矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>处可以接收新毒气研究任务。"
+			"待机时间结束后，在艾因贝克矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>处可以接收新毒气研究任务。"
 		},
 		Summary = "04点初始化",
 		CoolTimeQuest = 1,
@@ -19339,7 +19339,7 @@ QuestInfoList = {
 		Title = "研究特殊矿石魔1",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"艾音贝赫矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>说需要研究艾音贝赫矿山副本3层出现的 绿色矿石魔和红色矿石魔，委托适当进行狩猎。"
+			"艾因贝克矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>说需要研究艾因贝克矿山副本3层出现的 绿色矿石魔和红色矿石魔，委托适当进行狩猎。"
 		},
 		Summary = "狩猎绿色矿石魔，红色矿石魔",
 		NpcSpr = "4_F_LGTGIRL",
@@ -19351,7 +19351,7 @@ QuestInfoList = {
 		Title = "研究特殊矿石魔1-待机",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"待机时间结束后，艾音贝赫矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>处可接取'研究特殊矿石魔1' 任务。"
+			"待机时间结束后，艾因贝克矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>处可接取'研究特殊矿石魔1' 任务。"
 		},
 		Summary = "04点初始化",
 		CoolTimeQuest = 1,
@@ -19364,7 +19364,7 @@ QuestInfoList = {
 		Title = "研究特殊矿石魔2",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"艾音贝赫矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>说需要研究艾音贝赫矿山副本3层出现的 白色矿石魔和紫色矿石魔委托适当进行狩猎。"
+			"艾因贝克矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>说需要研究艾因贝克矿山副本3层出现的 白色矿石魔和紫色矿石魔委托适当进行狩猎。"
 		},
 		Summary = "狩猎白色矿石魔，紫色矿石魔",
 		NpcSpr = "4_F_LGTGIRL",
@@ -19376,7 +19376,7 @@ QuestInfoList = {
 		Title = "研究特殊矿石魔2-待机",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"待机时间结束后，艾音贝赫矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>处可接取'研究特殊矿石魔2' 任务。"
+			"待机时间结束后，艾因贝克矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>处可接取'研究特殊矿石魔2' 任务。"
 		},
 		Summary = "04点初始化",
 		CoolTimeQuest = 1,
@@ -19389,7 +19389,7 @@ QuestInfoList = {
 		Title = "研究深渊矿工魔",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"艾音贝赫矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>说需要研究艾音贝赫矿山副本3层出现的 深渊矿工魔委托适当进行狩猎。"
+			"艾因贝克矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>说需要研究艾因贝克矿山副本3层出现的 深渊矿工魔委托适当进行狩猎。"
 		},
 		Summary = "狩猎深渊矿工魔",
 		NpcSpr = "4_F_LGTGIRL",
@@ -19401,7 +19401,7 @@ QuestInfoList = {
 		Title = "研究深渊矿工魔-待机",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"待机时间结束后，艾音贝赫矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>处可接取'研究深渊矿工魔' 任务。"
+			"待机时间结束后，艾因贝克矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>处可接取'研究深渊矿工魔' 任务。"
 		},
 		Summary = "04点初始化",
 		CoolTimeQuest = 1,
@@ -19414,7 +19414,7 @@ QuestInfoList = {
 		Title = "研究矿山虫",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"艾音贝赫矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>说需要研究艾音贝赫矿山副本3层出现的 白色三叶铁甲虫和珠宝蜘蛛委托适当进行狩猎。"
+			"艾因贝克矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>说需要研究艾因贝克矿山副本3层出现的 白色三叶铁甲虫和珠宝蜘蛛委托适当进行狩猎。"
 		},
 		Summary = "狩猎白色三叶铁甲虫，珠宝蜘蛛。",
 		NpcSpr = "4_F_LGTGIRL",
@@ -19426,7 +19426,7 @@ QuestInfoList = {
 		Title = "研究矿山虫-待机",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"待机时间结束后，艾音贝赫矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>处可接取'研究矿山虫' 任务。"
+			"待机时间结束后，艾因贝克矿山附近的<NAVI>[实习研究员 赛丽]<INFO>einbech,143,244,0,101,0</INFO></NAVI>处可接取'研究矿山虫' 任务。"
 		},
 		Summary = "04点初始化",
 		CoolTimeQuest = 1,
@@ -19997,7 +19997,7 @@ QuestInfoList = {
 	},
 	[8076] = {
 		Title = "克黎泽与卡拉",
-		Description = { "卡拉……虽想去见她……没，没事，不该对初次见面的你说这些事给你负担，就当作是在艾音贝赫有个痴情人克黎泽吧，忘掉也没关系啦……" },
+		Description = { "卡拉……虽想去见她……没，没事，不该对初次见面的你说这些事给你负担，就当作是在艾因贝克有个痴情人克黎泽吧，忘掉也没关系啦……" },
 		Summary = ""
 	},
 	[8077] = {
@@ -20017,7 +20017,7 @@ QuestInfoList = {
 	},
 	[8080] = {
 		Title = "克黎泽与卡拉",
-		Description = { "万一你还有机会回到艾音贝赫的话，请你告诉克黎泽我非常感谢他……还有……还有……非常想念他……时时刻刻都在思念着他……请你……一定……一定要转告他……呜" },
+		Description = { "万一你还有机会回到艾因贝克的话，请你告诉克黎泽我非常感谢他……还有……还有……非常想念他……时时刻刻都在思念着他……请你……一定……一定要转告他……呜" },
 		Summary = "向克黎泽转达喀尔拉的话"
 	},
 	[8081] = {
@@ -20042,7 +20042,7 @@ QuestInfoList = {
 	},
 	[8085] = {
 		Title = "克黎泽与卡拉",
-		Description = { "若你到艾音贝赫见到克黎泽青年的话，转告他过来一趟这边的家，届时叫他穿着要体面一点，算了还是不要强人所难了！" },
+		Description = { "若你到艾因贝克见到克黎泽青年的话，转告他过来一趟这边的家，届时叫他穿着要体面一点，算了还是不要强人所难了！" },
 		Summary = "向克黎泽转达讯息"
 	},
 	[8086] = {
@@ -30583,7 +30583,7 @@ QuestInfoList = {
 	},
 	[11465] = {
 		Title = "狄恩的<ITEM>上等茗茶<INFO>25165</INFO></ITEM>",
-		Description = { "前往<NAVI>[朱利安]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>处进入心猎者战争基地，击败心脏猎人艾贝尔并取得1个<ITEM>上等茗茶<INFO>25165</INFO></ITEM>。" },
+		Description = { "前往<NAVI>[朱利安]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>处进入心猎者战争基地，击败邪心猎人艾贝尔并取得1个<ITEM>上等茗茶<INFO>25165</INFO></ITEM>。" },
 		Summary = "狄恩的委托",
 		NpcNavi = "ein_fild04",
 		NpcPosX = 281,
@@ -30597,7 +30597,7 @@ QuestInfoList = {
 	},
 	[11467] = {
 		Title = "莉德希的<ITEM>老旧信纸<INFO>25167</INFO></ITEM>",
-		Description = { "前往<NAVI>[朱利安]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>处进入心猎者战争基地，击败心脏猎人并取得<ITEM>老旧信纸<INFO>25167</INFO></ITEM>。" },
+		Description = { "前往<NAVI>[朱利安]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>处进入心猎者战争基地，击败邪心猎人并取得<ITEM>老旧信纸<INFO>25167</INFO></ITEM>。" },
 		Summary = "里德什的委托",
 		NpcNavi = "ein_fild04",
 		NpcPosX = 281,
@@ -30611,7 +30611,7 @@ QuestInfoList = {
 	},
 	[11469] = {
 		Title = "柯特蕾丝的<ITEM>光芒戒指<INFO>25166</INFO></ITEM>",
-		Description = { "前往<NAVI>[朱利安]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>处进入心猎者战争基地，击败5名心脏猎人护卫并带回4个<ITEM>光芒戒指<INFO>25166</INFO></ITEM>。" },
+		Description = { "前往<NAVI>[朱利安]<INFO>ein_fild04,281,337,0,101,0</INFO></NAVI>处进入心猎者战争基地，击败5名邪心猎人护卫并带回4个<ITEM>光芒戒指<INFO>25166</INFO></ITEM>。" },
 		Summary = "科特尼斯的委托",
 		NpcNavi = "ein_fild04",
 		NpcPosX = 281,
@@ -31021,7 +31021,7 @@ QuestInfoList = {
 	[11556] = {
 		Title = "消失的史蒂芬",
 		Description = {
-			"史蒂芬好像去了艾音贝赫矿山1层，到艾音贝赫矿山1层 <NAVI>泰迪熊<INFO>ein_dun01,198,79,0,101,0</INFO></NAVI>处寻找史蒂芬的踪迹吧。"
+			"史蒂芬好像去了艾因贝克矿山1层，到艾因贝克矿山1层 <NAVI>泰迪熊<INFO>ein_dun01,198,79,0,101,0</INFO></NAVI>处寻找史蒂芬的踪迹吧。"
 		},
 		Summary = "前往艾因贝克矿山1层"
 	},
@@ -31175,7 +31175,7 @@ QuestInfoList = {
 	[11579] = {
 		Title = "星帝转职任务",
 		IconName = "ico_jq.bmp",
-		Description = { "银河说愿意协助修炼，叫你去打矿石魔10只。去艾音贝赫矿山2楼击败矿石魔10只。" },
+		Description = { "银河说愿意协助修炼，叫你去打矿石魔10只。去艾因贝克矿山2楼击败矿石魔10只。" },
 		Summary = "击败矿石魔10只"
 	},
 	[11580] = {
@@ -31808,7 +31808,7 @@ QuestInfoList = {
 		Title = "尼乐研的拜托",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"听到心脏猎人的尼乐研提议换个场所再继续交流。在人迹罕至的走廊角落重新与<NAVI>[尼乐研]<INFO>ra_temin,213,87,0,101,0</INFO></NAVI>对话吧。"
+			"听到邪心猎人的尼乐研提议换个场所再继续交流。在人迹罕至的走廊角落重新与<NAVI>[尼乐研]<INFO>ra_temin,213,87,0,101,0</INFO></NAVI>对话吧。"
 		},
 		Summary = "与尼乐研对话"
 	},
@@ -44334,8 +44334,8 @@ QuestInfoList = {
 	},
 	[16041] = {
 		Title = "调查：散步喵捕获作战",
-		Description = { "反叛者基地的散步喵慈慈过了饭点还不出现。^0000cd艾音贝赫的空长椅^000000处好好找找用?鱼饼干引诱回来吧。" },
-		Summary = "从艾音贝赫带来慈慈"
+		Description = { "反叛者基地的散步喵慈慈过了饭点还不出现。^0000cd艾因贝克的空长椅^000000处好好找找用?鱼饼干引诱回来吧。" },
+		Summary = "从艾因贝克带来慈慈"
 	},
 	[16042] = {
 		Title = "慈慈很是悠闲",
@@ -44345,8 +44345,8 @@ QuestInfoList = {
 	},
 	[16043] = {
 		Title = "调查：某人的欲望捕获作战",
-		Description = { "米洛·里弗好像很想抚摸慈慈，好像不会伤害它，就像以前一样在^0000CD艾音贝赫的空长椅附近^000000用?鱼饼干引诱猫咪吧。" },
-		Summary = "从艾音贝赫带来慈慈"
+		Description = { "米洛·里弗好像很想抚摸慈慈，好像不会伤害它，就像以前一样在^0000CD艾因贝克的空长椅附近^000000用?鱼饼干引诱猫咪吧。" },
+		Summary = "从艾因贝克带来慈慈"
 	},
 	[16044] = {
 		Title = "慈慈在慈慈的位置上",
@@ -44416,8 +44416,8 @@ QuestInfoList = {
 	},
 	[16054] = {
 		Title = "不一样的广告战略",
-		Description = { "梅森·班德发挥自己的文采编写的武器店宣传单，快给艾音贝赫人们发放吧。" },
-		Summary = "在艾音贝赫发放宣传单"
+		Description = { "梅森·班德发挥自己的文采编写的武器店宣传单，快给艾因贝克人们发放吧。" },
+		Summary = "在艾因贝克发放宣传单"
 	},
 	[16055] = {
 		Title = "广告：想要干净的村落吗？",
@@ -44443,7 +44443,7 @@ QuestInfoList = {
 	[16059] = {
 		Title = "有点不一样的广告战略",
 		Description = { "梅森看来还没放弃，还想发放广告单，总感觉省下这笔钱会更好……" },
-		Summary = "在艾音贝赫发放宣传单"
+		Summary = "在艾因贝克发放宣传单"
 	},
 	[16060] = {
 		Title = "战争狂的语言就是战斗",
@@ -44903,14 +44903,14 @@ QuestInfoList = {
 	[16139] = {
 		Title = "前往艾因贝克",
 		Description = {
-			"在启海伊洛学院承接'向你哥哥问好'委托后   去<NAVI>[艾音贝赫]<INFO>einbech,152,218,0,101,1</INFO></NAVI>见雷诺和鲁米。."
+			"在启海伊洛学院承接'向你哥哥问好'委托后   去<NAVI>[艾因贝克]<INFO>einbech,152,218,0,101,1</INFO></NAVI>见雷诺和鲁米。."
 		},
-		Summary = "造访艾音贝赫"
+		Summary = "造访艾因贝克"
 	},
 	[16140] = {
 		Title = "前往艾因布罗克",
 		Description = {
-			"在艾音贝赫承接'影子矿工'委托后去<NAVI>[艾因布罗克]<INFO>einbroch,168,308,0,101,1</INFO></NAVI>见雷诺和鲁米。"
+			"在艾因贝克承接'影子矿工'委托后去<NAVI>[艾因布罗克]<INFO>einbroch,168,308,0,101,1</INFO></NAVI>见雷诺和鲁米。"
 		},
 		Summary = "造访艾因布罗克"
 	},
@@ -47303,7 +47303,7 @@ QuestInfoList = {
 		Title = "捣蛋鬼们的捉迷藏，大人们坐立不安",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"找到藏在艾音贝赫矿山3层的捣蛋鬼 <NAVI>[拉斯]<INFO>ein_dun03,148,221,0,101,0</INFO></NAVI>，并劝说其回家。"
+			"找到藏在艾因贝克矿山3层的捣蛋鬼 <NAVI>[拉斯]<INFO>ein_dun03,148,221,0,101,0</INFO></NAVI>，并劝说其回家。"
 		},
 		Summary = "与拉斯对话"
 	},
@@ -47311,7 +47311,7 @@ QuestInfoList = {
 		Title = "捣蛋鬼们的捉迷藏，大人们坐立不安",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"找到藏在艾音贝赫矿山3层的捣蛋鬼 <NAVI>[米纳斯]<INFO>ein_dun03,38,152,0,101,0</INFO></NAVI>，并劝说其回家。"
+			"找到藏在艾因贝克矿山3层的捣蛋鬼 <NAVI>[米纳斯]<INFO>ein_dun03,38,152,0,101,0</INFO></NAVI>，并劝说其回家。"
 		},
 		Summary = "与米纳斯对话"
 	},
@@ -47319,7 +47319,7 @@ QuestInfoList = {
 		Title = "捣蛋鬼们的捉迷藏，大人们坐立不安",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"找到藏在艾音贝赫矿山3层的捣蛋鬼 <NAVI>[提里斯]<INFO>ein_dun03,234,20,0,101,0</INFO></NAVI>，并劝说其回家。"
+			"找到藏在艾因贝克矿山3层的捣蛋鬼 <NAVI>[提里斯]<INFO>ein_dun03,234,20,0,101,0</INFO></NAVI>，并劝说其回家。"
 		},
 		Summary = "与提里斯对话"
 	},
@@ -47327,7 +47327,7 @@ QuestInfoList = {
 		Title = "捣蛋鬼们的捉迷藏，为拯救做挣扎",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"为了避免躲藏在<NAVI>[艾音贝赫矿山3层]<INFO>ein_dun03,268,279,0,101,0</INFO></NAVI>的捣蛋鬼们受伤，狩猎位于艾音贝赫矿山3层的魔物100只。"
+			"为了避免躲藏在<NAVI>[艾因贝克矿山3层]<INFO>ein_dun03,268,279,0,101,0</INFO></NAVI>的捣蛋鬼们受伤，狩猎位于艾因贝克矿山3层的魔物100只。"
 		},
 		Summary = ""
 	},
@@ -47359,7 +47359,7 @@ QuestInfoList = {
 		Title = "任务结束后安全回归",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"艾音贝赫矿山3层的孩子们全都找到了。狩猎在艾音贝赫矿山3层的魔物100只后，向<NAVI>[修安]<INFO>einbroch,178,148,0,101,0</INFO></NAVI>报告吧。"
+			"艾因贝克矿山3层的孩子们全都找到了。狩猎在艾因贝克矿山3层的魔物100只后，向<NAVI>[修安]<INFO>einbroch,178,148,0,101,0</INFO></NAVI>报告吧。"
 		},
 		Summary = "与修安对话"
 	},
@@ -53273,7 +53273,7 @@ QuestInfoList = {
 		Title = "职业4转：收集碎片",
 		IconName = "ico_jq.bmp",
 		Description = {
-			"但从刚刚起珠子里面好像有声音，是这个吧？说不定<NAVI>[艾音贝赫矿山]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>有其它碎片？"
+			"但从刚刚起珠子里面好像有声音，是这个吧？说不定<NAVI>[艾因贝克矿山]<INFO>ein_dun01,43,271,0,101,0</INFO></NAVI>有其它碎片？"
 		},
 		Summary = "感动碎片3"
 	},
@@ -53705,7 +53705,7 @@ QuestInfoList = {
 	[17541] = {
 		Title = "天帝转职：第二件善事",
 		IconName = "ico_jq.bmp",
-		Description = { "艾音贝赫<NAVI>[矿山]<INFO>einbech,156,243,0,101,0,</INFO></NAVI>好像有幽灵出没，需要有人帮忙处理幽灵。" },
+		Description = { "艾因贝克<NAVI>[矿山]<INFO>einbech,156,243,0,101,0,</INFO></NAVI>好像有幽灵出没，需要有人帮忙处理幽灵。" },
 		Summary = "前往艾因贝克"
 	},
 	[17542] = {
@@ -57619,17 +57619,17 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[19058] = {
-		Title = "艾音贝赫矿山3层",
+		Title = "艾因贝克矿山3层",
 		IconName = "ico_dq.bmp",
 		Description = {
 			"乐园团独家委托",
-			"击杀<NAVI>[艾音贝赫矿山3层]<INFO>ein_dun03,268,277,0,101,0</INFO></NAVI>地区的魔物后，向高级委托公告栏汇报。",
+			"击杀<NAVI>[艾因贝克矿山3层]<INFO>ein_dun03,268,277,0,101,0</INFO></NAVI>地区的魔物后，向高级委托公告栏汇报。",
 			"^FF0000※该地区可能有进场条件。^000000"
 		},
-		Summary = "艾音贝赫矿山3层魔物"
+		Summary = "艾因贝克矿山3层魔物"
 	},
 	[19059] = {
-		Title = "艾音贝赫矿山3层-待机",
+		Title = "艾因贝克矿山3层-待机",
 		IconName = "ico_dq.bmp",
 		Description = { "该任务不是每日任务，待机时间结束可以再次领取。可以通过乐园团高级委托公告栏接取任务。" },
 		Summary = "04点重置",
@@ -61426,45 +61426,45 @@ QuestInfoList = {
 	},
 	[21304] = {
 		Title = "上下班自由通行券",
-		Description = { "使用了直达艾音贝赫的弗里德里希的通勤券。" },
+		Description = { "使用了直达艾因贝克的弗里德里希的通勤券。" },
 		Summary = "与亚丁对话"
 	},
 	[21305] = {
 		Title = "影子矿工",
-		Description = { "这次委托是驱赶在艾音贝赫矿山捣蛋的矿工魔，矿工魔常出没在矿山1楼。" },
+		Description = { "这次委托是驱赶在艾因贝克矿山捣蛋的矿工魔，矿工魔常出没在矿山1楼。" },
 		Summary = "击杀矿工魔"
 	},
 	[21306] = {
 		Title = "影子矿工-等候",
-		Description = { "此为每日任务，冷却时间过后可再承接执行，可透过伊甸园布告栏或艾音贝赫的亚丁来承接任务。" },
+		Description = { "此为每日任务，冷却时间过后可再承接执行，可透过伊甸园布告栏或艾因贝克的亚丁来承接任务。" },
 		Summary = "凌晨四点重置",
 		CoolTimeQuest = 1
 	},
 	[21307] = {
 		Title = "它为什么会动!",
-		Description = { "在艾音贝赫矿山的废铁暖炉突然故障后开始攻击矿工了，快去镇压废铁暖炉后找回矿山的和平吧!" },
+		Description = { "在艾因贝克矿山的废铁暖炉突然故障后开始攻击矿工了，快去镇压废铁暖炉后找回矿山的和平吧!" },
 		Summary = "击杀废铁暖炉"
 	},
 	[21308] = {
 		Title = "它为什么会动!-等候",
-		Description = { "此为每日任务，冷却时间过后可再承接执行，可透过伊甸园布告栏或艾音贝赫的亚丁来承接任务。" },
+		Description = { "此为每日任务，冷却时间过后可再承接执行，可透过伊甸园布告栏或艾因贝克的亚丁来承接任务。" },
 		Summary = "凌晨四点重置",
 		CoolTimeQuest = 1
 	},
 	[21309] = {
 		Title = "跳跳矿石魔",
-		Description = { "艾音贝赫矿山2楼的矿石魔和黑曜石带给矿工很大的困扰，请求扫荡矿石魔和黑曜石。" },
+		Description = { "艾因贝克矿山2楼的矿石魔和黑曜石带给矿工很大的困扰，请求扫荡矿石魔和黑曜石。" },
 		Summary = "击杀矿石魔和黑曜石"
 	},
 	[21310] = {
 		Title = "跳跳矿石魔-等候",
-		Description = { "此为每日任务，冷却时间过后可再承接执行，可透过伊甸园布告栏或艾音贝赫的亚丁来承接任务。" },
+		Description = { "此为每日任务，冷却时间过后可再承接执行，可透过伊甸园布告栏或艾因贝克的亚丁来承接任务。" },
 		Summary = "凌晨四点重置",
 		CoolTimeQuest = 1
 	},
 	[21311] = {
 		Title = "艾因布罗克的事情",
-		Description = { "听取艾因布罗克和艾音贝赫之间的关系，以及两国情势。" },
+		Description = { "听取艾因布罗克和艾因贝克之间的关系，以及两国情势。" },
 		Summary = ""
 	},
 	[21312] = {
