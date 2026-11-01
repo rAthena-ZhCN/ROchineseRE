@@ -20436,8 +20436,12 @@ QuestInfoList = {
 	},
 	[8198] = {
 		Title = "向事务官报告",
-		Description = { "就先按照邀请函上的时间安排一下会议吧。你能帮我把这封邀请函拿去交给事务官吗？这段时间我得为会议做一下准备了。" },
-		Summary = "把文件交给联合调查团事务官"
+		Description = { "就先按照邀请函上的时间安排一下会议吧。你能帮我把这封邀请函拿去交给<NAVI>[联合研究官]<INFO>mid_campin,376,120,0,101,0</INFO></NAVI>吗？这段时间我得为会议做一下准备了。" },
+		Summary = "把文件交给<NAVI>[联合研究官]<INFO>mid_campin,376,120,0,101,0</INFO></NAVI>",
+		NpcSpr = "4_M_SAGE_A",
+		NpcNavi = "mid_campin",
+		NpcPosX = 376,
+		NpcPosY = 120
 	},
 	[8199] = {
 		Title = "联合调查团事务官的委托",
