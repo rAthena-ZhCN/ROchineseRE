@@ -18393,13 +18393,19 @@ QuestInfoList = {
 	},
 	[7732] = {
 		Title = "搜索嫌疑犯",
-		Description = { "为了寻找布鲁诺，搜索里希塔乐镇北部和北东部。" },
-		Summary = "寻找布鲁诺"
+		Description = { "在<NAVI>[里希塔乐镇]<INFO>lighthalzen,202,167,0,101,0</INFO></NAVI>北部和东北部搜索布鲁诺，发现线索后到中央百货商店前会合。" },
+		Summary = "搜索里希塔乐镇北部",
+		NpcNavi = "lighthalzen",
+		NpcPosX = 202,
+		NpcPosY = 167
 	},
 	[7733] = {
 		Title = "追缉！",
-		Description = { "知道了布鲁诺前往的地方。到里希塔乐镇等待的斯琪亚处报告，之后到贫民窟寻找布鲁诺吧！" },
-		Summary = "搜索贫民窟"
+		Description = { "布鲁诺逃往贫民窟。先回<NAVI>[里希塔乐镇]<INFO>lighthalzen,202,167,0,101,0</INFO></NAVI>向斯琪亚报告，再前往贫民窟。" },
+		Summary = "向斯琪亚报告",
+		NpcNavi = "lighthalzen",
+		NpcPosX = 202,
+		NpcPosY = 167
 	},
 	[7734] = {
 		Title = "逮捕",
