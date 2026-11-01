@@ -15599,11 +15599,11 @@ QuestInfoList = {
 	[7202] = {
 		Title = "都夏的密令-收集证据",
 		IconName = "ico_ep.bmp",
-		Description = { "在阿哈特和契休没发现的情况下，偷偷将要交给都夏的证据-裂缝的痕迹各偷一个放进报告里吧！<ITEM>凝固的血痕<INFO>6306</INFO></ITEM>、<ITEM>冻住的皮肤碎片<INFO>6305</INFO></ITEM>和<ITEM>奇怪的魔力之石<INFO>6307</INFO></ITEM>各搜集1个。证据齐全后，先前往<NAVI>[赫斯兰塔]<INFO>dic_in01,158,188,0,101,0</INFO></NAVI>确认情报，再向<NAVI>[都夏]<INFO>mid_campin,168,170,0,101,0</INFO></NAVI>提交报告。" },
-		Summary = "证据齐全后去找赫斯兰塔，再向都夏报告",
+		Description = { "在阿哈特和契休没发现的情况下，偷偷将要交给都夏的证据-裂缝的痕迹各偷一个放进报告里吧！<ITEM>凝固的血痕<INFO>6306</INFO></ITEM>、<ITEM>冻住的皮肤碎片<INFO>6305</INFO></ITEM>和<ITEM>奇怪的魔力之石<INFO>6307</INFO></ITEM>各搜集1个。若已把10个交给契休，下一步先前往<NAVI>[阿哈特]<INFO>dic_in01,300,280,0,101,0</INFO></NAVI>处推进剧情；随后装备<ITEM>钸镭耳环<INFO>2782</INFO></ITEM>，从<NAVI>[无形墙]<INFO>dic_in01,138,188,0,101,0</INFO></NAVI>传送进去，与<NAVI>[赫斯兰塔]<INFO>dic_in01,158,188,0,101,0</INFO></NAVI>对话，最后回<NAVI>[都夏]<INFO>mid_campin,168,170,0,101,0</INFO></NAVI>报告。" },
+		Summary = "先找阿哈特，再穿墙见赫斯兰塔",
 		NpcNavi = "dic_in01",
-		NpcPosX = 158,
-		NpcPosY = 188
+		NpcPosX = 300,
+		NpcPosY = 280
 	},
 	[7203] = {
 		Title = "都夏的密令-最终报告",
