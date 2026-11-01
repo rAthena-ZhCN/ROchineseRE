@@ -20426,9 +20426,9 @@ QuestInfoList = {
 	[8197] = {
 		Title = "传送文件",
 		Description = {
-			"请你帮我把这些文件交给<NAVI>[休]<INFO>mid_camp,247,255,0,101,0</INFO></NAVI>和<NAVI>[汉吉纳]<INFO>mid_camp,222,218,0,101,0</INFO></NAVI>。他们都在<NAVI>[联合军驻地]<INFO>mid_camp,247,255,0,101,0</INFO></NAVI>，如果不先去找他们的话，他们拿这说事。所以请你先去那边吧。然后让他们在下面签上名，最后交给<NAVI>[廖森]<INFO>mid_camp,165,245,0,101,0</INFO></NAVI>。"
+			"请你帮我把这些文件交给<NAVI>[休]<INFO>mid_camp,247,255,0,101,0</INFO></NAVI>和<NAVI>[汉森]<INFO>mid_camp,222,218,0,101,0</INFO></NAVI>。他们都在<NAVI>[联合军驻地]<INFO>mid_camp,247,255,0,101,0</INFO></NAVI>，如果不先去找他们的话，他们拿这说事。所以请你先去那边吧。然后让他们在下面签上名，最后交给<NAVI>[廖森]<INFO>mid_camp,165,245,0,101,0</INFO></NAVI>。"
 		},
-		Summary = "把文件交给<NAVI>[休]<INFO>mid_camp,247,255,0,101,0</INFO></NAVI>和<NAVI>[汉吉纳]<INFO>mid_camp,222,218,0,101,0</INFO></NAVI>，让他们签上名后，回去交给<NAVI>[廖森]<INFO>mid_camp,165,245,0,101,0</INFO></NAVI>",
+		Summary = "把文件交给<NAVI>[休]<INFO>mid_camp,247,255,0,101,0</INFO></NAVI>和<NAVI>[汉森]<INFO>mid_camp,222,218,0,101,0</INFO></NAVI>，让他们签上名后，回去交给<NAVI>[廖森]<INFO>mid_camp,165,245,0,101,0</INFO></NAVI>",
 		NpcSpr = "4_M_LGTGUARD",
 		NpcNavi = "mid_camp",
 		NpcPosX = 247,
@@ -20448,13 +20448,13 @@ QuestInfoList = {
 	},
 	[8200] = {
 		Title = "廖森的数据请求",
-		Description = { "之前我向阿鲁纳佩尔兹要了一份数据，但是现在还没送过来。你能帮我去汉吉纳那里拿一下吗？会议就在眼前，可他们好像根本就没打算给我送过来！？" },
+		Description = { "之前我向阿鲁纳佩尔兹要了一份数据，但是现在还没送过来。你能帮我去汉森那里拿一下吗？会议就在眼前，可他们好像根本就没打算给我送过来！？" },
 		Summary = ""
 	},
 	[8201] = {
 		Title = "遗失的数据",
 		Description = { "资料？是廖森让你来的吗？应该是上次玩寻宝游戏的时候掉到桥下去了！用鱼竿钓的话，能钓到吗～？听说西南面的喵呜们正在教人钓鱼。运气好的话，说不定可以钓起来。" },
-		Summary = "钓到遗失的文件后，回去找汉吉纳"
+		Summary = "钓到遗失的文件后，回去找汉森"
 	},
 	[8202] = {
 		Title = "文件复原",
@@ -20484,12 +20484,12 @@ QuestInfoList = {
 		Summary = ""
 	},
 	[8207] = {
-		Title = "罪犯不是汉吉纳",
+		Title = "罪犯不是汉森",
 		Description = { "啊，真丢人。本来想让三个人亲近一点的，每次都会出现这样的问题。难道就没有什么办法让三个人和解吗？" },
 		Summary = ""
 	},
 	[8208] = {
-		Title = "汉吉纳的委托",
+		Title = "汉森的委托",
 		Description = {
 			"不过也不是什么大事，很快就会好起来的。等稍微冷静一点之后，他应该就会知道那不是什么值得生气的事情。不过，我很担心廖森和休两人的关系。你能看情况，进行一下调解吗？当然用意不要太明显。"
 		},
