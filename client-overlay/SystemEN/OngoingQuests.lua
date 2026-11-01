@@ -18201,7 +18201,10 @@ QuestInfoList = {
 	[7686] = {
 		Title = "尼希尔和斯琪亚",
 		Description = { "在走廊目击尼希尔、斯琪亚的对话。" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 21,
+		NpcPosY = 39
 	},
 	[7687] = {
 		Title = "出席宴会",
@@ -18214,7 +18217,10 @@ QuestInfoList = {
 	[7688] = {
 		Title = "可疑的动态",
 		Description = { "在为参加宴会移动的途中，听到宾客室附近陌生人们的对话。" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "prt_cas",
+		NpcPosX = 103,
+		NpcPosY = 235
 	},
 	[7689] = {
 		Title = "去找尼希尔吧",
@@ -18251,7 +18257,10 @@ QuestInfoList = {
 	[7693] = {
 		Title = "袭击",
 		Description = { "正在进行仪式中收到袭击！" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 29,
+		NpcPosY = 30
 	},
 	[7694] = {
 		Title = "那个我也要看",
@@ -18336,7 +18345,10 @@ QuestInfoList = {
 	[7704] = {
 		Title = "无法改变的过去",
 		Description = { "今天也没有守住被发基力蹂躏的依美乐心脏碎片。" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "prt_lib_q",
+		NpcPosX = 91,
+		NpcPosY = 85
 	},
 	[7705] = {
 		Title = "无法放弃的希望",
