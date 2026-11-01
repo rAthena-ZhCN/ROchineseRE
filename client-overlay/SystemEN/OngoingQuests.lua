@@ -40917,19 +40917,28 @@ QuestInfoList = {
 		Summary = "向艾森雅纳报告"
 	},
 	[14475] = {
-		Title = "去找尤勒基恩",
-		Description = { "从王位后补尤勒基恩处听更多的故事吧。" },
-		Summary = "去找尤勒基恩"
+		Title = "去找尤尔根",
+		Description = { "前往<NAVI>[尤尔根·维格纳]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>处，听更多关于王位继承和王室会议的事。" },
+		Summary = "去找尤尔根",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 95,
+		NpcPosY = 9
 	},
 	[14476] = {
-		Title = "去找蕾贝尔夫妇",
-		Description = { "如果有时间和我的父母喝杯茶如何？ 两位很喜欢与冒险家们交谈。" },
-		Summary = "去找蕾贝尔夫妇"
+		Title = "去找勒维耶夫妇",
+		Description = { "如果还有时间，前往<NAVI>[勒维耶夫妇]<INFO>prt_cas_q,82,21,0,101,0</INFO></NAVI>处喝杯茶。他们很喜欢和冒险者交谈。" },
+		Summary = "去找勒维耶夫妇",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 82,
+		NpcPosY = 21
 	},
 	[14477] = {
-		Title = "是什么事！",
-		Description = { "卡特琳，我们的孩子是有什么事了？啊啊，这孩子发生什么事了我也活不下去了。" },
-		Summary = "去找卡特琳"
+		Title = "到底是什么事！",
+		Description = { "卡特琳似乎出了什么事。前往<NAVI>[卡特琳·维格纳]<INFO>prt_cas_q,96,7,0,101,0</INFO></NAVI>处确认情况。" },
+		Summary = "去找卡特琳",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 96,
+		NpcPosY = 7
 	},
 	[14478] = {
 		Title = "寻找证据",
