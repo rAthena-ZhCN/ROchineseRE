@@ -44363,23 +44363,35 @@ QuestInfoList = {
 	},
 	[16046] = {
 		Title = "DIY 收集花束材料",
-		Description = { "艾因布罗克卖花小孩委托收集花束的材料。收集^0000CD光滑的纸^0000003张吧。" },
-		Summary = "收集3张光滑的纸"
+		Description = { "卖花女孩委托收集花束材料。前往<NAVI>[卖花女孩]<INFO>einbroch,167,160,0,101,0</INFO></NAVI>，带来3张<ITEM>光滑的纸<INFO>7111</INFO></ITEM>。" },
+		Summary = "收集3张光滑的纸",
+		NpcNavi = "einbroch",
+		NpcPosX = 167,
+		NpcPosY = 160
 	},
 	[16047] = {
 		Title = "寂静的追悼仪式",
-		Description = { "从卖花的小孩处获得了花束。放到^0000cd树下小牌匾^000000前吧。" },
-		Summary = "把花束献祭在树下"
+		Description = { "已从卖花女孩处获得花束。前往<NAVI>[树下牌匾]<INFO>einbroch,164,153,0,101,0</INFO></NAVI>，献上<ITEM>吊唁花篮<INFO>25152</INFO></ITEM>。" },
+		Summary = "把花束献在树下",
+		NpcNavi = "einbroch",
+		NpcPosX = 164,
+		NpcPosY = 153
 	},
 	[16048] = {
 		Title = "古老的故事的印记",
-		Description = { "听了非常长久的故事，完成委托，回去告诉埃里克森吧。" },
-		Summary = "回去找埃里克森"
+		Description = { "听完漫长的故事并完成委托。回到<NAVI>[埃里克森]<INFO>rebel_in,91,67,0,101,0</INFO></NAVI>处报告。" },
+		Summary = "回去找埃里克森",
+		NpcNavi = "rebel_in",
+		NpcPosX = 91,
+		NpcPosY = 67
 	},
 	[16049] = {
 		Title = "寂静的凌晨",
-		Description = { "亡者也需要休息，等凌晨过后再来吧。" },
+		Description = { "亡者也需要休息，冷却结束后再前往<NAVI>[埃里克森]<INFO>rebel_in,91,67,0,101,0</INFO></NAVI>处。" },
 		Summary = "04点重置",
+		NpcNavi = "rebel_in",
+		NpcPosX = 91,
+		NpcPosY = 67,
 		CoolTimeQuest = 1
 	},
 	[16050] = {
