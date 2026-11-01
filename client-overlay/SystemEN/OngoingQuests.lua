@@ -18219,7 +18219,10 @@ QuestInfoList = {
 	[7689] = {
 		Title = "去找尼希尔吧",
 		Description = { "总觉得尼希尔的状态有些不对的斯琪亚拜托跟着去看一下先回去的尼希尔。" },
-		Summary = "跟踪尼希尔"
+		Summary = "跟踪尼希尔",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 18,
+		NpcPosY = 136
 	},
 	[7690] = {
 		Title = "尼希尔在哪里？",
