@@ -18227,7 +18227,10 @@ QuestInfoList = {
 	[7690] = {
 		Title = "尼希尔在哪里？",
 		Description = { "为找尼希尔出来时听到了可疑的人们的对话。尼希尔去哪里了呢？" },
-		Summary = "与尼希尔对话"
+		Summary = "与尼希尔对话",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 25,
+		NpcPosY = 35
 	},
 	[7691] = {
 		Title = "等待着仪式",
