@@ -41453,7 +41453,7 @@ QuestInfoList = {
 	},
 	[14500] = {
 		Title = "租借完毕",
-		Description = { "租借卢恩-米德加尔特的历史书完成。" },
+		Description = { "租借卢恩-米德加兹历史书完成。" },
 		Summary = "租借完毕"
 	},
 	[14501] = {
