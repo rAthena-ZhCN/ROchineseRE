@@ -41252,8 +41252,11 @@ QuestInfoList = {
 	},
 	[14484] = {
 		Title = "有过家具配送员",
-		Description = { "有位一天到晚配送家具的人。所以我也要一天到晚都要打扫。那位应该在街道办公室附近。因为那附近有很多商铺。" },
-		Summary = "寻找家具配送员"
+		Description = { "有位一天到晚配送家具的人，应该就在街道办公室附近。前往<NAVI>[家具送货员]<INFO>prontera,68,68,0,101,0</INFO></NAVI>处询问。" },
+		Summary = "寻找家具送货员",
+		NpcNavi = "prontera",
+		NpcPosX = 68,
+		NpcPosY = 68
 	},
 	[14485] = {
 		Title = "心情非常不好",
