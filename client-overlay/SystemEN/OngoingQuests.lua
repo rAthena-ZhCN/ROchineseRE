@@ -30410,101 +30410,158 @@ QuestInfoList = {
 	},
 	[11413] = {
 		Title = "为什么我要准备宴会？",
-		Description = { "与在食堂工作的塔莫林对话吧。" },
-		Summary = "与塔莫林对话"
+		Description = { "与在食堂工作的塔玛琳对话吧。" },
+		Summary = "与塔玛琳对话",
+		NpcNavi = "prt_cas",
+		NpcPosX = 358,
+		NpcPosY = 124
 	},
 	[11414] = {
 		Title = "为什么我要准备宴会？",
-		Description = { "到宴会厅见一下迪沃吧。" },
-		Summary = "与迪沃对话"
+		Description = { "到宴会厅见一下迪尤吧。" },
+		Summary = "与迪尤对话",
+		NpcNavi = "prt_cas",
+		NpcPosX = 361,
+		NpcPosY = 142
 	},
 	[11415] = {
 		Title = "为什么我要准备宴会？",
-		Description = { "迪欧好像不知道。和旁边的玛琪说说看吧。" },
-		Summary = "与玛琪对话"
+		Description = { "迪欧好像不知道。和旁边的玛吉说说看吧。" },
+		Summary = "与玛吉对话",
+		NpcNavi = "prt_cas",
+		NpcPosX = 111,
+		NpcPosY = 235
 	},
 	[11416] = {
 		Title = "为什么我要准备宴会？",
 		Description = { "和宴会厅上楼工作的马克说说看吧。" },
-		Summary = "与马克对话"
+		Summary = "与马克对话",
+		NpcNavi = "prt_cas",
+		NpcPosX = 111,
+		NpcPosY = 234
 	},
 	[11417] = {
 		Title = "为什么我要准备宴会？",
 		Description = { "和爱丽丝说说看吧。" },
-		Summary = "与爱丽丝对话"
+		Summary = "与爱丽丝对话",
+		NpcNavi = "prt_cas",
+		NpcPosX = 83,
+		NpcPosY = 270
 	},
 	[11418] = {
 		Title = "为什么我要准备宴会？",
-		Description = { "回去找塔莫林。" },
-		Summary = "与塔莫林对话"
+		Description = { "回去找塔玛琳。" },
+		Summary = "与塔玛琳对话",
+		NpcNavi = "prt_cas",
+		NpcPosX = 361,
+		NpcPosY = 142
 	},
 	[11419] = {
 		Title = "为什么我要准备宴会？",
 		Description = { "收集食堂中的15个碟子拿去给厨房的洗碗工。" },
-		Summary = "与洗碗工对话"
+		Summary = "与洗碗工对话",
+		NpcNavi = "prt_cas",
+		NpcPosX = 361,
+		NpcPosY = 142
 	},
 	[11420] = {
 		Title = "为什么我要准备宴会？",
 		Description = { "回去找厨师长" },
-		Summary = "与厨师长对话"
+		Summary = "与厨师长对话",
+		NpcNavi = "prt_cas",
+		NpcPosX = 302,
+		NpcPosY = 205
 	},
 	[11421] = {
 		Title = "宴会：以外的调料 ",
 		Description = { "帮助匠人制作调料。" },
-		Summary = "制作调料"
+		Summary = "制作调料",
+		NpcNavi = "prt_cas",
+		NpcPosX = 319,
+		NpcPosY = 211
 	},
 	[11422] = {
 		Title = "完成今天的制作调料",
 		Description = { "完成今天的调料制作。明天再来吧。" },
 		Summary = "",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "prt_cas",
+		NpcPosX = 319,
+		NpcPosY = 211
 	},
 	[11423] = {
 		Title = "宴会：烤全狮鹫兽",
 		Description = { "根据厨师长的口令制作烤全狮鹫兽。" },
-		Summary = "制作烤全狮鹫兽"
+		Summary = "制作烤全狮鹫兽",
+		NpcNavi = "prt_cas",
+		NpcPosX = 358,
+		NpcPosY = 124
 	},
 	[11424] = {
 		Title = "宴会：烤全狮鹫兽",
 		Description = { "把用特制调料做的外酥里嫩的烤全狮鹫兽拿到食堂吧。" },
-		Summary = "送到食堂"
+		Summary = "送到食堂",
+		NpcNavi = "prt_cas",
+		NpcPosX = 358,
+		NpcPosY = 124
 	},
 	[11425] = {
 		Title = "完成今天的制作烤全狮鹫兽",
 		Description = { "今天的制作烤全狮鹫兽完成了。明天再来吧。" },
 		Summary = "",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "prt_cas",
+		NpcPosX = 358,
+		NpcPosY = 124
 	},
 	[11426] = {
 		Title = "宴会：洗15个碗碟",
 		Description = { "把食堂里的15个碟子收在一起带去给洗碗工。" },
-		Summary = "回收碟子"
+		Summary = "回收碟子",
+		NpcNavi = "prt_cas",
+		NpcPosX = 302,
+		NpcPosY = 205
 	},
 	[11427] = {
 		Title = "完成今天的回收碟子",
 		Description = { "今天的回收碟子完成。明天再来吧。" },
 		Summary = "",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "prt_cas",
+		NpcPosX = 302,
+		NpcPosY = 205
 	},
 	[11428] = {
 		Title = "调料材料",
 		Description = { "清爽的味道" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "prt_cas",
+		NpcPosX = 319,
+		NpcPosY = 211
 	},
 	[11429] = {
 		Title = "调料材料",
 		Description = { "Q弹的味道" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "prt_cas",
+		NpcPosX = 319,
+		NpcPosY = 211
 	},
 	[11430] = {
 		Title = "调料材料",
 		Description = { "华丽的光" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "prt_cas",
+		NpcPosX = 319,
+		NpcPosY = 211
 	},
 	[11431] = {
 		Title = "调料材料",
 		Description = { "柔滑的味道" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "prt_cas",
+		NpcPosX = 319,
+		NpcPosY = 211
 	},
 	[11432] = {
 		Title = "可疑的委托",
@@ -31510,7 +31567,7 @@ QuestInfoList = {
 		Title = "下水道的落伍者",
 		IconName = "ico_ep.bmp",
 		Description = { "里面的门好像被锁住了，去跟外面的<NAVI>[同行人]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>对话吧。" },
-		Summary = "与塔莫林对话"
+		Summary = "与塔玛琳对话"
 	},
 	[11621] = {
 		Title = "图书馆内保持肃静！",
@@ -31551,8 +31608,8 @@ QuestInfoList = {
 	[11627] = {
 		Title = "图书馆内保持肃静！",
 		IconName = "ico_ep.bmp",
-		Description = { "图书馆内需要另外登记使用，去和<NAVI>[塔莫林]<INFO>ba_lib,96,208,0,101,0</INFO></NAVI>说吧！" },
-		Summary = "与图书馆内的塔莫林对话"
+		Description = { "图书馆内需要另外登记使用，去和<NAVI>[塔玛琳]<INFO>ba_lib,96,208,0,101,0</INFO></NAVI>说吧！" },
+		Summary = "与图书馆内的塔玛琳对话"
 	},
 	[11628] = {
 		Title = "图书馆内保持肃静！",
@@ -31581,7 +31638,7 @@ QuestInfoList = {
 	[11632] = {
 		Title = "图书馆内保持肃静！",
 		IconName = "ico_ep.bmp",
-		Description = { "与塔莫林对话。与其他人对话结束后，回去找<NAVI>[图书馆管理员β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>。" },
+		Description = { "与塔玛琳对话。与其他人对话结束后，回去找<NAVI>[图书馆管理员β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>。" },
 		Summary = "去找图书馆管理员β"
 	},
 	[11633] = {
@@ -31626,7 +31683,7 @@ QuestInfoList = {
 		Title = "终极废铁回收",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"回收废弃守护者零件，就可以修理守护者。回收守护者的零件，去第一研究所前去找<NAVI>[塔莫林]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>吧！"
+			"回收废弃守护者零件，就可以修理守护者。回收守护者的零件，去第一研究所前去找<NAVI>[塔玛琳]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>吧！"
 		},
 		Summary = "回收守护者残骸20个"
 	},
@@ -31634,7 +31691,7 @@ QuestInfoList = {
 		Title = "终极废铁回收",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"该任务为每日任务，待冷却时间结束时可通过<NAVI>[塔莫林]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>再次接取。"
+			"该任务为每日任务，待冷却时间结束时可通过<NAVI>[塔玛琳]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>再次接取。"
 		},
 		Summary = "04点初始化"
 	},
@@ -32030,7 +32087,7 @@ QuestInfoList = {
 		Title = "灰色孩子们",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"碰巧遇见塔莫林了。 拜托他一起伪装成商人，且带上 <NAVI>[马克]<INFO>rachel,122,120,0,101,0</INFO></NAVI>和米奇一起吧。"
+			"碰巧遇见塔玛琳了。 拜托他一起伪装成商人，且带上 <NAVI>[马克]<INFO>rachel,122,120,0,101,0</INFO></NAVI>和米奇一起吧。"
 		},
 		Summary = "在广场上找到马克"
 	},
@@ -41166,14 +41223,14 @@ QuestInfoList = {
 	},
 	[14471] = {
 		Title = "前往王宫的监狱",
-		Description = { "在普隆德拉王宫的监狱罪犯中有个叫bigfoot的小偷。见到他或许能听到什么。还有告诉艾森雅纳大人我会一直等待的。" },
+		Description = { "普隆德拉王宫地下监狱里有个叫大脚的小偷。前往<NAVI>[大脚]<INFO>prt_pri00,57,119,0,101,0</INFO></NAVI>处见他，并转告伊森霍诺大人会一直等待。" },
 		Summary = "前往王宫的监狱",
 		NpcNavi = "prt_pri00",
 		NpcPosX = 57,
 		NpcPosY = 119
 	},
 	[14472] = {
-		Title = "美食家 bigfoot",
+		Title = "美食家大脚",
 		Description = { "大脚想要<ITEM>香辣煎包<INFO>12055</INFO></ITEM>3个和<ITEM>绿色沙拉<INFO>12065</INFO></ITEM>1个。前往<NAVI>[大脚]<INFO>prt_pri00,57,119,0,101,0</INFO></NAVI>处交给他。" },
 		Summary = "给大脚送食物",
 		NpcNavi = "prt_pri00",
@@ -41189,7 +41246,7 @@ QuestInfoList = {
 		NpcPosY = 160
 	},
 	[14474] = {
-		Title = "向艾森雅纳报告",
+		Title = "向伊森霍诺报告",
 		Description = { "把凯恩交出的<ITEM>盖印之信<INFO>6929</INFO></ITEM>和证词交给<NAVI>[伊森霍诺]<INFO>prt_cas_q,14,184,0,101,0</INFO></NAVI>。" },
 		Summary = "向伊森霍诺报告",
 		NpcNavi = "prt_cas_q",
@@ -41222,33 +41279,51 @@ QuestInfoList = {
 	},
 	[14478] = {
 		Title = "寻找证据",
-		Description = { "听说刚刚打扫这里的女仆来过。要小心问一问箱子的去向。" },
-		Summary = "前往王宫的厨房"
+		Description = { "听说刚刚打扫这里的女仆来过。前往<NAVI>[女仆]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI>处询问箱子的去向。" },
+		Summary = "前往王宫的厨房",
+		NpcNavi = "prt_cas",
+		NpcPosX = 322,
+		NpcPosY = 216
 	},
 	[14479] = {
 		Title = "致歉的打扫",
 		Description = { "还有谁是吗？ 呃……可能这里变干净或许会想起什么。要给我打扫吗？ 哎呀，谢谢。那把墙上的霉去除，擦掉油渍后扫一下地板就可以了。" },
-		Summary = "开始大扫吧。"
+		Summary = "开始大扫吧。",
+		NpcNavi = "prt_cas",
+		NpcPosX = 322,
+		NpcPosY = 216
 	},
 	[14480] = {
 		Title = "征服顽固的油渍",
 		Description = { "要去除顽固油渍的话橙子和酒精的混合物很有效。需要<ITEM>橙子<INFO>582</INFO></ITEM>1个和<ITEM>酒精<INFO>970</INFO></ITEM>1瓶。" },
-		Summary = "找来打扫的材料"
+		Summary = "找来打扫的材料",
+		NpcNavi = "prt_cas",
+		NpcPosX = 339,
+		NpcPosY = 198
 	},
 	[14481] = {
 		Title = "征服霉",
 		Description = { "这个霉不用同族的力量和神的力量无法去除。需要<ITEM>霉菌粉末<INFO>7001</INFO></ITEM>1份和<ITEM>圣水<INFO>523</INFO></ITEM>1瓶。" },
-		Summary = "找来打扫的材料"
+		Summary = "找来打扫的材料",
+		NpcNavi = "prt_cas",
+		NpcPosX = 339,
+		NpcPosY = 212
 	},
 	[14482] = {
 		Title = "征服恶魔的黑污渍",
 		Description = { "为了去除恶魔黑垢，需要<ITEM>黄晶沙<INFO>7043</INFO></ITEM>1份和<ITEM>柠檬<INFO>568</INFO></ITEM>1个。" },
-		Summary = "找来打扫的材料"
+		Summary = "找来打扫的材料",
+		NpcNavi = "prt_cas",
+		NpcPosX = 309,
+		NpcPosY = 215
 	},
 	[14483] = {
 		Title = "打扫完毕报告",
-		Description = { "打扫完毕，给女仆报告后听她说什么吧。" },
-		Summary = "去找女仆"
+		Description = { "打扫完毕，前往<NAVI>[女仆]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI>处报告并听她说什么。" },
+		Summary = "去找女仆",
+		NpcNavi = "prt_cas",
+		NpcPosX = 322,
+		NpcPosY = 216
 	},
 	[14484] = {
 		Title = "有过家具配送员",
@@ -41261,37 +41336,58 @@ QuestInfoList = {
 	[14485] = {
 		Title = "心情非常不好",
 		Description = { "看来只要<ITEM>牛头肉<INFO>6254</INFO></ITEM>3份，他就能消气。" },
-		Summary = "取悦的食物"
+		Summary = "取悦的食物",
+		NpcNavi = "prontera",
+		NpcPosX = 68,
+		NpcPosY = 68
 	},
 	[14486] = {
 		Title = "都听完了",
-		Description = { "都听完了到宫里向尤勒基恩报告吧。" },
-		Summary = "去找尤勒基恩"
+		Description = { "已经听完了家具送货员的说法。回王宫向<NAVI>[尤尔根]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>报告。" },
+		Summary = "去找尤尔根",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 95,
+		NpcPosY = 9
 	},
 	[14487] = {
 		Title = "请帮我找回那回忆之物吧",
 		Description = { "为了缓解姐姐的心情，需要<ITEM>大海之石<INFO>6927</INFO></ITEM>10个和<ITEM>永恒玫瑰<INFO>748</INFO></ITEM>1朵。大海之石可以猎杀美杜莎获得。" },
-		Summary = "寻找回忆之物"
+		Summary = "寻找回忆之物",
+		NpcNavi = "prt_cas",
+		NpcPosX = 322,
+		NpcPosY = 216
 	},
 	[14488] = {
 		Title = "请转达我的心",
-		Description = { "请帮我向那位传递我的心吧。拜托了，拜托。" },
-		Summary = "去找女仆"
+		Description = { "请向<NAVI>[女仆]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI>转达尤尔根的心意。" },
+		Summary = "去找女仆",
+		NpcNavi = "prt_cas",
+		NpcPosX = 322,
+		NpcPosY = 216
 	},
 	[14489] = {
 		Title = "我拒绝",
-		Description = { "很忽然而且感觉很负担。而且我现在有不能见别人的情况。请帮我给维格纳大人好好说一下吧。" },
-		Summary = "去找尤勒基恩"
+		Description = { "尤尔根的表白被拒绝了。前往<NAVI>[尤尔根]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>处转达。" },
+		Summary = "去找尤尔根",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 95,
+		NpcPosY = 9
 	},
 	[14490] = {
 		Title = "再次传递心意",
 		Description = { "用猎杀美杜莎获得的大海之石15个和永恒玫瑰1朵，向她表达心意。需要<ITEM>大海之石<INFO>6927</INFO></ITEM>15个和<ITEM>永恒玫瑰<INFO>748</INFO></ITEM>1朵。" },
-		Summary = "给女仆送礼物"
+		Summary = "给女仆送礼物",
+		NpcNavi = "prt_cas",
+		NpcPosX = 322,
+		NpcPosY = 216
 	},
 	[14491] = {
 		Title = "再次拒绝",
-		Description = { "真的很抱歉……其实我……所以请帮我好好给维格纳大人说一说吧。" },
-		Summary = "去找尤勒基恩"
+		Description = { "玛丽再次拒绝了。前往<NAVI>[尤尔根]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>处转达。" },
+		Summary = "去找尤尔根",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 95,
+		NpcPosY = 9
 	},
 	[14492] = {
 		Title = "看到希望了呢",
@@ -41301,13 +41397,19 @@ QuestInfoList = {
 	},
 	[14493] = {
 		Title = "今天也我的心",
-		Description = { "怎么办？今天比昨天还要喜欢梅丽了。一定要帮我传递我这心。带上抓美杜莎能获得的海之石15个和永恒玫瑰1个。" },
-		Summary = "给女仆礼物"
+		Description = { "带上大海之石15个和永恒玫瑰1朵，前往<NAVI>[女仆]<INFO>prt_cas,322,216,0,101,0</INFO></NAVI>处转交。" },
+		Summary = "给女仆礼物",
+		NpcNavi = "prt_cas",
+		NpcPosX = 322,
+		NpcPosY = 216
 	},
 	[14494] = {
 		Title = "这次也是拒绝",
-		Description = { "对不起，虽然很感激但是无法接受。请帮我好好说一说吧。" },
-		Summary = "去找尤勒基恩"
+		Description = { "玛丽再次拒绝。前往<NAVI>[尤尔根]<INFO>prt_cas_q,95,9,0,101,0</INFO></NAVI>处转达。" },
+		Summary = "去找尤尔根",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 95,
+		NpcPosY = 9
 	},
 	[14495] = {
 		Title = "去找沃尔夫",
@@ -41335,13 +41437,19 @@ QuestInfoList = {
 	},
 	[14498] = {
 		Title = "什么传闻",
-		Description = { "听说普隆德拉传开关于我们家族不好的传闻无法不管。要知道是什么传闻才可以正确处理，所以请帮我去打听打听是什么传闻吧。可能从小孩处比较容易听到的。" },
-		Summary = "收集传闻"
+		Description = { "去普隆德拉的大片空地，向<NAVI>[小鬼艾伦]<INFO>prontera,271,70,0,101,0</INFO></NAVI>打听关于雷根贝格的传闻。" },
+		Summary = "收集传闻",
+		NpcNavi = "prontera",
+		NpcPosX = 271,
+		NpcPosY = 70
 	},
 	[14499] = {
 		Title = "资格的证明",
-		Description = { "想听的话就证明资格吧。狂暴米诺斯33只！还有图书馆的卢恩-米德加尔特的历史书！还有12个柔软的绸缎布也拜托你了！" },
-		Summary = "资格的证明"
+		Description = { "想听传闻就要证明资格。击败狂暴米诺斯33只，并带来<ITEM>柔软的绸缎布<INFO>7166</INFO></ITEM>12个和<ITEM>卢恩-米德加兹历史书<INFO>6926</INFO></ITEM>1本。" },
+		Summary = "资格的证明",
+		NpcNavi = "prontera",
+		NpcPosX = 271,
+		NpcPosY = 70
 	},
 	[14500] = {
 		Title = "租借完毕",
@@ -41350,79 +41458,124 @@ QuestInfoList = {
 	},
 	[14501] = {
 		Title = "向沃尔夫报告",
-		Description = { "既然听到传闻就给沃尔夫说一下吧。" },
-		Summary = "向沃尔夫报告"
+		Description = { "把听来的传闻告诉<NAVI>[沃尔夫·雷根贝格]<INFO>prt_cas_q,96,186,0,101,0</INFO></NAVI>。" },
+		Summary = "向沃尔夫报告",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 96,
+		NpcPosY = 186
 	},
 	[14502] = {
 		Title = "去找艾萨克",
-		Description = { "请把这个文件交给艾萨克。我现在开始要做的事情变多了。那拜托你了。" },
-		Summary = "去找艾萨克"
+		Description = { "把文件交给<NAVI>[艾萨克·维格纳]<INFO>prt_cas_q,94,7,0,101,0</INFO></NAVI>。" },
+		Summary = "去找艾萨克",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 94,
+		NpcPosY = 7
 	},
 	[14503] = {
 		Title = "向沃尔夫报告",
-		Description = { "向沃尔夫传达，我会一直尊重沃尔夫的意思并且相信他。" },
-		Summary = "去找沃尔夫"
+		Description = { "向<NAVI>[沃尔夫·雷根贝格]<INFO>prt_cas_q,96,186,0,101,0</INFO></NAVI>传达会尊重并相信他的意思。" },
+		Summary = "去找沃尔夫",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 96,
+		NpcPosY = 186
 	},
 	[14504] = {
 		Title = "去找赫尔穆特",
-		Description = { "说服赫尔穆特并带回来可以吗？现在应该在秀发兹的国境检查站。" },
-		Summary = "去找赫尔穆特"
+		Description = { "前往<NAVI>[赫尔穆特·雷根贝格]<INFO>yuno_fild01,242,175,0,101,0</INFO></NAVI>处，说服他回来。" },
+		Summary = "去找赫尔穆特",
+		NpcNavi = "yuno_fild01",
+		NpcPosX = 242,
+		NpcPosY = 175
 	},
 	[14505] = {
 		Title = "我不会回去的。",
-		Description = { "我要待的地方就是这里。请帮我给爷爷说吧。" },
-		Summary = "去找马克西米利安"
+		Description = { "前往<NAVI>[马克西米利安·雷根贝格]<INFO>prt_cas_q,90,186,0,101,0</INFO></NAVI>处，转达“我不会回去的”。" },
+		Summary = "去找马克西米利安",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 90,
+		NpcPosY = 186
 	},
 	[14506] = {
 		Title = "事情就是这样",
-		Description = { "给重新离开家里的迈耶说家里的情况吗？ 可能作为家人的我们去的话可能又逃远了。" },
-		Summary = "去找迈耶"
+		Description = { "前往<NAVI>[迈耶·雷根贝格]<INFO>prt_cas_q,92,182,0,101,0</INFO></NAVI>处，转达家里的情况。" },
+		Summary = "去找迈耶",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 92,
+		NpcPosY = 182
 	},
 	[14507] = {
 		Title = "去找马克西米利安",
-		Description = { "真好。所有都解决了。帮我传达等宴会结束我会找过去可以吗？" },
-		Summary = "去找马克西米利安"
+		Description = { "前往<NAVI>[马克西米利安·雷根贝格]<INFO>prt_cas_q,90,186,0,101,0</INFO></NAVI>处，转达宴会结束后会去找他。" },
+		Summary = "去找马克西米利安",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 90,
+		NpcPosY = 186
 	},
 	[14508] = {
 		Title = "宝石和布料",
-		Description = { "拜托带来制作项链的珍珠3个和制作布料的柔毛50个吧。" },
-		Summary = "宝石和布料"
+		Description = { "带来制作项链的<ITEM>珍珠<INFO>722</INFO></ITEM>3个和制作布料的<ITEM>柔毛<INFO>949</INFO></ITEM>50个，交给<NAVI>[阿格妮丝]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>。" },
+		Summary = "宝石和布料",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 96,
+		NpcPosY = 184
 	},
 	[14509] = {
 		Title = "还在制作中",
-		Description = { "刚刚拿来的材料还在制作中。等做完再决定再做什么。等明天再来找我可以吗？" },
+		Description = { "材料还在制作中，等完成后再决定下一步。明天再去找<NAVI>[阿格妮丝]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>。" },
 		Summary = "请稍等",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 96,
+		NpcPosY = 184,
 		CoolTimeQuest = 1
 	},
 	[14510] = {
 		Title = "像粉色花瓣一样的礼服",
-		Description = { "我要制作像粉色花瓣一样华丽的礼服！可以帮我带来像稚嫩的花瓣一样柔顺的绸缎布15个，给布料染色的红色药草30个，白色药草10个可以吗？" },
-		Summary = "粉色花瓣"
+		Description = { "带<ITEM>柔软的绸缎布<INFO>7166</INFO></ITEM>15个、<ITEM>红色药草<INFO>507</INFO></ITEM>30个、<ITEM>白色药草<INFO>509</INFO></ITEM>10个给<NAVI>[阿格妮丝]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>。" },
+		Summary = "粉色花瓣",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 96,
+		NpcPosY = 184
 	},
 	[14511] = {
 		Title = "美丽的花装饰",
-		Description = { "我要用简单又美丽的花来装饰！请带来漂亮的花，神奇的花，淡雅的花各5个吧。" },
-		Summary = "花圃中的花儿们"
+		Description = { "带<ITEM>漂亮的花<INFO>6511</INFO></ITEM>、<ITEM>神奇的花<INFO>6509</INFO></ITEM>、<ITEM>淡雅的花<INFO>6510</INFO></ITEM>各5个给<NAVI>[阿格妮丝]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>。" },
+		Summary = "花圃中的花儿们",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 96,
+		NpcPosY = 184
 	},
 	[14512] = {
 		Title = "夜空中的礼服",
-		Description = { "我要制作像那夜空一样的黑色礼服！我需要比那夜空更黑的布料。能帮我拿来黑色布条20个可以吗？拜托你了。" },
-		Summary = "黑色夜空"
+		Description = { "带<ITEM>黑色布条<INFO>7205</INFO></ITEM>20个给<NAVI>[阿格妮丝]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>。" },
+		Summary = "黑色夜空",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 96,
+		NpcPosY = 184
 	},
 	[14513] = {
 		Title = "燃烧的太阳披肩",
-		Description = { "我要制作像那天空中燃烧的太阳一样给人强烈印象的披肩。带来20个炙热的毛就可以了。" },
-		Summary = "太阳披肩"
+		Description = { "带<ITEM>炙热的毛<INFO>7122</INFO></ITEM>20个给<NAVI>[阿格妮丝]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>。" },
+		Summary = "太阳披肩",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 96,
+		NpcPosY = 184
 	},
 	[14514] = {
 		Title = "妖精的步伐",
-		Description = { "我要制作像妖精的不发一样优雅又轻的礼服。非常华丽的！华丽的妖精的翅膀5个的话应该可以制作。" },
-		Summary = "妖精的步伐"
+		Description = { "带<ITEM>绚丽精灵翅膀<INFO>6557</INFO></ITEM>5个给<NAVI>[阿格妮丝]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>。" },
+		Summary = "妖精的步伐",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 96,
+		NpcPosY = 184
 	},
 	[14515] = {
 		Title = "星星的闪烁",
-		Description = { "我想在礼服上撒上闪烁的星星！帮我带来5个星星的粉末吧。" },
-		Summary = "星星的闪烁"
+		Description = { "带<ITEM>星星的粉末<INFO>1001</INFO></ITEM>5个给<NAVI>[阿格妮丝]<INFO>prt_cas_q,96,184,0,101,0</INFO></NAVI>。" },
+		Summary = "星星的闪烁",
+		NpcNavi = "prt_cas_q",
+		NpcPosX = 96,
+		NpcPosY = 184
 	},
 	[14516] = {
 		Title = "可疑的影子",
@@ -44285,13 +44438,19 @@ QuestInfoList = {
 	},
 	[16009] = {
 		Title = "战争狂的语言就是战斗",
-		Description = { "看着很期待的埃琳娜的再次对决，与埃琳娜对话进入待机室。" },
-		Summary = "击败埃琳娜"
+		Description = { "前往<NAVI>[埃琳娜·沃尔科娃]<INFO>rebel_in,70,78,0,101,0</INFO></NAVI>处，击败她。" },
+		Summary = "击败埃琳娜",
+		NpcNavi = "rebel_in",
+		NpcPosX = 70,
+		NpcPosY = 78
 	},
 	[16010] = {
 		Title = "战斗要以最佳状态",
-		Description = { "埃琳娜不想和无力的人对战，充分休息后过了凌晨再来吧。" },
+		Description = { "等凌晨四点重置后，再前往<NAVI>[埃琳娜·沃尔科娃]<INFO>rebel_in,70,78,0,101,0</INFO></NAVI>处。" },
 		Summary = "04点重置",
+		NpcNavi = "rebel_in",
+		NpcPosX = 70,
+		NpcPosY = 78,
 		CoolTimeQuest = 1
 	},
 	[16011] = {
@@ -44483,61 +44642,94 @@ QuestInfoList = {
 	},
 	[16034] = {
 		Title = "甜甜的饼干每天一次",
-		Description = { "和元老们一起的茶点时间每天只有一次，凌晨过后再去找一下吧。" },
+		Description = { "茶点时间每天只有一次，凌晨过后再前往<NAVI>[米洛·里弗]<INFO>rebel_in,108,27,0,101,0</INFO></NAVI>。" },
 		Summary = "04点重置",
+		NpcNavi = "rebel_in",
+		NpcPosX = 108,
+		NpcPosY = 27,
 		CoolTimeQuest = 1
 	},
 	[16035] = {
 		Title = "配送：爆发物质左轮手枪",
-		Description = { "动不动就会坏掉的左轮手枪，快送去艾因布罗克的铁匠那里吧。" },
-		Summary = "在艾因布罗克铁匠工会咨询"
+		Description = { "把坏掉的左轮手枪送去<NAVI>[铁匠杰克]<INFO>ein_in01,38,21,0,101,0</INFO></NAVI>处。" },
+		Summary = "在艾因布罗克铁匠工会咨询",
+		NpcNavi = "ein_in01",
+		NpcPosX = 38,
+		NpcPosY = 21
 	},
 	[16036] = {
 		Title = "租借熟练者的眼光",
-		Description = { "把铁匠工会听到的结果带去告诉瑞切尔工匠" },
-		Summary = "访问瑞切尔工匠"
+		Description = { "把铁匠工会听到的结果带去告诉<NAVI>[瑞秋·史密斯]<INFO>rebel_in,90,51,0,101,0</INFO></NAVI>。" },
+		Summary = "访问瑞秋工匠",
+		NpcNavi = "rebel_in",
+		NpcPosX = 90,
+		NpcPosY = 51
 	},
 	[16037] = {
 		Title = "配送材料1日1次",
-		Description = { "送来的材料已经充足了，等过了凌晨再来看看缺不缺什么吧。" },
+		Description = { "材料已经充足，等过了凌晨再前往<NAVI>[瑞秋·史密斯]<INFO>rebel_in,90,51,0,101,0</INFO></NAVI>。" },
 		Summary = "04点重置",
+		NpcNavi = "rebel_in",
+		NpcPosX = 90,
+		NpcPosY = 51,
 		CoolTimeQuest = 1
 	},
 	[16038] = {
 		Title = "配送2个神之金属",
-		Description = { "准备瑞切尔工匠委托的^0000CD神之金属^0000002个吧。" },
-		Summary = "配送2个神之金属"
+		Description = { "准备<ITEM>神之金属<INFO>984</INFO></ITEM>2个，交给<NAVI>[瑞秋·史密斯]<INFO>rebel_in,90,51,0,101,0</INFO></NAVI>。" },
+		Summary = "配送2个神之金属",
+		NpcNavi = "rebel_in",
+		NpcPosX = 90,
+		NpcPosY = 51
 	},
 	[16039] = {
 		Title = "配送2个铝",
-		Description = { "准备瑞切尔工匠委托的^0000CD铝^0000002个吧。" },
-		Summary = "配送2个铝"
+		Description = { "准备<ITEM>铝<INFO>985</INFO></ITEM>2个，交给<NAVI>[瑞秋·史密斯]<INFO>rebel_in,90,51,0,101,0</INFO></NAVI>。" },
+		Summary = "配送2个铝",
+		NpcNavi = "rebel_in",
+		NpcPosX = 90,
+		NpcPosY = 51
 	},
 	[16040] = {
 		Title = "配送5个铁",
-		Description = { "准备瑞切尔工匠委托的^0000CD铁^0000005个吧。" },
-		Summary = "配送5个铁"
+		Description = { "准备<ITEM>铁<INFO>998</INFO></ITEM>5个，交给<NAVI>[瑞秋·史密斯]<INFO>rebel_in,90,51,0,101,0</INFO></NAVI>。" },
+		Summary = "配送5个铁",
+		NpcNavi = "rebel_in",
+		NpcPosX = 90,
+		NpcPosY = 51
 	},
 	[16041] = {
 		Title = "调查：散步喵捕获作战",
-		Description = { "反叛者基地的散步喵慈慈过了饭点还不出现。^0000cd艾因贝克的空长椅^000000处好好找找用?鱼饼干引诱回来吧。" },
-		Summary = "从艾因贝克带来慈慈"
+		Description = { "前往<NAVI>[艾因贝克空长椅]<INFO>einbech,34,209,0,101,0</INFO></NAVI>，用<ITEM>鳀鱼饼干<INFO>25162</INFO></ITEM>把慈慈引诱回来。" },
+		Summary = "从艾因贝克带来慈慈",
+		NpcNavi = "einbech",
+		NpcPosX = 34,
+		NpcPosY = 209
 	},
 	[16042] = {
 		Title = "慈慈很是悠闲",
-		Description = { "慈慈正在非常悠闲地玩耍，暂时可以放心了，等凌晨再来吧。" },
+		Description = { "慈慈正在悠闲玩耍，凌晨后再前往<NAVI>[米洛·里弗]<INFO>rebel_in,108,27,0,101,0</INFO></NAVI>看看。" },
 		Summary = "04点重置",
+		NpcNavi = "rebel_in",
+		NpcPosX = 108,
+		NpcPosY = 27,
 		CoolTimeQuest = 1
 	},
 	[16043] = {
 		Title = "调查：某人的欲望捕获作战",
-		Description = { "米洛·里弗好像很想抚摸慈慈，好像不会伤害它，就像以前一样在^0000CD艾因贝克的空长椅附近^000000用?鱼饼干引诱猫咪吧。" },
-		Summary = "从艾因贝克带来慈慈"
+		Description = { "前往<NAVI>[艾因贝克空长椅]<INFO>einbech,34,209,0,101,0</INFO></NAVI>，用<ITEM>鳀鱼饼干<INFO>25162</INFO></ITEM>引诱慈慈。" },
+		Summary = "从艾因贝克带来慈慈",
+		NpcNavi = "einbech",
+		NpcPosX = 34,
+		NpcPosY = 209
 	},
 	[16044] = {
 		Title = "慈慈在慈慈的位置上",
-		Description = { "找到了慈慈！把正吃着？鱼饼干忘我的慈慈抱去给米洛玮玮吧。" },
-		Summary = "回去找玮玮"
+		Description = { "把慈慈抱回去给<NAVI>[米洛·里弗]<INFO>rebel_in,108,27,0,101,0</INFO></NAVI>。" },
+		Summary = "回去找米洛·里弗",
+		NpcNavi = "rebel_in",
+		NpcPosX = 108,
+		NpcPosY = 27
 	},
 	[16045] = {
 		Title = "老将的小小追悼仪式",
@@ -44646,14 +44838,20 @@ QuestInfoList = {
 	},
 	[16058] = {
 		Title = "广告效果还要慢慢看",
-		Description = { "梅森在等着客人疯狂涌来，等凌晨过后再来确认效果吧。" },
+		Description = { "等凌晨四点重置后，再前往<NAVI>[梅森·班德]<INFO>rebel_in,19,48,0,101,0</INFO></NAVI>。" },
 		Summary = "04点重置",
+		NpcNavi = "rebel_in",
+		NpcPosX = 19,
+		NpcPosY = 48,
 		CoolTimeQuest = 1
 	},
 	[16059] = {
 		Title = "有点不一样的广告战略",
-		Description = { "梅森看来还没放弃，还想发放广告单，总感觉省下这笔钱会更好……" },
-		Summary = "在艾因贝克发放宣传单"
+		Description = { "在艾因贝克发放宣传单。完成后回<NAVI>[梅森·班德]<INFO>rebel_in,19,48,0,101,0</INFO></NAVI>。" },
+		Summary = "在艾因贝克发放宣传单",
+		NpcNavi = "rebel_in",
+		NpcPosX = 19,
+		NpcPosY = 48
 	},
 	[16060] = {
 		Title = "战争狂的语言就是战斗",
@@ -48370,9 +48568,9 @@ QuestInfoList = {
         Title = "制作幸福的蛋",
         IconName = "ico_ev.bmp",
         Description = {
-			"朱诺幸福的蛋庆典的 <NAVI>[贝蒂纳勒]<INFO>yuno,140,167,0,101,0</INFO></NAVI>和<NAVI>[维斯塔德]<INFO>yuno,146,166,0,101,0</INFO></NAVI>处可以学习制作幸福的蛋。"
+			"朱诺幸福的蛋庆典的 <NAVI>[贝蒂纳勒]<INFO>yuno,140,167,0,101,0</INFO></NAVI>和<NAVI>[伯仁斯塔德]<INFO>yuno,146,166,0,101,0</INFO></NAVI>处可以学习制作幸福的蛋。"
 		},
-        Summary = "与贝蒂纳勒，维斯塔德对话"
+        Summary = "与贝蒂纳勒，伯仁斯塔德对话"
     },
     [16707] = {
         Title = "幸福的巧克力加热",
@@ -48389,8 +48587,8 @@ QuestInfoList = {
     [16709] = {
         Title = "粉碎幸福的杏仁",
         IconName = "ico_ev.bmp",
-        Description = { "在朱诺广场的<NAVI>[维斯塔德]<INFO>yuno,146,166,0,101,0</INFO></NAVI>处尝试看看粉碎杏仁的工作吧。" },
-        Summary = "与维斯塔德对话"
+        Description = { "在朱诺广场的<NAVI>[伯仁斯塔德]<INFO>yuno,146,166,0,101,0</INFO></NAVI>处尝试看看粉碎杏仁的工作吧。" },
+        Summary = "与伯仁斯塔德对话"
     },
     [16710] = {
         Title = "制作幸福的蛋完成",

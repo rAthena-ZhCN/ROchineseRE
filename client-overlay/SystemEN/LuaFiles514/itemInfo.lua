@@ -98243,7 +98243,7 @@ tbl = {
 		costume = false
 	},
 	[6926] = {
-		unidentifiedDisplayName = "卢恩-米德加兹 历史书",
+		unidentifiedDisplayName = "卢恩-米德加兹历史书",
 		unidentifiedResourceName = "烽固靛啊明开荤辑",
 		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]鉴定。" },
 		identifiedDisplayName = "卢恩·米德加兹历史书",
