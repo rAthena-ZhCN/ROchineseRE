@@ -7563,7 +7563,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"经过多年研究，不稳定次元中的裂缝如今已能被控制，从而可以穿越到不久的过去。\\n在那段时光中，我遇到了只能在书本或口耳相传中见到的古代英雄们！\\n\\n?进入次元裂缝\\n?<TIPBOX>Q 无法满足的贪婪，以及前往异世界的人们 (70)<INFO>6005</INFO></TIPBOX>\\n?<TIPBOX>Q 与猫爪代理人的契约 (70)<INFO>6030</INFO></TIPBOX>\\n完成两个任务中的任意一个后即可进入。\\n\\n?<TIPBOX>MD 吉芬魔法大赛 (90)<INFO>7130</INFO></TIPBOX>\\n?<TIPBOX>MD 莎拉的记忆 (99)<INFO>7131</INFO></TIPBOX>\\n?<TIPBOX>MD 幽灵宫殿 (120)<INFO>7132</INFO></TIPBOX>\\n?<TIPBOX>MD 飞空艇袭击 (125)<INFO>7133</INFO></TIPBOX>\\n?<TIPBOX>MD 恶魔之塔 (130)<INFO>7134</INFO></TIPBOX>\\n?<TIPBOX>MD 人脸虫的巢穴 (140)<INFO>7135</INFO></TIPBOX>\\n?<TIPBOX>MD 莎拉与芬里尔 (145)<INFO>7136</INFO></TIPBOX>\\n?<TIPBOX>MD 陨落者之墓 (220)<INFO>8165</INFO></TIPBOX>\\n?<TIPBOX>MD 吉芬夜间竞技场 (210)<INFO>5001</INFO></TIPBOX>\\n?<TIPBOX>MD 飞空艇坠毁现场 (215)<INFO>6095</INFO></TIPBOX>\\n\\n?<TIPBOX>返回上一页<INFO>7083</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"经过多年研究，不稳定次元中的裂缝如今已能被控制，从而可以穿越到不久的过去。\\n在那段时光中，我遇到了只能在书本或口耳相传中见到的古代英雄们！\\n\\n?进入次元裂缝\\n?<TIPBOX>Q 无法满足的贪婪，以及前往异世界的人们 (70)<INFO>6005</INFO></TIPBOX>\\n?<TIPBOX>Q 与猫爪代理人的契约 (70)<INFO>6030</INFO></TIPBOX>\\n完成两个任务中的任意一个后即可进入。\\n\\n?<TIPBOX>MD 吉芬魔法大赛 (90)<INFO>7130</INFO></TIPBOX>\\n?<TIPBOX>MD 莎拉的记忆 (99)<INFO>7131</INFO></TIPBOX>\\n?<TIPBOX>MD 幽灵宫殿 (120)<INFO>7132</INFO></TIPBOX>\\n?<TIPBOX>MD 飞空艇袭击 (125)<INFO>7133</INFO></TIPBOX>\\n?<TIPBOX>MD 恶魔之塔 (130)<INFO>7134</INFO></TIPBOX>\\n?<TIPBOX>MD 人脸虫的巢穴 (140)<INFO>7135</INFO></TIPBOX>\\n?<TIPBOX>MD 莎拉与潘利尔 (145)<INFO>7136</INFO></TIPBOX>\\n?<TIPBOX>MD 陨落者之墓 (220)<INFO>8165</INFO></TIPBOX>\\n?<TIPBOX>MD 吉芬夜间竞技场 (210)<INFO>5001</INFO></TIPBOX>\\n?<TIPBOX>MD 飞空艇坠毁现场 (215)<INFO>6095</INFO></TIPBOX>\\n\\n?<TIPBOX>返回上一页<INFO>7083</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[7130] = {
@@ -7572,7 +7572,7 @@ tbl = {
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"我们召集米德加尔特大陆最强之人！\\n应一位研究过去吉芬举办的魔法大赛的学者之邀，冒险者穿越次元裂缝来到吉芬。在那里，竟能意外遇见当年参加大赛的英雄们？\\n\\n?副本结构\\n?单人副本\\n?每日可入场（次日04:00重置）\\n?时间限制：120分钟\\n?等级90以上\\n?<NAVI>[埃米特·怀特]<INFO>dali,98,141,0,101,0</INFO></NAVI>\\n\\n?副本战利品\\n?<ITEM>[吉芬魔法大赛硬币]<INFO>6671</INFO></ITEM>\\n?<ITEM>[芬里尔卡片]<INFO>4556</INFO></ITEM>\\n?<ITEM>[弱化的芬里尔卡片]<INFO>4557</INFO></ITEM>\\n?<ITEM>[芬里尔的力量卡片]<INFO>22511</INFO></ITEM>\\n\\n?副本战利品兑换\\n?将 <ITEM>[吉芬魔法大赛硬币]<INFO>6671</INFO></ITEM> 交给副本内的吉芬硬币兑换员，即可兑换装备。\\n?<ITEM>[反魔法套装]<INFO>15073</INFO></ITEM>\\n?<ITEM>[吉芬魔法长袍]<INFO>15074</INFO></ITEM>\\n?<ITEM>[物理强化戒指]<INFO>2963</INFO></ITEM>\\n?<ITEM>[魔法增幅戒指]<INFO>2964</INFO></ITEM>\\n?<ITEM>[魔法反射盾]<INFO>2185</INFO></ITEM>\\n?<ITEM>[修订版百科全书]<INFO>2186</INFO></ITEM>\\n\\n?副本战利品附魔\\n?可在吉芬附魔师处使用 <ITEM>[吉芬魔法大赛硬币]<INFO>6671</INFO></ITEM> 进行强化\\n?<ITEM>[吉芬魔法防具订单]<INFO>23675</INFO></ITEM>\\n?<ITEM>[吉芬魔法饰品订单]<INFO>23679</INFO></ITEM>\\n\\n?<TIPBOX>返回上一页<INFO>7129</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"我们召集米德加尔特大陆最强之人！\\n应一位研究过去吉芬举办的魔法大赛的学者之邀，冒险者穿越次元裂缝来到吉芬。在那里，竟能意外遇见当年参加大赛的英雄们？\\n\\n?副本结构\\n?单人副本\\n?每日可入场（次日04:00重置）\\n?时间限制：120分钟\\n?等级90以上\\n?<NAVI>[埃米特·怀特]<INFO>dali,98,141,0,101,0</INFO></NAVI>\\n\\n?副本战利品\\n?<ITEM>[吉芬魔法大赛硬币]<INFO>6671</INFO></ITEM>\\n?<ITEM>[潘利尔卡片]<INFO>4556</INFO></ITEM>\\n?<ITEM>[弱化的潘利尔卡片]<INFO>4557</INFO></ITEM>\\n?<ITEM>[潘利尔的力量卡片]<INFO>22511</INFO></ITEM>\\n\\n?副本战利品兑换\\n?将 <ITEM>[吉芬魔法大赛硬币]<INFO>6671</INFO></ITEM> 交给副本内的吉芬硬币兑换员，即可兑换装备。\\n?<ITEM>[反魔法套装]<INFO>15073</INFO></ITEM>\\n?<ITEM>[吉芬魔法长袍]<INFO>15074</INFO></ITEM>\\n?<ITEM>[物理强化戒指]<INFO>2963</INFO></ITEM>\\n?<ITEM>[魔法增幅戒指]<INFO>2964</INFO></ITEM>\\n?<ITEM>[魔法反射盾]<INFO>2185</INFO></ITEM>\\n?<ITEM>[修订版百科全书]<INFO>2186</INFO></ITEM>\\n\\n?副本战利品附魔\\n?可在吉芬附魔师处使用 <ITEM>[吉芬魔法大赛硬币]<INFO>6671</INFO></ITEM> 进行强化\\n?<ITEM>[吉芬魔法防具订单]<INFO>23675</INFO></ITEM>\\n?<ITEM>[吉芬魔法饰品订单]<INFO>23679</INFO></ITEM>\\n\\n?<TIPBOX>返回上一页<INFO>7129</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[7131] = {
@@ -7621,12 +7621,12 @@ tbl = {
 		}
 	},
 	[7136] = {
-		Title = "MD 莎拉与芬里尔 (145)#140 Dimensional Rift",
+		Title = "MD 莎拉与潘利尔 (145)#140 Dimensional Rift",
 		Search = 1,
 		Image = "",
 		Imgcoord = { Position = 5, Size = 100 },
 		Page = {
-			"即使是现代技术，也追不上过去辉煌的遗物。兵器研究学者伯恩哈德的烦恼也是一样。只有过去莎拉与芬里尔战斗时出现的巨人碎片，才能帮助他完成研究……？\\n\\n?副本结构\\n?每7天可重复（04:00重置）\\n?时间限制：60分钟\\n?等级145以上\\n?<NAVI>[伯恩哈德教授]<INFO>dali02,97,142,0,101,0</INFO></NAVI>\\n\\n?副本战利品与附魔\\n?首次通关副本时，可从 <NAVI>[伯恩哈德教授]<INFO>dali02,97,142,0,101,0</INFO></NAVI> 获得 <ITEM>[莎拉的左耳环]<INFO>28310</INFO></ITEM> 或 <ITEM>[莎拉的右耳环]<INFO>28311</INFO></ITEM>\\n?之后每次副本进行中可获得 <ITEM>[巨人碎片]<INFO>6803</INFO></ITEM>。可在 <NAVI>[助教]<INFO>dali02,93,146,0,101,0</INFO></NAVI> 处兑换并附魔为新的莎拉的耳环\\n\\n?<TIPBOX>返回上一页<INFO>7129</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
+			"即使是现代技术，也追不上过去辉煌的遗物。兵器研究学者伯恩哈德的烦恼也是一样。只有过去莎拉与潘利尔战斗时出现的巨人碎片，才能帮助他完成研究……？\\n\\n?副本结构\\n?每7天可重复（04:00重置）\\n?时间限制：60分钟\\n?等级145以上\\n?<NAVI>[伯恩哈德教授]<INFO>dali02,97,142,0,101,0</INFO></NAVI>\\n\\n?副本战利品与附魔\\n?首次通关副本时，可从 <NAVI>[伯恩哈德教授]<INFO>dali02,97,142,0,101,0</INFO></NAVI> 获得 <ITEM>[莎拉的左耳环]<INFO>28310</INFO></ITEM> 或 <ITEM>[莎拉的右耳环]<INFO>28311</INFO></ITEM>\\n?之后每次副本进行中可获得 <ITEM>[巨人碎片]<INFO>6803</INFO></ITEM>。可在 <NAVI>[助教]<INFO>dali02,93,146,0,101,0</INFO></NAVI> 处兑换并附魔为新的莎拉的耳环\\n\\n?<TIPBOX>返回上一页<INFO>7129</INFO></TIPBOX>\\n?<TIPBOX>查看提示列表<INFO>1000</INFO></TIPBOX>"
 		}
 	},
 	[7137] = {
