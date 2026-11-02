@@ -41239,8 +41239,8 @@ QuestInfoList = {
 	},
 	[14473] = {
 		Title = "往伯仁斯",
-		Description = { "在伯仁斯，那个人。那个人就在伯仁斯来着！" },
-		Summary = "前往伯仁斯",
+		Description = { "伯仁斯有个叫K的人，似乎知道内情。前往<NAVI>[K]<INFO>veins,156,160,0,101,0</INFO></NAVI>处找他。" },
+		Summary = "前往伯仁斯找K",
 		NpcNavi = "veins",
 		NpcPosX = 156,
 		NpcPosY = 160
