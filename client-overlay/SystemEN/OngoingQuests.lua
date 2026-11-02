@@ -41158,8 +41158,8 @@ QuestInfoList = {
 	},
 	[14470] = {
 		Title = "寻找守护骑士",
-		Description = { "我的守护骑士应该没什么知道的。但还是要见的话可以到艾尔贝塔南边的我们的住宅可以见到。" },
-		Summary = "前往艾尔贝塔",
+		Description = { "伊森霍诺的守护骑士西蒙在艾尔贝塔南边的沃尔特宅邸。前往<NAVI>[守护骑士西蒙]<INFO>alberta,187,147,0,101,0</INFO></NAVI>询问凯恩·沃尔特·沃克的下落。" },
+		Summary = "前往艾尔贝塔找守护骑士",
 		NpcNavi = "alberta",
 		NpcPosX = 187,
 		NpcPosY = 147
