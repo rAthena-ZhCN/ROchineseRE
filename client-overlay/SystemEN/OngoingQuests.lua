@@ -41232,17 +41232,17 @@ QuestInfoList = {
 	},
 	[14480] = {
 		Title = "征服顽固的油渍",
-		Description = { "要去除顽固油渍的话橙子和酒精的混合物很有效。可以带来一个橙子和一个酒精吗？" },
+		Description = { "要去除顽固油渍的话橙子和酒精的混合物很有效。需要<ITEM>橙子<INFO>582</INFO></ITEM>1个和<ITEM>酒精<INFO>970</INFO></ITEM>1瓶。" },
 		Summary = "找来打扫的材料"
 	},
 	[14481] = {
 		Title = "征服霉",
-		Description = { "这个霉不用同族的力量和神的力量无法去除。快去找来一个霉粉和一个圣水吧！" },
+		Description = { "这个霉不用同族的力量和神的力量无法去除。需要<ITEM>霉菌粉末<INFO>7001</INFO></ITEM>1份和<ITEM>圣水<INFO>523</INFO></ITEM>1瓶。" },
 		Summary = "找来打扫的材料"
 	},
 	[14482] = {
 		Title = "征服恶魔的黑污渍",
-		Description = { "为了去除目标物需要1个细沙和一个柠檬！快去找来吧！" },
+		Description = { "为了去除恶魔黑垢，需要<ITEM>黄晶沙<INFO>7043</INFO></ITEM>1份和<ITEM>柠檬<INFO>568</INFO></ITEM>1个。" },
 		Summary = "找来打扫的材料"
 	},
 	[14483] = {
@@ -41257,7 +41257,7 @@ QuestInfoList = {
 	},
 	[14485] = {
 		Title = "心情非常不好",
-		Description = { "啊啊，我这么善良还被这么怀疑。我活不下去了。但是牛头肉3个程度的话应该还会有力气吧。" },
+		Description = { "看来只要<ITEM>牛头肉<INFO>6254</INFO></ITEM>3份，他就能消气。" },
 		Summary = "取悦的食物"
 	},
 	[14486] = {
@@ -41267,7 +41267,7 @@ QuestInfoList = {
 	},
 	[14487] = {
 		Title = "请帮我找回那回忆之物吧",
-		Description = { "为了缓解姐姐的心情拿来姐姐珍惜的东西吧。海之石10个，永恒玫瑰1个。海之石可以抓美杜莎来获得。" },
+		Description = { "为了缓解姐姐的心情，需要<ITEM>大海之石<INFO>6927</INFO></ITEM>10个和<ITEM>永恒玫瑰<INFO>748</INFO></ITEM>1朵。大海之石可以猎杀美杜莎获得。" },
 		Summary = "寻找回忆之物"
 	},
 	[14488] = {
@@ -41282,7 +41282,7 @@ QuestInfoList = {
 	},
 	[14490] = {
 		Title = "再次传递心意",
-		Description = { "我想给她看我宽似海的心和不灭的热情。用抓美杜莎能获得的海之石15个和永恒玫瑰1个来给她传递我的心意吧。" },
+		Description = { "用猎杀美杜莎获得的大海之石15个和永恒玫瑰1朵，向她表达心意。需要<ITEM>大海之石<INFO>6927</INFO></ITEM>15个和<ITEM>永恒玫瑰<INFO>748</INFO></ITEM>1朵。" },
 		Summary = "给女仆送礼物"
 	},
 	[14491] = {

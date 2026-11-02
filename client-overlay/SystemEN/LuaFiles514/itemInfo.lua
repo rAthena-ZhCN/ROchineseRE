@@ -98258,7 +98258,7 @@ tbl = {
 		costume = false
 	},
 	[6927] = {
-		unidentifiedDisplayName = "大海 之 石",
+		unidentifiedDisplayName = "大海之石",
 		unidentifiedResourceName = "官促啊淬变倒",
 		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]鉴定。" },
 		identifiedDisplayName = "大海之石",
