@@ -41498,11 +41498,11 @@ QuestInfoList = {
 	},
 	[14506] = {
 		Title = "事情就是这样",
-		Description = { "前往<NAVI>[迈耶·雷根贝格]<INFO>prt_cas_q,92,182,0,101,0</INFO></NAVI>处，转达家里的情况。" },
+		Description = { "迈耶离开房间后，在普隆德拉的空地和孩子们在一起。前往<NAVI>[迈耶]<INFO>prontera,269,73,0,101,0</INFO></NAVI>转达赫尔穆特和沃尔夫的话。" },
 		Summary = "去找迈耶",
-		NpcNavi = "prt_cas_q",
-		NpcPosX = 92,
-		NpcPosY = 182
+		NpcNavi = "prontera",
+		NpcPosX = 269,
+		NpcPosY = 73
 	},
 	[14507] = {
 		Title = "去找马克西米利安",
