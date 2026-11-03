@@ -216860,7 +216860,7 @@ tbl = {
 		unidentifiedDisplayName = "Ice Cannon Ball",
 		unidentifiedResourceName = "Ice_Cannon_Ball",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Ice Cannon Ball",
+		identifiedDisplayName = "±ù±¬¼ÓÅ©ÅÚµ¯",
 		identifiedResourceName = "Ice_Cannon_Ball",
 		identifiedDescriptionName = {
 			"A consumable item to used by Mechanic and Genetic skills.",
@@ -216878,7 +216878,7 @@ tbl = {
 		unidentifiedDisplayName = "Lightning Cannon Ball",
 		unidentifiedResourceName = "Lightning_Cannon_Ball",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Lightning Cannon Ball",
+		identifiedDisplayName = "À×µç¼ÓÅ©ÅÚµ¯",
 		identifiedResourceName = "Lightning_Cannon_Ball",
 		identifiedDescriptionName = {
 			"A consumable item to used by Mechanic and Genetic skills.",
@@ -216896,7 +216896,7 @@ tbl = {
 		unidentifiedDisplayName = "Stone Cannon Ball",
 		unidentifiedResourceName = "Stone_Cannon_Ball",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Stone Cannon Ball",
+		identifiedDisplayName = "¾ÞÊ¯¼ÓÅ©ÅÚµ¯",
 		identifiedResourceName = "Stone_Cannon_Ball",
 		identifiedDescriptionName = {
 			"A consumable item to used by Mechanic and Genetic skills.",
@@ -216914,7 +216914,7 @@ tbl = {
 		unidentifiedDisplayName = "Flare Cannon Ball",
 		unidentifiedResourceName = "Flare_Cannon_Ball",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Flare Cannon Ball",
+		identifiedDisplayName = "»ðÑæ¼ÓÅ©ÅÚµ¯",
 		identifiedResourceName = "Flare_Cannon_Ball",
 		identifiedDescriptionName = {
 			"A consumable item to used by Mechanic and Genetic skills.",
@@ -555706,7 +555706,7 @@ tbl = {
 		unidentifiedDisplayName = "Soul Talisman",
 		unidentifiedResourceName = "Soa_Charm",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Soul Talisman",
+		identifiedDisplayName = "Áé»ê·ûÖä",
 		identifiedResourceName = "Soa_Charm",
 		identifiedDescriptionName = {
 			"An amulet used to guide spirits.",
@@ -555721,7 +555721,7 @@ tbl = {
 		unidentifiedDisplayName = "Throwing Grenade",
 		unidentifiedResourceName = "Nw_Grenade",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Throwing Grenade",
+		identifiedDisplayName = "Í¶ÖÀÐÍÊÖÁñµ¯",
 		identifiedResourceName = "Nw_Grenade",
 		identifiedDescriptionName = {
 			"A grenade with considerable explosive power. The only safety device is a safety pin, so it is quite dangerous, so only a Night Watch who is proficient in using it can use it.",
@@ -555736,7 +555736,7 @@ tbl = {
 		unidentifiedDisplayName = "Haze of Pitch Darkness",
 		unidentifiedResourceName = "SS_Charm",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Haze of Pitch Darkness",
+		identifiedDisplayName = "ÆáºÚÎíÓ°",
 		identifiedResourceName = "SS_Charm",
 		identifiedDescriptionName = {
 			"A haze of dark energy.",
@@ -555752,7 +555752,7 @@ tbl = {
 		unidentifiedDisplayName = "Haze of Prominence",
 		unidentifiedResourceName = "SS_Charm_F",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Haze of Prominence",
+		identifiedDisplayName = "ºìÑæÎíÓ°",
 		identifiedResourceName = "SS_Charm_F",
 		identifiedDescriptionName = {
 			"A haze with the energy of burning red flames.",
@@ -555768,7 +555768,7 @@ tbl = {
 		unidentifiedDisplayName = "Haze of Icy Snow",
 		unidentifiedResourceName = "SS_Charm_W",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Haze of Icy Snow",
+		identifiedDisplayName = "±ùÑ©ÎíÓ°",
 		identifiedResourceName = "SS_Charm_W",
 		identifiedDescriptionName = {
 			"A haze with the aura of cold cold air.",
@@ -555784,7 +555784,7 @@ tbl = {
 		unidentifiedDisplayName = "Haze of Mother Earth",
 		unidentifiedResourceName = "SS_Charm_G",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Haze of Mother Earth",
+		identifiedDisplayName = "´óµØÎíÓ°",
 		identifiedResourceName = "SS_Charm_G",
 		identifiedDescriptionName = {
 			"A haze infused with the strong energy of the earth.",
@@ -555800,7 +555800,7 @@ tbl = {
 		unidentifiedDisplayName = "Haze of North Wind",
 		unidentifiedResourceName = "SS_Charm_L",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Haze of North Wind",
+		identifiedDisplayName = "Ë··çÎíÓ°",
 		identifiedResourceName = "SS_Charm_L",
 		identifiedDescriptionName = {
 			"A haze with the aura of a rough sack wind.",
@@ -576802,7 +576802,7 @@ tbl = {
 		unidentifiedDisplayName = "Kunai",
 		unidentifiedResourceName = "Kunai",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Kunai",
+		identifiedDisplayName = "·Éµ¶",
 		identifiedResourceName = "Kunai",
 		identifiedDescriptionName = {
 			"Commonly used kunai. When you carry it, you feel proud as a Ninja.",
@@ -576820,7 +576820,7 @@ tbl = {
 		unidentifiedDisplayName = "Formless Kunai",
 		unidentifiedResourceName = "Kunai_Of_Nothing",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Formless Kunai",
+		identifiedDisplayName = "ÎÞÐÎ·Éµ¶",
 		identifiedResourceName = "Kunai_Of_Nothing",
 		identifiedDescriptionName = {
 			"A Kunai with the energy of air. You can feel the power to cut through air easily.",
@@ -576838,7 +576838,7 @@ tbl = {
 		unidentifiedDisplayName = "Shadow Kunai",
 		unidentifiedResourceName = "Kunai_Of_Shadow",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Shadow Kunai",
+		identifiedDisplayName = "Ó°×Ó·Éµ¶",
 		identifiedResourceName = "Kunai_Of_Shadow",
 		identifiedDescriptionName = {
 			"A Kunai with the energy of shadow. Dark energy is transmitted from your fingertips.",
@@ -576856,7 +576856,7 @@ tbl = {
 		unidentifiedDisplayName = "Hamaya Kunai",
 		unidentifiedResourceName = "Kunai_Of_Hamaya",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Hamaya Kunai",
+		identifiedDisplayName = "ÆÆÄ§·Éµ¶",
 		identifiedResourceName = "Kunai_Of_Hamaya",
 		identifiedDescriptionName = {
 			"The Kunai of the Sacred Realm. It seems that all evil can be defeated.",
