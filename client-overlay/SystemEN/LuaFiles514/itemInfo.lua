@@ -216857,7 +216857,7 @@ tbl = {
 		costume = false
 	},
 	[18005] = {
-		unidentifiedDisplayName = "Ice Cannon Ball",
+		unidentifiedDisplayName = "±ù±¬¼ÓÅ©ÅÚµ¯",
 		unidentifiedResourceName = "Ice_Cannon_Ball",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "±ù±¬¼ÓÅ©ÅÚµ¯",
@@ -216875,7 +216875,7 @@ tbl = {
 		costume = false
 	},
 	[18006] = {
-		unidentifiedDisplayName = "Lightning Cannon Ball",
+		unidentifiedDisplayName = "À×µç¼ÓÅ©ÅÚµ¯",
 		unidentifiedResourceName = "Lightning_Cannon_Ball",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "À×µç¼ÓÅ©ÅÚµ¯",
@@ -216893,7 +216893,7 @@ tbl = {
 		costume = false
 	},
 	[18007] = {
-		unidentifiedDisplayName = "Stone Cannon Ball",
+		unidentifiedDisplayName = "¾ŞÊ¯¼ÓÅ©ÅÚµ¯",
 		unidentifiedResourceName = "Stone_Cannon_Ball",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "¾ŞÊ¯¼ÓÅ©ÅÚµ¯",
@@ -216911,7 +216911,7 @@ tbl = {
 		costume = false
 	},
 	[18008] = {
-		unidentifiedDisplayName = "Flare Cannon Ball",
+		unidentifiedDisplayName = "»ğÑæ¼ÓÅ©ÅÚµ¯",
 		unidentifiedResourceName = "Flare_Cannon_Ball",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "»ğÑæ¼ÓÅ©ÅÚµ¯",
@@ -216929,10 +216929,10 @@ tbl = {
 		costume = false
 	},
 	[18009] = {
-		unidentifiedDisplayName = "Poisoning Cannon Ball",
+		unidentifiedDisplayName = "¾ç¶¾¼ÓÅ©ÅÚµ¯",
 		unidentifiedResourceName = "Poisoning_Cannon_Ball",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Poisoning Cannon Ball",
+		identifiedDisplayName = "¾ç¶¾¼ÓÅ©ÅÚµ¯",
 		identifiedResourceName = "Poisoning_Cannon_Ball",
 		identifiedDescriptionName = {
 			"A consumable item to used by Mechanic and Genetic skills.",
@@ -282253,10 +282253,10 @@ tbl = {
 		costume = false
 	},
 	[23081] = {
-		unidentifiedDisplayName = "Heat Wave Kunai Summon Scroll",
+		unidentifiedDisplayName = "ÈÈÀË·Éµ¶ÕÙ»½¾íÖá",
 		unidentifiedResourceName = "Äí³ªÀÌ¼ÒÈ¯¼­_È­",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Heat Wave Kunai Summon Scroll",
+		identifiedDisplayName = "ÈÈÀË·Éµ¶ÕÙ»½¾íÖá",
 		identifiedResourceName = "Äí³ªÀÌ¼ÒÈ¯¼­_È­",
 		identifiedDescriptionName = {
 			"^ff0000Attention! If there are more than 30,000 items in inventory, items may be lost.^000000",
@@ -282270,10 +282270,10 @@ tbl = {
 		costume = false
 	},
 	[23082] = {
-		unidentifiedDisplayName = "Icicle Kunai Summon Scroll",
+		unidentifiedDisplayName = "±ùÖù·Éµ¶ÕÙ»½¾íÖá",
 		unidentifiedResourceName = "Äí³ªÀÌ¼ÒÈ¯¼­_¼ö",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Icicle Kunai Summon Scroll",
+		identifiedDisplayName = "±ùÖù·Éµ¶ÕÙ»½¾íÖá",
 		identifiedResourceName = "Äí³ªÀÌ¼ÒÈ¯¼­_¼ö",
 		identifiedDescriptionName = {
 			"^ff0000Attention! If there are more than 30,000 items in inventory, items may be lost.^000000",
@@ -282287,10 +282287,10 @@ tbl = {
 		costume = false
 	},
 	[23083] = {
-		unidentifiedDisplayName = "High Wind Kunai Summon Scroll",
+		unidentifiedDisplayName = "Ç¿·ç·Éµ¶ÕÙ»½¾íÖá",
 		unidentifiedResourceName = "Äí³ªÀÌ¼ÒÈ¯¼­_Ç³",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "High Wind Kunai Summon Scroll",
+		identifiedDisplayName = "Ç¿·ç·Éµ¶ÕÙ»½¾íÖá",
 		identifiedResourceName = "Äí³ªÀÌ¼ÒÈ¯¼­_Ç³",
 		identifiedDescriptionName = {
 			"^ff0000Attention! If there are more than 30,000 items in inventory, items may be lost.^000000",
@@ -282304,10 +282304,10 @@ tbl = {
 		costume = false
 	},
 	[23084] = {
-		unidentifiedDisplayName = "Black Earth Kunai Summon Scroll",
+		unidentifiedDisplayName = "ºÚÍÁ·Éµ¶ÕÙ»½¾íÖá",
 		unidentifiedResourceName = "Äí³ªÀÌ¼ÒÈ¯¼­_Åä",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Black Earth Kunai Summon Scroll",
+		identifiedDisplayName = "ºÚÍÁ·Éµ¶ÕÙ»½¾íÖá",
 		identifiedResourceName = "Äí³ªÀÌ¼ÒÈ¯¼­_Åä",
 		identifiedDescriptionName = {
 			"^ff0000Attention! If there are more than 30,000 items in inventory, items may be lost.^000000",
@@ -282321,10 +282321,10 @@ tbl = {
 		costume = false
 	},
 	[23085] = {
-		unidentifiedDisplayName = "Fell Poison Kunai Summon Scroll",
+		unidentifiedDisplayName = "¾ç¶¾·Éµ¶ÕÙ»½¾íÖá",
 		unidentifiedResourceName = "Äí³ªÀÌ¼ÒÈ¯¼­_µ¶",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Fell Poison Kunai Summon Scroll",
+		identifiedDisplayName = "¾ç¶¾·Éµ¶ÕÙ»½¾íÖá",
 		identifiedResourceName = "Äí³ªÀÌ¼ÒÈ¯¼­_µ¶",
 		identifiedDescriptionName = {
 			"^ff0000Attention! If there are more than 30,000 items in inventory, items may be lost.^000000",
@@ -395031,10 +395031,10 @@ tbl = {
 		costume = false
 	},
 	[101107] = {
-		unidentifiedDisplayName = "Ice Cannon Ball Box",
+		unidentifiedDisplayName = "±ù±¬¼ÓÅ©ÅÚµ¯Ïä",
 		unidentifiedResourceName = "Cannon_Box_Ice",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Ice Cannon Ball Box",
+		identifiedDisplayName = "±ù±¬¼ÓÅ©ÅÚµ¯Ïä",
 		identifiedResourceName = "Cannon_Box_Ice",
 		identifiedDescriptionName = {
 			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
@@ -395048,10 +395048,10 @@ tbl = {
 		costume = false
 	},
 	[101108] = {
-		unidentifiedDisplayName = "Lightning Cannon Ball Box",
+		unidentifiedDisplayName = "À×µç¼ÓÅ©ÅÚµ¯Ïä",
 		unidentifiedResourceName = "Cannon_Box_Lightning",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Lightning Cannon Ball Box",
+		identifiedDisplayName = "À×µç¼ÓÅ©ÅÚµ¯Ïä",
 		identifiedResourceName = "Cannon_Box_Lightning",
 		identifiedDescriptionName = {
 			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
@@ -395065,10 +395065,10 @@ tbl = {
 		costume = false
 	},
 	[101109] = {
-		unidentifiedDisplayName = "Stone Cannon Ball Box",
+		unidentifiedDisplayName = "¾ŞÊ¯¼ÓÅ©ÅÚµ¯Ïä",
 		unidentifiedResourceName = "Cannon_Box_Stone",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Stone Cannon Ball Box",
+		identifiedDisplayName = "¾ŞÊ¯¼ÓÅ©ÅÚµ¯Ïä",
 		identifiedResourceName = "Cannon_Box_Stone",
 		identifiedDescriptionName = {
 			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
@@ -395082,10 +395082,10 @@ tbl = {
 		costume = false
 	},
 	[101110] = {
-		unidentifiedDisplayName = "Flare Cannon Ball Box",
+		unidentifiedDisplayName = "»ğÑæ¼ÓÅ©ÅÚµ¯Ïä",
 		unidentifiedResourceName = "Cannon_Box_Flare",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Flare Cannon Ball Box",
+		identifiedDisplayName = "»ğÑæ¼ÓÅ©ÅÚµ¯Ïä",
 		identifiedResourceName = "Cannon_Box_Flare",
 		identifiedDescriptionName = {
 			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
@@ -395099,10 +395099,10 @@ tbl = {
 		costume = false
 	},
 	[101111] = {
-		unidentifiedDisplayName = "Poisoning Cannon Ball Box",
+		unidentifiedDisplayName = "¶¾¼ÓÅ©ÅÚµ¯Ïä",
 		unidentifiedResourceName = "Cannon_Box_Poisoning",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Poisoning Cannon Ball Box",
+		identifiedDisplayName = "¶¾¼ÓÅ©ÅÚµ¯Ïä",
 		identifiedResourceName = "Cannon_Box_Poisoning",
 		identifiedDescriptionName = {
 			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
@@ -395116,10 +395116,10 @@ tbl = {
 		costume = false
 	},
 	[101112] = {
-		unidentifiedDisplayName = "Kunai Summon Scroll",
+		unidentifiedDisplayName = "·Éµ¶ÕÙ»½¾íÖá",
 		unidentifiedResourceName = "Kunai_Scroll",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Kunai Summon Scroll",
+		identifiedDisplayName = "·Éµ¶ÕÙ»½¾íÖá",
 		identifiedResourceName = "Kunai_Scroll",
 		identifiedDescriptionName = {
 			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
@@ -395133,10 +395133,10 @@ tbl = {
 		costume = false
 	},
 	[101113] = {
-		unidentifiedDisplayName = "Formless Kunai Summon Scroll",
+		unidentifiedDisplayName = "ÎŞĞÎ·Éµ¶ÕÙ»½¾íÖá",
 		unidentifiedResourceName = "Kunai_Scroll_Nothing",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Formless Kunai Summon Scroll",
+		identifiedDisplayName = "ÎŞĞÎ·Éµ¶ÕÙ»½¾íÖá",
 		identifiedResourceName = "Kunai_Scroll_Nothing",
 		identifiedDescriptionName = {
 			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
@@ -395150,10 +395150,10 @@ tbl = {
 		costume = false
 	},
 	[101114] = {
-		unidentifiedDisplayName = "Shadow Kunai Summon Scroll",
+		unidentifiedDisplayName = "Ó°×Ó·Éµ¶ÕÙ»½¾íÖá",
 		unidentifiedResourceName = "Kunai_Scroll_Shadow",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Shadow Kunai Summon Scroll",
+		identifiedDisplayName = "Ó°×Ó·Éµ¶ÕÙ»½¾íÖá",
 		identifiedResourceName = "Kunai_Scroll_Shadow",
 		identifiedDescriptionName = {
 			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
@@ -395167,10 +395167,10 @@ tbl = {
 		costume = false
 	},
 	[101115] = {
-		unidentifiedDisplayName = "Hamaya Kunai Summon Scroll",
+		unidentifiedDisplayName = "ÆÆÄ§·Éµ¶ÕÙ»½¾íÖá",
 		unidentifiedResourceName = "Kunai_Scroll_Hamaya",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Hamaya Kunai Summon Scroll",
+		identifiedDisplayName = "ÆÆÄ§·Éµ¶ÕÙ»½¾íÖá",
 		identifiedResourceName = "Kunai_Scroll_Hamaya",
 		identifiedDescriptionName = {
 			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
@@ -395184,10 +395184,10 @@ tbl = {
 		costume = false
 	},
 	[101116] = {
-		unidentifiedDisplayName = "Throwing Grenade Box",
+		unidentifiedDisplayName = "Í¶ÖÀĞÍÊÖÁñµ¯Ïä",
 		unidentifiedResourceName = "Nw_Grenade_Box",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Throwing Grenade Box",
+		identifiedDisplayName = "Í¶ÖÀĞÍÊÖÁñµ¯Ïä",
 		identifiedResourceName = "Nw_Grenade_Box",
 		identifiedDescriptionName = {
 			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
@@ -395201,7 +395201,7 @@ tbl = {
 		costume = false
 	},
 	[101117] = {
-		unidentifiedDisplayName = "Soul Talisman Bundle",
+		unidentifiedDisplayName = "Áé»ê·ûÖäÊø",
 		unidentifiedResourceName = "Soa_Charm_Bundle",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Áé»ê·ûÖäÊø",
@@ -395218,10 +395218,10 @@ tbl = {
 		costume = false
 	},
 	[101118] = {
-		unidentifiedDisplayName = "Haze of Pitch Darkness Box",
+		unidentifiedDisplayName = "ÆáºÚÎíÓ°Ïä",
 		unidentifiedResourceName = "SS_Charm_Box",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Haze of Pitch Darkness Box",
+		identifiedDisplayName = "ÆáºÚÎíÓ°Ïä",
 		identifiedResourceName = "SS_Charm_Box",
 		identifiedDescriptionName = {
 			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
@@ -395235,10 +395235,10 @@ tbl = {
 		costume = false
 	},
 	[101119] = {
-		unidentifiedDisplayName = "Haze of Prominence Box",
+		unidentifiedDisplayName = "ºìÑæÎíÓ°Ïä",
 		unidentifiedResourceName = "SS_Charm_F_Box",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Haze of Prominence Box",
+		identifiedDisplayName = "ºìÑæÎíÓ°Ïä",
 		identifiedResourceName = "SS_Charm_F_Box",
 		identifiedDescriptionName = {
 			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
@@ -395252,10 +395252,10 @@ tbl = {
 		costume = false
 	},
 	[101120] = {
-		unidentifiedDisplayName = "Haze of Icy Snow Box",
+		unidentifiedDisplayName = "±ùÑ©ÎíÓ°Ïä",
 		unidentifiedResourceName = "SS_Charm_W_Box",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Haze of Icy Snow Box",
+		identifiedDisplayName = "±ùÑ©ÎíÓ°Ïä",
 		identifiedResourceName = "SS_Charm_W_Box",
 		identifiedDescriptionName = {
 			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
@@ -395269,10 +395269,10 @@ tbl = {
 		costume = false
 	},
 	[101121] = {
-		unidentifiedDisplayName = "Haze of Mother Earth Box",
+		unidentifiedDisplayName = "´óµØÎíÓ°Ïä",
 		unidentifiedResourceName = "SS_Charm_G_Box",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Haze of Mother Earth Box",
+		identifiedDisplayName = "´óµØÎíÓ°Ïä",
 		identifiedResourceName = "SS_Charm_G_Box",
 		identifiedDescriptionName = {
 			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
@@ -395286,10 +395286,10 @@ tbl = {
 		costume = false
 	},
 	[101122] = {
-		unidentifiedDisplayName = "Haze of North Wind Box",
+		unidentifiedDisplayName = "Ë··çÎíÓ°Ïä",
 		unidentifiedResourceName = "SS_Charm_L_Box",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Haze of North Wind Box",
+		identifiedDisplayName = "Ë··çÎíÓ°Ïä",
 		identifiedResourceName = "SS_Charm_L_Box",
 		identifiedDescriptionName = {
 			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
@@ -555703,7 +555703,7 @@ tbl = {
 		costume = false
 	},
 	[1000563] = {
-		unidentifiedDisplayName = "Soul Talisman",
+		unidentifiedDisplayName = "Áé»ê·ûÖä",
 		unidentifiedResourceName = "Soa_Charm",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Áé»ê·ûÖä",
@@ -555718,7 +555718,7 @@ tbl = {
 		costume = false
 	},
 	[1000564] = {
-		unidentifiedDisplayName = "Throwing Grenade",
+		unidentifiedDisplayName = "Í¶ÖÀĞÍÊÖÁñµ¯",
 		unidentifiedResourceName = "Nw_Grenade",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Í¶ÖÀĞÍÊÖÁñµ¯",
@@ -555733,7 +555733,7 @@ tbl = {
 		costume = false
 	},
 	[1000565] = {
-		unidentifiedDisplayName = "Haze of Pitch Darkness",
+		unidentifiedDisplayName = "ÆáºÚÎíÓ°",
 		unidentifiedResourceName = "SS_Charm",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "ÆáºÚÎíÓ°",
@@ -555749,7 +555749,7 @@ tbl = {
 		costume = false
 	},
 	[1000566] = {
-		unidentifiedDisplayName = "Haze of Prominence",
+		unidentifiedDisplayName = "ºìÑæÎíÓ°",
 		unidentifiedResourceName = "SS_Charm_F",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "ºìÑæÎíÓ°",
@@ -555765,7 +555765,7 @@ tbl = {
 		costume = false
 	},
 	[1000567] = {
-		unidentifiedDisplayName = "Haze of Icy Snow",
+		unidentifiedDisplayName = "±ùÑ©ÎíÓ°",
 		unidentifiedResourceName = "SS_Charm_W",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "±ùÑ©ÎíÓ°",
@@ -555781,7 +555781,7 @@ tbl = {
 		costume = false
 	},
 	[1000568] = {
-		unidentifiedDisplayName = "Haze of Mother Earth",
+		unidentifiedDisplayName = "´óµØÎíÓ°",
 		unidentifiedResourceName = "SS_Charm_G",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "´óµØÎíÓ°",
@@ -555797,7 +555797,7 @@ tbl = {
 		costume = false
 	},
 	[1000569] = {
-		unidentifiedDisplayName = "Haze of North Wind",
+		unidentifiedDisplayName = "Ë··çÎíÓ°",
 		unidentifiedResourceName = "SS_Charm_L",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Ë··çÎíÓ°",
@@ -576799,7 +576799,7 @@ tbl = {
 		costume = false
 	},
 	[1220001] = {
-		unidentifiedDisplayName = "Kunai",
+		unidentifiedDisplayName = "·Éµ¶",
 		unidentifiedResourceName = "Kunai",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "·Éµ¶",
@@ -576817,7 +576817,7 @@ tbl = {
 		costume = false
 	},
 	[1220002] = {
-		unidentifiedDisplayName = "Formless Kunai",
+		unidentifiedDisplayName = "ÎŞĞÎ·Éµ¶",
 		unidentifiedResourceName = "Kunai_Of_Nothing",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "ÎŞĞÎ·Éµ¶",
@@ -576835,7 +576835,7 @@ tbl = {
 		costume = false
 	},
 	[1220003] = {
-		unidentifiedDisplayName = "Shadow Kunai",
+		unidentifiedDisplayName = "Ó°×Ó·Éµ¶",
 		unidentifiedResourceName = "Kunai_Of_Shadow",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "Ó°×Ó·Éµ¶",
@@ -576853,7 +576853,7 @@ tbl = {
 		costume = false
 	},
 	[1220004] = {
-		unidentifiedDisplayName = "Hamaya Kunai",
+		unidentifiedDisplayName = "ÆÆÄ§·Éµ¶",
 		unidentifiedResourceName = "Kunai_Of_Hamaya",
 		unidentifiedDescriptionName = { "" },
 		identifiedDisplayName = "ÆÆÄ§·Éµ¶",
