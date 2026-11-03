@@ -6049,7 +6049,10 @@ QuestInfoList = {
 		Title = "拆除阻碍生物电子晶片",
 		IconName = "ico_dq.bmp",
 		Description = { "成功拆除晶片，与厄尔法沟通无疑。" },
-		Summary = "厄尔法重启系统后跟他对话吧。"
+		Summary = "厄尔法重启系统后跟他对话吧。",
+		NpcNavi = "ba_maison",
+		NpcPosX = 79,
+		NpcPosY = 278
 	},
 	[3390] = {
 		Title = "第2魔力发电厂管理员厄尔法",
@@ -6064,7 +6067,10 @@ QuestInfoList = {
 			"该任务为每日任务，重置时间过后可再次接取。可通过 <NAVI>[厄尔法]<INFO>ba_maison,79,278,0,101,0</INFO></NAVI>接取任务。"
 		},
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "ba_maison",
+		NpcPosX = 79,
+		NpcPosY = 278
 	},
 	[3392] = {
 		Title = "幻象洒下的土豆晶片",
@@ -13279,7 +13285,10 @@ QuestInfoList = {
 			"奖励是完成打扫污水处理厂I, 打扫污水处理厂II, 打扫污水处理厂III等所有任务后才能获得。"
 		},
 		Summary = "下水道贝纳姆 44个",
-		NpcSpr = "EP17_2_OMEGA_CLEANER"
+		NpcSpr = "EP17_2_OMEGA_CLEANER",
+		NpcNavi = "ba_in01",
+		NpcPosX = 24,
+		NpcPosY = 322
 	},
 	[5894] = {
 		Title = "打扫污水处理厂II",
@@ -13291,7 +13300,10 @@ QuestInfoList = {
 			"奖励是完成打扫污水处理厂I, 打扫污水处理厂II, 打扫污水处理厂III等所有任务后才能获得。"
 		},
 		Summary = "下水道蓝鼠 44个",
-		NpcSpr = "EP17_2_OMEGA_CLEANER"
+		NpcSpr = "EP17_2_OMEGA_CLEANER",
+		NpcNavi = "ba_in01",
+		NpcPosX = 24,
+		NpcPosY = 322
 	},
 	[5895] = {
 		Title = "打扫污水处理厂III",
@@ -13303,7 +13315,10 @@ QuestInfoList = {
 			"奖励是完成打扫污水处理厂I, 打扫污水处理厂II, 打扫污水处理厂III等所有任务后才能获得。"
 		},
 		Summary = "下水道瀑布 44个",
-		NpcSpr = "EP17_2_OMEGA_CLEANER"
+		NpcSpr = "EP17_2_OMEGA_CLEANER",
+		NpcNavi = "ba_in01",
+		NpcPosX = 24,
+		NpcPosY = 322
 	},
 	[5896] = {
 		Title = "[待机]打扫污水处理厂",
@@ -13314,7 +13329,10 @@ QuestInfoList = {
 		},
 		Summary = "04点初始化",
 		CoolTimeQuest = 1,
-		NpcSpr = "EP17_2_OMEGA_CLEANER"
+		NpcSpr = "EP17_2_OMEGA_CLEANER",
+		NpcNavi = "ba_in01",
+		NpcPosX = 24,
+		NpcPosY = 322
 	},
 	[5897] = {
 		Title = "第一魔力发电厂打扫I",
@@ -13326,7 +13344,10 @@ QuestInfoList = {
 			"奖励是完成第一魔力发电厂打扫I, 第一魔力发电厂打扫II, 第一魔力发电厂打扫III等所有任务后才能获得。"
 		},
 		Summary = "精英贝拉雷 44个",
-		NpcSpr = "EP17_2_OMEGA_CLEANER"
+		NpcSpr = "EP17_2_OMEGA_CLEANER",
+		NpcNavi = "ba_in01",
+		NpcPosX = 24,
+		NpcPosY = 322
 	},
 	[5898] = {
 		Title = "第一魔力发电厂打扫II",
@@ -13338,7 +13359,10 @@ QuestInfoList = {
 			"奖励是完成第一魔力发电厂打扫I, 第一魔力发电厂打扫II, 第一魔力发电厂打扫III等所有任务后才能获得。"
 		},
 		Summary = "魔瘾朵洛尔 44个",
-		NpcSpr = "EP17_2_OMEGA_CLEANER"
+		NpcSpr = "EP17_2_OMEGA_CLEANER",
+		NpcNavi = "ba_in01",
+		NpcPosX = 24,
+		NpcPosY = 322
 	},
 	[5899] = {
 		Title = "第一魔力发电厂打扫III",
@@ -13350,7 +13374,10 @@ QuestInfoList = {
 			"奖励是完成第一魔力发电厂打扫I, 第一魔力发电厂打扫II, 第一魔力发电厂打扫III等所有任务后才能获得。"
 		},
 		Summary = "释放魔力 44个",
-		NpcSpr = "EP17_2_OMEGA_CLEANER"
+		NpcSpr = "EP17_2_OMEGA_CLEANER",
+		NpcNavi = "ba_in01",
+		NpcPosX = 24,
+		NpcPosY = 322
 	},
 	[5900] = {
 		Title = "[待机]第一魔力发电厂打扫",
@@ -13361,7 +13388,10 @@ QuestInfoList = {
 		},
 		Summary = "04点初始化",
 		CoolTimeQuest = 1,
-		NpcSpr = "EP17_2_OMEGA_CLEANER"
+		NpcSpr = "EP17_2_OMEGA_CLEANER",
+		NpcNavi = "ba_in01",
+		NpcPosX = 24,
+		NpcPosY = 322
 	},
 	[5901] = {
 		Title = "喝醉的老人",
@@ -19163,7 +19193,10 @@ QuestInfoList = {
 		Description = {
 			"在艾因贝克见到的反叛者队员说最近为了掩护扩大的作战地区，把艾因布罗克的商铺作为据点使用中，快到艾因布罗克的 <NAVI>[喵星人子弹酒吧]<INFO>einbroch,302,329,0,101,0</INFO></NAVI>吧。"
 		},
-		Summary = "在喵星人子弹酒吧和泰斯对话"
+		Summary = "在喵星人子弹酒吧和泰斯对话",
+		NpcNavi = "einbroch",
+		NpcPosX = 302,
+		NpcPosY = 329
 	},
 	[7851] = {
 		Title = "新作战基地",
@@ -19171,7 +19204,10 @@ QuestInfoList = {
 		Description = {
 			"从泰斯处打听到新作战基地 <NAVI>[鲁杜斯]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>相关的情报，快到作战基地和反叛者碰头吧。"
 		},
-		Summary = "和埃琳娜博克巴对话"
+		Summary = "和埃琳娜博克巴对话",
+		NpcNavi = "ein_fild05",
+		NpcPosX = 158,
+		NpcPosY = 284
 	},
 	[7852] = {
 		Title = "翻越高墙",
@@ -19179,7 +19215,10 @@ QuestInfoList = {
 		Description = {
 			"在新作战基地 <NAVI>[鲁杜斯]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>中等候的埃琳娜博克巴拜托你和正在调查高墙中的小虫对话后，去高墙另一边调查一下。"
 		},
-		Summary = "与小虫对话"
+		Summary = "与小虫对话",
+		NpcNavi = "ein_fild05",
+		NpcPosX = 158,
+		NpcPosY = 284
 	},
 	[7853] = {
 		Title = "调查墙壁附近",
@@ -19187,31 +19226,46 @@ QuestInfoList = {
 		Description = {
 			"<NAVI>[鲁杜斯]<INFO>ein_fild05,158,284,0,101,0</INFO></NAVI>内部的小虫要求调查高墙附近，如果发现什么特殊情况再来告诉小虫吧。"
 		},
-		Summary = "调查墙壁附近"
+		Summary = "调查墙壁附近",
+		NpcNavi = "ein_fild05",
+		NpcPosX = 158,
+		NpcPosY = 284
 	},
 	[7854] = {
 		Title = "铁道上的墙",
 		IconName = "ico_ep.bmp",
 		Description = { "高墙建在铁路上，不管怎么看，都感觉墙壁好像是停止采矿后新建的。" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "ein_fild05",
+		NpcPosX = 158,
+		NpcPosY = 284
 	},
 	[7855] = {
 		Title = "瞭望塔",
 		IconName = "ico_ep.bmp",
 		Description = { "翻过高墙后看到一个超高的瞭望塔，精炼矿物需要这种瞭望塔吗？" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 122,
+		NpcPosY = 286
 	},
 	[7856] = {
 		Title = "小门",
 		IconName = "ico_ep.bmp",
 		Description = { "高墙尽头和岩石相接的地方，有个只有小孩能够通过的大小的小门。" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 27,
+		NpcPosY = 300
 	},
 	[7857] = {
 		Title = "向小虫报告",
 		IconName = "ico_ep.bmp",
 		Description = { "大概逛完高墙附近了，快把收集到的情报交给小虫吧。" },
-		Summary = "与小虫对话"
+		Summary = "与小虫对话",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 193,
+		NpcPosY = 284
 	},
 	[7858] = {
 		Title = "调查危险声音的真相",
@@ -19230,7 +19284,10 @@ QuestInfoList = {
 		Description = {
 			"埃琳娜博克巴说高墙另一边的状况有点不太寻常，快回到喵星人子弹酒吧向 <NAVI>[泰斯]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>报告，但埃琳娜不是说是垃圾场的吗？"
 		},
-		Summary = "向泰斯报告"
+		Summary = "向泰斯报告",
+		NpcNavi = "pub_cat",
+		NpcPosX = 93,
+		NpcPosY = 105
 	},
 	[7860] = {
 		Title = "出乎意料的客人",
@@ -19238,7 +19295,10 @@ QuestInfoList = {
 		Description = {
 			"在喵星人子弹酒吧见到的 <NAVI>[泰斯]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>说有急事，就带到了内部的密室。"
 		},
-		Summary = "在密室和泰斯对话"
+		Summary = "在密室和泰斯对话",
+		NpcNavi = "pub_cat",
+		NpcPosX = 93,
+		NpcPosY = 105
 	},
 	[7861] = {
 		Title = "企业的危机",
@@ -19246,7 +19306,10 @@ QuestInfoList = {
 		Description = {
 			"为了夺回被内部叛徒强占的雷根修芦研究所，加入了埃尔斯特一行。快去和里希塔乐镇等待作战的 <NAVI>[共和国警卫兵]<INFO>lighthalzen,56,270,0,101,0</INFO></NAVI>碰头吧。"
 		},
-		Summary = "与共和国警卫兵对话"
+		Summary = "与共和国警卫兵对话",
+		NpcNavi = "lighthalzen",
+		NpcPosX = 56,
+		NpcPosY = 270
 	},
 	[7862] = {
 		Title = "夺回雷根修芦研究所大作战",
@@ -19254,7 +19317,10 @@ QuestInfoList = {
 		Description = {
 			"潜入研究所，整理内部。可以通过等候中的 <NAVI>[奥斯卡]<INFO>lighthalzen,55,278,0,101,0</INFO></NAVI>进入研究所。"
 		},
-		Summary = "夺回研究所"
+		Summary = "夺回研究所",
+		NpcNavi = "lighthalzen",
+		NpcPosX = 55,
+		NpcPosY = 278
 	},
 	[7863] = {
 		Title = "在研究所获得的材料",
@@ -19262,13 +19328,19 @@ QuestInfoList = {
 		Description = { "这是研究所警卫1队相关的资料。" },
 		Summary = "向泰斯报告",
 		RewardEXP = "200000",
-		RewardJEXP = "200000"
+		RewardJEXP = "200000",
+		NpcNavi = "pub_cat",
+		NpcPosX = 93,
+		NpcPosY = 105
 	},
 	[7864] = {
 		Title = "换气",
 		IconName = "ico_ep.bmp",
 		Description = { "泰斯在分析资料的时候，帮助雷兹吧，找出酒吧某处的雷兹。" },
-		Summary = "与雷基对话"
+		Summary = "与雷基对话",
+		NpcNavi = "pub_cat",
+		NpcPosX = 105,
+		NpcPosY = 58
 	},
 	[7865] = {
 		Title = "第二次作战",
@@ -19276,7 +19348,10 @@ QuestInfoList = {
 		Description = {
 			"预计在艾因布罗克西北部原野的废弃矿山进行新作战。与待机中的 <NAVI>[反叛者队员]<INFO>ein_fild03,278,269,0,101,0</INFO></NAVI>碰头并加入作战。"
 		},
-		Summary = "与反叛者队员对话"
+		Summary = "与反叛者队员对话",
+		NpcNavi = "ein_fild03",
+		NpcPosX = 278,
+		NpcPosY = 269
 	},
 	[7866] = {
 		Title = "喵星人子弹酒吧？",
@@ -19297,7 +19372,10 @@ QuestInfoList = {
 		},
 		Summary = "击杀邪心猎人",
 		RewardEXP = "200000",
-		RewardJEXP = "200000"
+		RewardJEXP = "200000",
+		NpcNavi = "sp_cor",
+		NpcPosX = 155,
+		NpcPosY = 94
 	},
 	[7868] = {
 		Title = "佣兵vs佣兵-待机",
@@ -19306,7 +19384,10 @@ QuestInfoList = {
 			"该任务为每日任务，冷却时间过后可再次进行。通过特殊警戒区柯尔的 <NAVI>[尤斯兰]<INFO>sp_cor,155,94,0,101,0</INFO></NAVI>处接取即可。"
 		},
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "sp_cor",
+		NpcPosX = 155,
+		NpcPosY = 94
 	},
 	[7870] = {
 		Title = "Minor Connections",
@@ -22140,7 +22221,10 @@ QuestInfoList = {
 		Title = "没有内容物的",
 		IconName = "ico_dq.bmp",
 		Description = { "尼勒恩委托狩猎污染幽灵剑士和污染幽灵弓箭手各20个后确认他们的内容物。" },
-		Summary = "狩猎污染幽灵剑士和污染幽灵弓箭手"
+		Summary = "狩猎污染幽灵剑士和污染幽灵弓箭手",
+		NpcNavi = "glast_01",
+		NpcPosX = 191,
+		NpcPosY = 273
 	},
 	[8542] = {
 		Title = "没有内容物的-待机",
@@ -22149,7 +22233,10 @@ QuestInfoList = {
 			"该任务为每日任务，在冷却时间过后通过尼勒恩可再次接取。 <NAVI>[尼勒恩]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> "
 		},
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "glast_01",
+		NpcPosX = 191,
+		NpcPosY = 273
 	},
 	[8543] = {
 		Title = "可能没有内容物的",
@@ -22161,7 +22248,10 @@ QuestInfoList = {
 		Title = "冰冻点高的",
 		IconName = "ico_dq.bmp",
 		Description = { "尼勒恩委托狩猎冰冻蝙蝠弓箭手和越狱腐尸各5个后让她观察一下变化。" },
-		Summary = "狩猎冰冻蝙蝠弓箭手和越狱腐尸"
+		Summary = "狩猎冰冻蝙蝠弓箭手和越狱腐尸",
+		NpcNavi = "glast_01",
+		NpcPosX = 191,
+		NpcPosY = 273
 	},
 	[8545] = {
 		Title = "冰冻点高的-待机",
@@ -22170,7 +22260,10 @@ QuestInfoList = {
 			"该任务为每日任务，在冷却时间过后通过尼勒恩可再次接取。 <NAVI>[尼勒恩]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> "
 		},
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "glast_01",
+		NpcPosX = 191,
+		NpcPosY = 273
 	},
 	[8546] = {
 		Title = "冰冻点非常高的",
@@ -22182,7 +22275,10 @@ QuestInfoList = {
 		Title = "像镜子一样的",
 		IconName = "ico_dq.bmp",
 		Description = { "尼勒恩委托狩猎冰魔巫师和火魔巫师各10个后让她观察一下变化。" },
-		Summary = "狩猎冰魔巫师和火魔巫师"
+		Summary = "狩猎冰魔巫师和火魔巫师",
+		NpcNavi = "glast_01",
+		NpcPosX = 191,
+		NpcPosY = 273
 	},
 	[8548] = {
 		Title = "像镜子一样的-待机",
@@ -22191,7 +22287,10 @@ QuestInfoList = {
 			"该任务为每日任务，在冷却时间过后通过尼勒恩可再次接取。 <NAVI>[尼勒恩]<INFO>glast_01,191,273,0,101,0</INFO></NAVI> "
 		},
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "glast_01",
+		NpcPosX = 191,
+		NpcPosY = 273
 	},
 	[8549] = {
 		Title = "就像镜子一样的",
@@ -22420,7 +22519,10 @@ QuestInfoList = {
 		IconName = "ico_dq.bmp",
 		Description = { "<NAVI>[柯顿]<INFO>ba_maison,306,205,0,101,0</INFO></NAVI>随时都欢迎你，明天再来工作吧！" },
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "ba_maison",
+		NpcPosX = 306,
+		NpcPosY = 205
 	},
 	[8604] = {
 		Title = "贝鲁兹环境美化系的委托",
@@ -22941,9 +23043,12 @@ QuestInfoList = {
 		Title = "前往教国 (1)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"霸肋门德宅邸的自动人偶终于确认了收到信号的身份。发信地址是 <NAVI>[拉赫]<INFO>rachel,182,176,0,101,0</INFO></NAVI>，需要尽快行动了。"
+			"巴尔蒙德宅邸的自动人偶终于确认了收到信号的身份。发信地址是 <NAVI>[拉赫]<INFO>rachel,182,176,0,101,0</INFO></NAVI>，需要尽快行动了。"
 		},
-		Summary = "前往拉赫"
+		Summary = "前往拉赫",
+		NpcNavi = "rachel",
+		NpcPosX = 182,
+		NpcPosY = 176
 	},
 	[8682] = {
 		Title = "前往教国 (2)",
@@ -31402,7 +31507,10 @@ QuestInfoList = {
 		Title = "久远的回忆",
 		IconName = "ico_ep.bmp",
 		Description = { "好像在艾因布罗克附近找到了伪装成废弃矿的敌人总部，看看附近有没有其他敌人。" },
-		Summary = "搜查附近"
+		Summary = "搜查附近",
+		NpcNavi = "ein_fild03",
+		NpcPosX = 347,
+		NpcPosY = 219
 	},
 	[11597] = {
 		Title = "久远的回忆",
@@ -31422,7 +31530,10 @@ QuestInfoList = {
 		Description = { "好像没什么特别的，回到反叛者队员处吧。" },
 		Summary = "与反叛者队员对话",
 		RewardEXP = "100000",
-		RewardJEXP = "100000"
+		RewardJEXP = "100000",
+		NpcNavi = "ein_fild03",
+		NpcPosX = 278,
+		NpcPosY = 269
 	},
 	[11600] = {
 		Title = "久远的回忆",
@@ -31430,19 +31541,28 @@ QuestInfoList = {
 		Description = { "去看看道路不通的废弃矿场内部吧。" },
 		Summary = "前往内部",
 		RewardEXP = "600000",
-		RewardJEXP = "600000"
+		RewardJEXP = "600000",
+		NpcNavi = "ein_fild03",
+		NpcPosX = 347,
+		NpcPosY = 219
 	},
 	[11601] = {
 		Title = "久远的回忆",
 		IconName = "ico_ep.bmp",
 		Description = { "已开放可以移动到下一个地区的通道，回到喵星人子弹酒吧转达消息后，再去狄恩的房间寻找狄恩的东西回来吧。" },
-		Summary = "回到喵星人子弹酒吧"
+		Summary = "回到喵星人子弹酒吧",
+		NpcNavi = "einbroch",
+		NpcPosX = 302,
+		NpcPosY = 329
 	},
 	[11602] = {
 		Title = "久远的回忆",
 		IconName = "ico_ep.bmp",
 		Description = { "到狄恩的房间找回狄恩寻找的东西吧。" },
-		Summary = "狄恩的符咒"
+		Summary = "狄恩的符咒",
+		NpcNavi = "rebel_in",
+		NpcPosX = 161,
+		NpcPosY = 91
 	},
 	[11603] = {
 		Title = "久远的回忆",
@@ -31450,7 +31570,10 @@ QuestInfoList = {
 		Description = { "找到了狄恩的符咒，回去找狄恩吧。" },
 		Summary = "回到狄恩处",
 		RewardEXP = "200000",
-		RewardJEXP = "100000"
+		RewardJEXP = "100000",
+		NpcNavi = "rebel_in",
+		NpcPosX = 164,
+		NpcPosY = 88
 	},
 	[11604] = {
 		Title = "南瓜先生之巨大南瓜",
@@ -31535,7 +31658,10 @@ QuestInfoList = {
 		Title = "下水道的落伍者",
 		IconName = "ico_ep.bmp",
 		Description = { "<NAVI>[落水的人]<INFO>ba_pw02,93,93,0,101,0</INFO></NAVI>好像无法战斗，使用天地树叶子帮他恢复吧。" },
-		Summary = "天地树叶子1个"
+		Summary = "天地树叶子1个",
+		NpcNavi = "ba_pw02",
+		NpcPosX = 93,
+		NpcPosY = 93
 	},
 	[11616] = {
 		Title = "下水道的落伍者",
@@ -31543,19 +31669,28 @@ QuestInfoList = {
 		Description = {
 			"杜尔一行人也接了反叛者的委托在调查大宅中了，快跟<NAVI>[其他人]<INFO>ba_pw01,14,115,0,101,0</INFO></NAVI>会合吧。"
 		},
-		Summary = "前往米奇的声音传来之处"
+		Summary = "前往米奇的声音传来之处",
+		NpcNavi = "ba_pw01",
+		NpcPosX = 14,
+		NpcPosY = 115
 	},
 	[11617] = {
 		Title = "下水道的落伍者",
 		IconName = "ico_ep.bmp",
 		Description = { "找到通往上方的<NAVI>[门]<INFO>ba_pw01,87,290,0,101,0</INFO></NAVI>，一起移动吧。" },
-		Summary = "前往阿普所在之处"
+		Summary = "前往阿普所在之处",
+		NpcNavi = "ba_pw01",
+		NpcPosX = 87,
+		NpcPosY = 290
 	},
 	[11618] = {
 		Title = "下水道的落伍者",
 		IconName = "ico_ep.bmp",
 		Description = { "终于来到地面上了，和<NAVI>[拉西斯]<INFO>ba_in01,20,319,0,101,0</INFO></NAVI>对话吧。" },
-		Summary = "与拉西斯对话"
+		Summary = "与拉西斯对话",
+		NpcNavi = "ba_in01",
+		NpcPosX = 20,
+		NpcPosY = 319
 	},
 	[11619] = {
 		Title = "Blackmail",
@@ -31568,85 +31703,127 @@ QuestInfoList = {
 		Title = "下水道的落伍者",
 		IconName = "ico_ep.bmp",
 		Description = { "里面的门好像被锁住了，去跟外面的<NAVI>[同行人]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>对话吧。" },
-		Summary = "与塔玛琳对话"
+		Summary = "与塔玛琳对话",
+		NpcNavi = "ba_maison",
+		NpcPosX = 70,
+		NpcPosY = 145
 	},
 	[11621] = {
 		Title = "图书馆内保持肃静！",
 		IconName = "ico_ep.bmp",
 		Description = { "杜尔突然跑向有<NAVI>[喷水池]<INFO>ba_maison,85,111,0,101,0</INFO></NAVI>的地方，快点追上杜尔吧！" },
-		Summary = "确认喷水池"
+		Summary = "确认喷水池",
+		NpcNavi = "ba_maison",
+		NpcPosX = 85,
+		NpcPosY = 111
 	},
 	[11622] = {
 		Title = "图书馆内保持肃静！",
 		IconName = "ico_ep.bmp",
 		Description = { "调查大家都很好奇的<NAVI>[图书馆]<INFO>ba_in01,211,177,0,101,0</INFO></NAVI>吧！" },
-		Summary = "前往图书馆内部"
+		Summary = "前往图书馆内部",
+		NpcNavi = "ba_in01",
+		NpcPosX = 211,
+		NpcPosY = 177
 	},
 	[11623] = {
 		Title = "图书馆内保持肃静！",
 		IconName = "ico_ep.bmp",
 		Description = { "关闭门上的灯，进入图书馆。" },
-		Summary = "与图书馆管理员β对话"
+		Summary = "与图书馆管理员β对话",
+		NpcNavi = "ba_lib",
+		NpcPosX = 157,
+		NpcPosY = 19
 	},
 	[11624] = {
 		Title = "图书馆内保持肃静！",
 		IconName = "ico_ep.bmp",
 		Description = { "图书馆内需要另外登记使用，去告诉<NAVI>[马克]<INFO>ba_lib,84,85,0,101,0</INFO></NAVI>吧。" },
-		Summary = "与图书馆内的马克对话"
+		Summary = "与图书馆内的马克对话",
+		NpcNavi = "ba_lib",
+		NpcPosX = 84,
+		NpcPosY = 85
 	},
 	[11625] = {
 		Title = "图书馆内保持肃静！",
 		IconName = "ico_ep.bmp",
 		Description = { "图书馆内需要另外登记使用，去和<NAVI>[米奇]<INFO>ba_lib,112,266,0,101,0</INFO></NAVI>说吧！" },
-		Summary = "与图书馆内的米奇对话"
+		Summary = "与图书馆内的米奇对话",
+		NpcNavi = "ba_lib",
+		NpcPosX = 112,
+		NpcPosY = 266
 	},
 	[11626] = {
 		Title = "图书馆内保持肃静！",
 		IconName = "ico_ep.bmp",
 		Description = { "图书馆内需要另外登记使用，去和<NAVI>[阿普]<INFO>ba_lib,293,234,0,101,0</INFO></NAVI>说吧！" },
-		Summary = "与图书馆内的阿普对话"
+		Summary = "与图书馆内的阿普对话",
+		NpcNavi = "ba_lib",
+		NpcPosX = 293,
+		NpcPosY = 234
 	},
 	[11627] = {
 		Title = "图书馆内保持肃静！",
 		IconName = "ico_ep.bmp",
 		Description = { "图书馆内需要另外登记使用，去和<NAVI>[塔玛琳]<INFO>ba_lib,96,208,0,101,0</INFO></NAVI>说吧！" },
-		Summary = "与图书馆内的塔玛琳对话"
+		Summary = "与图书馆内的塔玛琳对话",
+		NpcNavi = "ba_lib",
+		NpcPosX = 96,
+		NpcPosY = 208
 	},
 	[11628] = {
 		Title = "图书馆内保持肃静！",
 		IconName = "ico_ep.bmp",
 		Description = { "图书馆内需要另外登记使用，去和<NAVI>[奥利佛]<INFO>ba_lib,199,233,0,101,0</INFO></NAVI>说吧！" },
-		Summary = "与图书馆内的奥利佛对话"
+		Summary = "与图书馆内的奥利佛对话",
+		NpcNavi = "ba_lib",
+		NpcPosX = 199,
+		NpcPosY = 233
 	},
 	[11629] = {
 		Title = "图书馆内保持肃静！",
 		IconName = "ico_ep.bmp",
 		Description = { "和马克对话，在与其他人对话结束后，去找<NAVI>[图书馆管理员β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>。" },
-		Summary = "去找图书馆管理员β"
+		Summary = "去找图书馆管理员β",
+		NpcNavi = "ba_lib",
+		NpcPosX = 157,
+		NpcPosY = 19
 	},
 	[11630] = {
 		Title = "图书馆内保持肃静！",
 		IconName = "ico_ep.bmp",
 		Description = { "与米奇对话。与其他人对话结束后，回去找<NAVI>[图书馆管理员β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>。" },
-		Summary = "去找图书馆管理员β"
+		Summary = "去找图书馆管理员β",
+		NpcNavi = "ba_lib",
+		NpcPosX = 157,
+		NpcPosY = 19
 	},
 	[11631] = {
 		Title = "图书馆内保持肃静！",
 		IconName = "ico_ep.bmp",
 		Description = { "与阿普对话。与其他人对话结束后，回去找<NAVI>[图书馆管理员β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>。" },
-		Summary = "去找图书馆管理员β"
+		Summary = "去找图书馆管理员β",
+		NpcNavi = "ba_lib",
+		NpcPosX = 157,
+		NpcPosY = 19
 	},
 	[11632] = {
 		Title = "图书馆内保持肃静！",
 		IconName = "ico_ep.bmp",
 		Description = { "与塔玛琳对话。与其他人对话结束后，回去找<NAVI>[图书馆管理员β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>。" },
-		Summary = "去找图书馆管理员β"
+		Summary = "去找图书馆管理员β",
+		NpcNavi = "ba_lib",
+		NpcPosX = 157,
+		NpcPosY = 19
 	},
 	[11633] = {
 		Title = "图书馆内保持肃静！",
 		IconName = "ico_ep.bmp",
 		Description = { "先跟奥利佛对话，再与其他人对话完后，去找<NAVI>[图书馆管理员β]<INFO>ba_lib,157,19,0,101,0</INFO></NAVI>。" },
-		Summary = "去找图书馆管理员β"
+		Summary = "去找图书馆管理员β",
+		NpcNavi = "ba_lib",
+		NpcPosX = 157,
+		NpcPosY = 19
 	},
 	[11634] = {
 		Title = "击杀终极书虫",
@@ -31686,7 +31863,10 @@ QuestInfoList = {
 		Description = {
 			"回收废弃守护者零件，就可以修理守护者。回收守护者的零件，去第一研究所前去找<NAVI>[塔玛琳]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>吧！"
 		},
-		Summary = "回收守护者残骸20个"
+		Summary = "回收守护者残骸20个",
+		NpcNavi = "ba_maison",
+		NpcPosX = 70,
+		NpcPosY = 145
 	},
 	[11639] = {
 		Title = "终极废铁回收",
@@ -31694,7 +31874,10 @@ QuestInfoList = {
 		Description = {
 			"该任务为每日任务，待冷却时间结束时可通过<NAVI>[塔玛琳]<INFO>ba_maison,70,145,0,101,0</INFO></NAVI>再次接取。"
 		},
-		Summary = "04点初始化"
+		Summary = "04点初始化",
+		NpcNavi = "ba_maison",
+		NpcPosX = 70,
+		NpcPosY = 145
 	},
 	[11650] = {
 		Title = "南瓜先生和诡异的南瓜先生的有些诡异的故事",
@@ -31819,7 +32002,7 @@ QuestInfoList = {
 	[11670] = {
 		Title = "梦幻法师转职",
 		IconName = "ico_jq.bmp",
-		Description = { "第二个试炼：^ff0000击败10只住在霸肋门德大宅浴池的魔物、带回人鱼之心1个^000000。" },
+		Description = { "第二个试炼：^ff0000击败10只住在巴尔蒙德大宅浴池的魔物、带回人鱼之心1个^000000。" },
 		Summary = "把人鱼之心给米奇"
 	},
 	[11671] = {
@@ -31855,7 +32038,7 @@ QuestInfoList = {
 	[11676] = {
 		Title = "元素领主转职",
 		IconName = "ico_jq.bmp",
-		Description = { "艾玛说看到基蓝前往^ff0000霸肋门德大宅^000000，\n\t\t\t先在霸肋门德大宅的^ff0000魔力发电厂^000000寻找线索吧！" },
+		Description = { "艾玛说看到基蓝前往^ff0000巴尔蒙德大宅^000000，\n\t\t\t先在巴尔蒙德大宅的^ff0000魔力发电厂^000000寻找线索吧！" },
 		Summary = "调查魔力发电厂"
 	},
 	[11677] = {
@@ -31867,8 +32050,8 @@ QuestInfoList = {
 	[11678] = {
 		Title = "元素领主转职",
 		IconName = "ico_jq.bmp",
-		Description = { "无法在魔力发电厂获得召唤高级精灵的线索，^ff0000调查霸肋门德的图书馆^000000吧！" },
-		Summary = "调查霸肋门德图书馆"
+		Description = { "无法在魔力发电厂获得召唤高级精灵的线索，^ff0000调查巴尔蒙德的图书馆^000000吧！" },
+		Summary = "调查巴尔蒙德图书馆"
 	},
 	[11679] = {
 		Title = "元素领主转职",
@@ -36547,12 +36730,12 @@ QuestInfoList = {
 	},
 	[12422] = {
 		Title = "超越者的委托",
-		Description = { "收到来自超越者霸肋门德的合作邀请。" },
+		Description = { "收到来自超越者巴尔蒙德的合作邀请。" },
 		Summary = "超越者的委托"
 	},
 	[12423] = {
 		Title = "拯救世界的人",
-		Description = { "帮助在平行世界孤军奋战的霸肋门德负责守护石的修复工作。" },
+		Description = { "帮助在平行世界孤军奋战的巴尔蒙德负责守护石的修复工作。" },
 		Summary = "修复守护石"
 	},
 	[12442] = {
@@ -36610,7 +36793,10 @@ QuestInfoList = {
 	[12452] = {
 		Title = "占领欧斯大作战",
 		Description = { "铁路运输线路已畅通，击杀残留势力，完美掌控欧斯吧。" },
-		Summary = "占领欧斯大作战"
+		Summary = "占领欧斯大作战",
+		NpcNavi = "sp_cor",
+		NpcPosX = 163,
+		NpcPosY = 56
 	},
 	[12453] = {
 		Title = "作战待机",
@@ -36621,13 +36807,19 @@ QuestInfoList = {
 	[12454] = {
 		Title = "追加搜查任务",
 		Description = { "追加搜查欧斯东北部，发现异常现象或者危险因子时，立即歼灭。" },
-		Summary = "追加搜查任务"
+		Summary = "追加搜查任务",
+		NpcNavi = "sp_cor",
+		NpcPosX = 160,
+		NpcPosY = 55
 	},
 	[12455] = {
 		Title = "作战待机",
 		Description = { "通往欧斯的路口暂时封闭，请耐心等待至重新开放。" },
 		Summary = "作战待机",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "sp_cor",
+		NpcPosX = 160,
+		NpcPosY = 55
 	},
 	[12456] = {
 		Title = "拯救世界的后遗症消除后的后遗症",
@@ -37275,8 +37467,8 @@ QuestInfoList = {
 		Title = "军事会议",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"来自次元以外的来历不明的客人、霸肋门德以及皇室家族正在进行严肃的军事会议。",
-			"通过普隆德拉南门处的<NAVI>[霸肋门德]<INFO>prt_fild08,154,367,0,101,0</INFO></NAVI>选择要支援的场所并移动吧。",
+			"来自次元以外的来历不明的客人、巴尔蒙德以及皇室家族正在进行严肃的军事会议。",
+			"通过普隆德拉南门处的<NAVI>[巴尔蒙德]<INFO>prt_fild08,154,367,0,101,0</INFO></NAVI>选择要支援的场所并移动吧。",
 			" "
 		},
 		Summary = "阻止入侵"
@@ -46126,13 +46318,19 @@ QuestInfoList = {
 		Title = "埃琳娜博克巴的呼唤",
 		IconName = "ico_ep.bmp",
 		Description = { "和埃琳娜博克巴对话看看吧。" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "sp_cor",
+		NpcPosX = 180,
+		NpcPosY = 169
 	},
 	[16353] = {
 		Title = "金色的捣蛋鬼",
 		IconName = "ico_ep.bmp",
 		Description = { "主设施附近发生了爆炸，跟着埃琳娜去确认 <NAVI>[情况]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>吧。" },
-		Summary = "与埃琳娜对话"
+		Summary = "与埃琳娜对话",
+		NpcNavi = "sp_cor",
+		NpcPosX = 180,
+		NpcPosY = 169
 	},
 	[16354] = {
 		Title = "缉拿爱鲁梅纳作战",
@@ -46140,7 +46338,10 @@ QuestInfoList = {
 		Description = {
 			"介绍 <NAVI>[地区]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>后进入特殊作战。顺利缉拿爱鲁梅纳后，向埃琳娜报告吧。"
 		},
-		Summary = "缉拿爱鲁梅纳"
+		Summary = "缉拿爱鲁梅纳",
+		NpcNavi = "sp_cor",
+		NpcPosX = 180,
+		NpcPosY = 169
 	},
 	[16355] = {
 		Title = "可疑的箱子",
@@ -46158,7 +46359,10 @@ QuestInfoList = {
 		Title = "缉拿爱鲁梅纳",
 		IconName = "ico_ep.bmp",
 		Description = { "顺利缉拿幻象科学家，稍微休息一会后和<NAVI>[埃琳娜]<INFO>sp_cor,180,169,0,101,0</INFO></NAVI>对话吧。" },
-		Summary = "与埃琳娜对话"
+		Summary = "与埃琳娜对话",
+		NpcNavi = "sp_cor",
+		NpcPosX = 180,
+		NpcPosY = 169
 	},
 	[16358] = {
 		Title = "单纯的坏蛋",
@@ -46166,21 +46370,30 @@ QuestInfoList = {
 		Description = {
 			"准备审问被俘虏的幻象科学家。前往 <NAVI>[帐篷内]<INFO>sp_cor,136,210,0,101,0</INFO></NAVI>观看审问流程吧。"
 		},
-		Summary = "与高尼对话"
+		Summary = "与高尼对话",
+		NpcNavi = "sp_cor",
+		NpcPosX = 136,
+		NpcPosY = 210
 	},
 	[16359] = {
 		Title = "单纯的淘气鬼",
 		IconName = "ico_ep.bmp",
 		Description = { "<NAVI>[小虫]<INFO>sp_cor,135,216,0,101,0</INFO></NAVI>来主导审问。在旁边恶狠狠的盯着他吧。" },
-		Summary = "与小虫对话"
+		Summary = "与小虫对话",
+		NpcNavi = "sp_cor",
+		NpcPosX = 135,
+		NpcPosY = 216
 	},
 	[16360] = {
 		Title = "单纯的事实",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"从爱鲁梅纳的证词得知进入霸肋门德宅邸的方法。去确认一下 <NAVI>[出入口]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>吧。"
+			"从爱鲁梅纳的证词得知进入巴尔蒙德宅邸的方法。去确认一下 <NAVI>[出入口]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>吧。"
 		},
-		Summary = "与小虫对话"
+		Summary = "与小虫对话",
+		NpcNavi = "sp_cor",
+		NpcPosX = 255,
+		NpcPosY = 285
 	},
 	[16361] = {
 		Title = "单纯的善后",
@@ -46188,7 +46401,10 @@ QuestInfoList = {
 		Description = {
 			"埃琳娜的 <NAVI>[手下]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI>成功活捉爱鲁梅纳后，还未能回收爱鲁梅纳布下的魔物和陷阱的理由吧。"
 		},
-		Summary = "与反叛者对话"
+		Summary = "与反叛者对话",
+		NpcNavi = "sp_cor",
+		NpcPosX = 113,
+		NpcPosY = 130
 	},
 	[16362] = {
 		Title = "单纯的善后-待机",
@@ -46197,7 +46413,10 @@ QuestInfoList = {
 			"该任务为每日任务，待机时间结束后可再次进行。到柯尔的 <NAVI>[反叛者]<INFO>sp_cor,113,130,0,101,0</INFO></NAVI>处接取即可。"
 		},
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "sp_cor",
+		NpcPosX = 113,
+		NpcPosY = 130
 	},
 	[16363] = {
 		Title = "击杀EL1-A17T",
@@ -46211,7 +46430,10 @@ QuestInfoList = {
 		Description = {
 			"因为这次事件导致人手不够的 <NAVI>[农场]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>处申请帮助，照顾那些新生蔬菜苗吧。"
 		},
-		Summary = "帮忙农场工作"
+		Summary = "帮忙农场工作",
+		NpcNavi = "sp_cor",
+		NpcPosX = 246,
+		NpcPosY = 97
 	},
 	[16365] = {
 		Title = "农场帮手-待机",
@@ -46220,7 +46442,10 @@ QuestInfoList = {
 			"该任务为每日任务，待机时间结束后可再次进行。到柯尔的 <NAVI>[农场工人]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>处接取即可。"
 		},
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "sp_cor",
+		NpcPosX = 246,
+		NpcPosY = 97
 	},
 	[16366] = {
 		Title = "农场帮手",
@@ -46228,13 +46453,19 @@ QuestInfoList = {
 		Description = {
 			"因为这次事件导致人手不够的 <NAVI>[农场]<INFO>sp_cor,246,97,0,101,0</INFO></NAVI>处申请帮助，照顾那些新生蔬菜苗吧。"
 		},
-		Summary = ""
+		Summary = "",
+		NpcNavi = "sp_cor",
+		NpcPosX = 246,
+		NpcPosY = 97
 	},
 	[16367] = {
 		Title = "新生葡萄",
 		IconName = "ico_dq.bmp",
 		Description = { "又小又绿的 <NAVI>[葡萄]<INFO>sp_cor,247,86,0,101,0</INFO></NAVI>挂在葡萄藤上，帮忙消灭虫子吧。" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "sp_cor",
+		NpcPosX = 247,
+		NpcPosY = 86
 	},
 	[16368] = {
 		Title = "新生葡萄",
@@ -46252,7 +46483,10 @@ QuestInfoList = {
 		Title = "松软的豌豆",
 		IconName = "ico_dq.bmp",
 		Description = { "细毛松软的 <NAVI>[豌豆]<INFO>sp_cor,163,135,0,101,0</INFO></NAVI>现在比小指还要小。帮忙消灭虫子吧。" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "sp_cor",
+		NpcPosX = 163,
+		NpcPosY = 135
 	},
 	[16371] = {
 		Title = "松软的豌豆",
@@ -46270,7 +46504,10 @@ QuestInfoList = {
 		Title = "小小的南瓜",
 		IconName = "ico_dq.bmp",
 		Description = { "小小的绿 <NAVI>[南瓜]<INFO>sp_cor,240,87,0,101,0</INFO></NAVI>顺着南瓜藤结了果实。帮忙消灭虫子吧。" },
-		Summary = ""
+		Summary = "",
+		NpcNavi = "sp_cor",
+		NpcPosX = 240,
+		NpcPosY = 87
 	},
 	[16374] = {
 		Title = "小小的南瓜",
@@ -46640,7 +46877,10 @@ QuestInfoList = {
 		Description = {
 			"爱鲁梅纳暴露于有害物质中，前往<NAVI>[大宅方向]<INFO>ba_maison,169,270,0,101,0</INFO></NAVI>请求帮助吧。"
 		},
-		Summary = "前往大宅"
+		Summary = "前往大宅",
+		NpcNavi = "ba_maison",
+		NpcPosX = 169,
+		NpcPosY = 270
 	},
 	[16428] = {
 		Title = "制作解毒剂",
@@ -46648,25 +46888,37 @@ QuestInfoList = {
 		Description = {
 			"机器人不接纳爱鲁梅纳，代替他获得情报。为了前往水上花园，去找<NAVI>[渡口]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>。"
 		},
-		Summary = "前往渡口"
+		Summary = "前往渡口",
+		NpcNavi = "ba_maison",
+		NpcPosX = 239,
+		NpcPosY = 47
 	},
 	[16429] = {
 		Title = "席瓦帕皮利亚",
 		IconName = "ico_ep.bmp",
 		Description = { "为制作解毒剂，击杀席瓦帕皮利亚后回去找<NAVI>[赛修]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>吧。" },
-		Summary = "击杀席瓦帕皮利亚"
+		Summary = "击杀席瓦帕皮利亚",
+		NpcNavi = "ba_maison",
+		NpcPosX = 239,
+		NpcPosY = 47
 	},
 	[16430] = {
 		Title = "解毒剂完成",
 		IconName = "ico_ep.bmp",
 		Description = { "将拜托赛修制成的解毒剂转交给<NAVI>[爱鲁梅纳]<INFO>ba_maison,234,51,0,101,0</INFO></NAVI>吧。" },
-		Summary = "爱鲁梅纳对话"
+		Summary = "爱鲁梅纳对话",
+		NpcNavi = "ba_maison",
+		NpcPosX = 234,
+		NpcPosY = 51
 	},
 	[16431] = {
 		Title = "击杀席瓦帕皮利亚",
 		IconName = "ico_dq.bmp",
 		Description = { "击杀水上花园内的席瓦帕皮利亚后回去找<NAVI>[赛修]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>吧。" },
-		Summary = "击杀席瓦帕皮利亚"
+		Summary = "击杀席瓦帕皮利亚",
+		NpcNavi = "ba_maison",
+		NpcPosX = 239,
+		NpcPosY = 47
 	},
 	[16432] = {
 		Title = "击杀席瓦帕皮利亚-待机",
@@ -46675,13 +46927,19 @@ QuestInfoList = {
 			"该任务为每日任务，重置时间过后可再次接取。可通过 <NAVI>[赛修]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>接取任务。"
 		},
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "ba_maison",
+		NpcPosX = 239,
+		NpcPosY = 47
 	},
 	[16433] = {
 		Title = "击杀格兰帕皮利亚",
 		IconName = "ico_dq.bmp",
 		Description = { "击杀水上花园内的格兰帕皮利亚后回去找<NAVI>[赛修]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>吧。" },
-		Summary = "击杀格兰帕皮利亚"
+		Summary = "击杀格兰帕皮利亚",
+		NpcNavi = "ba_maison",
+		NpcPosX = 239,
+		NpcPosY = 47
 	},
 	[16434] = {
 		Title = "击杀格兰帕皮利亚-待机",
@@ -46690,7 +46948,10 @@ QuestInfoList = {
 			"该任务为每日任务，重置时间过后可再次接取。可通过 <NAVI>[赛修]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>接取任务。"
 		},
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "ba_maison",
+		NpcPosX = 239,
+		NpcPosY = 47
 	},
 	[16435] = {
 		Title = "探查园丁",
@@ -46698,7 +46959,10 @@ QuestInfoList = {
 		Description = {
 			"听说有园丁还留在花园里，找到她并确认情况后向<NAVI>[赛修]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>报告吧。"
 		},
-		Summary = ""
+		Summary = "",
+		NpcNavi = "ba_maison",
+		NpcPosX = 239,
+		NpcPosY = 47
 	},
 	[16436] = {
 		Title = "探查园丁-待机",
@@ -46707,7 +46971,10 @@ QuestInfoList = {
 			"该任务为每日任务，重置时间过后可再次接取。可通过 <NAVI>[赛修]<INFO>ba_maison,239,47,0,101,0</INFO></NAVI>接取任务。"
 		},
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "ba_maison",
+		NpcPosX = 239,
+		NpcPosY = 47
 	},
 	[16437] = {
 		Title = "水上花园",
@@ -46734,37 +47001,55 @@ QuestInfoList = {
 		Title = "我想知道真相",
 		IconName = "ico_ep.bmp",
 		Description = { "与<NAVI>[狄恩]<INFO>ba_in01,203,103,0,101,0</INFO></NAVI>对话，听听元老们与菲洛彭特斯对立的原因。" },
-		Summary = "与狄恩对话"
+		Summary = "与狄恩对话",
+		NpcNavi = "ba_in01",
+		NpcPosX = 203,
+		NpcPosY = 103
 	},
 	[16441] = {
 		Title = "我想知道真相",
 		IconName = "ico_ep.bmp",
 		Description = { "听听大宅管理员们说的各种故事后，回到<NAVI>[茶庄]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI>报告。" },
-		Summary = "与管理员对话"
+		Summary = "与管理员对话",
+		NpcNavi = "ba_in01",
+		NpcPosX = 202,
+		NpcPosY = 108
 	},
 	[16442] = {
 		Title = "那个管理员的故事",
 		IconName = "ico_ep.bmp",
 		Description = { "听听大宅<NAVI>[管理员]<INFO>ba_maison,189,56,0,101,0</INFO></NAVI>的故事吧。" },
-		Summary = "与管理员对话"
+		Summary = "与管理员对话",
+		NpcNavi = "ba_maison",
+		NpcPosX = 189,
+		NpcPosY = 56
 	},
 	[16443] = {
 		Title = "那个管理员的故事",
 		IconName = "ico_ep.bmp",
 		Description = { "听听大宅<NAVI>[管理员]<INFO>ba_maison,318,169,0,101,0</INFO></NAVI>的故事吧。" },
-		Summary = "与管理员对话"
+		Summary = "与管理员对话",
+		NpcNavi = "ba_maison",
+		NpcPosX = 318,
+		NpcPosY = 169
 	},
 	[16444] = {
 		Title = "那个管理员的故事",
 		IconName = "ico_ep.bmp",
 		Description = { "听听大宅<NAVI>[管理员]<INFO>ba_maison,249,161,0,101,0</INFO></NAVI>的故事吧。" },
-		Summary = "与管理员对话"
+		Summary = "与管理员对话",
+		NpcNavi = "ba_maison",
+		NpcPosX = 249,
+		NpcPosY = 161
 	},
 	[16445] = {
 		Title = "那个管理员的故事",
 		IconName = "ico_ep.bmp",
 		Description = { "听听大宅<NAVI>[管理员]<INFO>ba_maison,232,310,0,101,0</INFO></NAVI>的故事吧。" },
-		Summary = "与管理员对话"
+		Summary = "与管理员对话",
+		NpcNavi = "ba_maison",
+		NpcPosX = 232,
+		NpcPosY = 310
 	},
 	[16446] = {
 		Title = "我想知道真相",
@@ -46772,7 +47057,10 @@ QuestInfoList = {
 		Description = {
 			"过去隐藏的故事正持续着，与<NAVI>[里德什]<INFO>ba_in01,208,110,0,101,0</INFO></NAVI>对话，听听未完的故事。"
 		},
-		Summary = "里德什对话"
+		Summary = "里德什对话",
+		NpcNavi = "ba_in01",
+		NpcPosX = 208,
+		NpcPosY = 110
 	},
 	[16447] = {
 		Title = "我想知道真相",
@@ -46780,13 +47068,19 @@ QuestInfoList = {
 		Description = {
 			"企业隐藏的故事正持续着，与<NAVI>[卡亚托斯]<INFO>ba_in01,207,102,0,101,0</INFO></NAVI>对话，听听未完的故事。"
 		},
-		Summary = "与卡亚对话"
+		Summary = "与卡亚对话",
+		NpcNavi = "ba_in01",
+		NpcPosX = 207,
+		NpcPosY = 102
 	},
 	[16448] = {
 		Title = "我想知道真相",
 		IconName = "ico_ep.bmp",
 		Description = { "卡亚不在，与小虫对话。听听<NAVI>[小虫]<INFO>ba_in01,202,108,0,101,0</INFO></NAVI>要说什么吧。" },
-		Summary = "小虫对话"
+		Summary = "小虫对话",
+		NpcNavi = "ba_in01",
+		NpcPosX = 202,
+		NpcPosY = 108
 	},
 	[16449] = {
 		Title = "我想知道真相",
@@ -46794,25 +47088,37 @@ QuestInfoList = {
 		Description = {
 			"卡亚托斯一个人跑到庭院。不对，是一个人吗？走向<NAVI>[卡亚托斯]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>吧。"
 		},
-		Summary = "与卡亚对话"
+		Summary = "与卡亚对话",
+		NpcNavi = "ba_maison",
+		NpcPosX = 103,
+		NpcPosY = 92
 	},
 	[16450] = {
 		Title = "我想知道真相",
 		IconName = "ico_ep.bmp",
 		Description = { "说不定狄恩会改变想法，听听<NAVI>[狄恩]<INFO>ba_maison,100,90,0,101,0</INFO></NAVI>的故事吧。" },
-		Summary = "与狄恩对话"
+		Summary = "与狄恩对话",
+		NpcNavi = "ba_maison",
+		NpcPosX = 100,
+		NpcPosY = 90
 	},
 	[16451] = {
 		Title = "我想知道真相",
 		IconName = "ico_ep.bmp",
 		Description = { "卡亚想尽快加速工作进度，听听<NAVI>[卡亚]<INFO>ba_maison,103,92,0,101,0</INFO></NAVI>的故事吧。" },
-		Summary = "与卡亚对话"
+		Summary = "与卡亚对话",
+		NpcNavi = "ba_maison",
+		NpcPosX = 103,
+		NpcPosY = 92
 	},
 	[16452] = {
 		Title = "我想知道真相",
 		IconName = "ico_ep.bmp",
 		Description = { "<NAVI>[拓堤奥]<INFO>ba_in01,205,109,0,101,0</INFO></NAVI>到了，听他说企业以前的故事吧。" },
-		Summary = "拓堤奥对话"
+		Summary = "拓堤奥对话",
+		NpcNavi = "ba_in01",
+		NpcPosX = 205,
+		NpcPosY = 109
 	},
 	[16453] = {
 		Title = "我想知道真相",
@@ -46820,7 +47126,10 @@ QuestInfoList = {
 		Description = {
 			"跟着<NAVI>[向导]<INFO>ba_maison,357,291,0,101,0</INFO></NAVI>移动，寻找并查看艾奇和陌生人所说的地方吧。"
 		},
-		Summary = "跟着向导移动"
+		Summary = "跟着向导移动",
+		NpcNavi = "ba_maison",
+		NpcPosX = 357,
+		NpcPosY = 291
 	},
 	[16454] = {
 		Title = "成为圣裁者之路",
@@ -50532,7 +50841,10 @@ QuestInfoList = {
 		Title = "拒绝对话",
 		IconName = "ico_ep.bmp",
 		Description = { "<NAVI>[雷兹]<INFO>pub_cat,105,58,0,101,0</INFO></NAVI>拒绝再次和副社长亚托斯对话，问问发生了什么事吧。" },
-		Summary = "与雷基对话"
+		Summary = "与雷基对话",
+		NpcNavi = "pub_cat",
+		NpcPosX = 105,
+		NpcPosY = 58
 	},
 	[17001] = {
 		Title = "同行建议",
@@ -50540,7 +50852,10 @@ QuestInfoList = {
 		Description = {
 			"雷基和副社长卡亚托斯都不相信对方的话。向 <NAVI>[卡亚托斯]<INFO>pub_cat,109,71,0,101,0</INFO></NAVI>建议同行看看吧。"
 		},
-		Summary = "与卡亚托斯对话"
+		Summary = "与卡亚托斯对话",
+		NpcNavi = "pub_cat",
+		NpcPosX = 109,
+		NpcPosY = 71
 	},
 	[17002] = {
 		Title = "考虑的时间",
@@ -50550,13 +50865,19 @@ QuestInfoList = {
 		},
 		Summary = "与雷基对话",
 		RewardEXP = "300000",
-		RewardJEXP = "300000"
+		RewardJEXP = "300000",
+		NpcNavi = "pub_cat",
+		NpcPosX = 105,
+		NpcPosY = 58
 	},
 	[17003] = {
 		Title = "成功同行",
 		IconName = "ico_ep.bmp",
 		Description = { "冒险家！我们要去的路途遥远，快到艾因布罗克 <NAVI>[机场]<INFO>einbroch,42,208,0,101,0</INFO></NAVI>吧。" },
-		Summary = "前往艾因布罗克机场"
+		Summary = "前往艾因布罗克机场",
+		NpcNavi = "einbroch",
+		NpcPosX = 42,
+		NpcPosY = 208
 	},
 	[17004] = {
 		Title = "就业之路，旅程开始",
@@ -50564,7 +50885,10 @@ QuestInfoList = {
 		Description = {
 			"我们从现在开始展开派克的求职之旅，追寻目前遗留的痕迹。我们在 <NAVI>[里希塔乐镇]<INFO>lighthalzen,259,215,0,101,0</INFO></NAVI>等您。"
 		},
-		Summary = "前往里希塔乐镇"
+		Summary = "前往里希塔乐镇",
+		NpcNavi = "lighthalzen",
+		NpcPosX = 259,
+		NpcPosY = 215
 	},
 	[17005] = {
 		Title = "里希塔乐镇的贫民区",
@@ -50572,7 +50896,10 @@ QuestInfoList = {
 		Description = { "该旅程从<NAVI>[派克的家]<INFO>lighthalzen,336,266,0,101,0</INFO></NAVI>所在的贫民区开始。" },
 		Summary = "前往派克的家",
 		RewardEXP = "300000",
-		RewardJEXP = "300000"
+		RewardJEXP = "300000",
+		NpcNavi = "lighthalzen",
+		NpcPosX = 336,
+		NpcPosY = 266
 	},
 	[17006] = {
 		Title = "正式开始调查",
@@ -50580,13 +50907,19 @@ QuestInfoList = {
 		Description = {
 			"贫民区之旅如何呢？接下来要去雷根贝勒<NAVI>[总部]<INFO>lighthalzen,107,165,0,101,0</INFO></NAVI>了哦~走起~"
 		},
-		Summary = "前往雷根贝勒"
+		Summary = "前往雷根贝勒",
+		NpcNavi = "lighthalzen",
+		NpcPosX = 107,
+		NpcPosY = 165
 	},
 	[17007] = {
 		Title = "调查雷根贝勒",
 		IconName = "ico_ep.bmp",
 		Description = { "刚进公司的人要先去哪里呢？去 <NAVI>[大厅]<INFO>lhz_in01,107,137,0,101,0</INFO></NAVI>看看吧。" },
-		Summary = "前往总部内部"
+		Summary = "前往总部内部",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 107,
+		NpcPosY = 137
 	},
 	[17008] = {
 		Title = "调查雷根贝勒",
@@ -50594,7 +50927,10 @@ QuestInfoList = {
 		Description = {
 			"大家一起前往派克在雷根贝勒展开新生活的2层 <NAVI>[会议室]<INFO>lhz_in01,162,257,0,101,0</INFO></NAVI>吧。"
 		},
-		Summary = "前往2层"
+		Summary = "前往2层",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 162,
+		NpcPosY = 257
 	},
 	[17009] = {
 		Title = "调查雷根贝勒",
@@ -50602,7 +50938,10 @@ QuestInfoList = {
 		Description = {
 			"为什么只带身体健康的人进入生体研究所？我好想、好想~知道！快前往 <NAVI>[研究所别馆]<INFO>rgsr_in,157,84,0,101,0</INFO></NAVI>吧。"
 		},
-		Summary = "研究所别馆"
+		Summary = "研究所别馆",
+		NpcNavi = "rgsr_in",
+		NpcPosX = 157,
+		NpcPosY = 84
 	},
 	[17010] = {
 		Title = "调查雷根贝勒",
@@ -50610,7 +50949,10 @@ QuestInfoList = {
 		Description = {
 			"派屈克克夫曼？那是谁啊？不好意思我不认识。可能 <NAVI>[某个人]<INFO>rgsr_in,12,46,0,101,0</INFO></NAVI>会知道吧。"
 		},
-		Summary = "进到里面"
+		Summary = "进到里面",
+		NpcNavi = "rgsr_in",
+		NpcPosX = 12,
+		NpcPosY = 46
 	},
 	[17011] = {
 		Title = "调查雷根贝勒",
@@ -50618,7 +50960,10 @@ QuestInfoList = {
 		Description = {
 			"呃……派克被调离的研究所……那个部门一定有人知道内情，快去 <NAVI>[办公室]<INFO>lhz_in01,80,210,0,101,0</INFO></NAVI>看看吧。"
 		},
-		Summary = "重新回到总部"
+		Summary = "重新回到总部",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 80,
+		NpcPosY = 210
 	},
 	[17012] = {
 		Title = "调查雷根贝勒",
@@ -50626,7 +50971,10 @@ QuestInfoList = {
 		Description = {
 			"如果想要秘密进行，与其去找人事组，还不如直接前往 <NAVI>[文件保管室]<INFO>lhz_in01,32,264,0,101,0</INFO></NAVI>寻找相关文件会更有效率。"
 		},
-		Summary = "前往文件保管室"
+		Summary = "前往文件保管室",
+		NpcNavi = "lhz_in01",
+		NpcPosX = 32,
+		NpcPosY = 264
 	},
 	[17013] = {
 		Title = "新建研究所的位置",
@@ -50639,7 +50987,10 @@ QuestInfoList = {
 		RewardJEXP = "600000",
 		RewardItemList = {
 			{ ItemID = 25723, ItemNum = 20 }
-		}
+		},
+		NpcNavi = "ein_fild01",
+		NpcPosX = 95,
+		NpcPosY = 146
 	},
 	[17014] = {
 		Title = "没有研究所",
@@ -50647,13 +50998,19 @@ QuestInfoList = {
 		Description = {
 			"冒险家在这里还要做什么吗？我可没有，我饿了，腿也疼。快回到 <NAVI>[喵星人]<INFO>pub_cat,93,105,0,101,0</INFO></NAVI>吧。"
 		},
-		Summary = "回到喵星人子弹酒吧"
+		Summary = "回到喵星人子弹酒吧",
+		NpcNavi = "pub_cat",
+		NpcPosX = 93,
+		NpcPosY = 105
 	},
 	[17015] = {
 		Title = "这是副社长的狡辩",
 		IconName = "ico_ep.bmp",
 		Description = { "是在研究所工作的人，他们的话 <NAVI>[我来]<INFO>sp_cor,165,79,0,101,0</INFO></NAVI> 谈一谈吧。" },
-		Summary = "卡亚托斯的劝说"
+		Summary = "卡亚托斯的劝说",
+		NpcNavi = "sp_cor",
+		NpcPosX = 165,
+		NpcPosY = 79
 	},
 	[17016] = {
 		Title = "居然讲不通……",
@@ -50661,13 +51018,19 @@ QuestInfoList = {
 		Description = {
 			"不管怎么说都不愿意听，这样不会有结论的。 <NAVI>[和我]<INFO>sp_cor,166,81,0,101,0</INFO></NAVI>一起想想对策吧"
 		},
-		Summary = "与泰斯讨论对策"
+		Summary = "与泰斯讨论对策",
+		NpcNavi = "sp_cor",
+		NpcPosX = 166,
+		NpcPosY = 81
 	},
 	[17017] = {
 		Title = "防备攻击",
 		IconName = "ico_ep.bmp",
 		Description = { "带着受伤者移动到 <NAVI>[安全地点]<INFO>sp_cor,122,141,0,101,0</INFO></NAVI>！快！" },
-		Summary = "前往安全的地方"
+		Summary = "前往安全的地方",
+		NpcNavi = "sp_cor",
+		NpcPosX = 122,
+		NpcPosY = 141
 	},
 	[17018] = {
 		Title = "伤患的状态",
@@ -50675,14 +51038,20 @@ QuestInfoList = {
 		Description = { "<NAVI>[亚斯]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>说有事情要跟卡亚托斯报告。" },
 		Summary = "去找亚斯",
 		RewardEXP = "300000",
-		RewardJEXP = "300000"
+		RewardJEXP = "300000",
+		NpcNavi = "sp_cor",
+		NpcPosX = 135,
+		NpcPosY = 147
 	},
 	[17019] = {
 		Title = "紧急情况",
 		Description = {
 			"需要更多人力来搜查逃跑的研究员！快前往 <NAVI>[左方]<INFO>sp_cor,108,130,0,101,0</INFO></NAVI>和其他搜索队碰头吧！"
 		},
-		Summary = "参与搜索"
+		Summary = "参与搜索",
+		NpcNavi = "sp_cor",
+		NpcPosX = 108,
+		NpcPosY = 130
 	},
 	[17020] = {
 		Title = "重新调查",
@@ -50690,7 +51059,10 @@ QuestInfoList = {
 		Description = {
 			"请继续调查派屈克克夫曼，如果是这边 <NAVI>[工作过的人]<INFO>sp_cor,133,144,0,101,0</INFO></NAVI>的话，应该会知道一些信息吧。"
 		},
-		Summary = "询问工人"
+		Summary = "询问工人",
+		NpcNavi = "sp_cor",
+		NpcPosX = 133,
+		NpcPosY = 144
 	},
 	[17021] = {
 		Title = "寻找派克",
@@ -50698,7 +51070,10 @@ QuestInfoList = {
 		Description = {
 			"反正不管找到谁，都要问问研究员才行，虽然都逃走，没剩多少人了……但不是还有几个 <NAVI>[助理]<INFO>sp_cor,224,77,0,101,0</INFO></NAVI>吗？快去问问吧。"
 		},
-		Summary = "去找研究员"
+		Summary = "去找研究员",
+		NpcNavi = "sp_cor",
+		NpcPosX = 224,
+		NpcPosY = 77
 	},
 	[17022] = {
 		Title = "寻找派克",
@@ -50708,7 +51083,10 @@ QuestInfoList = {
 		},
 		Summary = "询问洗衣部主任",
 		RewardEXP = "300000",
-		RewardJEXP = "300000"
+		RewardJEXP = "300000",
+		NpcNavi = "sp_cor",
+		NpcPosX = 151,
+		NpcPosY = 180
 	},
 	[17023] = {
 		Title = "寻找派克",
@@ -50716,7 +51094,10 @@ QuestInfoList = {
 		Description = {
 			"如果要找东西的话去 <NAVI>[焚化厂]<INFO>sp_cor,70,263,0,101,0</INFO></NAVI>吧。那边正在收集四处散落的资料分类中，或许有什么信息呢。"
 		},
-		Summary = "前往焚化厂"
+		Summary = "前往焚化厂",
+		NpcNavi = "sp_cor",
+		NpcPosX = 70,
+		NpcPosY = 263
 	},
 	[17024] = {
 		Title = "寻找派克",
@@ -50724,7 +51105,10 @@ QuestInfoList = {
 		Description = {
 			"听说严重污染或者无法燃烧的东西会丢到 <NAVI>[废料场]<INFO>sp_rudus,227,351,0,101,0</INFO></NAVI>，他们好像叫什么来着……"
 		},
-		Summary = "前往鲁杜斯"
+		Summary = "前往鲁杜斯",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 227,
+		NpcPosY = 351
 	},
 	[17025] = {
 		Title = "寻找派克",
@@ -50732,13 +51116,19 @@ QuestInfoList = {
 		Description = { "<NAVI>[某处]<INFO>sp_rudus,15,280,0,101,0</INFO></NAVI> 传来讲话声音，去看看吧。" },
 		Summary = "紧跟声音",
 		RewardEXP = "300000",
-		RewardJEXP = "300000"
+		RewardJEXP = "300000",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 15,
+		NpcPosY = 280
 	},
 	[17026] = {
 		Title = "寻找派克",
 		IconName = "ico_ep.bmp",
 		Description = { "还不如在垃圾堆找找看识别手环，一定掉在地板某个地方。" },
-		Summary = "实验体识别手环"
+		Summary = "实验体识别手环",
+		NpcNavi = "sp_rudus",
+		NpcPosX = 55,
+		NpcPosY = 137
 	},
 	[17027] = {
 		Title = "寻找派克",
@@ -50779,7 +51169,10 @@ QuestInfoList = {
 		RewardJEXP = "600000",
 		RewardItemList = {
 			{ItemID = 25723, ItemNum = 20}
-		}
+		},
+		NpcNavi = "sp_cor",
+		NpcPosX = 136,
+		NpcPosY = 146
 	},
 	[17033] = {
 		Title = "后续处理",
@@ -50787,7 +51180,10 @@ QuestInfoList = {
 		Description = {
 			"后续的事情就交给这边的 <NAVI>[亚斯]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>吧。收集到的手环也交给亚斯就可以了。"
 		},
-		Summary = "去找亚斯"
+		Summary = "去找亚斯",
+		NpcNavi = "sp_cor",
+		NpcPosX = 135,
+		NpcPosY = 147
 	},
 	[17034] = {
 		Title = "前往鲁杜斯",
@@ -50801,14 +51197,20 @@ QuestInfoList = {
 		RewardItemList = {
 			{ItemID = 25723, ItemNum = 1},
 			{ItemID = 25669, ItemNum = 5}
-		}
+		},
+		NpcNavi = "sp_cor",
+		NpcPosX = 135,
+		NpcPosY = 147
 	},
 	[17035] = {
 		Title = "待机：鲁杜斯？",
 		IconName = "ico_ep.bmp",
 		Description = { "等凌晨过后再来吧。辛苦您了。 - <NAVI>[亚斯]<INFO>sp_cor,135,147,0,101,0</INFO></NAVI>" },
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "sp_cor",
+		NpcPosX = 135,
+		NpcPosY = 147
 	},
 	[17036] = {
 		Title = "丰年祭的涵义",
@@ -52957,7 +53359,10 @@ QuestInfoList = {
 		Description = {
 			"同步客人名单时，好像因为大宅内网络而发生问题，向<NAVI>[大宅管理员α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>确认。"
 		},
-		Summary = "听听大宅管理员α"
+		Summary = "听听大宅管理员α",
+		NpcNavi = "ba_maison",
+		NpcPosX = 74,
+		NpcPosY = 150
 	},
 	[17334] = {
 		Title = "转播器确认：餐厅",
@@ -52965,7 +53370,10 @@ QuestInfoList = {
 		Description = {
 			"往最近的<NAVI>[餐厅]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>方向走比较好。告诉故障的转播器附近的机器人，转播器坏掉的事，他们会自行处理。"
 		},
-		Summary = "前往餐厅"
+		Summary = "前往餐厅",
+		NpcNavi = "ba_maison",
+		NpcPosX = 146,
+		NpcPosY = 109
 	},
 	[17335] = {
 		Title = "转播器的零件",
@@ -52973,7 +53381,10 @@ QuestInfoList = {
 		Description = {
 			"处理故障的β后带回机器人通讯晶片1个，需要立即修好转播器。 - <NAVI>[老饕]<INFO>ba_maison,146,109,0,101,0</INFO></NAVI>"
 		},
-		Summary = "零件1个"
+		Summary = "零件1个",
+		NpcNavi = "ba_maison",
+		NpcPosX = 146,
+		NpcPosY = 109
 	},
 	[17336] = {
 		Title = "转播器确认：凉亭",
@@ -52981,13 +53392,19 @@ QuestInfoList = {
 		Description = {
 			"沿着这条路走就可以到<NAVI>[凉亭]<INFO>ba_maison,334,143,0,101,0</INFO></NAVI>。请勿随意触碰故障的转播器，告诉附近的机器人即可。"
 		},
-		Summary = "前往凉亭"
+		Summary = "前往凉亭",
+		NpcNavi = "ba_maison",
+		NpcPosX = 334,
+		NpcPosY = 143
 	},
 	[17337] = {
 		Title = "转播器确认：中央花园",
 		IconName = "ico_ep.bmp",
 		Description = { "大宅的<NAVI>[中央花园]<INFO>ba_maison,245,206,0,101,0</INFO></NAVI>朝凉亭上方走，左转即可抵达。" },
-		Summary = "前往中央花园"
+		Summary = "前往中央花园",
+		NpcNavi = "ba_maison",
+		NpcPosX = 245,
+		NpcPosY = 206
 	},
 	[17338] = {
 		Title = "转播器确认完毕",
@@ -52995,7 +53412,10 @@ QuestInfoList = {
 		Description = {
 			"确认故障的转播器后告诉机器人转播器坏掉的事情，回去向 <NAVI>[大宅管理员α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>报告吧。"
 		},
-		Summary = "去找大宅管理员α"
+		Summary = "去找大宅管理员α",
+		NpcNavi = "ba_maison",
+		NpcPosX = 74,
+		NpcPosY = 150
 	},
 	[17339] = {
 		Title = "收集备用零件",
@@ -53009,7 +53429,10 @@ QuestInfoList = {
 		Description = {
 			"请处理故障的β们并带回转播器要使用的零件10个，大概是一天要用的备用量。 - <NAVI>[大宅管理员α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
 		},
-		Summary = "零件10个"
+		Summary = "零件10个",
+		NpcNavi = "ba_maison",
+		NpcPosX = 74,
+		NpcPosY = 150
 	},
 	[17341] = {
 		Title = "等候：没有信号",
@@ -53018,7 +53441,10 @@ QuestInfoList = {
 			"方便的话明天清晨过后再给你委托，先去休息吧！- <NAVI>[大宅管理员α]<INFO>ba_maison,74,150,0,101,0</INFO></NAVI>"
 		},
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "ba_maison",
+		NpcPosX = 74,
+		NpcPosY = 150
 	},
 	[17342] = {
 		Title = "没有很喜欢",
@@ -53026,25 +53452,37 @@ QuestInfoList = {
 		Description = {
 			"想委托你处理故障的扫地机器人5个，希望你能好好享受这一切。 - <NAVI>[八哥]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>"
 		},
-		Summary = "故障的扫地机器人5个"
+		Summary = "故障的扫地机器人5个",
+		NpcNavi = "ba_2whs01",
+		NpcPosX = 150,
+		NpcPosY = 51
 	},
 	[17343] = {
 		Title = "好可怕……",
 		IconName = "ico_ep.bmp",
 		Description = { "走下<NAVI>[楼梯]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI>，确认下面的情况后再来吧。" },
-		Summary = "确认楼下情况"
+		Summary = "确认楼下情况",
+		NpcNavi = "ba_2whs01",
+		NpcPosX = 276,
+		NpcPosY = 290
 	},
 	[17344] = {
 		Title = "没有钥匙",
 		IconName = "ico_ep.bmp",
 		Description = { "通往楼梯的门被锁住了，得跟 <NAVI>[八哥]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>拿钥匙。" },
-		Summary = "去找八哥"
+		Summary = "去找八哥",
+		NpcNavi = "ba_2whs01",
+		NpcPosX = 150,
+		NpcPosY = 51
 	},
 	[17345] = {
 		Title = "楼梯间的钥匙 1",
 		IconName = "ico_ep.bmp",
 		Description = { "<NAVI>[转动的世界]<INFO>ba_2whs01,110,218,0,101,0</INFO></NAVI>，下面一定会有全部真相。" },
-		Summary = "寻找备用钥匙"
+		Summary = "寻找备用钥匙",
+		NpcNavi = "ba_2whs01",
+		NpcPosX = 110,
+		NpcPosY = 218
 	},
 	[17346] = {
 		Title = "楼梯间的钥匙 2",
@@ -53052,7 +53490,10 @@ QuestInfoList = {
 		Description = {
 			"连呼吸都会结冻的<NAVI>[地方]<INFO>ba_2whs01,14,282,0,101,0</INFO></NAVI>所有东西永远不会变质，维持原本的形态。"
 		},
-		Summary = "寻找备用钥匙"
+		Summary = "寻找备用钥匙",
+		NpcNavi = "ba_2whs01",
+		NpcPosX = 14,
+		NpcPosY = 282
 	},
 	[17347] = {
 		Title = "楼梯间的钥匙 3",
@@ -53060,19 +53501,28 @@ QuestInfoList = {
 		Description = {
 			"最后是所有空气要流通才行，那里使用了巨大的能源。完全无法想象<NAVI>[那种地点]<INFO>ba_2whs01,222,257,0,101,0</INFO></NAVI>在哪里。"
 		},
-		Summary = "寻找备用钥匙"
+		Summary = "寻找备用钥匙",
+		NpcNavi = "ba_2whs01",
+		NpcPosX = 222,
+		NpcPosY = 257
 	},
 	[17348] = {
 		Title = "确保钥匙",
 		IconName = "ico_ep.bmp",
 		Description = { "备用钥匙都找到了，尝试开启<NAVI>[上锁的门]<INFO>ba_2whs01,276,290,0,101,0</INFO></NAVI>吧。" },
-		Summary = "前往地下"
+		Summary = "前往地下",
+		NpcNavi = "ba_2whs01",
+		NpcPosX = 276,
+		NpcPosY = 290
 	},
 	[17349] = {
 		Title = "门开了",
 		IconName = "ico_ep.bmp",
 		Description = { "前往地下的门开了，快去确认<NAVI>[发出声音的地方]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>吧。" },
-		Summary = "前往地下"
+		Summary = "前往地下",
+		NpcNavi = "ba_2whs02",
+		NpcPosX = 37,
+		NpcPosY = 312
 	},
 	[17350] = {
 		Title = "头，身体，手，脚",
@@ -53080,25 +53530,37 @@ QuestInfoList = {
 		Description = {
 			"<NAVI>[身体所在之处]<INFO>ba_2whs02,31,50,0,101,0</INFO></NAVI>最近，你先去那边吧！快点带回来给我，我好害怕。"
 		},
-		Summary = "寻找身体"
+		Summary = "寻找身体",
+		NpcNavi = "ba_2whs02",
+		NpcPosX = 31,
+		NpcPosY = 50
 	},
 	[17351] = {
 		Title = "头，身体，手，脚",
 		IconName = "ico_ep.bmp",
 		Description = { "身体找到了，下一个是<NAVI>[手]<INFO>ba_2whs02,129,82,0,101,0</INFO></NAVI>了。" },
-		Summary = "寻找手"
+		Summary = "寻找手",
+		NpcNavi = "ba_2whs02",
+		NpcPosX = 129,
+		NpcPosY = 82
 	},
 	[17352] = {
 		Title = "头，身体，手，脚",
 		IconName = "ico_ep.bmp",
 		Description = { "手找到了，下一个是<NAVI>[脚]<INFO>ba_2whs02,239,124,0,101,0</INFO></NAVI>了。" },
-		Summary = "寻找脚"
+		Summary = "寻找脚",
+		NpcNavi = "ba_2whs02",
+		NpcPosX = 239,
+		NpcPosY = 124
 	},
 	[17353] = {
 		Title = "头，身体，手，脚",
 		IconName = "ico_ep.bmp",
 		Description = { "身体、手、脚都找到了，回去找<NAVI>[头]<INFO>ba_2whs02,37,312,0,101,0</INFO></NAVI>吧。" },
-		Summary = "寻找头"
+		Summary = "寻找头",
+		NpcNavi = "ba_2whs02",
+		NpcPosX = 37,
+		NpcPosY = 312
 	},
 	[17354] = {
 		Title = "头，身体，手，脚",
@@ -53130,7 +53592,10 @@ QuestInfoList = {
 		Description = {
 			"这样就可以保护自己了！你说过要上去跟其他<NAVI>[机器人]<INFO>ba_2whs01,150,51,0,101,0</INFO></NAVI>报告对吧？快去吧！"
 		},
-		Summary = "去找八哥"
+		Summary = "去找八哥",
+		NpcNavi = "ba_2whs01",
+		NpcPosX = 150,
+		NpcPosY = 51
 	},
 	[17359] = {
 		Title = "清理楼上仓库",
@@ -53170,19 +53635,28 @@ QuestInfoList = {
 		Title = "探索桑拿",
 		IconName = "ico_ep.bmp",
 		Description = { "进入桑拿<NAVI>[内部]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI> 可立即开始探索。" },
-		Summary = "进入桑拿内部"
+		Summary = "进入桑拿内部",
+		NpcNavi = "ba_bath",
+		NpcPosX = 165,
+		NpcPosY = 43
 	},
 	[17364] = {
 		Title = "要求关掉锅炉",
 		IconName = "ico_ep.bmp",
 		Description = { "冒险家请你去<NAVI>[锅炉室]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>请他们关闭锅炉，我马上就过去。" },
-		Summary = "前往锅炉室"
+		Summary = "前往锅炉室",
+		NpcNavi = "ba_bath",
+		NpcPosX = 286,
+		NpcPosY = 68
 	},
 	[17365] = {
 		Title = "已经关掉了啊？",
 		IconName = "ico_ep.bmp",
 		Description = { "据说锅炉已经关闭了，去向<NAVI>[小虫]<INFO>ba_bath,270,94,0,101,0</INFO></NAVI>报告吧。" },
-		Summary = "去找小虫"
+		Summary = "去找小虫",
+		NpcNavi = "ba_bath",
+		NpcPosX = 270,
+		NpcPosY = 94
 	},
 	[17366] = {
 		Title = "这么突然？",
@@ -53190,7 +53664,10 @@ QuestInfoList = {
 		Description = {
 			"打扫时若踩错排水孔就会掉进湖里而不是污水处理厂，说不定会有什么发现。请去调查 <NAVI>[那里]<INFO>ba_bath,165,43,0,101,0</INFO></NAVI>再回来。"
 		},
-		Summary = "探索湖"
+		Summary = "探索湖",
+		NpcNavi = "ba_bath",
+		NpcPosX = 165,
+		NpcPosY = 43
 	},
 	[17367] = {
 		Title = "拟定对策",
@@ -53198,7 +53675,10 @@ QuestInfoList = {
 		Description = {
 			"无论如何，陷入更混乱的状况前要赶快处理才行，冒险家也去 <NAVI>[休息室]<INFO>ba_bath,203,58,0,101,0</INFO></NAVI>吧。"
 		},
-		Summary = "前往休息室"
+		Summary = "前往休息室",
+		NpcNavi = "ba_bath",
+		NpcPosX = 203,
+		NpcPosY = 58
 	},
 	[17368] = {
 		Title = "设置陷阱 1",
@@ -53206,31 +53686,46 @@ QuestInfoList = {
 		Description = {
 			"冒险家，请把这个设置在桑拿<NAVI>[角落]<INFO>ba_bath,55,55,0,101,0</INFO></NAVI>，只要放着固定不要让它晃动就可以了。"
 		},
-		Summary = "前往指定地点"
+		Summary = "前往指定地点",
+		NpcNavi = "ba_bath",
+		NpcPosX = 55,
+		NpcPosY = 55
 	},
 	[17369] = {
 		Title = "设置陷阱 2",
 		IconName = "ico_ep.bmp",
 		Description = { "一固定好陷阱就充满寒意，接下来前往<NAVI>[下个地点]<INFO>ba_bath,306,121,0,101,0</INFO></NAVI>吧。" },
-		Summary = "前往下个地点"
+		Summary = "前往下个地点",
+		NpcNavi = "ba_bath",
+		NpcPosX = 306,
+		NpcPosY = 121
 	},
 	[17370] = {
 		Title = "设置陷阱 3",
 		IconName = "ico_ep.bmp",
 		Description = { "在小虫所说的地点固定好陷阱，前往<NAVI>[下个地点]<INFO>ba_bath,21,276,0,101,0</INFO></NAVI>吧。" },
-		Summary = "前往下个地点"
+		Summary = "前往下个地点",
+		NpcNavi = "ba_bath",
+		NpcPosX = 21,
+		NpcPosY = 276
 	},
 	[17371] = {
 		Title = "设置陷阱 4",
 		IconName = "ico_ep.bmp",
 		Description = { "在标示的地点放置陷阱固定好，前往<NAVI>[下个地点]<INFO>ba_bath,155,305,0,101,0</INFO></NAVI>吧。" },
-		Summary = "前往下个地点"
+		Summary = "前往下个地点",
+		NpcNavi = "ba_bath",
+		NpcPosX = 155,
+		NpcPosY = 305
 	},
 	[17372] = {
 		Title = "设置陷阱完毕",
 		IconName = "ico_ep.bmp",
 		Description = { "陷阱都设置好了吗？这边已经开始了，快前往<NAVI>[作战地点]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>吧。" },
-		Summary = "前往作战地点"
+		Summary = "前往作战地点",
+		NpcNavi = "ba_bath",
+		NpcPosX = 286,
+		NpcPosY = 298
 	},
 	[17373] = {
 		Title = "无论如何尝试对话",
@@ -53238,13 +53733,19 @@ QuestInfoList = {
 		Description = {
 			"高尼的样子像是身份不明的<NAVI>[人]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>，他似乎有话要说，再次尝试与他对话吧。"
 		},
-		Summary = "与假高尼对话"
+		Summary = "与假高尼对话",
+		NpcNavi = "ba_bath",
+		NpcPosX = 286,
+		NpcPosY = 298
 	},
 	[17374] = {
 		Title = "到底为何如此？",
 		IconName = "ico_ep.bmp",
 		Description = { "小虫好像要开始和<NAVI>[人鱼]<INFO>ba_bath,286,298,0,101,0</INFO></NAVI>正式展开对话了。" },
-		Summary = "人鱼对话"
+		Summary = "人鱼对话",
+		NpcNavi = "ba_bath",
+		NpcPosX = 286,
+		NpcPosY = 298
 	},
 	[17375] = {
 		Title = "锅炉的请求",
@@ -53252,7 +53753,10 @@ QuestInfoList = {
 		Description = {
 			"击杀故障的搓澡师20个后，收集破损的机器人零件5个。 - <NAVI>[锅炉]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "听听锅炉的请求"
+		Summary = "听听锅炉的请求",
+		NpcNavi = "ba_bath",
+		NpcPosX = 286,
+		NpcPosY = 68
 	},
 	[17376] = {
 		Title = "热池和冷池之间",
@@ -53260,7 +53764,10 @@ QuestInfoList = {
 		Description = {
 			"击杀故障的搓澡师20个后，收集破损的机器人零件5个。 - <NAVI>[锅炉]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "击杀故障的机器人"
+		Summary = "击杀故障的机器人",
+		NpcNavi = "ba_bath",
+		NpcPosX = 286,
+		NpcPosY = 68
 	},
 	[17377] = {
 		Title = "待机：热池和冷池之间",
@@ -53269,7 +53776,10 @@ QuestInfoList = {
 			"今天就到此为止吧，等过了凌晨后再来和我对话吧。 - <NAVI>[锅炉]<INFO>ba_bath,286,68,0,101,0</INFO></NAVI>"
 		},
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "ba_bath",
+		NpcPosX = 286,
+		NpcPosY = 68
 	},
 	[17378] = {
 		Title = "小包办的请求",
@@ -53277,7 +53787,10 @@ QuestInfoList = {
 		Description = {
 			"击杀热池马克15个和热池食人鱼15个就可以了。都在这里处理就好了。- <NAVI>[小包办]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "听听小包办的请求"
+		Summary = "听听小包办的请求",
+		NpcNavi = "ba_bath",
+		NpcPosX = 288,
+		NpcPosY = 68
 	},
 	[17379] = {
 		Title = "桑拿打扫中",
@@ -53285,20 +53798,29 @@ QuestInfoList = {
 		Description = {
 			"击杀热池马克15个和热池食人鱼15个就可以了。都在这里处理就好了。- <NAVI>[小包办]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>"
 		},
-		Summary = "鱼群30个"
+		Summary = "鱼群30个",
+		NpcNavi = "ba_bath",
+		NpcPosX = 288,
+		NpcPosY = 68
 	},
 	[17380] = {
 		Title = "待机：桑拿打扫中",
 		IconName = "ico_dq.bmp",
 		Description = { "凌晨过后再来找我吧，那时候也会有很多鱼的。- <NAVI>[小包办]<INFO>ba_bath,288,68,0,101,0</INFO></NAVI>" },
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "ba_bath",
+		NpcPosX = 288,
+		NpcPosY = 68
 	},
 	[17381] = {
 		Title = "与同行人会合",
 		IconName = "ico_ep.bmp",
 		Description = { "先抵达的人在<NAVI>[茶庄]<INFO>ba_in01,206,106,0,101,0</INFO></NAVI>聊天中。" },
-		Summary = "前往茶庄"
+		Summary = "前往茶庄",
+		NpcNavi = "ba_in01",
+		NpcPosX = 206,
+		NpcPosY = 106
 	},
 	[17382] = {
 		Title = "Make a Snow Bouquet",
@@ -55590,13 +56112,19 @@ QuestInfoList = {
         Title = "准备进入",
         IconName = "ico_ep.bmp",
         Description = { "反叛者终于成功开启上锁的下水道，小虫说都准备好进入下水道的话再次和他对话。" },
-        Summary = "小虫对话"
+        Summary = "小虫对话",
+        NpcNavi = "sp_cor",
+        NpcPosX = 255,
+        NpcPosY = 285
     },
 	[18001] = {
 		Title = "大宅的狗洞",
 		IconName = "ico_ep.bmp",
 		Description = { "小虫说经由下水道进入内部，在下水道内发现徘徊的伙伴时要他一起移动。" },
-		Summary = "与杜立安对话"
+		Summary = "与杜立安对话",
+		NpcNavi = "ba_pw02",
+		NpcPosX = 275,
+		NpcPosY = 20
 	},
 	[18002] = {
 		Title = "回收破损的核心",
@@ -55670,7 +56198,10 @@ QuestInfoList = {
 		Description = {
 			"回收部分坏掉的管理员核心，在与小虫约定的<NAVI>[地点]<INFO>ba_maison,303,141,0,101,0</INFO></NAVI> 与大家集合。"
 		},
-		Summary = "与埃琳娜 博克巴对话"
+		Summary = "与埃琳娜 博克巴对话",
+		NpcNavi = "ba_maison",
+		NpcPosX = 303,
+		NpcPosY = 141
 	},
 	[18014] = {
 		Title = "意外的惊喜",
@@ -55678,7 +56209,10 @@ QuestInfoList = {
 		Description = {
 			"在埃琳娜的根据地活捉阿伊建维尔纳，埃琳娜带着阿伊建维尔纳前往爱鲁梅纳被拘留的<NAVI>[使用者宿舍]<INFO>ba_maison,100,320,0,101,0</INFO></NAVI>。加入他们，审问阿伊建。"
 		},
-		Summary = "小虫对话"
+		Summary = "小虫对话",
+		NpcNavi = "ba_maison",
+		NpcPosX = 100,
+		NpcPosY = 320
 	},
 	[18015] = {
 		Title = "幻象追踪器",
@@ -55686,13 +56220,19 @@ QuestInfoList = {
 		Description = {
 			"爱鲁梅纳说会制作可以追踪虚幻派的追踪器。制作追踪器需要的材料有<ITEM>荧光色的液体<INFO>7326</INFO></ITEM> 10个，<ITEM>破裂之剑<INFO>7110</INFO></ITEM> 10个。"
 		},
-		Summary = "给爱鲁梅纳提交荧光色液体和破裂之剑"
+		Summary = "给爱鲁梅纳提交荧光色液体和破裂之剑",
+		NpcNavi = "ba_maison",
+		NpcPosX = 120,
+		NpcPosY = 67
 	},
 	[18016] = {
 		Title = "作战会议",
 		IconName = "ico_ep.bmp",
-		Description = { "和埃尔斯特并肩作战，找出躲在霸肋门德大宅的邪心猎人与虚幻派。" },
-		Summary = "与埃尔斯特对话"
+		Description = { "和埃尔斯特并肩作战，找出躲在巴尔蒙德大宅的邪心猎人与虚幻派。" },
+		Summary = "与埃尔斯特对话",
+		NpcNavi = "ba_in01",
+		NpcPosX = 51,
+		NpcPosY = 157
 	},
 	[18017] = {
 		Title = "消灭害虫大作战",
@@ -55704,13 +56244,19 @@ QuestInfoList = {
 		Title = "前往飞空艇机场",
 		IconName = "ico_ep.bmp",
 		Description = { "说不定可以通过活捉的斯威蒂获得情报，前往飞空艇机场吧。" },
-		Summary = "与α对话"
+		Summary = "与α对话",
+		NpcNavi = "ba_maison",
+		NpcPosX = 74,
+		NpcPosY = 150
 	},
 	[18019] = {
 		Title = "与斯威蒂对话",
 		IconName = "ico_ep.bmp",
 		Description = { "在飞空艇机场修理威斯蒂的阿蒙德说斯威蒂醒了，去和他聊聊看吧。" },
-		Summary = "与斯威蒂对话"
+		Summary = "与斯威蒂对话",
+		NpcNavi = "ba_in01",
+		NpcPosX = 32,
+		NpcPosY = 250
 	},
 	[18020] = {
 		Title = "问候",
@@ -55722,7 +56268,10 @@ QuestInfoList = {
 		Title = "来访的客人",
 		IconName = "ico_ep.bmp",
 		Description = { "普隆德拉王宫的克鲁斯来访，据说是带他回王宫的克鲁斯。与使用者宿舍的克鲁斯对话吧。" },
-		Summary = "与克鲁斯对话"
+		Summary = "与克鲁斯对话",
+		NpcNavi = "ba_maison",
+		NpcPosX = 38,
+		NpcPosY = 219
 	},
 	[18022] = {
 		Title = "嘿！斯威蒂",
@@ -55737,7 +56286,10 @@ QuestInfoList = {
 			"一阵骚动后的斯威蒂体内需要稳定与修复，该任务的冷却时间过后再到飞空艇机场的<NAVI>[斯威蒂]<INFO>ba_in01,32,250,0,101,0</INFO></NAVI>处接取。"
 		},
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "ba_in01",
+		NpcPosX = 32,
+		NpcPosY = 250
 	},
 	[18024] = {
 		Title = "收集核心",
@@ -55750,7 +56302,10 @@ QuestInfoList = {
 		IconName = "ico_dq.bmp",
 		Description = { "该任务的冷却时间过后再到飞空艇机场的 <NAVI>[阿蒙德]<INFO>ba_in01,28,255,0,101,0</INFO></NAVI>处接取。" },
 		Summary = "04点初始化",
-		CoolTimeQuest = 1
+		CoolTimeQuest = 1,
+		NpcNavi = "ba_in01",
+		NpcPosX = 28,
+		NpcPosY = 255
 	},
 	[18026] = {
 		Title = "魔剑士达纳托斯的记忆",
@@ -56543,15 +57098,15 @@ QuestInfoList = {
 		Title = "乘北风而来的访客1",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"已经充分地听到北方大地的消息，决定和马蓝、米里亚姆前往霸肋门德大宅，我们将在霸肋门德大宅的客厅待机，与<NAVI>[爱丽]<INFO>ba_in01,384,114,0,101,0</INFO></NAVI>讨论未来的计划。"
+			"已经充分地听到北方大地的消息，决定和马蓝、米里亚姆前往巴尔蒙德大宅，我们将在巴尔蒙德大宅的客厅待机，与<NAVI>[爱丽]<INFO>ba_in01,384,114,0,101,0</INFO></NAVI>讨论未来的计划。"
 		},
-		Summary = "前往霸肋门德大宅"
+		Summary = "前往巴尔蒙德大宅"
 	},
 	[18120] = {
 		Title = "乘北风而来的访客2",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"决定从普隆德拉皇宫获取有关伊斯加尔特的情报，在霸肋门德大宅，跟<NAVI>[克鲁斯]<INFO>ba_in01,386,110,0,101,0</INFO></NAVI>的引导下前往普隆德拉皇宫。"
+			"决定从普隆德拉皇宫获取有关伊斯加尔特的情报，在巴尔蒙德大宅，跟<NAVI>[克鲁斯]<INFO>ba_in01,386,110,0,101,0</INFO></NAVI>的引导下前往普隆德拉皇宫。"
 		},
 		Summary = "前往普隆德拉皇宫"
 	},
@@ -56566,14 +57121,14 @@ QuestInfoList = {
 	[18122] = {
 		Title = "守护者之盒和邀请函2",
 		IconName = "ico_ep.bmp",
-		Description = { "获得了邀请函，回到<NAVI>[霸肋门德大宅]<INFO>ba_maison,186,251,0,101,0</INFO></NAVI>与队伍会合。" },
-		Summary = "回到霸肋门德大宅"
+		Description = { "获得了邀请函，回到<NAVI>[巴尔蒙德大宅]<INFO>ba_maison,186,251,0,101,0</INFO></NAVI>与队伍会合。" },
+		Summary = "回到巴尔蒙德大宅"
 	},
 	[18123] = {
 		Title = "守护者之盒和邀请函3",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"抵达霸肋门德大宅后，前往<NAVI>[飞空艇机坪]<INFO>ba_in01,30,264,0,101,0</INFO></NAVI>，随时可以启程，登上飞空艇，将邀请函交给小姜。"
+			"抵达巴尔蒙德大宅后，前往<NAVI>[飞空艇机坪]<INFO>ba_in01,30,264,0,101,0</INFO></NAVI>，随时可以启程，登上飞空艇，将邀请函交给小姜。"
 		},
 		Summary = "与小姜对话"
 	},
@@ -77951,7 +78506,7 @@ QuestInfoList = {
 		Title = "棉花棉花 特别的棉花",
 		IconName = "ico_ev.bmp",
 		Description = { "在平行次元的普隆德拉正在举办夜市庆典。在那里遇到的狄托渴望得到 ^i[1001376] 玩偶。去娃娃机挑战一下吧。" },
-		Summary = "给狄托1个霸肋门德玩偶",
+		Summary = "给狄托1个巴尔蒙德玩偶",
 		NpcSpr = "4_RAGFES_11",
 		NpcNavi = "x_prt_evt",
 		NpcPosX = 91,
@@ -80017,7 +80572,7 @@ QuestInfoList = {
 		Title = "欢迎来到夜市",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"霸肋门德希望有一个比自己了解庆典的人能参观一下夜市。通过 <NAVI>[霸肋门德]<INFO>prontera,156,303,0,101,0</INFO></NAVI>进入到其他次元的普隆德拉后，去见一下夜市的举办人马克西姆。"
+			"巴尔蒙德希望有一个比自己了解庆典的人能参观一下夜市。通过 <NAVI>[巴尔蒙德]<INFO>prontera,156,303,0,101,0</INFO></NAVI>进入到其他次元的普隆德拉后，去见一下夜市的举办人马克西姆。"
 		},
 		Summary = "与马克西姆对话"
 	},
