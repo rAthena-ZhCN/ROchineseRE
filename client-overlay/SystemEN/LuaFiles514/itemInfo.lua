@@ -216859,16 +216859,17 @@ tbl = {
 	[18005] = {
 		unidentifiedDisplayName = "冰爆加农炮弹",
 		unidentifiedResourceName = "Ice_Cannon_Ball",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {
+			"使用加农炮技能所需的炮弹。",
+			"系列: ^777777炮弹^000000 攻击: ^777777120^000000",
+			"重量: ^7777770.1^000000 属性: ^777777水^000000"
+		},
 		identifiedDisplayName = "冰爆加农炮弹",
 		identifiedResourceName = "Ice_Cannon_Ball",
 		identifiedDescriptionName = {
-			"A consumable item to used by Mechanic and Genetic skills.",
-			"_______________________",
-			"^0000CCType:^000000 Cannonball",
-			"^0000CCAttack:^000000 120",
-			"^0000CCWeight:^000000 0.1",
-			"^0000CCElement:^777777 Water"
+			"使用加农炮技能所需的炮弹。",
+			"系列: ^777777炮弹^000000 攻击: ^777777120^000000",
+			"重量: ^7777770.1^000000 属性: ^777777水^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -216877,16 +216878,17 @@ tbl = {
 	[18006] = {
 		unidentifiedDisplayName = "雷电加农炮弹",
 		unidentifiedResourceName = "Lightning_Cannon_Ball",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {
+			"使用加农炮技能所需的炮弹。",
+			"系列: ^777777炮弹^000000 攻击: ^777777120^000000",
+			"重量: ^7777770.1^000000 属性: ^777777风^000000"
+		},
 		identifiedDisplayName = "雷电加农炮弹",
 		identifiedResourceName = "Lightning_Cannon_Ball",
 		identifiedDescriptionName = {
-			"A consumable item to used by Mechanic and Genetic skills.",
-			"_______________________",
-			"^0000CCType:^000000 Cannonball",
-			"^0000CCAttack:^000000 120",
-			"^0000CCWeight:^000000 0.1",
-			"^0000CCElement:^777777 Wind"
+			"使用加农炮技能所需的炮弹。",
+			"系列: ^777777炮弹^000000 攻击: ^777777120^000000",
+			"重量: ^7777770.1^000000 属性: ^777777风^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -216895,16 +216897,17 @@ tbl = {
 	[18007] = {
 		unidentifiedDisplayName = "巨石加农炮弹",
 		unidentifiedResourceName = "Stone_Cannon_Ball",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {
+			"使用加农炮技能所需的炮弹。",
+			"系列: ^777777炮弹^000000 攻击: ^777777120^000000",
+			"重量: ^7777770.1^000000 属性: ^777777地^000000"
+		},
 		identifiedDisplayName = "巨石加农炮弹",
 		identifiedResourceName = "Stone_Cannon_Ball",
 		identifiedDescriptionName = {
-			"A consumable item to used by Mechanic and Genetic skills.",
-			"_______________________",
-			"^0000CCType:^000000 Cannonball",
-			"^0000CCAttack:^000000 120",
-			"^0000CCWeight:^000000 0.1",
-			"^0000CCElement:^777777 Earth"
+			"使用加农炮技能所需的炮弹。",
+			"系列: ^777777炮弹^000000 攻击: ^777777120^000000",
+			"重量: ^7777770.1^000000 属性: ^777777地^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -216913,16 +216916,17 @@ tbl = {
 	[18008] = {
 		unidentifiedDisplayName = "火焰加农炮弹",
 		unidentifiedResourceName = "Flare_Cannon_Ball",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {
+			"使用加农炮技能所需的炮弹。",
+			"系列: ^777777炮弹^000000 攻击: ^777777120^000000",
+			"重量: ^7777770.1^000000 属性: ^777777火^000000"
+		},
 		identifiedDisplayName = "火焰加农炮弹",
 		identifiedResourceName = "Flare_Cannon_Ball",
 		identifiedDescriptionName = {
-			"A consumable item to used by Mechanic and Genetic skills.",
-			"_______________________",
-			"^0000CCType:^000000 Cannonball",
-			"^0000CCAttack:^000000 120",
-			"^0000CCWeight:^000000 0.1",
-			"^0000CCElement:^777777 Fire"
+			"使用加农炮技能所需的炮弹。",
+			"系列: ^777777炮弹^000000 攻击: ^777777120^000000",
+			"重量: ^7777770.1^000000 属性: ^777777火^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -216931,16 +216935,17 @@ tbl = {
 	[18009] = {
 		unidentifiedDisplayName = "剧毒加农炮弹",
 		unidentifiedResourceName = "Poisoning_Cannon_Ball",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {
+			"使用加农炮技能所需的炮弹。",
+			"系列: ^777777炮弹^000000 攻击: ^777777120^000000",
+			"重量: ^7777770.1^000000 属性: ^777777毒^000000"
+		},
 		identifiedDisplayName = "剧毒加农炮弹",
 		identifiedResourceName = "Poisoning_Cannon_Ball",
 		identifiedDescriptionName = {
-			"A consumable item to used by Mechanic and Genetic skills.",
-			"_______________________",
-			"^0000CCType:^000000 Cannonball",
-			"^0000CCAttack:^000000 120",
-			"^0000CCWeight:^000000 0.1",
-			"^0000CCElement:^777777 Poison"
+			"使用加农炮技能所需的炮弹。",
+			"系列: ^777777炮弹^000000 攻击: ^777777120^000000",
+			"重量: ^7777770.1^000000 属性: ^777777毒^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -282253,85 +282258,115 @@ tbl = {
 		costume = false
 	},
 	[23081] = {
-		unidentifiedDisplayName = "热浪飞刀召唤卷轴",
+		unidentifiedDisplayName = "火焰飞刀召唤书",
 		unidentifiedResourceName = "捻唱捞家券辑_拳",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "热浪飞刀召唤卷轴",
+		unidentifiedDescriptionName = {
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤火焰飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "火焰飞刀召唤书",
 		identifiedResourceName = "捻唱捞家券辑_拳",
 		identifiedDescriptionName = {
-			"^ff0000Attention! If there are more than 30,000 items in inventory, items may be lost.^000000",
-			"_______________________",
-			"Summons 500 Heat Wave Kunais.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤火焰飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[23082] = {
-		unidentifiedDisplayName = "冰柱飞刀召唤卷轴",
+		unidentifiedDisplayName = "垂冰飞刀召唤书",
 		unidentifiedResourceName = "捻唱捞家券辑_荐",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "冰柱飞刀召唤卷轴",
+		unidentifiedDescriptionName = {
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤垂冰飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "垂冰飞刀召唤书",
 		identifiedResourceName = "捻唱捞家券辑_荐",
 		identifiedDescriptionName = {
-			"^ff0000Attention! If there are more than 30,000 items in inventory, items may be lost.^000000",
-			"_______________________",
-			"Summons 500 Iceicle Kunais.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤垂冰飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[23083] = {
-		unidentifiedDisplayName = "强风飞刀召唤卷轴",
+		unidentifiedDisplayName = "强风飞刀召唤书",
 		unidentifiedResourceName = "捻唱捞家券辑_浅",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "强风飞刀召唤卷轴",
+		unidentifiedDescriptionName = {
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤强风飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "强风飞刀召唤书",
 		identifiedResourceName = "捻唱捞家券辑_浅",
 		identifiedDescriptionName = {
-			"^ff0000Attention! If there are more than 30,000 items in inventory, items may be lost.^000000",
-			"_______________________",
-			"Summons 500 High Wind Kunais.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤强风飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[23084] = {
-		unidentifiedDisplayName = "黑土飞刀召唤卷轴",
+		unidentifiedDisplayName = "黑土飞刀召唤书",
 		unidentifiedResourceName = "捻唱捞家券辑_配",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "黑土飞刀召唤卷轴",
+		unidentifiedDescriptionName = {
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤黑土飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "黑土飞刀召唤书",
 		identifiedResourceName = "捻唱捞家券辑_配",
 		identifiedDescriptionName = {
-			"^ff0000Attention! If there are more than 30,000 items in inventory, items may be lost.^000000",
-			"_______________________",
-			"Summons 500 Black Earth Kunais.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤黑土飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[23085] = {
-		unidentifiedDisplayName = "剧毒飞刀召唤卷轴",
+		unidentifiedDisplayName = "剧毒飞刀召唤书",
 		unidentifiedResourceName = "捻唱捞家券辑_刀",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "剧毒飞刀召唤卷轴",
+		unidentifiedDescriptionName = {
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤剧毒飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "剧毒飞刀召唤书",
 		identifiedResourceName = "捻唱捞家券辑_刀",
 		identifiedDescriptionName = {
-			"^ff0000Attention! If there are more than 30,000 items in inventory, items may be lost.^000000",
-			"_______________________",
-			"Summons 500 Fell Poison Kunais.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤剧毒飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -289520,20 +289555,20 @@ tbl = {
 		unidentifiedDisplayName = "设置用陷阱道具箱子",
 		unidentifiedResourceName = "藕距烹_角滚",
 		unidentifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有设置用陷阱道具500个。",
 			"^ffffff_^000000",
-			"重量 : ^77777725^000000"
+			"重量: ^77777725^000000"
 		},
 		identifiedDisplayName = "设置用陷阱道具箱子",
 		identifiedResourceName = "藕距烹_角滚",
 		identifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有设置用陷阱道具500个。",
 			"^ffffff_^000000",
-			"重量 : ^77777725^000000"
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -383624,23 +383659,23 @@ tbl = {
 		costume = false
 	},
 	[100158] = {
-		unidentifiedDisplayName = "魔导战甲应急箱(强化装甲)",
+		unidentifiedDisplayName = "应急用魔导机甲(强化服)",
 		unidentifiedResourceName = "Mado_Box02",
 		unidentifiedDescriptionName = {
-			"魔导战甲受损时使用的急救箱(强化装甲)。",
-			"习得[魔导机甲执照]技能时才会触发效果, ",
-			"使用后冷却时间为3分钟。",
-			"要求等级 : ^777777100^000000 ",
-			"重量 : ^77777730^000000"
+			"魔导机甲损坏时可用来应急的应急用魔导机甲，强化服版本。",
+			"习得魔导机甲执照技能后才能使用。",
+			"使用后有3分钟的冷却时间。",
+			"要求等级: ^777777100^000000 ",
+			"重量: ^77777730^000000"
 		},
-		identifiedDisplayName = "魔导战甲应急箱(强化装甲)",
+		identifiedDisplayName = "应急用魔导机甲(强化服)",
 		identifiedResourceName = "Mado_Box02",
 		identifiedDescriptionName = {
-			"魔导战甲受损时使用的急救箱(强化装甲)。",
-			"习得[魔导机甲执照]技能时才会触发效果, ",
-			"使用后冷却时间为3分钟。",
-			"要求等级 : ^777777100^000000 ",
-			"重量 : ^77777730^000000"
+			"魔导机甲损坏时可用来应急的应急用魔导机甲，强化服版本。",
+			"习得魔导机甲执照技能后才能使用。",
+			"使用后有3分钟的冷却时间。",
+			"要求等级: ^777777100^000000 ",
+			"重量: ^77777730^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -384198,21 +384233,22 @@ tbl = {
 		costume = false
 	},
 	[100171] = {
-		unidentifiedDisplayName = "加农炮弹弹药箱",
+		unidentifiedDisplayName = "炮弹弹药箱",
 		unidentifiedResourceName = "胶乔绢蒲_鞠",
 		unidentifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
-			"装有加农炮弹500个。",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"装有炮弹500个。",
+			"^ffffff_^000000",
 			"重量: ^77777725^000000"
 		},
-		identifiedDisplayName = "加农炮弹弹药箱",
+		identifiedDisplayName = "炮弹弹药箱",
 		identifiedResourceName = "胶乔绢蒲_鞠",
 		identifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
-			"装有加农炮弹500个。",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"装有炮弹500个。",
+			"^ffffff_^000000",
 			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
@@ -384242,21 +384278,22 @@ tbl = {
 		costume = false
 	},
 	[100173] = {
-		unidentifiedDisplayName = "念加农炮弹弹药箱",
+		unidentifiedDisplayName = "灵魂炮弹弹药箱",
 		unidentifiedResourceName = "胶乔绢蒲_荐",
 		unidentifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
-			"装有念加农炮弹500个。",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"装有灵魂炮弹500个。",
+			"^ffffff_^000000",
 			"重量: ^77777725^000000"
 		},
-		identifiedDisplayName = "念加农炮弹弹药箱",
+		identifiedDisplayName = "灵魂炮弹弹药箱",
 		identifiedResourceName = "胶乔绢蒲_荐",
 		identifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
-			"装有念加农炮弹500个。",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"装有灵魂炮弹500个。",
+			"^ffffff_^000000",
 			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
@@ -384287,20 +384324,20 @@ tbl = {
 		costume = false
 	},
 	[100176] = {
-		unidentifiedDisplayName = "暗加农炮弹弹药箱",
+		unidentifiedDisplayName = "黑暗炮弹弹药箱",
 		unidentifiedResourceName = "胶乔绢蒲_刀",
 		unidentifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
-			"装有暗加农炮弹500个。",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"装有黑暗炮弹500个。",
 			"重量: ^77777725^000000"
 		},
-		identifiedDisplayName = "暗加农炮弹弹药箱",
+		identifiedDisplayName = "黑暗炮弹弹药箱",
 		identifiedResourceName = "胶乔绢蒲_刀",
 		identifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
-			"装有暗加农炮弹500个。",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"装有黑暗炮弹500个。",
 			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
@@ -384308,21 +384345,20 @@ tbl = {
 		costume = false
 	},
 	[100177] = {
-		unidentifiedDisplayName = "圣加农炮弹弹药箱",
+		unidentifiedDisplayName = "神圣炮弹弹药箱",
 		unidentifiedResourceName = "胶乔绢蒲_拳",
 		unidentifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
-			"装有圣加农炮弹500个。",
-			"",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"装有神圣炮弹500个。",
 			"重量: ^77777725^000000"
 		},
-		identifiedDisplayName = "圣加农炮弹弹药箱",
+		identifiedDisplayName = "神圣炮弹弹药箱",
 		identifiedResourceName = "胶乔绢蒲_拳",
 		identifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
-			"装有圣加农炮弹500个。",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"装有神圣炮弹500个。",
 			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
@@ -384354,16 +384390,16 @@ tbl = {
 		unidentifiedDisplayName = "大型魔导战甲燃料桶",
 		unidentifiedResourceName = "付档扁绢楷丰",
 		unidentifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有魔导战甲燃料500个。",
 			"重量: ^77777725^000000"
 		},
 		identifiedDisplayName = "大型魔导战甲燃料桶",
 		identifiedResourceName = "付档扁绢楷丰",
 		identifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有魔导战甲燃料500个。",
 			"重量: ^77777725^000000"
 		},
@@ -384438,16 +384474,16 @@ tbl = {
 		unidentifiedDisplayName = "热火石结晶",
 		unidentifiedResourceName = "凯拳籍",
 		unidentifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有热火石500个。",
 			"重量: ^77777725^000000"
 		},
 		identifiedDisplayName = "热火石结晶",
 		identifiedResourceName = "凯拳籍",
 		identifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有热火石500个。",
 			"重量: ^77777725^000000"
 		},
@@ -384459,16 +384495,16 @@ tbl = {
 		unidentifiedDisplayName = "冰闪石结晶",
 		unidentifiedResourceName = "葫级籍",
 		unidentifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有冰闪石500个。",
 			"重量: ^77777725^000000"
 		},
 		identifiedDisplayName = "冰闪石结晶",
 		identifiedResourceName = "葫级籍",
 		identifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有冰闪石500个。",
 			"重量: ^77777725^000000"
 		},
@@ -384480,16 +384516,16 @@ tbl = {
 		unidentifiedDisplayName = "风灵石结晶",
 		unidentifiedResourceName = "浅飞籍",
 		unidentifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有风灵石500个。",
 			"重量: ^77777725^000000"
 		},
 		identifiedDisplayName = "风灵石结晶",
 		identifiedResourceName = "浅飞籍",
 		identifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有风灵石500个。",
 			"重量: ^77777725^000000"
 		},
@@ -384522,16 +384558,16 @@ tbl = {
 		unidentifiedDisplayName = "火符收纳包",
 		unidentifiedResourceName = "阂狼何利",
 		unidentifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有火符500个。",
 			"重量: ^77777725^000000"
 		},
 		identifiedDisplayName = "火符收纳包",
 		identifiedResourceName = "阂狼何利",
 		identifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有火符500个。",
 			"重量: ^77777725^000000"
 		},
@@ -384543,16 +384579,16 @@ tbl = {
 		unidentifiedDisplayName = "冰符收纳包",
 		unidentifiedResourceName = "倔澜狼何利",
 		unidentifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有冰符500个。",
 			"重量: ^77777725^000000"
 		},
 		identifiedDisplayName = "冰符收纳包",
 		identifiedResourceName = "倔澜狼何利",
 		identifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有冰符500个。",
 			"重量: ^77777725^000000"
 		},
@@ -384564,16 +384600,16 @@ tbl = {
 		unidentifiedDisplayName = "风符收纳包",
 		unidentifiedResourceName = "官恩狼何利",
 		unidentifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有风符500个。",
 			"重量: ^77777725^000000"
 		},
 		identifiedDisplayName = "风符收纳包",
 		identifiedResourceName = "官恩狼何利",
 		identifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有风符500个。",
 			"重量: ^77777725^000000"
 		},
@@ -384585,16 +384621,16 @@ tbl = {
 		unidentifiedDisplayName = "地符收纳包",
 		unidentifiedResourceName = "顶狼何利",
 		unidentifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有地符500个。",
 			"重量: ^77777725^000000"
 		},
 		identifiedDisplayName = "地符收纳包",
 		identifiedResourceName = "顶狼何利",
 		identifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有地符500个。",
 			"重量: ^77777725^000000"
 		},
@@ -384738,7 +384774,7 @@ tbl = {
 		unidentifiedDisplayName = "龙尾导弹弹药桶",
 		unidentifiedResourceName = "藕距烹_累凯藕",
 		unidentifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
 			"^ffffff_^000000",
 			"装有龙尾导弹500发。",
 			"^ffffff_^000000"
@@ -384746,12 +384782,10 @@ tbl = {
 		identifiedDisplayName = "龙尾导弹弹药桶",
 		identifiedResourceName = "藕距烹_累凯藕",
 		identifiedDescriptionName = {
-			"^ff0000\"※注意:背包中保管的道具超过3万个时，道具有可能会消失。\"^000000 ",
-			"^ffffff_^000000 ",
+			"^ff0000※注意！背包中相同的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
 			"装有龙尾导弹500发。",
-			"^ffffff_^000000 ",
-			"",
-			"重量: ^77777725^000000"
+			"^ffffff_^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -395031,272 +395065,358 @@ tbl = {
 		costume = false
 	},
 	[101107] = {
-		unidentifiedDisplayName = "冰爆加农炮弹箱",
+		unidentifiedDisplayName = "冰爆加农炮弹盒",
 		unidentifiedResourceName = "Cannon_Box_Ice",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "冰爆加农炮弹箱",
+		unidentifiedDescriptionName = {
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000 ",
+			"^ffffff_^000000 ",
+			"装有冰爆加农炮弹500个。",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "冰爆加农炮弹盒",
 		identifiedResourceName = "Cannon_Box_Ice",
 		identifiedDescriptionName = {
-			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
-			"_______________________",
-			"It contains 500 Ice Cannon Balls.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000 ",
+			"^ffffff_^000000 ",
+			"装有冰爆加农炮弹500个。",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101108] = {
-		unidentifiedDisplayName = "雷电加农炮弹箱",
+		unidentifiedDisplayName = "雷电加农炮弹盒",
 		unidentifiedResourceName = "Cannon_Box_Lightning",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "雷电加农炮弹箱",
+		unidentifiedDescriptionName = {
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000 ",
+			"^ffffff_^000000 ",
+			"装有雷电加农炮弹500个。",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "雷电加农炮弹盒",
 		identifiedResourceName = "Cannon_Box_Lightning",
 		identifiedDescriptionName = {
-			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
-			"_______________________",
-			"It contains 500 Lightning Cannon Balls.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000 ",
+			"^ffffff_^000000 ",
+			"装有雷电加农炮弹500个。",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101109] = {
-		unidentifiedDisplayName = "巨石加农炮弹箱",
+		unidentifiedDisplayName = "巨石加农炮弹盒",
 		unidentifiedResourceName = "Cannon_Box_Stone",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "巨石加农炮弹箱",
+		unidentifiedDescriptionName = {
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000 ",
+			"^ffffff_^000000 ",
+			"装有巨石加农炮弹500个。",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "巨石加农炮弹盒",
 		identifiedResourceName = "Cannon_Box_Stone",
 		identifiedDescriptionName = {
-			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
-			"_______________________",
-			"It contains 500 Stone Cannon Balls.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000 ",
+			"^ffffff_^000000 ",
+			"装有巨石加农炮弹500个。",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101110] = {
-		unidentifiedDisplayName = "火焰加农炮弹箱",
+		unidentifiedDisplayName = "火焰加农炮弹盒",
 		unidentifiedResourceName = "Cannon_Box_Flare",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "火焰加农炮弹箱",
+		unidentifiedDescriptionName = {
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000 ",
+			"^ffffff_^000000 ",
+			"装有火焰加农炮弹500个。",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "火焰加农炮弹盒",
 		identifiedResourceName = "Cannon_Box_Flare",
 		identifiedDescriptionName = {
-			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
-			"_______________________",
-			"It contains 500 Flare Cannon Balls.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000 ",
+			"^ffffff_^000000 ",
+			"装有火焰加农炮弹500个。",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101111] = {
-		unidentifiedDisplayName = "毒加农炮弹箱",
+		unidentifiedDisplayName = "剧毒加农炮弹盒",
 		unidentifiedResourceName = "Cannon_Box_Poisoning",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "毒加农炮弹箱",
+		unidentifiedDescriptionName = {
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000 ",
+			"^ffffff_^000000 ",
+			"装有剧毒加农炮弹500个。",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "剧毒加农炮弹盒",
 		identifiedResourceName = "Cannon_Box_Poisoning",
 		identifiedDescriptionName = {
-			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
-			"_______________________",
-			"It contains 500 Lightning Cannon Balls.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000 ",
+			"^ffffff_^000000 ",
+			"装有剧毒加农炮弹500个。",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101112] = {
-		unidentifiedDisplayName = "飞刀召唤卷轴",
+		unidentifiedDisplayName = "飞刀召唤书",
 		unidentifiedResourceName = "Kunai_Scroll",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "飞刀召唤卷轴",
+		unidentifiedDescriptionName = {
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "飞刀召唤书",
 		identifiedResourceName = "Kunai_Scroll",
 		identifiedDescriptionName = {
-			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
-			"_______________________",
-			"Summons 500 Kunais.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101113] = {
-		unidentifiedDisplayName = "无形飞刀召唤卷轴",
+		unidentifiedDisplayName = "无形飞刀召唤书",
 		unidentifiedResourceName = "Kunai_Scroll_Nothing",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "无形飞刀召唤卷轴",
+		unidentifiedDescriptionName = {
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤无形飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "无形飞刀召唤书",
 		identifiedResourceName = "Kunai_Scroll_Nothing",
 		identifiedDescriptionName = {
-			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
-			"_______________________",
-			"Summons 500 Formless Kunais.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤无形飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101114] = {
-		unidentifiedDisplayName = "影子飞刀召唤卷轴",
+		unidentifiedDisplayName = "影子飞刀召唤书",
 		unidentifiedResourceName = "Kunai_Scroll_Shadow",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "影子飞刀召唤卷轴",
+		unidentifiedDescriptionName = {
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤影子飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "影子飞刀召唤书",
 		identifiedResourceName = "Kunai_Scroll_Shadow",
 		identifiedDescriptionName = {
-			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
-			"_______________________",
-			"Summons 500 Shadow Kunais.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤影子飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101115] = {
-		unidentifiedDisplayName = "破魔飞刀召唤卷轴",
+		unidentifiedDisplayName = "破魔飞刀召唤书",
 		unidentifiedResourceName = "Kunai_Scroll_Hamaya",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "破魔飞刀召唤卷轴",
+		unidentifiedDescriptionName = {
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤破魔飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "破魔飞刀召唤书",
 		identifiedResourceName = "Kunai_Scroll_Hamaya",
 		identifiedDescriptionName = {
-			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
-			"_______________________",
-			"Summons 500 Hamaya Kunais.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤破魔飞刀500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101116] = {
-		unidentifiedDisplayName = "投掷型手榴弹箱",
+		unidentifiedDisplayName = "投射型手榴弹箱",
 		unidentifiedResourceName = "Nw_Grenade_Box",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "投掷型手榴弹箱",
+		unidentifiedDescriptionName = {
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤投射型手榴弹500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "投射型手榴弹箱",
 		identifiedResourceName = "Nw_Grenade_Box",
 		identifiedDescriptionName = {
-			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
-			"_______________________",
-			"It contains 500 Throwing Grenades.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤投射型手榴弹500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101117] = {
-		unidentifiedDisplayName = "灵魂符咒束",
+		unidentifiedDisplayName = "渡灵符集装",
 		unidentifiedResourceName = "Soa_Charm_Bundle",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "灵魂符咒束",
+		unidentifiedDescriptionName = {
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤渡灵符500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "渡灵符集装",
 		identifiedResourceName = "Soa_Charm_Bundle",
 		identifiedDescriptionName = {
-			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
-			"_______________________",
-			"It contains 500 Soul Talismans.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤渡灵符500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101118] = {
-		unidentifiedDisplayName = "漆黑雾影箱",
+		unidentifiedDisplayName = "漆黑雾影召唤卷轴",
 		unidentifiedResourceName = "SS_Charm_Box",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "漆黑雾影箱",
+		unidentifiedDescriptionName = {
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤漆黑雾影500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "漆黑雾影召唤卷轴",
 		identifiedResourceName = "SS_Charm_Box",
 		identifiedDescriptionName = {
-			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
-			"_______________________",
-			"It contains 500 Haze of Pitch Darkness.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤漆黑雾影500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101119] = {
-		unidentifiedDisplayName = "红焰雾影箱",
+		unidentifiedDisplayName = "红焰雾影召唤卷轴",
 		unidentifiedResourceName = "SS_Charm_F_Box",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "红焰雾影箱",
+		unidentifiedDescriptionName = {
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤红焰雾影500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "红焰雾影召唤卷轴",
 		identifiedResourceName = "SS_Charm_F_Box",
 		identifiedDescriptionName = {
-			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
-			"_______________________",
-			"It contains 500 Haze of Prominence.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤红焰雾影500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101120] = {
-		unidentifiedDisplayName = "冰雪雾影箱",
+		unidentifiedDisplayName = "冰雪雾影召唤卷轴",
 		unidentifiedResourceName = "SS_Charm_W_Box",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "冰雪雾影箱",
+		unidentifiedDescriptionName = {
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤冰雪雾影500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "冰雪雾影召唤卷轴",
 		identifiedResourceName = "SS_Charm_W_Box",
 		identifiedDescriptionName = {
-			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
-			"_______________________",
-			"It contains 500 Haze of Icy Snow.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤冰雪雾影500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101121] = {
-		unidentifiedDisplayName = "大地雾影箱",
+		unidentifiedDisplayName = "大地雾影召唤卷轴",
 		unidentifiedResourceName = "SS_Charm_G_Box",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "大地雾影箱",
+		unidentifiedDescriptionName = {
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤大地雾影500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "大地雾影召唤卷轴",
 		identifiedResourceName = "SS_Charm_G_Box",
 		identifiedDescriptionName = {
-			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
-			"_______________________",
-			"It contains 500 Haze of Mother Earth.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤大地雾影500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[101122] = {
-		unidentifiedDisplayName = "朔风雾影箱",
+		unidentifiedDisplayName = "朔风雾影召唤卷轴",
 		unidentifiedResourceName = "SS_Charm_L_Box",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "朔风雾影箱",
+		unidentifiedDescriptionName = {
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤朔风雾影500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
+		},
+		identifiedDisplayName = "朔风雾影召唤卷轴",
 		identifiedResourceName = "SS_Charm_L_Box",
 		identifiedDescriptionName = {
-			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
-			"_______________________",
-			"It contains 500 Haze of North Wind.",
-			"_______________________",
-			"^0000CCWeight:^000000 25"
+			"^ff0000注意！背包中保管的道具超过3万个时，道具有可能会消失。^000000",
+			"^ffffff_^000000",
+			"可召唤朔风雾影500个。",
+			"^ffffff_^000000",
+			"重量: ^77777725^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -555703,30 +555823,40 @@ tbl = {
 		costume = false
 	},
 	[1000563] = {
-		unidentifiedDisplayName = "灵魂符咒",
+		unidentifiedDisplayName = "渡灵符",
 		unidentifiedResourceName = "Soa_Charm",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "灵魂符咒",
+		unidentifiedDescriptionName = {
+			"可超度灵魂的符咒。",
+			"^ffffff_^000000",
+			"重量: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "渡灵符",
 		identifiedResourceName = "Soa_Charm",
 		identifiedDescriptionName = {
-			"An amulet used to guide spirits.",
-			"_______________________",
-			"^0000CCWeight:^000000 0.1"
+			"可超度灵魂的符咒。",
+			"^ffffff_^000000",
+			"重量: ^7777770.1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[1000564] = {
-		unidentifiedDisplayName = "投掷型手榴弹",
+		unidentifiedDisplayName = "投射型手榴弹",
 		unidentifiedResourceName = "Nw_Grenade",
-		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "投掷型手榴弹",
+		unidentifiedDescriptionName = {
+			"具有强大爆炸力的手榴弹。",
+			"使用上相当危险，只有老手才能使用。",
+			"^ffffff_^000000",
+			"重量: ^7777770.1^000000"
+		},
+		identifiedDisplayName = "投射型手榴弹",
 		identifiedResourceName = "Nw_Grenade",
 		identifiedDescriptionName = {
-			"A grenade with considerable explosive power. The only safety device is a safety pin, so it is quite dangerous, so only a Night Watch who is proficient in using it can use it.",
-			"_______________________",
-			"^0000CCWeight:^000000 0.1"
+			"具有强大爆炸力的手榴弹。",
+			"使用上相当危险，只有老手才能使用。",
+			"^ffffff_^000000",
+			"重量: ^7777770.1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -555735,14 +555865,17 @@ tbl = {
 	[1000565] = {
 		unidentifiedDisplayName = "漆黑雾影",
 		unidentifiedResourceName = "SS_Charm",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {
+			"蕴含着暗黑气息的雾气，只有熟练的忍者才会使用。",
+			"^ffffff_^000000",
+			"重量: ^7777770.1^000000"
+		},
 		identifiedDisplayName = "漆黑雾影",
 		identifiedResourceName = "SS_Charm",
 		identifiedDescriptionName = {
-			"A haze of dark energy.",
-			"It seems difficult to handle unless you are capable.",
-			"_______________________",
-			"^0000CCWeight:^000000 0.1"
+			"蕴含着暗黑气息的雾气，只有熟练的忍者才会使用。",
+			"^ffffff_^000000",
+			"重量: ^7777770.1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -555751,14 +555884,17 @@ tbl = {
 	[1000566] = {
 		unidentifiedDisplayName = "红焰雾影",
 		unidentifiedResourceName = "SS_Charm_F",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {
+			"蕴含着红焰气息的雾气，只有熟练的忍者才会使用。",
+			"^ffffff_^000000",
+			"重量: ^7777770.1^000000"
+		},
 		identifiedDisplayName = "红焰雾影",
 		identifiedResourceName = "SS_Charm_F",
 		identifiedDescriptionName = {
-			"A haze with the energy of burning red flames.",
-			"It seems difficult to handle unless you are capable.",
-			"_______________________",
-			"^0000CCWeight:^000000 0.1"
+			"蕴含着红焰气息的雾气，只有熟练的忍者才会使用。",
+			"^ffffff_^000000",
+			"重量: ^7777770.1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -555767,14 +555903,17 @@ tbl = {
 	[1000567] = {
 		unidentifiedDisplayName = "冰雪雾影",
 		unidentifiedResourceName = "SS_Charm_W",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {
+			"蕴含着冰雪气息的雾气，只有熟练的忍者才会使用。",
+			"^ffffff_^000000",
+			"重量: ^7777770.1^000000"
+		},
 		identifiedDisplayName = "冰雪雾影",
 		identifiedResourceName = "SS_Charm_W",
 		identifiedDescriptionName = {
-			"A haze with the aura of cold cold air.",
-			"It seems difficult to handle unless you are capable.",
-			"_______________________",
-			"^0000CCWeight:^000000 0.1"
+			"蕴含着冰雪气息的雾气，只有熟练的忍者才会使用。",
+			"^ffffff_^000000",
+			"重量: ^7777770.1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -555783,14 +555922,17 @@ tbl = {
 	[1000568] = {
 		unidentifiedDisplayName = "大地雾影",
 		unidentifiedResourceName = "SS_Charm_G",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {
+			"蕴含着大地气息的雾气，只有熟练的忍者才会使用。",
+			"^ffffff_^000000",
+			"重量: ^7777770.1^000000"
+		},
 		identifiedDisplayName = "大地雾影",
 		identifiedResourceName = "SS_Charm_G",
 		identifiedDescriptionName = {
-			"A haze infused with the strong energy of the earth.",
-			"It seems difficult to handle unless you are capable.",
-			"_______________________",
-			"^0000CCWeight:^000000 0.1"
+			"蕴含着大地气息的雾气，只有熟练的忍者才会使用。",
+			"^ffffff_^000000",
+			"重量: ^7777770.1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -555799,14 +555941,17 @@ tbl = {
 	[1000569] = {
 		unidentifiedDisplayName = "朔风雾影",
 		unidentifiedResourceName = "SS_Charm_L",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {
+			"蕴含着朔风气息的雾气，只有熟练的忍者才会使用。",
+			"^ffffff_^000000",
+			"重量: ^7777770.1^000000"
+		},
 		identifiedDisplayName = "朔风雾影",
 		identifiedResourceName = "SS_Charm_L",
 		identifiedDescriptionName = {
-			"A haze with the aura of a rough sack wind.",
-			"It seems difficult to handle unless you are capable.",
-			"_______________________",
-			"^0000CCWeight:^000000 0.1"
+			"蕴含着朔风气息的雾气，只有熟练的忍者才会使用。",
+			"^ffffff_^000000",
+			"重量: ^7777770.1^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -576801,16 +576946,19 @@ tbl = {
 	[1220001] = {
 		unidentifiedDisplayName = "飞刀",
 		unidentifiedResourceName = "Kunai",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {
+			"一般型的飞刀，装备后身为忍者会感到自豪。",
+			"系列: ^777777投掷武器^000000",
+			"攻击: ^77777730^000000",
+			"重量: ^7777770.1^000000      属性: ^777777无^000000"
+		},
 		identifiedDisplayName = "飞刀",
 		identifiedResourceName = "Kunai",
 		identifiedDescriptionName = {
-			"Commonly used kunai. When you carry it, you feel proud as a Ninja.",
-			"_______________________",
-			"^0000CCType:^000000 Kunai",
-			"^0000CCAttack:^000000 30",
-			"^0000CCWeight:^000000 0.1",
-			"^0000CCElement:^777777 Neutral"
+			"一般型的飞刀，装备后身为忍者会感到自豪。",
+			"系列: ^777777投掷武器^000000",
+			"攻击: ^77777730^000000",
+			"重量: ^7777770.1^000000      属性: ^777777无^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -576819,16 +576967,19 @@ tbl = {
 	[1220002] = {
 		unidentifiedDisplayName = "无形飞刀",
 		unidentifiedResourceName = "Kunai_Of_Nothing",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {
+			"蕴含着空气气息的飞刀，有股可以轻松切断空气的力量。",
+			"系列: ^777777投掷武器^000000",
+			"攻击: ^77777730^000000",
+			"重量: ^7777770.1^000000      属性: ^777777念^000000"
+		},
 		identifiedDisplayName = "无形飞刀",
 		identifiedResourceName = "Kunai_Of_Nothing",
 		identifiedDescriptionName = {
-			"A Kunai with the energy of air. You can feel the power to cut through air easily.",
-			"_______________________",
-			"^0000CCType:^000000 Kunai",
-			"^0000CCAttack:^000000 30",
-			"^0000CCWeight:^000000 0.1",
-			"^0000CCElement:^777777 Ghost"
+			"蕴含着空气气息的飞刀，有股可以轻松切断空气的力量。",
+			"系列: ^777777投掷武器^000000",
+			"攻击: ^77777730^000000",
+			"重量: ^7777770.1^000000      属性: ^777777念^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -576837,16 +576988,19 @@ tbl = {
 	[1220003] = {
 		unidentifiedDisplayName = "影子飞刀",
 		unidentifiedResourceName = "Kunai_Of_Shadow",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {
+			"蕴含着影子气息的飞刀，感觉到黑暗气息从指尖传来。",
+			"系列: ^777777投掷武器^000000",
+			"攻击: ^77777730^000000",
+			"重量: ^7777770.1^000000      属性: ^777777暗^000000"
+		},
 		identifiedDisplayName = "影子飞刀",
 		identifiedResourceName = "Kunai_Of_Shadow",
 		identifiedDescriptionName = {
-			"A Kunai with the energy of shadow. Dark energy is transmitted from your fingertips.",
-			"_______________________",
-			"^0000CCType:^000000 Kunai",
-			"^0000CCAttack:^000000 30",
-			"^0000CCWeight:^000000 0.1",
-			"^0000CCElement:^777777 Shadow"
+			"蕴含着影子气息的飞刀，感觉到黑暗气息从指尖传来。",
+			"系列: ^777777投掷武器^000000",
+			"攻击: ^77777730^000000",
+			"重量: ^7777770.1^000000      属性: ^777777暗^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -576855,16 +577009,19 @@ tbl = {
 	[1220004] = {
 		unidentifiedDisplayName = "破魔飞刀",
 		unidentifiedResourceName = "Kunai_Of_Hamaya",
-		unidentifiedDescriptionName = { "" },
+		unidentifiedDescriptionName = {
+			"蕴含着神圣气息的飞刀，似乎可以战胜一切邪恶。",
+			"系列: ^777777投掷武器^000000",
+			"攻击: ^77777730^000000",
+			"重量: ^7777770.1^000000      属性: ^777777圣^000000"
+		},
 		identifiedDisplayName = "破魔飞刀",
 		identifiedResourceName = "Kunai_Of_Hamaya",
 		identifiedDescriptionName = {
-			"The Kunai of the Sacred Realm. It seems that all evil can be defeated.",
-			"_______________________",
-			"^0000CCType:^000000 Kunai",
-			"^0000CCAttack:^000000 30",
-			"^0000CCWeight:^000000 0.1",
-			"^0000CCElement:^777777 Holy"
+			"蕴含着神圣气息的飞刀，似乎可以战胜一切邪恶。",
+			"系列: ^777777投掷武器^000000",
+			"攻击: ^77777730^000000",
+			"重量: ^7777770.1^000000      属性: ^777777圣^000000"
 		},
 		slotCount = 0,
 		ClassNum = 0,
