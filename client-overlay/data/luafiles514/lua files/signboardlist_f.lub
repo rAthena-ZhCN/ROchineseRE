@@ -4,10 +4,16 @@
 -- This file shouldn't be claimed as part of your project, unless you fork it from https://github.com/llchrisll/ROenglishRE
 -- This file only works if used in combination with the 
 -- `SystemEN/Sign_Data.lub` (Translated Strings) which comes with this project
--- Last updated: 20260805
+-- Last updated: 20260303
 
 require('SystemEN/LuaFiles514/rotp_f')
 dofile("SystemEN/Sign_Data.lub")
+
+-- Custom Signboards
+-- Uncommend the following 'dofile' line to read a different signboardlist outside of the CLS (Custom Lua Support)
+-- Note: The CLS for Signboards will still work even without the file below but 
+--       will not work together with it, meanining it will only read one file at once.
+--dofile("SystemEN/Signboard_C.lub")
 
 local MAPNAME = 1
 local CELLX = 2
@@ -18,15 +24,13 @@ local FILEPATH = 6
 local CONTENTS = 7
 local CHARCOLOR = 8
 
+if SignBoardList_CLS ~= nil then
+	F_ROTP(SignBoardList_CLS,SignBoardList,1)
+end
+
 function GetSignBoardListTable(idx)
 	if DisableSignboards == true then
 		return 0
-	end
-	if SignBoardList_C ~= nil then
-		if CSign == nil then
-			F_ROTP(SignBoardList_C,SignBoardList,1)
-			CSign = 1
-		end
 	end
 	if( SignBoardIgnore ~= nil) then
 		for i, v in pairs(SignBoardIgnore) do
