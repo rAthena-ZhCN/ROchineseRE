@@ -395204,7 +395204,7 @@ tbl = {
 		unidentifiedDisplayName = "Soul Talisman Bundle",
 		unidentifiedResourceName = "Soa_Charm_Bundle",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Soul Talisman Bundle",
+		identifiedDisplayName = "Áé»ê·ûÖäÊø",
 		identifiedResourceName = "Soa_Charm_Bundle",
 		identifiedDescriptionName = {
 			"^ff0000\"Warning - If you have more than 30.000 items in your inventory, the items may be lost.\"^000000 ",
