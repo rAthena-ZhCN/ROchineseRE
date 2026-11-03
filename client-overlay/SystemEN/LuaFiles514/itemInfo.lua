@@ -553114,7 +553114,7 @@ tbl = {
 			"Ep.16跳过礼券。",
 			"* 注意！",
 			"不管现阶段完成任务的进度，所有任务都会进入已完成阶段。同时无法获得各个任务的完成奖励。",
-			"^ffffff<NAVI>^4D4DFF[通关券NPC]^000000<INFO>prontera,165,106,0,101,0</INFO></NAVI>^000000",
+			"^ffffff<NAVI>^4D4DFF[巴希里]^000000<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>^000000",
 			"重量: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ep.16跳过礼券",
@@ -553123,7 +553123,7 @@ tbl = {
 			"Ep.16跳过礼券。",
 			"* 注意！",
 			"不管现阶段完成任务的进度，所有任务都会进入已完成阶段。同时无法获得各个任务的完成奖励。",
-			"^ffffff<NAVI>^4D4DFF[通关券NPC]^000000<INFO>prontera,165,106,0,101,0</INFO></NAVI>^000000",
+			"^ffffff<NAVI>^4D4DFF[巴希里]^000000<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>^000000",
 			"^ff0000无法交易^000000",
 			"重量: ^7777770^000000"
 		},
@@ -553138,7 +553138,7 @@ tbl = {
 			"只会通过活动发放的Ep.16跳过礼券。",
 			"* 注意！",
 			"不管现阶段完成任务的进度，所有任务都会进入已完成阶段。同时无法获得各个任务的完成奖励。",
-			"^ffffff<NAVI>^4D4DFF[通关券NPC]^000000<INFO>prontera,165,106,0,101,0</INFO></NAVI>^000000",
+			"^ffffff<NAVI>^4D4DFF[巴希里]^000000<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>^000000",
 			"(该道具将在活动结束时删除。)",
 			"重量: ^7777770^000000"
 		},
@@ -553148,7 +553148,7 @@ tbl = {
 			"只会通过活动发放的Ep.16跳过礼券。",
 			"* 注意！",
 			"不管现阶段完成任务的进度，所有任务都会进入已完成阶段。同时无法获得各个任务的完成奖励。",
-			"^ffffff<NAVI>^4D4DFF[通关券NPC]^000000<INFO>prontera,165,106,0,101,0</INFO></NAVI>^000000",
+			"^ffffff<NAVI>^4D4DFF[巴希里]^000000<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>^000000",
 			"(该道具将在活动结束时删除。)",
 			"重量: ^7777770^000000"
 		},
@@ -553166,7 +553166,7 @@ tbl = {
 			"Episode 13 Clear Ticket.",
 			"* Note: Regardless of the current quest progress, all required episode quests will be completed.",
 			"You cannot receive rewards for clearing each quest.",
-			"<NAVI>[Bright]<INFO>prontera,165,106,0,101,0</INFO></NAVI>",
+			"<NAVI>[巴希里]<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCWeight:^000000 0"
 		},
@@ -553183,7 +553183,7 @@ tbl = {
 			"不管当前任务进度如何，所有必要的EP14任务都会完成。",
 			"无法获得各任务完成奖励。",
 			"^ff0000* 可选择完成EP14.1、EP14.2或EP14.3。^000000",
-			"^ffffff<NAVI>[通关券NPC]^000000<INFO>prontera,165,106,0,101,0</INFO></NAVI>",
+			"^ffffff<NAVI>[巴希里]^000000<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>",
 			"重量: ^7777770^000000"
 		},
 		identifiedDisplayName = "Ep.14跳过礼券",
@@ -553194,7 +553194,7 @@ tbl = {
 			"不管当前任务进度如何，所有必要的EP14任务都会完成。",
 			"无法获得各任务完成奖励。",
 			"^ff0000* 可选择完成EP14.1、EP14.2或EP14.3。^000000",
-			"^ffffff<NAVI>[通关券NPC]^000000<INFO>prontera,165,106,0,101,0</INFO></NAVI>",
+			"^ffffff<NAVI>[巴希里]^000000<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>",
 			"重量: ^7777770^000000"
 		},
 		slotCount = 0,
@@ -553211,7 +553211,7 @@ tbl = {
 			"Episode 15 Clear Ticket.",
 			"* Note: Regardless of the current quest progress, all required episode quests will be completed.",
 			"You cannot receive rewards for clearing each quest.",
-			"<NAVI>[Bright]<INFO>prontera,165,106,0,101,0</INFO></NAVI>",
+			"<NAVI>[巴希里]<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCWeight:^000000 0"
 		},
@@ -553227,7 +553227,7 @@ tbl = {
 			"EP17通关券。",
 			"注意:与目前执行的任务进度无关，所有必需EP任务变已完成，但无法获得各任务过关奖励。",
 			"^ff0000*可在EP17.1和EP17.2中，选择想要的部分来完成。^000000",
-			"^ffffff<NAVI>^4D4DFF[通关券NPC]^000000<INFO>prontera,165,106,0,101,0</INFO></NAVI>^000000",
+			"^ffffff<NAVI>^4D4DFF[巴希里]^000000<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>^000000",
 			"重量 : ^7777770^000000"
 		},
 		identifiedDisplayName = "Ep.17跳过礼券",
@@ -553237,7 +553237,7 @@ tbl = {
 			"EP17通关券。",
 			"注意:与目前执行的任务进度无关，所有必需EP任务变已完成，但无法获得各任务过关奖励。",
 			"^ff0000*可在EP17.1和EP17.2中，选择想要的部分来完成。^000000",
-			"^ffffff<NAVI>^4D4DFF[通关券NPC]^000000<INFO>prontera,165,106,0,101,0</INFO></NAVI>^000000",
+			"^ffffff<NAVI>^4D4DFF[巴希里]^000000<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>^000000",
 			"重量 : ^7777770^000000"
 		},
 		slotCount = 0,
@@ -553254,7 +553254,7 @@ tbl = {
 			"Episode 18 Clear Ticket.",
 			"* Note: Regardless of the current quest progress, all required episode quests will be completed.",
 			"You cannot receive rewards for clearing each quest.",
-			"<NAVI>[Bright]<INFO>prontera,165,106,0,101,0</INFO></NAVI>",
+			"<NAVI>[巴希里]<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCWeight:^000000 0"
 		},
@@ -562260,7 +562260,7 @@ tbl = {
 			"Episode 19 Clear Ticket.",
 			"* Note: Regardless of the current quest progress, all required episode quests will be completed.",
 			"You cannot receive rewards for clearing each quest.",
-			"<NAVI>[Bright]<INFO>prontera,165,106,0,101,0</INFO></NAVI>",
+			"<NAVI>[巴希里]<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCWeight:^000000 0"
 		},
@@ -565013,7 +565013,7 @@ tbl = {
 			"Episode 20 Clear Ticket.",
 			"* Note: Regardless of the current quest progress, all required episode quests will be completed.",
 			"You cannot receive rewards for clearing each quest.",
-			"<NAVI>[Bright]<INFO>prontera,165,106,0,101,0</INFO></NAVI>",
+			"<NAVI>[巴希里]<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCWeight:^000000 0"
 		},
@@ -565556,7 +565556,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Episode 16 Clear Ticket.",
 			"* Note: Regardless of the current quest progress, all required episode quests will be completed. You cannot receive rewards for clearing each quest.",
-			"<NAVI>[Bright]<INFO>prontera,165,106,0,101,0</INFO></NAVI>",
+			"<NAVI>[巴希里]<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCWeight:^000000 0"
 		},
@@ -565573,7 +565573,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Episode 17 Clear Ticket.",
 			"* Note: Regardless of the current quest progress, all required episode quests will be completed. You cannot receive rewards for clearing each quest.",
-			"<NAVI>[Bright]<INFO>prontera,165,106,0,101,0</INFO></NAVI>",
+			"<NAVI>[巴希里]<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCWeight:^000000 0"
 		},
@@ -565590,7 +565590,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Episode 18 Clear Ticket.",
 			"* Note: Regardless of the current quest progress, all required episode quests will be completed. You cannot receive rewards for clearing each quest.",
-			"<NAVI>[Bright]<INFO>prontera,165,106,0,101,0</INFO></NAVI>",
+			"<NAVI>[巴希里]<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCWeight:^000000 0"
 		},
@@ -565607,7 +565607,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Episode 19 Clear Ticket.",
 			"* Note: Regardless of the current quest progress, all required episode quests will be completed. You cannot receive rewards for clearing each quest.",
-			"<NAVI>[Bright]<INFO>prontera,165,106,0,101,0</INFO></NAVI>",
+			"<NAVI>[巴希里]<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCWeight:^000000 0"
 		},
@@ -571056,7 +571056,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Episode 20 Clear Ticket.",
 			"* Note: Regardless of the current quest progress, all required episode quests will be completed. You cannot receive rewards for clearing each quest.",
-			"<NAVI>[Bright]<INFO>prontera,165,106,0,101,0</INFO></NAVI>",
+			"<NAVI>[巴希里]<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCWeight:^000000 0"
 		},
@@ -571829,7 +571829,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"Episode 13 Clear Ticket.",
 			"* Note: Regardless of the current quest progress, all required episode quests will be completed. You cannot receive rewards for clearing each quest.",
-			"<NAVI>[Bright]<INFO>prontera,165,106,0,101,0</INFO></NAVI>",
+			"<NAVI>[巴希里]<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCWeight:^000000 0"
 		},
@@ -571848,7 +571848,7 @@ tbl = {
 			"* Note: Regardless of the current quest progress, all required episode quests will be completed.",
 			"You cannot receive rewards for clearing each quest.",
 			"^ff0000* You can choose to complete Episode 14.1, Episode 14.2 or Episode 14.3.^000000",
-			"<NAVI>[Bright]<INFO>prontera,165,106,0,101,0</INFO></NAVI>",
+			"<NAVI>[巴希里]<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCWeight:^000000 0"
 		},
@@ -571866,7 +571866,7 @@ tbl = {
 			"Episode 15 Clear Ticket.",
 			"* Note: Regardless of the current quest progress, all required episode quests will be completed.",
 			"You cannot receive rewards for clearing each quest.",
-			"<NAVI>[Bright]<INFO>prontera,165,106,0,101,0</INFO></NAVI>",
+			"<NAVI>[巴希里]<INFO>prt_cas,373,77,0,100,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CCWeight:^000000 0"
 		},
