@@ -18576,6 +18576,7 @@ QuestInfoList = {
 		CoolTimeQuest = 1
 	},
 	[7744] = {
+		Title = "躲避的研究员",
 		Description = { "维尔纳研究所内还有很多未撤离的研究员。前往<NAVI>[菲洛彭特斯]<INFO>que_swat,145,57,0,101,0</INFO></NAVI>接受搜寻委托，完成后可获得<ITEM>秀发兹荣耀徽章<INFO>25155</INFO></ITEM>。" },
 		Summary = "寻找3名研究员",
 		NpcNavi = "que_swat",
