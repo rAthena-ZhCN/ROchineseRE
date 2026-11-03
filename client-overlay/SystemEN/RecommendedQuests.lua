@@ -26,45 +26,45 @@ RecommendedQuestInfoList = {
 		QuestInfo3 = { "^ff0000※本页面不是任务，而是更新介绍，即使完成任务也不会删除。^000000" }
 	},
 	[69] = {
-		Title = "Chapter 1: Song of the World Tree",
+		Title = "第1章：世界树之歌",
 		IconName = "ico_ep.bmp",
-		Summary = "~ Prelude ~",
+		Summary = "～序章～",
 		BgName = "reco_69.bmp",
 		QuestInfo1 = {
-			"Hello? How are you? You look so healthy.",
-			"If you see me, you are the chosen adventurer!",
-			"Are you interested in the end of the world?"
+			"你好？最近过得怎么样？看起来气色不错。",
+			"既然你能看到我，那你就是被选中的冒险者！",
+			"你对世界的终末感兴趣吗？"
 		},
 		QuestInfo2 = {
-			"Requirements",
-			"^3275f0Base Level 200 or higher^000000"
+			"接取条件",
+			"^3275f0等级200以上^000000"
 		},
 		QuestInfo3 = {
-			"Start Point",
-			"<NAVI>[Prontera Field]<INFO>prt_fild05,353,252,0,101,0</INFO></NAVI>",
-			"<NAVI>[Payon Fild]<INFO>pay_fild01,308,341,0,101,0</INFO></NAVI>"
+			"开始地点",
+			"<NAVI>[普隆德拉野外]<INFO>prt_fild05,353,252,0,101,0</INFO></NAVI>",
+			"<NAVI>[斐扬野外]<INFO>pay_fild01,308,341,0,101,0</INFO></NAVI>"
 		}
 	},
 	[70] = {
-		Title = "Episode 21: The Age of Heroes",
+		Title = "第21章：英雄时代",
 		IconName = "ico_ep.bmp",
-		Summary = "Remember...",
+		Summary = "回忆……",
 		BgName = "reco_70.bmp",
 		QuestInfo1 = {
-			"A small scale island near Issgard,",
-			"where a small crack appears, transports the adventurers back in time.",
-			"<NAVI>[Join]<INFO>jor_tail,233,41,0,101,0</INFO></NAVI> Nyar as he journeys to the past, a time of turbulent times, where heroes fought for a crucial mission to defeat Lasgand!"
+			"伊斯加尔特附近的一座小岛，",
+			"岛上出现了一道小裂缝，会将冒险者送回过去。",
+			"与<NAVI>[妮亚]<INFO>jor_tail,233,41,0,101,0</INFO></NAVI>一起前往过去，那是英雄们为完成击败拉斯甘德的重要任务而奋战的动荡时代！"
 		},
 		QuestInfo2 = {
-			"Requirements",
-			"^3275f0Episode 20^000000 completed",
-			"^3275f0Base Level 230 or higher^000000"
+			"接取条件",
+			"^3275f0完成第20章^000000",
+			"^3275f0等级230以上^000000"
 		},
 		QuestInfo3 = {
 			"",
-			"                  casting",
-			"               casting",
-			"                casting"
+			"施法中",
+			"施法中",
+			"施法中"
 		}
 	},
 	[71] = {
@@ -141,25 +141,25 @@ RecommendedQuestInfoList = {
 		QuestInfo3 = { "^ee1073   巴格？^000000", "现！在！立！刻！", "就出发~" }
 	},
 	[76] = {
-		Title = "You can do it too! Change your job right now!!",
+		Title = "你也可以！现在立刻转职！！",
 		IconName = "ico_jq.bmp",
-		Summary = "You can also do extended jobs!",
+		Summary = "扩展职业也能转职！",
 		BgName = "reco_76.bmp",
 		QuestInfo1 = {
-			"<NAVI>[Rebellion to Nightwatch]<INFO>einbroch,313,324,0,101,0</INFO></NAVI>",
-			"<NAVI>[Star Emperor to Sky Emperor]<INFO>payon,213,202,0,101,0</INFO></NAVI>",
-			"<NAVI>[Soul Reaper to Soul Ascetic]<INFO>payon,197,119,0,101,0</INFO></NAVI>",
-			"<NAVI>[Kagerou, Oboro to Shinkiro, Shiranui]<INFO>amatsu,82,118,0,101,0</INFO></NAVI>",
-			"<NAVI>[召唤师转魂灵师]<INFO>payon,165,116,0,101,0</INFO></NAVI>",
-			"<NAVI>[Super Novice to Hyper Novice]<INFO>aldebaran,110,70,0,101,0</INFO></NAVI>"
+			"<NAVI>[反叛者 → 夜巡者]<INFO>einbroch,313,324,0,101,0</INFO></NAVI>",
+			"<NAVI>[星帝 → 天星帝]<INFO>payon,213,202,0,101,0</INFO></NAVI>",
+			"<NAVI>[猎灵士 → 灵魂修行者]<INFO>payon,197,119,0,101,0</INFO></NAVI>",
+			"<NAVI>[影狼、胧 → 蜃影、不知火]<INFO>amatsu,82,118,0,101,0</INFO></NAVI>",
+			"<NAVI>[召唤师 → 魂灵师]<INFO>payon,165,116,0,101,0</INFO></NAVI>",
+			"<NAVI>[超级初心者 → 究极初心者]<INFO>aldebaran,110,70,0,101,0</INFO></NAVI>"
 		},
 		QuestInfo2 = {
-			"Base Level 200",
-			"Job Level 70",
-			"(召唤师职业等级 60)"
+			"等级200",
+			"职业等级70",
+			"（召唤师职业等级60）"
 		},
 		QuestInfo3 = {
-			"^ff0000?For more detailed information, please check with the NPC for each job.^000000"
+			"^ff0000?详细内容请向各职业转职NPC确认。^000000"
 		}
 	},
 	[77] = {
@@ -232,24 +232,24 @@ RecommendedQuestInfoList = {
 		QuestInfo3 = { "^ff0000※ 该页不是任务而是更新介绍。完成任务后也不会被删除。^000000" }
 	},
 	[82] = {
-		Title = "Traces of Heroes MD Tomb of Regret",
+		Title = "英雄的痕迹 MD 忏悔之墓",
 		IconName = "ico_sc.bmp",
-		Summary = "A demon swordsman who was met in the Tomb of Regret and a demon sword that yearned for blood.",
+		Summary = "在忏悔之墓遇到的魔剑士，以及渴望鲜血的魔剑。",
 		BgName = "reco_82.bmp",
 		NpcSpr = "MD_TIARA",
 		NpcNavi = "dali",
 		NpcPosX = 124,
 		NpcPosY = 88,
 		QuestInfo1 = {
-			"We received a request from the princess of the ruins, that the contractor of the magic sword whom he met at the place has been found.",
-			"The sword roared and the dead body shed tears."
+			"受亡国公主委托，已在当地找到魔剑的契约者。",
+			"魔剑在咆哮，不合时宜地出现的尸体在流泪。"
 		},
 		QuestInfo2 = {
-			"Requirements:",
-			"^990000Base Level 220 or higher^000000"
+			"接取条件：",
+			"^990000等级220以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000本页面为更新介绍，并非任务。请注意，完成任务后也不会删除。^000000"
 		}
 	},
 	[83] = {
@@ -288,61 +288,61 @@ RecommendedQuestInfoList = {
 		QuestInfo3 = { "^ff0000※ 这页不是任务而是更新介绍，任务结束也不会删除。^000000" }
 	},
 	[86] = {
-		Title = "Episode 17.2 Sage's Legacy",
+		Title = "第17.2章 贤者的遗产",
 		IconName = "ico_ep.bmp",
-		Summary = "Don't fall behind the starters ...",
+		Summary = "不要输给先行者……",
 		NpcSpr = "4_M_ROOKIE",
 		NpcNavi = "sp_cor",
 		NpcPosX = 255,
 		NpcPosY = 285,
 		BgName = "reco_86.bmp", 
 		QuestInfo1 = {
-			"One side of Cor in the special border area. The sewer pipe, supposedly the only passage, was finally opened.",
-			"Rebelion's crew decided to enter the sewer line to track Illusion."
+			"特别警戒区柯尔的一侧。被认为是唯一通道的下水道终于打开了。",
+			"反叛者队伍决定进入下水道追踪幻影。"
 		},
 		QuestInfo2 = {
-			"Requirements",
-			"Episode ^99000017.1^000000 completed",
-			"^990000Base Level 130 or higher^000000"
+			"接取条件",
+			"完成 ^990000第17.1章^000000",
+			"^990000等级130以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000本页面为更新介绍，并非任务。请注意，完成任务后也不会删除。^000000"
 		}
 	},
 	[87] = {
-		Title = "Glastheim Challenge Mode",
+		Title = "古城挑战模式",
 		IconName = "ico_sc.bmp",
-		Summary = "Check for dimensional errors",
+		Summary = "检查次元异常",
 		NpcSpr = "4_ED_OSCAR",
 		NpcNavi = "glast_01",
 		NpcPosX = 143,
 		NpcPosY = 288,
 		BgName = "reco_87.bmp", 
 		QuestInfo1 = {
-			"Attempt to close ^003355Dimensions which shouldn't exist^000000,",
-			"which are presumed to have occured at collapse of Glastheim!",
-			"It is judged that a huge causality will occur when the dimensional guardian's interfere. We need human help."
+			"试图关闭^003355本不应存在的次元^000000，",
+			"推测是古城崩塌时产生的！",
+			"如果次元守护者介入，可能会产生巨大的因果扭曲。我们需要人类的帮助。"
 		},
 		QuestInfo2 = {
-			"Requirements",
-			"^990000Base Level 170 or higher^000000"
+			"接取条件",
+			"^990000等级170以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000本页面为更新介绍，并非任务。请注意，完成任务后也不会删除。^000000"
 		}
 	},
 	[88] = {
-		Title = "Max Level raised for Expanded Classes!",
+		Title = "扩展职业等级上限提升！",
 		IconName = "ico_sc.bmp",
-		Summary = "Break! the! Limit!",
+		Summary = "突破！极限！",
 		BgName = "reco_88.bmp", 
 		QuestInfo1 = {
-			"Hello ~~",
-			"Good to meet you! ^950a0aI'm a cute and cute magical girl who came from a magical country to bring back the time of the stopped expansion level! ^000000",
-			"Now from now on, it is time for you to level up!"
+			"你好~~",
+			"很高兴见到你！^950a0a我是从魔法之国来的可爱魔法少女，为了让停止的扩展职业等级上限恢复而来！^000000",
+			"现在开始就是提升等级的时刻！"
 		},
 		QuestInfo2 = {
-			"^eb1842Pretty ~~ Level Up^000000",
+			"^eb1842升级吧~~^000000",
 			"Base Lv: ^950a0a185^000000",
 			"Job Lv: ^950a0a65^000000"
 		},
@@ -351,8 +351,8 @@ RecommendedQuestInfoList = {
 		}
 	},
 	[89] = {
-		Title = "EDDA Biological Research Institute Dungeon - The Expedition",
-		Summary = "The long unknown expedition",
+		Title = "EDDA 生物研究所副本 - 远征队",
+		Summary = "漫长而未知的远征",
 		BgName = "reco_89.bmp",
 		IconName = "ico_sc.bmp",
 		NpcSpr = "4_F_SCIENCE",
@@ -360,127 +360,127 @@ RecommendedQuestInfoList = {
 		NpcPosX = 216,
 		NpcPosY = 345, 
 		QuestInfo1 = {
-			"^003355Visit those at the Lighthazen's Biomedical Research Institute, which have become obsessed and even fainted.^000000",
-			"You have to use ^990000Virtual Records^000000 to become a fellow of the 6 ^990000Rune-Midgarts Unofficial Expedtion Teams^000000 and uncover what they've been through."
+			"^003355去拜访那些沉迷其中甚至昏倒的里希塔乐生物研究所人员。^000000",
+			"你需要使用^990000虚拟记录^000000成为^990000卢恩-米德加尔特非官方远征队^000000的第六位同伴，并查明他们经历了什么。"
 		},
 		QuestInfo2 = {
-			"Requirements",
-			"^990000Base Level 170 or higher^000000"
+			"接取条件",
+			"^990000等级170以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000本页面为更新介绍，并非任务。请注意，完成任务后也不会删除。^000000"
 		}
 	},
 	[90] = {
-		Title = "EDDA - The Fall of Glastheim",
+		Title = "EDDA - 古城的陷落",
 		IconName = "ico_sc.bmp",
-		Summary = "Witness the truth of history",
+		Summary = "见证历史的真相",
 		NpcSpr = "4_ED_OSCAR",
 		NpcNavi = "glast_01",
 		NpcPosX = 243,
 		NpcPosY = 290,
 		BgName = "reco_90.bmp", 
 		QuestInfo1 = {
-			"^003355The story behind the old Glastheim Memorial.^000000",
-			"The appearance of Schmitts, known as a fugitive/tyrant in history.",
-			"^990000Time and Space Oscar, which watches and records multiple dimensions of time, witnesses the last moments of Glastheim^000000 and decides to tell the truth to someone ..."
+			"^003355古老古城追悼会背后的故事。^000000",
+			"历史上被称为逃亡者/暴君的施密特现身。",
+			"^990000观察并记录多个时间次元的时空奥斯卡^000000见证了古城的最后时刻，并决定把真相告诉某人……"
 		},
 		QuestInfo2 = {
-			"Requirements",
-			"^990000Base Level 130 or higher^000000"
+			"接取条件",
+			"^990000等级130以上^000000"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000本页面为更新介绍，并非任务。请注意，完成任务后也不会删除。^000000"
 		}
 	},
 	[96] = {
-		Title = "Episode 17.1 is here! Illusion",
+		Title = "第17.1章 幻影来临！",
 		IconName = "ico_ep.bmp",
-		Summary = "The full-scale combined operation begins.",
+		Summary = "大规模联合作战开始。",
 		NpcSpr = "4_M_PHILOFONTES",
 		NpcNavi = "pub_cat",
 		NpcPosX = 93,
 		NpcPosY = 105,
 		BgName = "reco_96.bmp",
 		QuestInfo1 = {
-			"The Episode's stage moves to Schwarzwald!",
-			"A full-fledged combined operation begins with Rebellions and the Secret Wings.",
-			"Rebellions, which has also established an operational base in Einbroch, is planning to attack a secret research facility discovered with information from the Secret Wings..."
+			"章节舞台转移到施瓦茨瓦尔德！",
+			"与反叛者和秘密之翼一起展开正式的联合作战。",
+			"在艾因布罗克也设立据点的反叛者，正计划攻击根据秘密之翼情报发现的秘密研究设施……"
 		},
 		QuestInfo2 = {
-			"Prerequisites", 
-			"Episode 16.2 complete",
-			"Required Level: 110 or higher"
+			"前置条件",
+			"完成第16.2章",
+			"需求等级：110 以上"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000本页面为更新介绍，并非任务。请注意，完成任务后也不会删除。^000000"
 		}
 	},
 	[97] = {
-		Title = "Episode 16.2 Terra Gloria",
+		Title = "第16.2章 泰拉·格洛丽亚",
 		IconName = "ico_ep.bmp",
-		Summary = "Journey to reclaim the disappeared royal symbol.",
+		Summary = "夺回消失的王室象征之旅。",
 		NpcSpr = "4_EP16_NIHIL",
 		NpcNavi = "prt_cas_q",
 		NpcPosX = 21,
 		NpcPosY = 39,
 		BgName = "reco_97.bmp",
 		QuestInfo1 = {
-			"The young blood of the royal family, Nihil and Spica, want you to join the secret operation.",
-			"Join us on a journey to reclaim the missing royal symbol!"
+			"王室的年轻血脉尼希尔与斯皮卡希望你能加入秘密行动。",
+			"与我们一起踏上夺回失落王室象征的旅程！"
 		},
 		QuestInfo2 = {
-			"Prerequisites",
-			"Episode 16.1 complete",
-			"Required Level: 100 or higher"
+			"前置条件",
+			"完成第16.1章",
+			"需求等级：100 以上"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000本页面为更新介绍，并非任务。请注意，完成任务后也不会删除。^000000"
 		}
 	},
 	[98] = {
-		Title = "Episode 16.1 Banquet for Heroes",
+		Title = "第16.1章 英雄的宴会",
 		IconName = "ico_ep.bmp",
-		Summary = "You who have tried! Enjoy!!!",
+		Summary = "努力过的你！尽情享受吧！！！",
 		NpcSpr = "4_M_ZONDAOYAJI",
 		NpcNavi = "prontera",
 		NpcPosX = 121,
 		NpcPosY = 72,
 		BgName = "reco_98.bmp",
 		QuestInfo1 = {
-			"A banquet is held to celebrate the Morocc's subjugation with the heroes who participated in the expedition.",
-			"If you are an adventurer who participated in the expedition, please receive a banquet invitation letter!"
+			"为庆祝梦罗克讨伐成功，与参加远征的英雄们举办宴会。",
+			"参加远征的冒险者，请来领取宴会邀请函！"
 		},
 		QuestInfo2 = {
-			"Prerequisites",
-			"Visit the Expeditionary Camp",
-			"Required Level: 100 or higher"
+			"前置条件",
+			"访问远征营地",
+			"需求等级：100 以上"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000本页面为更新介绍，并非任务。请注意，完成任务后也不会删除。^000000"
 		}
 	},
 	[99] = {
-		Title = "Episode 15 Phantasmagorica",
+		Title = "第15章 幻影浮空岛",
 		IconName = "ico_ep.bmp",
-		Summary = "Science beyond Juperos",
+		Summary = "超越朱诺斯的科学",
 		NpcSpr = "4_F_EDEN_OFFICER",
 		NpcNavi = "moc_para01",
 		NpcPosX = 38,
 		NpcPosY = 175,
 		BgName = "reco_99.bmp",
 		QuestInfo1 = {
-			"We are recruiting excavations to participate in the newly discovered Phantasmagorica research.",
-			"Why not explore the scientific civilization that goes beyond Juperos?",
-			"If you would like to join the excavation team, come to the Eden Group right now!"
+			"我们正在招募参加新发现的幻影浮空岛研究的发掘队员。",
+			"不去探索超越朱诺斯的科学文明吗？",
+			"想加入发掘队的话，现在就来伊甸园集团！"
 		},
 		QuestInfo2 = {
-			"Prerequisites",
-			"Required Level: 140 or higher",
-			"Holder of the Eden Group Mark"
+			"前置条件",
+			"需求等级：140 以上",
+			"持有伊甸园集团徽章"
 		},
 		QuestInfo3 = {
-			"^ff0000This page is an introduction for the update, not the quest. Please note that it will not be deleted even after completing the quest.^000000"
+			"^ff0000本页面为更新介绍，并非任务。请注意，完成任务后也不会删除。^000000"
 		}
 	},
 	[12] = {
