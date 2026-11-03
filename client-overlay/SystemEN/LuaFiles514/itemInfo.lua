@@ -118532,14 +118532,14 @@ tbl = {
 		costume = false
 	},
 	[11011] = {
-		unidentifiedDisplayName = "巴尔蒙德的手册",
+		unidentifiedDisplayName = "霸肋门德的手册",
 		unidentifiedResourceName = "绊措攫绢秦籍巩",
 		unidentifiedDescriptionName = {
 			"大贤者巴洛门特的随身笔记本,潦草的字迹记录着各种内容,大部分纪录着达纳托斯塔和自己所发现的古迹内容等等",
 			"^ffffff_^000000",
 			"重量: ^7777770^000000"
 		},
-		identifiedDisplayName = "巴尔蒙德的手册",
+		identifiedDisplayName = "霸肋门德的手册",
 		identifiedResourceName = "绊措攫绢秦籍巩",
 		identifiedDescriptionName = {
 			"大贤者巴洛门特的随身笔记本，潦草的字迹记录着各种内容，大部分纪录着达纳托斯塔和自身所发现的古迹内容等等",
@@ -383472,15 +383472,15 @@ tbl = {
 		unidentifiedResourceName = "仟弗功救籍",
 		unidentifiedDescriptionName = {
 			"尚未鉴定；可用[放大镜]来鉴定物品。",
-			"由巴尔蒙德大宅的沐浴师用特殊方法制作而成的沐浴剂，",
-			"15分钟内对巴尔蒙德大宅内     [冥想大浴池]密穴中怪物的物理/魔法伤害+5%。",
+			"由霸肋门德大宅的沐浴师用特殊方法制作而成的沐浴剂，",
+			"15分钟内对霸肋门德大宅内     [冥想大浴池]密穴中怪物的物理/魔法伤害+5%。",
 			"重量: ^7777771^000000"
 		},
 		identifiedDisplayName = "沐浴剂A",
 		identifiedResourceName = "仟弗功救籍",
 		identifiedDescriptionName = {
-			"由巴尔蒙德大宅的沐浴师用特殊方法制作而成的沐浴剂，",
-			"15分钟内对巴尔蒙德大宅内     [冥想大浴池]密穴中怪物的物理/魔法伤害+5%。",
+			"由霸肋门德大宅的沐浴师用特殊方法制作而成的沐浴剂，",
+			"15分钟内对霸肋门德大宅内     [冥想大浴池]密穴中怪物的物理/魔法伤害+5%。",
 			"重量: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -383492,15 +383492,15 @@ tbl = {
 		unidentifiedResourceName = "仟弗功救籍",
 		unidentifiedDescriptionName = {
 			"尚未鉴定；可用[放大镜]来鉴定物品。",
-			"由巴尔蒙德大宅的沐浴师用特殊方法制作而成的沐浴剂，",
-			"15分钟内对巴尔蒙德大宅内     [冥想大浴池]密穴中怪物的物理/魔法伤害+10%。",
+			"由霸肋门德大宅的沐浴师用特殊方法制作而成的沐浴剂，",
+			"15分钟内对霸肋门德大宅内     [冥想大浴池]密穴中怪物的物理/魔法伤害+10%。",
 			"重量: ^7777771^000000"
 		},
 		identifiedDisplayName = "沐浴剂B",
 		identifiedResourceName = "仟弗功救籍",
 		identifiedDescriptionName = {
-			"由巴尔蒙德大宅的沐浴师用特殊方法制作而成的沐浴剂，",
-			"15分钟内对巴尔蒙德大宅内     [冥想大浴池]密穴中怪物的物理/魔法伤害+10%。",
+			"由霸肋门德大宅的沐浴师用特殊方法制作而成的沐浴剂，",
+			"15分钟内对霸肋门德大宅内     [冥想大浴池]密穴中怪物的物理/魔法伤害+10%。",
 			"重量: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -383512,15 +383512,15 @@ tbl = {
 		unidentifiedResourceName = "仟弗功救籍",
 		unidentifiedDescriptionName = {
 			"尚未鉴定；可用[放大镜]来鉴定物品。",
-			"由巴尔蒙德大宅的沐浴师用特殊方法制作而成的沐浴剂，",
-			"15分钟内对巴尔蒙德大宅内     [冥想大浴池]密穴中怪物的物理/魔法伤害+15%。",
+			"由霸肋门德大宅的沐浴师用特殊方法制作而成的沐浴剂，",
+			"15分钟内对霸肋门德大宅内     [冥想大浴池]密穴中怪物的物理/魔法伤害+15%。",
 			"重量: ^7777771^000000"
 		},
 		identifiedDisplayName = "沐浴剂C",
 		identifiedResourceName = "仟弗功救籍",
 		identifiedDescriptionName = {
-			"由巴尔蒙德大宅的沐浴师用特殊方法制作而成的沐浴剂，",
-			"15分钟内对巴尔蒙德大宅内     [冥想大浴池]密穴中怪物的物理/魔法伤害+15%。",
+			"由霸肋门德大宅的沐浴师用特殊方法制作而成的沐浴剂，",
+			"15分钟内对霸肋门德大宅内     [冥想大浴池]密穴中怪物的物理/魔法伤害+15%。",
 			"重量: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -383533,14 +383533,14 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"尚未鉴定；可用[放大镜]来鉴定物品。",
 			"从各种药草中萃取而成的按摩用芳香精油， 尤其对血液循环和恢复疲劳等有功效。",
-			"15分钟内受到巴尔蒙德大宅内     [冥想大浴池]密穴中怪物的物理/魔法伤害-10%。",
+			"15分钟内受到霸肋门德大宅内     [冥想大浴池]密穴中怪物的物理/魔法伤害-10%。",
 			"重量: ^7777771^000000"
 		},
 		identifiedDisplayName = "香薰精油",
 		identifiedResourceName = "官官具啊狼厚距",
 		identifiedDescriptionName = {
 			"从各种药草中萃取而成的按摩用芳香精油， 尤其对血液循环和恢复疲劳等有功效。",
-			"15分钟内受到巴尔蒙德大宅内     [冥想大浴池]密穴中怪物的物理/魔法伤害-10%。",
+			"15分钟内受到霸肋门德大宅内     [冥想大浴池]密穴中怪物的物理/魔法伤害-10%。",
 			"重量: ^7777771^000000"
 		},
 		slotCount = 0,
@@ -473196,7 +473196,7 @@ tbl = {
 		identifiedDisplayName = "(服饰)扫地机器人Ω",
 		identifiedResourceName = "C_Drooping_Omega",
 		identifiedDescriptionName = {
-			"曾任于巴尔蒙德大宅庭院的清扫机器人。",
+			"曾任于霸肋门德大宅庭院的清扫机器人。",
 			"^ff0000可至绵绵岛附魔^000000",
 			"系列 : ^777777服饰装备^000000 防御 : ^7777770^000000",
 			"位置 : ^777777头上^000000 重量 : ^7777770^000000",
@@ -491168,7 +491168,7 @@ tbl = {
 		identifiedDisplayName = "全自动机甲A型",
 		identifiedResourceName = "Auto_Armor_A",
 		identifiedDescriptionName = {
-			"以巴尔蒙德大宅的尖端技术改良而成的战斗铠甲A型。",
+			"以霸肋门德大宅的尖端技术改良而成的战斗铠甲A型。",
 			"据说安装各种模组还能提升能力。",
 			"^ffffff_^000000",
 			"ATK+125。",
@@ -491194,7 +491194,7 @@ tbl = {
 		identifiedDisplayName = "全自动机甲B型",
 		identifiedResourceName = "Auto_Armor_B",
 		identifiedDescriptionName = {
-			"以巴尔蒙德大宅的尖端技术改良而成的战斗铠甲B型。",
+			"以霸肋门德大宅的尖端技术改良而成的战斗铠甲B型。",
 			"据说安装各种模组还能提升能力。",
 			"^ffffff_^000000",
 			"MATK+125。",
@@ -496119,7 +496119,7 @@ tbl = {
 		identifiedDisplayName = "全自动战靴A型",
 		identifiedResourceName = "Auto_Leg_A",
 		identifiedDescriptionName = {
-			"以巴尔蒙德大宅的尖端技术改良而成的战靴A型。",
+			"以霸肋门德大宅的尖端技术改良而成的战靴A型。",
 			"据说安装各种模组还能提升能力。",
 			"^ffffff_^000000",
 			"MSP+250。",
@@ -496145,7 +496145,7 @@ tbl = {
 		identifiedDisplayName = "全自动战靴B型",
 		identifiedResourceName = "Auto_Leg_B",
 		identifiedDescriptionName = {
-			"以巴尔蒙德大宅的尖端技术改良而成的战靴B型。",
+			"以霸肋门德大宅的尖端技术改良而成的战靴B型。",
 			"据说安装各种模组还能提升能力。",
 			"^ffffff_^000000",
 			"MSP+250。",
@@ -500524,7 +500524,7 @@ tbl = {
 		identifiedDisplayName = "全自动推进翼A型",
 		identifiedResourceName = "Auto_Engine_A",
 		identifiedDescriptionName = {
-			"以巴尔蒙德大宅的尖端技术改良而成的战斗引擎A型。",
+			"以霸肋门德大宅的尖端技术改良而成的战斗引擎A型。",
 			"据说安装各种模组还能提升能力。",
 			"^ffffff_^000000",
 			"MHP+1500。",
@@ -500550,7 +500550,7 @@ tbl = {
 		identifiedDisplayName = "全自动推进翼B型",
 		identifiedResourceName = "Auto_Engine_B",
 		identifiedDescriptionName = {
-			"以巴尔蒙德大宅的尖端技术改良而成的战斗引擎B型。",
+			"以霸肋门德大宅的尖端技术改良而成的战斗引擎B型。",
 			"据说安装各种模组还能提升能力。",
 			"^ffffff_^000000",
 			"MHP+1500。",
@@ -506874,7 +506874,7 @@ tbl = {
 		identifiedDisplayName = "全自动助推器R",
 		identifiedResourceName = "Auto_B_R",
 		identifiedDescriptionName = {
-			"以巴尔蒙德大宅的尖端技术改良而成的战斗强化零件。",
+			"以霸肋门德大宅的尖端技术改良而成的战斗强化零件。",
 			"据说安装各种模组还能提升能力。",
 			"^ffffff_^000000",
 			"ATK+5%、MHP+5%。",
@@ -506894,7 +506894,7 @@ tbl = {
 		identifiedDisplayName = "全自动助推器L",
 		identifiedResourceName = "Auto_B_L",
 		identifiedDescriptionName = {
-			"以巴尔蒙德大宅的尖端技术改良而成的战斗强化零件。",
+			"以霸肋门德大宅的尖端技术改良而成的战斗强化零件。",
 			"据说安装各种模组还能提升能力。",
 			"^ffffff_^000000",
 			"ATK+5%、MSP+5%。",
@@ -506915,7 +506915,7 @@ tbl = {
 		identifiedDisplayName = "全自动战斗芯片R",
 		identifiedResourceName = "Auto_BC_R",
 		identifiedDescriptionName = {
-			"以巴尔蒙德大宅的尖端技术改良而成的战斗强化芯片。",
+			"以霸肋门德大宅的尖端技术改良而成的战斗强化芯片。",
 			"据说安装各种模组还能提升能力。",
 			"^ffffff_^000000",
 			"MATK+5%、MHP+5%。",
@@ -506935,7 +506935,7 @@ tbl = {
 		identifiedDisplayName = "全自动战斗芯片L",
 		identifiedResourceName = "Auto_BC_L",
 		identifiedDescriptionName = {
-			"以巴尔蒙德大宅的尖端技术改良而成的战斗强化芯片。",
+			"以霸肋门德大宅的尖端技术改良而成的战斗强化芯片。",
 			"据说安装各种模组还能提升能力。",
 			"^ffffff_^000000",
 			"MATK+5%、MSP+5%。",
@@ -513824,7 +513824,7 @@ tbl = {
 		identifiedDisplayName = "希波克里西锐剑",
 		identifiedResourceName = "Ep172_1h_Sword",
 		identifiedDescriptionName = {
-			"巴尔蒙德大宅的警卫们所使用的单手剑。",
+			"霸肋门德大宅的警卫们所使用的单手剑。",
 			"因受虚幻派安装的魔力干涉装置而严重变形。",
 			"不可破坏。",
 			"精炼每+2时，近距离物理伤害+3%。",
@@ -513850,7 +513850,7 @@ tbl = {
 		identifiedDisplayName = "印祖迪亚缠线剑",
 		identifiedResourceName = "Ep172_1h_Sword2",
 		identifiedDescriptionName = {
-			"在巴尔蒙德大宅内收藏的科学器具。",
+			"在霸肋门德大宅内收藏的科学器具。",
 			"因受虚幻派安装的魔力干涉装置而严重变形。",
 			"手推车龙卷风伤害+10%。",
 			"精炼每+3时，ATK+12。",
@@ -519622,7 +519622,7 @@ tbl = {
 		identifiedDisplayName = "格雷特尼光矛",
 		identifiedResourceName = "Ep172_1h_Spear",
 		identifiedDescriptionName = {
-			"摆放在巴尔蒙德大宅角落的一把漂亮长矛。",
+			"摆放在霸肋门德大宅角落的一把漂亮长矛。",
 			"因受虚幻派安装的魔力干涉装置而严重变形。",
 			"MATK+200。",
 			"创世之光伤害+10%。",
@@ -520872,7 +520872,7 @@ tbl = {
 		identifiedDisplayName = "斯洛夫技术图书",
 		identifiedResourceName = "Ep172_1h_Book",
 		identifiedDescriptionName = {
-			"在巴尔蒙德大宅内收藏技术面书籍。",
+			"在霸肋门德大宅内收藏技术面书籍。",
 			"因受虚幻派安装的魔力干涉装置而严重变形。",
 			"不可破坏。",
 			"朔月脚伤害+10%。",
@@ -520898,7 +520898,7 @@ tbl = {
 		identifiedDisplayName = "斯洛夫圣书",
 		identifiedResourceName = "Ep172_1h_Book2",
 		identifiedDescriptionName = {
-			"在巴尔蒙德大宅内收藏的纪录保管装置。",
+			"在霸肋门德大宅内收藏的纪录保管装置。",
 			"因受虚幻派安装的魔力干涉装置而严重变形。",
 			"MATK+220。",
 			"物理/魔法攻击时，有几率5秒内每1秒SP恢复300，受到一般怪伤害-15%。",
@@ -524027,7 +524027,7 @@ tbl = {
 		identifiedDisplayName = "格莱德魔杖",
 		identifiedResourceName = "Ep172_1h_Wand",
 		identifiedDescriptionName = {
-			"在巴尔蒙德大宅内生火或熄火时所用的小棍子。",
+			"在霸肋门德大宅内生火或熄火时所用的小棍子。",
 			"因受虚幻派安装的魔力干涉装置而严重变形。",
 			"不可破坏。",
 			"MATK+200。",
@@ -530333,7 +530333,7 @@ tbl = {
 		identifiedDisplayName = "普里格蒂亚电吉他",
 		identifiedResourceName = "Ep172_1h_Inst",
 		identifiedDescriptionName = {
-			"在巴尔蒙德大宅内回荡起美妙旋律的乐器。",
+			"在霸肋门德大宅内回荡起美妙旋律的乐器。",
 			"因受虚幻派安装的魔力干涉装置而严重变形。",
 			"MATK+210。",
 			"重金属音乐伤害+10%，残响伤害+10%。",
@@ -535044,7 +535044,7 @@ tbl = {
 		identifiedDisplayName = "希波克里西巨剑",
 		identifiedResourceName = "Ep172_Bh_Sword",
 		identifiedDescriptionName = {
-			"摆放在巴尔蒙德大宅角落的一把漂亮巨剑。",
+			"摆放在霸肋门德大宅角落的一把漂亮巨剑。",
 			"因受虚幻派安装的魔力干涉装置而严重变形。",
 			"",
 			"不可破坏。",
@@ -538438,7 +538438,7 @@ tbl = {
 		identifiedDisplayName = "卢克苏里亚长矛",
 		identifiedResourceName = "Ep172_Bh_Spear",
 		identifiedDescriptionName = {
-			"在巴尔蒙德大宅内收藏的科学器具。",
+			"在霸肋门德大宅内收藏的科学器具。",
 			"因受虚幻派安装的魔力干涉装置而严重变形。",
 			"百矛穿刺伤害+10%。",
 			"精炼每+3时，ATK+12。",
@@ -539362,7 +539362,7 @@ tbl = {
 		identifiedDisplayName = "普莱特斯通手杖",
 		identifiedResourceName = "Ep172_Bh_Staff",
 		identifiedDescriptionName = {
-			"在巴尔蒙德大宅内收藏的科学器具。",
+			"在霸肋门德大宅内收藏的科学器具。",
 			"因受虚幻派安装的魔力干涉装置而严重变形。",
 			"不可破坏。",
 			"MATK+320。",
@@ -540968,7 +540968,7 @@ tbl = {
 		identifiedDisplayName = "雷士大齿轮飞镖",
 		identifiedResourceName = "Ep172_Bh_Huuma",
 		identifiedDescriptionName = {
-			"在巴尔蒙德大宅内某个角落掉下来的巨大金属块。",
+			"在霸肋门德大宅内某个角落掉下来的巨大金属块。",
 			"因受虚幻派安装的魔力干涉装置而严重变形。",
 			"不可破坏。",
 			"风魔飞镖之飞舞伤害+15%。",
@@ -542253,7 +542253,7 @@ tbl = {
 		identifiedDisplayName = "苏佩尔维亚天弓",
 		identifiedResourceName = "Ep172_Bh_Bow",
 		identifiedDescriptionName = {
-			"守护巴尔蒙德大宅的佣兵们所使用的弓箭。",
+			"守护霸肋门德大宅的佣兵们所使用的弓箭。",
 			"因受虚幻派安装的魔力干涉装置而严重变形。",
 			"箭雨风暴伤害+10%。",
 			"精炼每+3时，ATK+12。",
@@ -545286,7 +545286,7 @@ tbl = {
 		identifiedDisplayName = "罗斯特来福枪",
 		identifiedResourceName = "Ep172_1h_Rifle",
 		identifiedDescriptionName = {
-			"守护巴尔蒙德大宅的佣兵们所使用的来福枪。",
+			"守护霸肋门德大宅的佣兵们所使用的来福枪。",
 			"因受虚幻派安装的魔力干涉装置而严重变形。",
 			"天神愤怒伤害+10%。",
 			"精炼每+3时，ATK+6，攻击速度增加(攻击后延迟-3%)。",
@@ -546173,7 +546173,7 @@ tbl = {
 		identifiedDisplayName = "罗斯特霰弹枪",
 		identifiedResourceName = "Ep172_1h_Shotgun",
 		identifiedDescriptionName = {
-			"守护巴尔蒙德大宅的佣兵们所使用的霰弹枪.",
+			"守护霸肋门德大宅的佣兵们所使用的霰弹枪.",
 			"因受虚幻派安装的魔力干涉装置而严重变形。",
 			"扩散攻击。",
 			"根源破坏伤害+10%。",
@@ -546843,7 +546843,7 @@ tbl = {
 		identifiedDisplayName = "罗斯特机关枪",
 		identifiedResourceName = "Ep172_1h_Gatling",
 		identifiedDescriptionName = {
-			"守护巴尔蒙德大宅的佣兵们所使用的格林机关枪。",
+			"守护霸肋门德大宅的佣兵们所使用的格林机关枪。",
 			"因受虚幻派安装的魔力干涉装置而严重变形。",
 			"火焰暴雨伤害+10%。",
 			"精炼每+3时，ATK+6，攻击速度增加(攻击后延迟-3%)。",
@@ -547589,7 +547589,7 @@ tbl = {
 		identifiedDisplayName = "罗斯特榴弹枪",
 		identifiedResourceName = "Ep172_1h_Grenade",
 		identifiedDescriptionName = {
-			"守护巴尔蒙德大宅的佣兵们所使用的榴弹发射器。",
+			"守护霸肋门德大宅的佣兵们所使用的榴弹发射器。",
 			"因受虚幻派安装的魔力干涉装置而严重变形。",
 			"破坏怒吼伤害+10%。",
 			"精炼每+3时，ATK+6，攻击速度增加(攻击后延迟-3%)。",
@@ -548927,17 +548927,17 @@ tbl = {
 		costume = false
 	},
 	[1000103] = {
-		unidentifiedDisplayName = "巴尔蒙德餐券",
+		unidentifiedDisplayName = "霸肋门德餐券",
 		unidentifiedResourceName = "BarMealTicket",
 		unidentifiedDescriptionName = {
 			"尚未鉴定；可用[放大镜]来鉴定物品。",
-			"巴尔蒙德大宅管家为了有效招待佣兵而发行的餐券。",
-			"在巴尔蒙德大宅内俨然成为流通货币，几乎能买到任何东西。",
+			"霸肋门德大宅管家为了有效招待佣兵而发行的餐券。",
+			"在霸肋门德大宅内俨然成为流通货币，几乎能买到任何东西。",
 			"重量: ^7777770^000000"
 		},
-		identifiedDisplayName = "巴尔蒙德餐券",
+		identifiedDisplayName = "霸肋门德餐券",
 		identifiedResourceName = "BarMealTicket",
-		identifiedDescriptionName = { "巴尔蒙德大宅管家为了有效招待佣兵而发行的餐券。", "在巴尔蒙德大宅内俨然成为流通货币，几乎能买到任何东西。", "重量: ^7777770^000000" },
+		identifiedDescriptionName = { "霸肋门德大宅管家为了有效招待佣兵而发行的餐券。", "在霸肋门德大宅内俨然成为流通货币，几乎能买到任何东西。", "重量: ^7777770^000000" },
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false

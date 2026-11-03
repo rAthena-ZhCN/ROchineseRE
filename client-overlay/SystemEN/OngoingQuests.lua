@@ -14807,8 +14807,8 @@ QuestInfoList = {
 	},
 	[7053] = {
 		Title = "死亡之塔-他们想要的东西……",
-		Description = { "找到第五把钥匙的时候，发现了巴尔蒙德的手册。也许这就是布雷德所说的“雷肯贝尔正在寻找的东西”。回去告诉布雷德。" },
-		Summary = "把巴尔蒙德的手册交给布雷德"
+		Description = { "找到第五把钥匙的时候，发现了霸肋门德的手册。也许这就是布雷德所说的“雷肯贝尔正在寻找的东西”。回去告诉布雷德。" },
+		Summary = "把霸肋门德的手册交给布雷德"
 	},
 	[7054] = {
 		Title = "穆的委托-天罚",
@@ -23043,7 +23043,7 @@ QuestInfoList = {
 		Title = "前往教国 (1)",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"巴尔蒙德宅邸的自动人偶终于确认了收到信号的身份。发信地址是 <NAVI>[拉赫]<INFO>rachel,182,176,0,101,0</INFO></NAVI>，需要尽快行动了。"
+			"霸肋门德宅邸的自动人偶终于确认了收到信号的身份。发信地址是 <NAVI>[拉赫]<INFO>rachel,182,176,0,101,0</INFO></NAVI>，需要尽快行动了。"
 		},
 		Summary = "前往拉赫",
 		NpcNavi = "rachel",
@@ -32002,7 +32002,7 @@ QuestInfoList = {
 	[11670] = {
 		Title = "梦幻法师转职",
 		IconName = "ico_jq.bmp",
-		Description = { "第二个试炼：^ff0000击败10只住在巴尔蒙德大宅浴池的魔物、带回人鱼之心1个^000000。" },
+		Description = { "第二个试炼：^ff0000击败10只住在霸肋门德大宅浴池的魔物、带回人鱼之心1个^000000。" },
 		Summary = "把人鱼之心给米奇"
 	},
 	[11671] = {
@@ -32038,7 +32038,7 @@ QuestInfoList = {
 	[11676] = {
 		Title = "元素领主转职",
 		IconName = "ico_jq.bmp",
-		Description = { "艾玛说看到基蓝前往^ff0000巴尔蒙德大宅^000000，\n\t\t\t先在巴尔蒙德大宅的^ff0000魔力发电厂^000000寻找线索吧！" },
+		Description = { "艾玛说看到基蓝前往^ff0000霸肋门德大宅^000000，\n\t\t\t先在霸肋门德大宅的^ff0000魔力发电厂^000000寻找线索吧！" },
 		Summary = "调查魔力发电厂"
 	},
 	[11677] = {
@@ -32050,8 +32050,8 @@ QuestInfoList = {
 	[11678] = {
 		Title = "元素领主转职",
 		IconName = "ico_jq.bmp",
-		Description = { "无法在魔力发电厂获得召唤高级精灵的线索，^ff0000调查巴尔蒙德的图书馆^000000吧！" },
-		Summary = "调查巴尔蒙德图书馆"
+		Description = { "无法在魔力发电厂获得召唤高级精灵的线索，^ff0000调查霸肋门德的图书馆^000000吧！" },
+		Summary = "调查霸肋门德图书馆"
 	},
 	[11679] = {
 		Title = "元素领主转职",
@@ -36730,12 +36730,12 @@ QuestInfoList = {
 	},
 	[12422] = {
 		Title = "超越者的委托",
-		Description = { "收到来自超越者巴尔蒙德的合作邀请。" },
+		Description = { "收到来自超越者霸肋门德的合作邀请。" },
 		Summary = "超越者的委托"
 	},
 	[12423] = {
 		Title = "拯救世界的人",
-		Description = { "帮助在平行世界孤军奋战的巴尔蒙德负责守护石的修复工作。" },
+		Description = { "帮助在平行世界孤军奋战的霸肋门德负责守护石的修复工作。" },
 		Summary = "修复守护石"
 	},
 	[12442] = {
@@ -37467,8 +37467,8 @@ QuestInfoList = {
 		Title = "军事会议",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"来自次元以外的来历不明的客人、巴尔蒙德以及皇室家族正在进行严肃的军事会议。",
-			"通过普隆德拉南门处的<NAVI>[巴尔蒙德]<INFO>prt_fild08,154,367,0,101,0</INFO></NAVI>选择要支援的场所并移动吧。",
+			"来自次元以外的来历不明的客人、霸肋门德以及皇室家族正在进行严肃的军事会议。",
+			"通过普隆德拉南门处的<NAVI>[霸肋门德]<INFO>prt_fild08,154,367,0,101,0</INFO></NAVI>选择要支援的场所并移动吧。",
 			" "
 		},
 		Summary = "阻止入侵"
@@ -46388,7 +46388,7 @@ QuestInfoList = {
 		Title = "单纯的事实",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"从爱鲁梅纳的证词得知进入巴尔蒙德宅邸的方法。去确认一下 <NAVI>[出入口]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>吧。"
+			"从爱鲁梅纳的证词得知进入霸肋门德宅邸的方法。去确认一下 <NAVI>[出入口]<INFO>sp_cor,255,285,0,101,0</INFO></NAVI>吧。"
 		},
 		Summary = "与小虫对话",
 		NpcNavi = "sp_cor",
@@ -56228,7 +56228,7 @@ QuestInfoList = {
 	[18016] = {
 		Title = "作战会议",
 		IconName = "ico_ep.bmp",
-		Description = { "和埃尔斯特并肩作战，找出躲在巴尔蒙德大宅的邪心猎人与虚幻派。" },
+		Description = { "和埃尔斯特并肩作战，找出躲在霸肋门德大宅的邪心猎人与虚幻派。" },
 		Summary = "与埃尔斯特对话",
 		NpcNavi = "ba_in01",
 		NpcPosX = 51,
@@ -57098,15 +57098,15 @@ QuestInfoList = {
 		Title = "乘北风而来的访客1",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"已经充分地听到北方大地的消息，决定和马蓝、米里亚姆前往巴尔蒙德大宅，我们将在巴尔蒙德大宅的客厅待机，与<NAVI>[爱丽]<INFO>ba_in01,384,114,0,101,0</INFO></NAVI>讨论未来的计划。"
+			"已经充分地听到北方大地的消息，决定和马蓝、米里亚姆前往霸肋门德大宅，我们将在霸肋门德大宅的客厅待机，与<NAVI>[爱丽]<INFO>ba_in01,384,114,0,101,0</INFO></NAVI>讨论未来的计划。"
 		},
-		Summary = "前往巴尔蒙德大宅"
+		Summary = "前往霸肋门德大宅"
 	},
 	[18120] = {
 		Title = "乘北风而来的访客2",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"决定从普隆德拉皇宫获取有关伊斯加尔特的情报，在巴尔蒙德大宅，跟<NAVI>[克鲁斯]<INFO>ba_in01,386,110,0,101,0</INFO></NAVI>的引导下前往普隆德拉皇宫。"
+			"决定从普隆德拉皇宫获取有关伊斯加尔特的情报，在霸肋门德大宅，跟<NAVI>[克鲁斯]<INFO>ba_in01,386,110,0,101,0</INFO></NAVI>的引导下前往普隆德拉皇宫。"
 		},
 		Summary = "前往普隆德拉皇宫"
 	},
@@ -57121,14 +57121,14 @@ QuestInfoList = {
 	[18122] = {
 		Title = "守护者之盒和邀请函2",
 		IconName = "ico_ep.bmp",
-		Description = { "获得了邀请函，回到<NAVI>[巴尔蒙德大宅]<INFO>ba_maison,186,251,0,101,0</INFO></NAVI>与队伍会合。" },
-		Summary = "回到巴尔蒙德大宅"
+		Description = { "获得了邀请函，回到<NAVI>[霸肋门德大宅]<INFO>ba_maison,186,251,0,101,0</INFO></NAVI>与队伍会合。" },
+		Summary = "回到霸肋门德大宅"
 	},
 	[18123] = {
 		Title = "守护者之盒和邀请函3",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"抵达巴尔蒙德大宅后，前往<NAVI>[飞空艇机坪]<INFO>ba_in01,30,264,0,101,0</INFO></NAVI>，随时可以启程，登上飞空艇，将邀请函交给小姜。"
+			"抵达霸肋门德大宅后，前往<NAVI>[飞空艇机坪]<INFO>ba_in01,30,264,0,101,0</INFO></NAVI>，随时可以启程，登上飞空艇，将邀请函交给小姜。"
 		},
 		Summary = "与小姜对话"
 	},
@@ -78506,7 +78506,7 @@ QuestInfoList = {
 		Title = "棉花棉花 特别的棉花",
 		IconName = "ico_ev.bmp",
 		Description = { "在平行次元的普隆德拉正在举办夜市庆典。在那里遇到的狄托渴望得到 ^i[1001376] 玩偶。去娃娃机挑战一下吧。" },
-		Summary = "给狄托1个巴尔蒙德玩偶",
+		Summary = "给狄托1个霸肋门德玩偶",
 		NpcSpr = "4_RAGFES_11",
 		NpcNavi = "x_prt_evt",
 		NpcPosX = 91,
@@ -80572,7 +80572,7 @@ QuestInfoList = {
 		Title = "欢迎来到夜市",
 		IconName = "ico_ev.bmp",
 		Description = {
-			"巴尔蒙德希望有一个比自己了解庆典的人能参观一下夜市。通过 <NAVI>[巴尔蒙德]<INFO>prontera,156,303,0,101,0</INFO></NAVI>进入到其他次元的普隆德拉后，去见一下夜市的举办人马克西姆。"
+			"霸肋门德希望有一个比自己了解庆典的人能参观一下夜市。通过 <NAVI>[霸肋门德]<INFO>prontera,156,303,0,101,0</INFO></NAVI>进入到其他次元的普隆德拉后，去见一下夜市的举办人马克西姆。"
 		},
 		Summary = "与马克西姆对话"
 	},
