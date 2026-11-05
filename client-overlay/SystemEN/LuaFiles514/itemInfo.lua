@@ -347475,10 +347475,10 @@ tbl = {
 	},
 	[490082] = {
 		unidentifiedDisplayName = "饰品",
-		unidentifiedResourceName = "Ring_IL",
+		unidentifiedResourceName = "Dragon_Ring",
 		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
 		identifiedDisplayName = "幻象战戒",
-		identifiedResourceName = "Ring_IL",
+		identifiedResourceName = "Dragon_Ring",
 		identifiedDescriptionName = {
 			"由幻象尖端科技秘密研发而成的战斗戒指，能与幻象装置搭配提升能力。",
 			"ALL State + 1。",
