@@ -347500,10 +347500,10 @@ tbl = {
 	},
 	[490169] = {
 		unidentifiedDisplayName = "饰品",
-		unidentifiedResourceName = "Auto_M_Ring_TW",
+		unidentifiedResourceName = "Sixth_Sense_Ring",
 		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
 		identifiedDisplayName = "全自动战戒",
-		identifiedResourceName = "Auto_M_Ring_TW",
+		identifiedResourceName = "Sixth_Sense_Ring",
 		identifiedDescriptionName = {
 			"由全自动尖端科技研发而成的战斗戒指，能与全自动装置搭配提升能力。",
 			"ALL State + 1。",
