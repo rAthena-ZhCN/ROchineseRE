@@ -21,6 +21,31 @@ tbl_custom = {
 
 -- Table for Official Overrides
 tbl_override = {
+	[490082] = {
+		unidentifiedDisplayName = "饰品",
+		unidentifiedResourceName = "Ring_IL",
+		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		identifiedDisplayName = "幻象战戒",
+		identifiedResourceName = "Ring_IL",
+		identifiedDescriptionName = {
+			"由幻象尖端科技秘密研发而成的战斗戒指，能与幻象装置搭配提升能力。",
+			"ALL State + 1。",
+			"ATK、MATK + 5%。",
+			"技能后延迟 - 5%。",
+			"_______________________",
+			"搭配「幻象助推器R」时，物理攻击时以1%概率将伤害的1%吸收为SP，对首领阶级的物理伤害+10%。",
+			"搭配「幻象助推器L」时，MHP+10%、MSP+10%。",
+			"搭配「幻象战斗晶片R」时，INT+5、DEX+5，对首领阶级的魔法伤害+10%。",
+			"搭配「幻象战斗晶片L」时，MDEF+15，固定咏唱-0.3秒。",
+			"系列: ^777777饰品^000000 防御: ^7777770^000000",
+			"重量: ^77777730^000000",
+			"要求等级: ^777777100^000000",
+			"装备: ^777777全职业^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
 	[1000254] = {
 		unidentifiedDisplayName = "蹦级币",
 		unidentifiedResourceName = "抗贱狼皋崔",
