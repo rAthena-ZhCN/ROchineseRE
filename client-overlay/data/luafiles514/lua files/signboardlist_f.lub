@@ -28,6 +28,18 @@ if SignBoardList_CLS ~= nil then
 	F_ROTP(SignBoardList_CLS,SignBoardList,1)
 end
 
+
+local function F_GetMapSignOverride(mapname, x, y)
+	if mapname == "ba_maison" then
+		if x == 136 and y == 103 then
+			return " 全自动升级模组"
+		elseif x == 132 and y == 103 then
+			return " 全自动装备兑换"
+		end
+	end
+	return nil
+end
+
 function GetSignBoardListTable(idx)
 	if DisableSignboards == true then
 		return 0
@@ -38,6 +50,10 @@ function GetSignBoardListTable(idx)
 				return 0
 			end
 		end
+	end
+	local override = F_GetMapSignOverride(SignBoardList[idx][MAPNAME], SignBoardList[idx][CELLX], SignBoardList[idx][CELLY])
+	if( override ~= nil) then
+		return SignBoardList[idx][MAPNAME], SignBoardList[idx][CELLX], SignBoardList[idx][CELLY], SignBoardList[idx][HEIGHT], SignBoardList[idx][ICONID], SignBoardList[idx][FILEPATH], override, SignBoardList[idx][CHARCOLOR]
 	end
 	if( SignBoardData ~= nil) then
 		if( SignBoardData[SignBoardList[idx][CONTENTS]] ~= nil) then

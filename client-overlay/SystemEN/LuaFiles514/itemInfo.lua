@@ -347498,6 +347498,31 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[490169] = {
+		unidentifiedDisplayName = "饰品",
+		unidentifiedResourceName = "Auto_M_Ring_TW",
+		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		identifiedDisplayName = "全自动战戒",
+		identifiedResourceName = "Auto_M_Ring_TW",
+		identifiedDescriptionName = {
+			"由全自动尖端科技研发而成的战斗戒指，能与全自动装置搭配提升能力。",
+			"ALL State + 1。",
+			"ATK、MATK + 5%。",
+			"技能后延迟 - 5%，MHP、MSP + 5%。",
+			"_______________________",
+			"搭配「全自动助推器R」时，以1%概率将伤害的1%吸收为SP，对首领阶级的物理伤害+15%。",
+			"搭配「全自动助推器L」时，近距离物理伤害+4%，远距离物理伤害+4%。",
+			"搭配「全自动战斗晶片R」时，技能后延迟-5%，对首领阶级的魔法伤害+15%。",
+			"搭配「全自动战斗晶片L」时，对全属性敌人的魔法伤害+6%，固定咏唱-0.3秒。",
+			"系列: ^777777饰品^000000 防御: ^7777770^000000",
+			"重量: ^77777710^000000",
+			"要求等级: ^777777100^000000",
+			"装备: ^777777全职业^000000"
+		},
+		slotCount = 1,
+		ClassNum = 0,
+		costume = false
+	},
 	[28510] = {
 		unidentifiedDisplayName = "饰品",
 		unidentifiedResourceName = "傅",
