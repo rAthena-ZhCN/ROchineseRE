@@ -552872,8 +552872,12 @@ tbl = {
 			"<NAVI>[Centro]<INFO>prontera,166,300,0,100,0,0</INFO></NAVI>",
 			"促销服饰附魔：",
 			"<NAVI>[Yves]<INFO>malangdo,152,136,0,100,0,0</INFO></NAVI>",
-			"幻影装备（绑定）附魔：",
+			"幻象装备/模组兑换：",
+			"<NAVI>[爱鲁梅纳]<INFO>sp_cor,98,142,0,100,0,0</INFO></NAVI>",
 			"<NAVI>[RS26-1]<INFO>sp_cor,98,136,0,100,0,0</INFO></NAVI>",
+			"全自动装备/模组兑换：",
+			"<NAVI>[延青Ω]<INFO>ba_maison,132,103,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[斯皮拉β]<INFO>ba_maison,136,103,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 0"
 		},
