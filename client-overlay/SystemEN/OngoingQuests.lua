@@ -9135,22 +9135,22 @@ QuestInfoList = {
 	[5143] = {
 		Title = "生产试验品-(2)",
 		Description = { "制作了类似短剑的试验品。" },
-		Summary = "把试验品交给红豹 乔伊。"
+		Summary = "把试验品交给红豹乔伊。"
 	},
 	[5144] = {
 		Title = "生产试验品-(2)",
 		Description = { "制作了类似风魔翼飞镖的试验品。" },
-		Summary = "把试验品交给红豹 乔伊。"
+		Summary = "把试验品交给红豹乔伊。"
 	},
 	[5145] = {
 		Title = "强化试验品",
 		Description = { "要精炼试验品。" },
-		Summary = "获得满意的成果后去找红豹 乔伊。"
+		Summary = "获得满意的成果后去找红豹乔伊。"
 	},
 	[5146] = {
-		Title = "战斗测验",
-		Description = { "挑战战斗测验。" },
-		Summary = "消灭目标对象'宗亲的过去'！！"
+		Title = "战斗考验",
+		Description = { "挑战战斗考验。" },
+		Summary = "消灭目标对象'家族秘密'！！"
 	},
 	[5147] = {
 		Title = "神枪手基础训练(1)",
