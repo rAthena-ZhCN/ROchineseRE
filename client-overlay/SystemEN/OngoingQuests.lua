@@ -14426,7 +14426,7 @@ QuestInfoList = {
 	},
 	[6015] = {
 		Title = "库乌佳加伊的使唤",
-		Description = { "去跟艾因布罗克的红豹乔伊对话" },
+		Description = { "去跟艾音布罗克的红豹乔伊对话。<NAVI>[红豹乔伊]<INFO>einbroch,184,194,0,101,0</INFO></NAVI>" },
 		Summary = ""
 	},
 	[6016] = {
