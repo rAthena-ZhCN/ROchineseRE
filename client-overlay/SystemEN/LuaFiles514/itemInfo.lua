@@ -26366,7 +26366,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2,
@@ -26816,7 +26816,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 3,
@@ -26911,7 +26911,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 3,
@@ -28453,7 +28453,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -28491,7 +28491,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 24,
@@ -30709,7 +30709,7 @@ tbl = {
 			"^0000CCWeight:^000000 200",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -30767,7 +30767,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -31157,7 +31157,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -31188,7 +31188,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -31536,7 +31536,7 @@ tbl = {
 			"^0000CCWeight:^000000 40",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -32022,7 +32022,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -32107,7 +32107,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -32266,7 +32266,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -32296,7 +32296,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -32500,7 +32500,7 @@ tbl = {
 			"^0000CCWeight:^000000 50",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -33249,7 +33249,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -33274,7 +33274,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -33503,7 +33503,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -34325,7 +34325,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -34629,7 +34629,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -35049,7 +35049,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -35429,7 +35429,7 @@ tbl = {
 			"^0000CCWeight:^000000 50",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -35452,7 +35452,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -35670,7 +35670,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -35920,7 +35920,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -36912,7 +36912,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -37788,7 +37788,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -37809,7 +37809,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -37861,7 +37861,7 @@ tbl = {
 			"^0000CCWeight:^000000 5",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -37890,7 +37890,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -37915,7 +37915,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -37948,7 +37948,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -38005,7 +38005,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -38488,7 +38488,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -38510,7 +38510,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -38532,7 +38532,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -38581,7 +38581,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -38733,7 +38733,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -38773,7 +38773,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -39418,7 +39418,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -39533,7 +39533,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -39819,7 +39819,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -40254,7 +40254,7 @@ tbl = {
 			"^0000CCWeight:^000000 1",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -40273,7 +40273,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -40292,7 +40292,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -40311,7 +40311,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -40649,7 +40649,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -40673,7 +40673,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -40703,7 +40703,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -41200,7 +41200,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -41377,7 +41377,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -41551,7 +41551,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -41815,7 +41815,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -41841,7 +41841,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -41865,7 +41865,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -42047,7 +42047,7 @@ tbl = {
 			"^0000CCWeight:^000000 100",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -42110,7 +42110,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -42137,7 +42137,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -42197,7 +42197,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -42556,7 +42556,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -42595,7 +42595,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -42635,7 +42635,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -42674,7 +42674,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -42714,7 +42714,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -42755,7 +42755,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -42821,7 +42821,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -42849,7 +42849,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -42877,7 +42877,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -43056,7 +43056,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -43563,7 +43563,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -44125,7 +44125,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -44172,7 +44172,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -68524,7 +68524,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 288,
@@ -68547,7 +68547,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 289,
@@ -68571,7 +68571,7 @@ tbl = {
 			"^0000CCWeight:^000000 70^000000",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 290,
@@ -68595,7 +68595,7 @@ tbl = {
 			"^0000CCWeight:^000000 70^000000",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 291,
@@ -68616,7 +68616,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 292,
@@ -68637,7 +68637,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 293,
@@ -68658,7 +68658,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 294,
@@ -68679,7 +68679,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 295,
@@ -69361,7 +69361,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 216,
@@ -69679,7 +69679,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 307,
@@ -69735,7 +69735,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 323,
@@ -69811,7 +69811,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 327,
@@ -69885,7 +69885,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 330,
@@ -70087,7 +70087,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 340,
@@ -70157,7 +70157,7 @@ tbl = {
 			"^0000CCWeight:^000000 50",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 342,
@@ -70206,7 +70206,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 165,
@@ -70338,7 +70338,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 152,
@@ -70980,7 +70980,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 365,
@@ -71156,7 +71156,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 374,
@@ -71198,7 +71198,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 38,
@@ -71221,7 +71221,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 39,
@@ -71591,7 +71591,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 228,
@@ -71685,7 +71685,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 395,
@@ -71712,7 +71712,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 188,
@@ -71756,7 +71756,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 397,
@@ -71784,7 +71784,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -71906,7 +71906,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 403,
@@ -72032,7 +72032,7 @@ tbl = {
 			"^0000CCWeight:^000000 50",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 409,
@@ -72078,7 +72078,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 6,
@@ -72158,7 +72158,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 446,
@@ -72300,7 +72300,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 57,
@@ -72404,7 +72404,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 425,
@@ -72425,7 +72425,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 426,
@@ -72448,7 +72448,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 427,
@@ -72471,7 +72471,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 428,
@@ -72494,7 +72494,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 429,
@@ -72588,7 +72588,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 433,
@@ -72609,7 +72609,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 434,
@@ -72631,7 +72631,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 435,
@@ -73010,7 +73010,7 @@ tbl = {
 			"^0000CCWeight:^000000 50",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 234,
@@ -73056,7 +73056,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 315,
@@ -73115,7 +73115,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 249,
@@ -73526,7 +73526,7 @@ tbl = {
 			"^0000CCWeight:^000000 50",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 475,
@@ -73691,7 +73691,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 395,
@@ -73733,7 +73733,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 390,
@@ -73756,7 +73756,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 484,
@@ -74193,7 +74193,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 502,
@@ -74259,7 +74259,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 507,
@@ -74461,12 +74461,12 @@ tbl = {
 			"_______________________",
 			"Decreases After Skill Delay by 3%.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 194,
@@ -74488,7 +74488,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 516,
@@ -74511,7 +74511,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 517,
@@ -74534,7 +74534,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 518,
@@ -74558,7 +74558,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 519,
@@ -74815,7 +74815,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 526,
@@ -75168,7 +75168,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 93,
@@ -75195,7 +75195,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 15,
@@ -75358,7 +75358,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 543,
@@ -75483,7 +75483,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 545,
@@ -75507,7 +75507,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 546,
@@ -75923,7 +75923,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 563,
@@ -75990,7 +75990,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 417,
@@ -76146,7 +76146,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 571,
@@ -76708,7 +76708,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 182,
@@ -76733,7 +76733,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 15,
@@ -76814,7 +76814,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 270,
@@ -77123,7 +77123,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 249,
@@ -77226,7 +77226,7 @@ tbl = {
 			"^0000CCWeight:^000000 35",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 281,
@@ -77311,7 +77311,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 349,
@@ -77448,7 +77448,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 308,
@@ -77503,7 +77503,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 15,
@@ -77634,7 +77634,7 @@ tbl = {
 			"^0000CCWeight:^000000 80",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 41,
@@ -77989,7 +77989,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 340,
@@ -78188,7 +78188,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 607,
@@ -78262,7 +78262,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 244,
@@ -78293,7 +78293,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 610,
@@ -78404,7 +78404,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 611,
@@ -78486,7 +78486,7 @@ tbl = {
 			"^0000CCWeight:^000000 1",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 542,
@@ -78513,7 +78513,7 @@ tbl = {
 			"^0000CCWeight:^000000 1",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 539,
@@ -78747,7 +78747,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 620,
@@ -79334,7 +79334,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 650,
@@ -79646,7 +79646,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 665,
@@ -79822,7 +79822,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 661,
@@ -79902,7 +79902,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 369,
@@ -79927,7 +79927,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 369,
@@ -79952,7 +79952,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 369,
@@ -80011,7 +80011,7 @@ tbl = {
 			"^0000CCWeight:^000000 50",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 215,
@@ -80032,7 +80032,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 5,
@@ -80054,7 +80054,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 13,
@@ -80099,7 +80099,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 67,
@@ -80163,7 +80163,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 216,
@@ -80229,7 +80229,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 16,
@@ -80254,7 +80254,7 @@ tbl = {
 			"^0000CCWeight:^000000 50",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 481,
@@ -80352,7 +80352,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -80376,7 +80376,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 505,
@@ -80400,7 +80400,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 506,
@@ -80421,7 +80421,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 498,
@@ -80442,7 +80442,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 499,
@@ -80551,7 +80551,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 225,
@@ -80572,7 +80572,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 423,
@@ -80591,7 +80591,7 @@ tbl = {
 			"^0000CCWeight:^000000 5",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -80938,7 +80938,7 @@ tbl = {
 			"^0000CCWeight:^000000 40",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 641,
@@ -80962,7 +80962,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 572,
@@ -81006,7 +81006,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 50,
@@ -81029,7 +81029,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 60,
@@ -81121,7 +81121,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -81622,7 +81622,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1063,
@@ -81732,7 +81732,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1079,
@@ -81783,7 +81783,7 @@ tbl = {
 			"^0000CCWeight:^000000 90",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 381,
@@ -82293,11 +82293,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume made of feathers of Gryphon.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 935,
@@ -82312,11 +82312,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume that resemble the devil's servant.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1036,
@@ -82332,11 +82332,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A golden mask of Wind Goddes.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 906,
@@ -82645,7 +82645,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1261,
@@ -82676,7 +82676,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1262,
@@ -82708,7 +82708,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1263,
@@ -82740,7 +82740,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1264,
@@ -82877,7 +82877,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1291,
@@ -83033,7 +83033,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1305,
@@ -83056,7 +83056,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1306,
@@ -83240,7 +83240,7 @@ tbl = {
 			"^0000CCWeight:^000000 1",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1346,
@@ -83270,7 +83270,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 803,
@@ -83300,7 +83300,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 372,
@@ -83330,7 +83330,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 367,
@@ -83359,7 +83359,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 716,
@@ -83389,7 +83389,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 866,
@@ -83420,7 +83420,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 612,
@@ -83447,7 +83447,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 209,
@@ -83474,7 +83474,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 920,
@@ -83502,7 +83502,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 867,
@@ -83530,7 +83530,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 744,
@@ -83560,7 +83560,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 643,
@@ -83586,7 +83586,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 268,
@@ -83617,7 +83617,7 @@ tbl = {
 			"^0000CCWeight:^000000 1",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1347,
@@ -84133,7 +84133,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1376,
@@ -84171,7 +84171,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1377,
@@ -84187,11 +84187,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Gives you a feeling of advantage over your enemies.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 889,
@@ -84248,11 +84248,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A gorgeous small fur hat.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1381,
@@ -84319,11 +84319,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A mask wore by Loki when he was young.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1345,
@@ -135612,7 +135612,7 @@ tbl = {
 			"^0000CCCooldown:^339900 5^000000 seconds",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -152308,7 +152308,7 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
 		},
@@ -157992,7 +157992,7 @@ tbl = {
 			"^0000CCWeight:^000000 1",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -171829,7 +171829,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -172170,7 +172170,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -172440,7 +172440,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -174530,7 +174530,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -174557,7 +174557,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -174584,7 +174584,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -174611,7 +174611,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -177116,7 +177116,7 @@ tbl = {
 			"^0000CCWeight:^000000 60",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -178296,11 +178296,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hairpin modeled after bright spring flowers to welcome spring. It somehow seems to have the scent of spring flowers lingering.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2085,
@@ -179277,11 +179277,11 @@ tbl = {
 			"A costume stall with a delicious smell.",
 			"Open a shop and serve food to hungry adventurers.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2298,
@@ -184227,7 +184227,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -186854,7 +186854,7 @@ tbl = {
 			"^0000CCWeight:^000000 80",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -187450,7 +187450,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^0000CCWeight:^000000 1"
 		},
 		slotCount = 0,
@@ -187477,7 +187477,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^0000CCWeight:^000000 1"
 		},
 		slotCount = 0,
@@ -187514,7 +187514,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^0000CCWeight:^000000 1"
 		},
 		slotCount = 0,
@@ -187541,7 +187541,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^0000CCWeight:^000000 1"
 		},
 		slotCount = 0,
@@ -188273,7 +188273,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^0000CCWeight:^000000 1"
 		},
 		slotCount = 0,
@@ -189530,7 +189530,7 @@ tbl = {
 			"^0000CCWeight:^000000 80",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000"
 		},
@@ -189559,7 +189559,7 @@ tbl = {
 			"^0000CCWeight:^000000 80",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000"
 		},
@@ -189638,7 +189638,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -189674,7 +189674,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -189710,7 +189710,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -189746,7 +189746,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -189784,7 +189784,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -189822,7 +189822,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -189889,7 +189889,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -189925,7 +189925,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -189961,7 +189961,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -189997,7 +189997,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -190033,7 +190033,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -190069,7 +190069,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -190107,7 +190107,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -190145,7 +190145,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -190183,7 +190183,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -190220,7 +190220,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -192270,7 +192270,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^0000CCWeight:^000000 1"
 		},
 		slotCount = 0,
@@ -192298,7 +192298,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^0000CCWeight:^000000 1"
 		},
 		slotCount = 0,
@@ -195886,7 +195886,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -196174,7 +196174,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -196284,7 +196284,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -196321,7 +196321,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -196358,7 +196358,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -196393,7 +196393,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
@@ -196466,7 +196466,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -197095,7 +197095,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -197132,7 +197132,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -197169,7 +197169,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -197207,7 +197207,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -197245,7 +197245,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -197283,7 +197283,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -197320,7 +197320,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -197357,7 +197357,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -197394,7 +197394,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -197431,7 +197431,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -197468,7 +197468,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -197505,7 +197505,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -197544,7 +197544,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -197583,7 +197583,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -197622,7 +197622,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -197978,7 +197978,7 @@ tbl = {
 			"^0000CCWeight:^000000 15",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -198151,7 +198151,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -198237,7 +198237,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -198265,7 +198265,7 @@ tbl = {
 			"^0000CCWeight:^000000 15",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -198540,7 +198540,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -199198,7 +199198,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^FF0000This item is not refundable.^000000",
 			"_______________________",
@@ -219121,7 +219121,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 369,
@@ -219146,7 +219146,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 369,
@@ -219171,7 +219171,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 369,
@@ -219265,7 +219265,7 @@ tbl = {
 			"^0000CCWeight:^000000 400",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 676,
@@ -219924,7 +219924,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 206,
@@ -219999,7 +219999,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 712,
@@ -220174,7 +220174,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 721,
@@ -220201,7 +220201,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 722,
@@ -220649,7 +220649,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 736,
@@ -220671,7 +220671,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 737,
@@ -220817,7 +220817,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 377,
@@ -220977,7 +220977,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 258,
@@ -221000,7 +221000,7 @@ tbl = {
 			"^0000CCWeight:^000000 9",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 745,
@@ -221134,7 +221134,7 @@ tbl = {
 			"^0000CCWeight:^000000 1",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 751,
@@ -221167,7 +221167,7 @@ tbl = {
 			"^0000CCWeight:^000000 1",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 752,
@@ -221200,7 +221200,7 @@ tbl = {
 			"^0000CCWeight:^000000 1",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 753,
@@ -221233,7 +221233,7 @@ tbl = {
 			"^0000CCWeight:^000000 1",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 754,
@@ -221258,7 +221258,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 755,
@@ -221482,7 +221482,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 727,
@@ -221634,7 +221634,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 766,
@@ -221675,7 +221675,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 125,
@@ -221748,7 +221748,7 @@ tbl = {
 			"^0000CCWeight:^000000 50",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 778,
@@ -221774,7 +221774,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 404,
@@ -222143,7 +222143,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 783,
@@ -222294,7 +222294,7 @@ tbl = {
 			"^0000CCWeight:^000000 70",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 660,
@@ -222531,7 +222531,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 802,
@@ -222555,7 +222555,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 194,
@@ -222758,7 +222758,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 25,
@@ -223036,7 +223036,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 817,
@@ -223346,7 +223346,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 863,
@@ -223633,7 +223633,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 862,
@@ -223993,7 +223993,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 865,
@@ -224075,7 +224075,7 @@ tbl = {
 			"^0000CCWeight:^000000 80",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 380,
@@ -224220,7 +224220,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 225,
@@ -224315,7 +224315,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 875,
@@ -225137,7 +225137,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 897,
@@ -225161,7 +225161,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 898,
@@ -225764,7 +225764,7 @@ tbl = {
 			"^0000CCWeight:^000000 25",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 809,
@@ -225796,7 +225796,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 919,
@@ -225951,7 +225951,7 @@ tbl = {
 			"^0000CCWeight:^000000 50",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 778,
@@ -226001,7 +226001,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 413,
@@ -226034,7 +226034,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 933,
@@ -226612,7 +226612,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 954,
@@ -226639,7 +226639,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 905,
@@ -226815,7 +226815,7 @@ tbl = {
 			"^0000CCWeight:^000000 50",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 962,
@@ -227096,7 +227096,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 977,
@@ -227359,7 +227359,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 569,
@@ -227381,7 +227381,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 446,
@@ -227403,7 +227403,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 446,
@@ -227589,7 +227589,7 @@ tbl = {
 			"^0000CCWeight:^000000 100",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 995,
@@ -228438,7 +228438,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1043,
@@ -228457,7 +228457,7 @@ tbl = {
 			"_______________________",
 			"LUK +10",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 20",
 			"_______________________",
@@ -228752,7 +228752,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1081,
@@ -229141,7 +229141,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 373,
@@ -229515,7 +229515,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1308,
@@ -230563,12 +230563,12 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hairband used in repeling Demon ritual.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 564,
@@ -231032,7 +231032,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1249,
@@ -231057,7 +231057,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1085,
@@ -231271,7 +231271,7 @@ tbl = {
 			"^0000CCWeight:^000000 12",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1117,
@@ -231304,7 +231304,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 875,
@@ -231625,7 +231625,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 459,
@@ -231648,7 +231648,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1304,
@@ -231680,7 +231680,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1308,
@@ -231717,7 +231717,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 568,
@@ -231752,7 +231752,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1308,
@@ -231809,7 +231809,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 720,
@@ -231999,7 +231999,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 394,
@@ -232143,7 +232143,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 27,
@@ -232164,7 +232164,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 65,
@@ -232212,7 +232212,7 @@ tbl = {
 			"^0000CCWeight:^000000 50",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 581,
@@ -232489,7 +232489,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1414,
@@ -232995,7 +232995,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 954,
@@ -233458,7 +233458,7 @@ tbl = {
 			"^0000CCWeight:^000000 150",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 347,
@@ -233506,7 +233506,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 480,
@@ -233533,7 +233533,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 368,
@@ -233572,7 +233572,7 @@ tbl = {
 			"^0000CCWeight:^000000 1",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 882,
@@ -233810,7 +233810,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1444,
@@ -233838,7 +233838,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1426,
@@ -233927,7 +233927,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1430,
@@ -233955,7 +233955,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1427,
@@ -233983,7 +233983,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1428,
@@ -234011,7 +234011,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1429,
@@ -234039,7 +234039,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1431,
@@ -234067,7 +234067,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1434,
@@ -234095,7 +234095,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1435,
@@ -234123,7 +234123,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1436,
@@ -234151,7 +234151,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1437,
@@ -234282,11 +234282,11 @@ tbl = {
 			"An imitation eyes contact based of Gemini-S58 eyes.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 8.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1456,
@@ -234419,7 +234419,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1527,
@@ -234828,7 +234828,7 @@ tbl = {
 			"^0000CCWeight:^000000 31",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1415,
@@ -234943,7 +234943,7 @@ tbl = {
 			"^0000CCWeight:^000000 80",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 497,
@@ -236021,7 +236021,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1596,
@@ -237595,11 +237595,11 @@ tbl = {
 			"An eye patch containing the great powers of Hatii.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 14.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1370,
@@ -237673,11 +237673,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Fashionable glasses that do not have an upper frame to hold the lens. The ideal item for fashionable users of glasses.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1670,
@@ -239340,7 +239340,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 90,
@@ -240255,7 +240255,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1830,
@@ -240694,7 +240694,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1117,
@@ -241333,11 +241333,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A simple mask with a smile carved into it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 65,
@@ -241350,11 +241350,11 @@ tbl = {
 		identifiedDisplayName = "Costume Sphinx Hat",
 		identifiedResourceName = "胶俏农胶葛磊",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 137,
@@ -241369,11 +241369,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A pair of goggles designed for pilots in order to Reduces vision impairment when traveling at very high speeds.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1,
@@ -241388,11 +241388,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"An exact replica of Munak's turban, complete with queue and talisman.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 51,
@@ -241407,11 +241407,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Glasses with special, darkened lenses that block ultraviolet light.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 12,
@@ -241426,11 +241426,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A narrow, short roll of finely cut tobacco wrapped in thin paper.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 54,
@@ -241445,11 +241445,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hairband utilizing a Feather from a Valkyrie Angel.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 300,
@@ -241480,11 +241480,11 @@ tbl = {
 		identifiedDisplayName = "Costume Gemmed Sallet",
 		identifiedResourceName = "陵倔秋抚",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -241883,11 +241883,11 @@ tbl = {
 			"_______________________",
 			"ATK +2, MATK +2.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 541,
@@ -241904,11 +241904,11 @@ tbl = {
 			"_______________________",
 			"FLEE +1",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 472,
@@ -241925,11 +241925,11 @@ tbl = {
 			"_______________________",
 			"DEX +1",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 640,
@@ -241947,11 +241947,11 @@ tbl = {
 			"VIT +1",
 			"Experience gain +1%",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 114,
@@ -241970,11 +241970,11 @@ tbl = {
 			"ATK +1%.",
 			"Increases ^009900Healing^000000 skills effectiveness by 1%.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 693,
@@ -241992,11 +241992,11 @@ tbl = {
 			"STR +1",
 			"Experience gain +1%",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 730,
@@ -242014,11 +242014,11 @@ tbl = {
 			"INT +1",
 			"Experience gain +1%",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 533,
@@ -242088,11 +242088,11 @@ tbl = {
 			"_______________________",
 			"AGI +1, FLEE +2",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 515,
@@ -242109,11 +242109,11 @@ tbl = {
 			"_______________________",
 			"HIT +1",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 259,
@@ -242393,11 +242393,11 @@ tbl = {
 			"_______________________",
 			"STR +1",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 334,
@@ -242414,11 +242414,11 @@ tbl = {
 			"_______________________",
 			"VIT +1",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 524,
@@ -242435,11 +242435,11 @@ tbl = {
 			"_______________________",
 			"AGI +1",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 525,
@@ -242456,11 +242456,11 @@ tbl = {
 			"_______________________",
 			"DEX +1",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 527,
@@ -242477,11 +242477,11 @@ tbl = {
 			"_______________________",
 			"DEX +1",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 528,
@@ -242498,11 +242498,11 @@ tbl = {
 			"_______________________",
 			"STR +1",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 530,
@@ -242517,11 +242517,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Mask of Buddhist disciple.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 545,
@@ -242536,11 +242536,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Decoding mask of me.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 546,
@@ -242557,11 +242557,11 @@ tbl = {
 			"_______________________",
 			"LUK +1",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 583,
@@ -242576,11 +242576,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Amatsu warrior Samurai wearing mask during the War time.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 644,
@@ -242597,11 +242597,11 @@ tbl = {
 			"_______________________",
 			"VIT +1",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 676,
@@ -242618,11 +242618,11 @@ tbl = {
 			"_______________________",
 			"STR +1",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 757,
@@ -242657,11 +242657,11 @@ tbl = {
 			"_______________________",
 			"LUK +1",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 759,
@@ -242678,11 +242678,11 @@ tbl = {
 			"_______________________",
 			"STR +1",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 770,
@@ -242699,11 +242699,11 @@ tbl = {
 			"_______________________",
 			"INT +1",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 771,
@@ -242824,11 +242824,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A red driver's hat decorated with white wings.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 613,
@@ -242843,11 +242843,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"The ornamental version of long dead Pharaoh Amset-Ra's headdress. It is lightweight and can be worn over your existing hat for decorative use.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 137,
@@ -242881,11 +242881,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"The fancy Cowboy hat of the western Cowboy.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 411,
@@ -242901,11 +242901,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"The mysterious mask of the roguish hero.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 50,
@@ -242994,11 +242994,11 @@ tbl = {
 			"A cute cat-looking hat which enhances its wearer's look.",
 			"Has a cat tail which emphasises the appearance.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 182,
@@ -243051,11 +243051,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A long piece of red satin tied together into a neat little ribbon that wards off harmful magic.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 246,
@@ -243090,11 +243090,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A wreath made with bright blue Leaves and Flowers to make you feel Fresh and rejuvenated.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 237,
@@ -243110,11 +243110,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A special geographer costume designed to rest nicely on your head.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 238,
@@ -243149,11 +243149,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A headgear that looks like flapping angel wings.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 264,
@@ -243169,11 +243169,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat that looks like the eyes of a dark Magician, which are rumored to blink sometimes.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 209,
@@ -243314,11 +243314,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A gangster's red scarf.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 369,
@@ -243406,11 +243406,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A mask shaped like a Whisper that feels like its always massaging your face so it ^333333might^000000 be good for your skin.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 321,
@@ -243426,11 +243426,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"An ornament wing created by Morgan Stanley's.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 366,
@@ -243482,11 +243482,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat that happens to match the Super Novice costume... absolutely perfectly.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 193,
@@ -243502,11 +243502,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A mask that imbued with the sweet whispers of Loki.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 346,
@@ -243522,11 +243522,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Wickebine's black cat ears.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 368,
@@ -243541,11 +243541,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cute headband that looks just like a pair of adorable puppy ears.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 199,
@@ -243579,7 +243579,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A flamboyant hat worn only by the strongest of pirates.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
@@ -243600,7 +243600,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"This type of cap is known to have been worn by a world famous detective. It feels like a Pipe would perfectly complement this cap for some reason.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
@@ -243639,11 +243639,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hairpin in the shape of a crescent.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 132,
@@ -243660,11 +243660,11 @@ tbl = {
 			"A hat made to honor Bijofnil, the legendary bird that lives above the Yggdrasil tree.",
 			"A hairpin in the shape of a crescent.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 477,
@@ -243715,11 +243715,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat made from animal fur. They keep your ears warm in the bitter cold of winter.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 287,
@@ -243754,7 +243754,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A strange device that was invented by an old craftsman, but has just recently been completed by his grandson.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
@@ -243811,11 +243811,11 @@ tbl = {
 		identifiedDisplayName = "Costume Poring Fedora Hat",
 		identifiedResourceName = "焊胶葛磊",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 919,
@@ -243970,11 +243970,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A pretty red ribbon decorated with a pink heart in the middle.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 211,
@@ -243990,11 +243990,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A forboding helmet that hides part of the face. People wearing this have the appearance of Beelzebub.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 233,
@@ -244051,11 +244051,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A Commemorative blindfold named after the most famous of Sages; Takius from the Ragnarok Anime.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 184,
@@ -244071,11 +244071,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A heavy looking hat with blue and silver jewery decorations. It will match with magnificent events.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 221,
@@ -244129,11 +244129,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A headgear made from leaves fallen from an enchanted tree.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 241,
@@ -244188,11 +244188,11 @@ tbl = {
 			"Enables Level 5 Maximize Power.",
 			"Deleted After the End of competition.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 194,
@@ -244208,11 +244208,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat worn by a well-known magician. Rabbit is peeping out and we don't know what is going to pop out next.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 497,
@@ -244321,11 +244321,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat just fit for summer vacation. It prevents face from tanning by the strong sunlight.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 315,
@@ -244360,11 +244360,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Marco's favorite hat. Inside you can find a short phrase Andrea had written, 'His memories to you...'.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 252,
@@ -244399,11 +244399,11 @@ tbl = {
 			"A hat worn by magicians. Rabbits are usually pulled out of this hat.",
 			"Pretty stout, it won't be destroyed easily.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 130,
@@ -244435,11 +244435,11 @@ tbl = {
 		identifiedDisplayName = "Costume Campus Festival",
 		identifiedResourceName = "绵力赣府鹅",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 721,
@@ -244475,11 +244475,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A Hat worn by Cookie Xmas, 'the idol of Toy Dungeon'. It covers the ears to protect from cold weather.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 217,
@@ -244531,11 +244531,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Valkyrie Reginleif Wings. The wearer will receive blessings from the gods.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 468,
@@ -244549,11 +244549,11 @@ tbl = {
 		identifiedDisplayName = "Costume Southern Cross",
 		identifiedResourceName = "辑傈农肺胶",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 601,
@@ -244567,11 +244567,11 @@ tbl = {
 		identifiedDisplayName = "Costume Piggie Bank",
 		identifiedResourceName = "蹬瘤历陛烹",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 603,
@@ -244603,11 +244603,11 @@ tbl = {
 		identifiedDisplayName = "Costume Benevolent Guardian",
 		identifiedResourceName = "冠局狼荐龋",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 716,
@@ -244657,11 +244657,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Colorful Poring hat, make all people love it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 900,
@@ -244712,11 +244712,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"White round eyes make you look innocent and cute.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 185,
@@ -244732,11 +244732,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A funny mask that children love to put on.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 253,
@@ -244752,11 +244752,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A silver shining hair accessory with a star at the center.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 218,
@@ -244883,11 +244883,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hair band decorated with small flowers.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 533,
@@ -244958,11 +244958,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"An old pipe needed for the perfect captain fashion.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 383,
@@ -244979,11 +244979,11 @@ tbl = {
 			"A cute hat stacked with popular monster porings.",
 			"It seems that Angelring, Mastering and Poring are standing in a line.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 299,
@@ -245105,11 +245105,11 @@ tbl = {
 		identifiedDisplayName = "Costume RWC Champ Crown 2nd",
 		identifiedResourceName = "rwc铰府狼空包_颇尔",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 903,
@@ -245250,11 +245250,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A white snake that balances naturally on your head. It's beady eyes stare into your soul.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 413,
@@ -245307,11 +245307,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hairband worn by Kafra staff.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 106,
@@ -245361,11 +245361,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cute doll shaped like Lady Tanee.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 520,
@@ -245417,11 +245417,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A butterfly shaped ribbon for girls, or pretty boys can wear it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 245,
@@ -245474,11 +245474,11 @@ tbl = {
 		identifiedDisplayName = "Costume Romantic Gent",
 		identifiedResourceName = "棵靛胶磐肺盖胶",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 31,
@@ -245568,11 +245568,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A festival hat shaped like a bread bag.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 412,
@@ -245588,11 +245588,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A bloody red rose in your lips. You should remove its thorns.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 534,
@@ -245612,7 +245612,7 @@ tbl = {
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 298,
@@ -245857,11 +245857,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"The horns imbued with full of Devil Spirit. Feels so tight and harsh.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 562,
@@ -245895,11 +245895,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat sculpted like Anubis, an egyptian god of the dead. It belongs to the holy priests who make a mummy.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 485,
@@ -245915,11 +245915,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A black huge ribbon looks tidy.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 642,
@@ -245970,11 +245970,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A mask worn by the despair of Thanatos. It seems very popular of its cute design.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 693,
@@ -245989,11 +245989,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A headgear jewelled with love jewels. You can find your true love with wearing it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 335,
@@ -246009,11 +246009,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A splendid soul ring with angel's blessing given to sincere believers.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 260,
@@ -246102,11 +246102,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A legendary veil which can be used by only truly loved couple.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 489,
@@ -246141,11 +246141,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat blessed by Holy Mother. It can bless other people even by self-sacrifice.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 610,
@@ -246161,11 +246161,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat shaped like a lily. It makes you calm and silent.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 312,
@@ -246311,11 +246311,11 @@ tbl = {
 		identifiedDisplayName = "Costume Wing Angels Ears",
 		identifiedResourceName = "玫荤朝俺蓖",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 158,
@@ -246389,11 +246389,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A headgear looks like the ears of a mischievous fairy.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 405,
@@ -246407,11 +246407,11 @@ tbl = {
 		identifiedDisplayName = "Costume Japan Winecup",
 		identifiedResourceName = "老夯贱儡",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 557,
@@ -246447,11 +246447,11 @@ tbl = {
 			"An interesting hat decorated with honeybee-like stripes and feelers.",
 			"You feel like gathering the honey!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 709,
@@ -246467,11 +246467,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cute hairpin shaped like an Angelring. When wearing this, you feel like a feather.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 222,
@@ -246487,11 +246487,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A laurel wreath used for the coronation of the emperor. It symbolizes glory and victory.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 261,
@@ -246524,11 +246524,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A headgear that looks like the ears of a mischievous fairy.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 998,
@@ -246599,11 +246599,11 @@ tbl = {
 			"_______________________",
 			"MaxHP +3%, MaxSP +3%.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 867,
@@ -246744,11 +246744,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"An eyepatch for those who would not like to look lovelier than a pirate.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 779,
@@ -246968,11 +246968,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat shaped like a white fox. People say that some east countries worship the white fox as a god.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 403,
@@ -246987,11 +246987,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat shaped like a fox with nine tails. It makes you warm, definitely.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 296,
@@ -247044,11 +247044,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A magic scroll which high class ninja use. It has a myterious power.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1045,
@@ -247100,11 +247100,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A blazing sun",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 654,
@@ -247119,11 +247119,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"This hat is for festival that represent west frontier in one country.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 411,
@@ -247159,11 +247159,11 @@ tbl = {
 			"Drinking beer after shower it is good~!!",
 			"Prohibition underager drinking",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 418,
@@ -247198,11 +247198,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Ice cream is best in hot summer. Be careful its may cause brain freeze.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 488,
@@ -247312,11 +247312,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hood for Necromencers wearing at their evil worships.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 491,
@@ -247332,11 +247332,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Corsage for a spooky outfit with a skeleton motif.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 491,
@@ -247369,11 +247369,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A yellow bandana wearing by a pacifist. Some bloods are on it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 309,
@@ -247586,11 +247586,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat to protect your eyes from sunshines.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 216,
@@ -247642,11 +247642,11 @@ tbl = {
 			"A hat worn by priests for their religious ceremony.",
 			"It resembls the ancient Asara fairy.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 492,
@@ -247662,11 +247662,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"You look very cunnniing with wearing this mask.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 403,
@@ -247699,11 +247699,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat symbolizes the sun with huge golden wings. Do not ask how you can walk while wearing it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 138,
@@ -247938,11 +247938,11 @@ tbl = {
 			"ASPD +1",
 			"Decreases SP Consumption by 5%.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 595,
@@ -247958,11 +247958,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Black and small cat shaped hardband. It looks like Wickebine from Moroc, but is would not move at all.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 141,
@@ -248015,11 +248015,11 @@ tbl = {
 			"Created by the legendary lobster hat.",
 			"Seems very much alive.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 728,
@@ -248212,11 +248212,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Wear this hat to be a show off!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 830,
@@ -248251,11 +248251,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A silk hat used in magic show.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 923,
@@ -248289,11 +248289,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A mysterious mask traditionally worn by opera phantoms.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 68,
@@ -248310,11 +248310,11 @@ tbl = {
 			"A hat which made to celebrate the festival.",
 			"^FF0000'Made especially for you.'^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 505,
@@ -248384,11 +248384,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A blindfold with scary eyes. It is said those eyes are moving sometimes.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 467,
@@ -248423,11 +248423,11 @@ tbl = {
 			"Every man chases you as soon as wearing this!",
 			"Increases your sex appeal 100%.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 267,
@@ -248443,11 +248443,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hairband with the shiny golden star.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 232,
@@ -248619,11 +248619,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A stylish formal hat that talented magicians usually wear during a show.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 112,
@@ -248639,11 +248639,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"What looks like a fried egg in a skillet is actually a furious Magnolia monster.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 373,
@@ -248659,11 +248659,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat named after the mysterious bird that sings at night.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 913,
@@ -248679,11 +248679,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Just an ordinary black magician's hat. For some reason, you feel somewhat extraordinary while wearing it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 912,
@@ -248698,11 +248698,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A ribbon once worn by a shrine maiden as she fought off hordes of demons and youkai.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 908,
@@ -248717,11 +248717,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat that promotes a sophisticated yet sleepy look.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 911,
@@ -248738,11 +248738,11 @@ tbl = {
 			"A headgear to commemorate pRO's 10th Anniversary!",
 			"Happy 10th Anniversary pRO!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1094,
@@ -248761,11 +248761,11 @@ tbl = {
 			"All Basic Stats +3",
 			"MDEF +3",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 261,
@@ -248784,11 +248784,11 @@ tbl = {
 			"All Basic Stats +2",
 			"MDEF +2",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 261,
@@ -248807,11 +248807,11 @@ tbl = {
 			"All Basic Stats +1",
 			"MDEF +1",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 261,
@@ -248829,11 +248829,11 @@ tbl = {
 			"_______________________",
 			"Has a low chance of dropping Sealed Envelopes when defeating any monster.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CC重量:^000000 10",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1097,
@@ -248849,11 +248849,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A surprisingly durable helmet that was crafted by expert Orcish smiths.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 86,
@@ -248946,11 +248946,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Horror image screw item.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 696,
@@ -248966,11 +248966,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Fascinating mask covers your identity.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 710,
@@ -248986,11 +248986,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Special hat made for the event motivated by national flags.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 219,
@@ -249510,11 +249510,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Carefully made by those responsible for the famous rabbit from the hat.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 549,
@@ -249547,11 +249547,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A fashion accessory used in clown or town drunk disguises.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 49,
@@ -249584,11 +249584,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hair band made by orchid and it smells like a scent of a flower.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 376,
@@ -249641,11 +249641,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume given only to the winner.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 685,
@@ -249661,11 +249661,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume given only to the winner.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 769,
@@ -249681,11 +249681,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A scarf with rainbow color.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 460,
@@ -249720,11 +249720,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat to celebrate RWC 2013 in Japan.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1136,
@@ -249740,11 +249740,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A curvy elegant and adorable tiara.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 914,
@@ -249759,11 +249759,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cardboard box with a peep hole. You can show others how you can adventure solo with no problem.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 450,
@@ -249779,11 +249779,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A bubble gum expanding like balloon. Can be blown very big depending on one's ability.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 572,
@@ -249853,11 +249853,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Cruiser's hat. It somehow gives an urge to march.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 420,
@@ -249891,11 +249891,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A Hat worn in church choir.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1137,
@@ -250185,11 +250185,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cute design boss hat.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1134,
@@ -250365,11 +250365,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A crown adorned with special crystals.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 866,
@@ -250385,11 +250385,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat designed after a fluffy monster Lunatic.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 521,
@@ -250405,11 +250405,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A woolly hat made for warming heads, but it seems that some people wear it for fashion.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 280,
@@ -250519,11 +250519,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Onigiri is a delicacy found only on the island nation of Amatsu. Various flavors accentuate the slightly sweet rice.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 774,
@@ -250540,11 +250540,11 @@ tbl = {
 			"A headgear to commemorate saLU-salo event!",
 			"Meet up, mingle and make friends, all in the name of online gaming fun.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1171,
@@ -250655,12 +250655,12 @@ tbl = {
 			"Cap with aura of mouse.",
 			"A hat which make you want to wander the nightlife.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1194,
@@ -250676,11 +250676,11 @@ tbl = {
 			"Cap with aura of mouse.",
 			"A hat which make you want to wander the nightlife.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1195,
@@ -250696,11 +250696,11 @@ tbl = {
 			"Cap with aura of mouse.",
 			"A hat which make you want to wander the nightlife.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1196,
@@ -250716,11 +250716,11 @@ tbl = {
 			"Cap with aura of mouse.",
 			"A hat which make you want to wander the nightlife.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1197,
@@ -250735,11 +250735,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"It is modeled after the popular Monster Sohee's accessories, and the large drops emphasize the cuteness.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 175,
@@ -250774,11 +250774,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A mask worn by a knight that used dark magic to curse anyone who wore it but him.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 479,
@@ -250795,11 +250795,11 @@ tbl = {
 			"Costume helmet made of heavy metal.",
 			"It is so profound that it seems that any attack is a slight movement.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 322,
@@ -250832,11 +250832,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Costume helmet made of dragon skull.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 319,
@@ -250907,11 +250907,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat for clothes made to imitate the hat worn by a great cook found in high-end restaurants.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 111,
@@ -251037,11 +251037,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A doll hat for costumes made in a cute way, imitating the beautiful celestial maiden, Bacsojin.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 461,
@@ -251056,11 +251056,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hair band for pretty clothes with a point shaped like a heart.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 708,
@@ -251095,11 +251095,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A beret for costumes dyed in red that only selected soldiers are allowed to wear.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 559,
@@ -251116,11 +251116,11 @@ tbl = {
 			"A ribbon for a costume tied in the shape of a beautiful butterfly.",
 			"Please note that women mainly decorate their hair, and men can be misleading.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 247,
@@ -251136,11 +251136,11 @@ tbl = {
 			"Hat full of the spirit of the cow.",
 			"It makes me feel wanting to have a cup of fresh milk.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1211,
@@ -251156,11 +251156,11 @@ tbl = {
 			"Hat full of the spirit of the cow.",
 			"It makes me feel wanting to have a cup of fresh milk.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1212,
@@ -251176,11 +251176,11 @@ tbl = {
 			"Hat full of the spirit of the cow.",
 			"It makes me feel wanting to have a cup of fresh milk.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1213,
@@ -251196,11 +251196,11 @@ tbl = {
 			"Hat full of the spirit of the cow.",
 			"It makes me feel wanting to have a cup of fresh milk.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1214,
@@ -251217,11 +251217,11 @@ tbl = {
 			"Costumes of sweet items prepared by the fairy candy for the Valentine's Day event.",
 			"You can enjoy the sweet taste by putting it in your mouth.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 569,
@@ -251238,11 +251238,11 @@ tbl = {
 			"Costumes of sweet items prepared by the fairy candy for the White Day event.",
 			"When I add it, I feel like a refined sweetness and aroma spread in my mouth.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 653,
@@ -251332,11 +251332,11 @@ tbl = {
 			"A blue rose that can never exist.",
 			"This is a total dream to make it to Genetics.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1064,
@@ -251386,11 +251386,11 @@ tbl = {
 		identifiedDisplayName = "Costume Alphonse Helm",
 		identifiedResourceName = "舅迄家狼捧备",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1207,
@@ -251406,11 +251406,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Wing ears for costumes made of beautiful butterfly wings.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 695,
@@ -251427,11 +251427,11 @@ tbl = {
 			"A historical costume crown worn by the princess of the ancient dynasty in the east when she was married.",
 			"The big rose is beautiful.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 583,
@@ -251447,11 +251447,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A flower ornament for costumes that seems to carry the power of the Earth Mother God.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 864,
@@ -251468,11 +251468,11 @@ tbl = {
 			"A costume hat that bears the name of the agile god \"Hermos\".",
 			"When you wear it, you feel like your body is lighter.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 478,
@@ -251507,11 +251507,11 @@ tbl = {
 			"Costume hat made with refreshing tropical fruits.",
 			"It's a decoration, so you can't eat even if you're hungry.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 329,
@@ -251635,11 +251635,11 @@ tbl = {
 			"A signpost that declares its wearer's desire that people should stop whatever they are doing.",
 			"Causes catastrophes during wedding ceremonies.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 59,
@@ -251674,11 +251674,11 @@ tbl = {
 			"Hat full of the most intelligent spirit of the white tiger.",
 			"Okay, but is comfortable this stuffed tiger.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 973,
@@ -251785,11 +251785,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A durable mask made from a fat metal plate that is usually worn by welders and Blacksmiths.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 79,
@@ -251805,11 +251805,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A durable safety helmet created to offer some protection from accidents.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 95,
@@ -251825,11 +251825,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"This mask marked with an \"X\" is a popular fashion item for bonafide street toughs.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 52,
@@ -251922,11 +251922,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hairband with PecoPeco wings that lends you a PecoPeco's speed.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 314,
@@ -252107,11 +252107,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Fashionable sunglasses for the costume, whose frame is a feather.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 925,
@@ -252127,11 +252127,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A berret decorated with white feather.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 741,
@@ -252164,11 +252164,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Hair accessories for costumes that are said to have been worn by a Shaman.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 476,
@@ -252184,11 +252184,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume that mimic the head of Dragon.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1242,
@@ -252204,11 +252204,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat for a costume in which a metal dragon is placed on the head.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1243,
@@ -252224,11 +252224,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat that resemble Mythlit.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1244,
@@ -252280,11 +252280,11 @@ tbl = {
 			"Dragon is part of 12 chinese zodiacs.",
 			"A shiny hat that resemble Dragon whose will grant any wish.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1245,
@@ -252300,11 +252300,11 @@ tbl = {
 			"Dragon is part of 12 chinese zodiacs.",
 			"A shiny hat that resemble Dragon whose will grant any wish.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1246,
@@ -252320,11 +252320,11 @@ tbl = {
 			"Dragon is part of 12 chinese zodiacs.",
 			"A shiny hat that resemble Dragon whose will grant any wish.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1247,
@@ -252340,11 +252340,11 @@ tbl = {
 			"Dragon is part of 12 chinese zodiacs.",
 			"A shiny hat that resemble Dragon whose will grant any wish.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1248,
@@ -252571,11 +252571,11 @@ tbl = {
 			"Outfitting equipment made to imitate the head of a horse-riding creature of the Northern peoples.",
 			"I feel like I can run faster if I wear it completely, but that's because of my anxiety.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1189,
@@ -252592,11 +252592,11 @@ tbl = {
 			"A panda in a cute outfit that doesn't let go of the master's head.",
 			"It seems that it clings so that it will not be shaken off even in a fierce battle.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1029,
@@ -252613,11 +252613,11 @@ tbl = {
 			"Equipment for costumes made by imitating Picki that came out by breaking the shell.",
 			"It's joyfully splashing.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1001,
@@ -252690,11 +252690,11 @@ tbl = {
 			"Light-shielding glass for costumes used during hunting.",
 			"Don't lose sight of your target even in strong sunlight.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 813,
@@ -252711,11 +252711,11 @@ tbl = {
 			"A mortarboard with a symbol of death written mainly on the pirate flag.",
 			"There is a personality suitable for the champion of the sea.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 962,
@@ -252730,11 +252730,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Snake is part of 12 chinese zodiacs.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1258,
@@ -252749,11 +252749,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Snake is part of 12 chinese zodiacs.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1259,
@@ -252961,11 +252961,11 @@ tbl = {
 			"Eyeglasses for clothes made in the shape of an eye with greatly raised outer corners of the eyes.",
 			"When the opposite sex has such eyes, it seems better to apologize for the time being.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 63,
@@ -253018,11 +253018,11 @@ tbl = {
 			"Mask for the costume worn by the hatred of Tanatos.",
 			"It has a charming design.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 667,
@@ -253039,11 +253039,11 @@ tbl = {
 			"A helm worn by the Abysmal Knight.",
 			"It is highly resistant to strong attacks, but is said to be mysteriously fragile against weak attacks.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 371,
@@ -253060,11 +253060,11 @@ tbl = {
 			"A helmet for clothing worn by firefighters working in dangerous fire scenes.",
 			"Because it's for costumes, it's not as durable as an actual helmet.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 655,
@@ -253080,11 +253080,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"It looks like a Poporing, but don't worry about the poison!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 361,
@@ -253119,11 +253119,11 @@ tbl = {
 			"Income for the costume that the head part of the clock tower administrator was fashionably designed.",
 			"The rotating earpiece is unique.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1266,
@@ -253193,11 +253193,11 @@ tbl = {
 			"^000088Rental Item^000000",
 			"A crown to celebrate 12 anniversary, it has a sacred aura.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1117,
@@ -253213,11 +253213,11 @@ tbl = {
 			"^000088Rental Item^000000",
 			"A fairy ears to celebrate 12 anniversary with sacred aura all over it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 875,
@@ -253232,11 +253232,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A wick-like ornament worn on top of the head for a dangerous look.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 66,
@@ -253251,11 +253251,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat which looks like the face of a sea-otter.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 162,
@@ -253271,11 +253271,11 @@ tbl = {
 			"Hat with spirits of 12 chinese zodiacs.",
 			"A high class production luxury hairpin.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1271,
@@ -253291,11 +253291,11 @@ tbl = {
 			"Hat with spirits of 12 chinese zodiacs.",
 			"A high class production luxury hairpin.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1272,
@@ -253311,11 +253311,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A device that can measure opponent's power. Commoners have power Level 5. Heroes have a power Level over 9,000!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 337,
@@ -253330,11 +253330,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"70's tough guy style sunglasses that give its wearer a manly swagger.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 92,
@@ -253350,11 +253350,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A lollipop bitten in the mouth. Make sure to brush your teeth after having it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 446,
@@ -253441,11 +253441,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"\"One for all and all for one\" is inscribed on the inside of this extravagant hat.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 466,
@@ -253694,11 +253694,11 @@ tbl = {
 			"Hat full of positive energy from 12 zodiacs.",
 			"made from clean and pure white wool.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1277,
@@ -253714,11 +253714,11 @@ tbl = {
 			"Hat full of positive energy from 12 zodiacs.",
 			"made from clean and pure white wool.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1278,
@@ -253755,11 +253755,11 @@ tbl = {
 			"A costume hat modeled after the Tendrilion.",
 			"When you wear it, you feel like you have become the king of a different world.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 658,
@@ -253979,11 +253979,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat with a gaping mouth and plain eyes.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1290,
@@ -253998,11 +253998,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A wreath of wildflowers made by a woman in love.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 94,
@@ -254126,11 +254126,11 @@ tbl = {
 			"Sunglasses for costumes that are more powerful than you can imagine in terms of a refreshing feeling of wear and the effect of focusing your eyes.",
 			"It looks nice if someone with a certain sense wears it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 131,
@@ -254163,11 +254163,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A circlet blessed by Freya, mother of Baldur.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 251,
@@ -254183,11 +254183,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hood that is one of the three keys to the seal which binds Morpheus.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 256,
@@ -254203,11 +254203,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"One of the few armors that was forged by Goibne the blacksmith.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 258,
@@ -254278,11 +254278,11 @@ tbl = {
 			"Wheat, a food crop, is used as a costume.",
 			"I can't eat it, but when I hold it in my mouth, I get hungry.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 711,
@@ -254299,11 +254299,11 @@ tbl = {
 			"A costume helmet that imitates a lion, the king of beasts.",
 			"I feel that I can exert exceptional power when I wear it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 202,
@@ -254512,11 +254512,11 @@ tbl = {
 			"Hat that resemble chicken, one of 12 zodiacs",
 			"Its cute and boost mood of its wearer.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1296,
@@ -254585,11 +254585,11 @@ tbl = {
 			"Hat that resemble chicken, one of 12 zodiacs",
 			"Its cute and boost mood of its wearer.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1297,
@@ -254605,11 +254605,11 @@ tbl = {
 			"Hat that resemble chicken, one of 12 zodiacs",
 			"Its cute and boost mood of its wearer.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1298,
@@ -254643,11 +254643,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Costume equipment that imitates the evil eye of Giant Frungnir who fought with Thor, the thunder god.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 345,
@@ -254701,11 +254701,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat for a costume made with reference to the shape of a terrifying book that attacks people.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 890,
@@ -254897,11 +254897,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat made to look like a husky's face. Makes you want to pet it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1016,
@@ -254917,7 +254917,7 @@ tbl = {
 			"A good place to store spare change. You never know when you might need zeny here or there for a potion.",
 			"Pig one of 12 zodiacs.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
@@ -254938,11 +254938,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Costume hair ornaments worn by people in some eastern countries when they invite God for the New Year.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1155,
@@ -254958,11 +254958,11 @@ tbl = {
 			"A mask that showing the deep sorrows for losing everything.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 5.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 936,
@@ -255214,11 +255214,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"This mask, which is symbolic of Zealotus, mistress of the Glast Heim Underground Prison.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 200,
@@ -255234,11 +255234,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hairpin which resembles the shape of a cat's paw.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 447,
@@ -255512,11 +255512,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A small, star shaped hairclip that makes a great present for ladies.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 81,
@@ -255533,11 +255533,11 @@ tbl = {
 			"Hair band for costumes with a cross accessory on top.",
 			"Light and cute.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 121,
@@ -255773,11 +255773,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cute \"Bear Hat\" dressed in white chocolate by Criolo, the fairy queen of sweets.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 966,
@@ -255794,11 +255794,11 @@ tbl = {
 			"A hair band for clothes that looks like your head glows when equipped.",
 			"But don't worry, it doesn't reflect light.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 332,
@@ -255815,11 +255815,11 @@ tbl = {
 			"Among the mushrooms that grow in damp shade, a hair band for costumes made by using mushrooms that happened to grow long.",
 			"Of course I can't eat.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 166,
@@ -255910,11 +255910,11 @@ tbl = {
 			"A special outfit hat with a pure white color that is given only to excellent students.",
 			"Wearing this hat gives you the confidence to face things you are not good at.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 977,
@@ -255930,11 +255930,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat given to standout student.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 877,
@@ -256006,11 +256006,11 @@ tbl = {
 			"Only the bottom of glasses attached with frame, its cool and stylish.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 7.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1332,
@@ -256100,11 +256100,11 @@ tbl = {
 			"Thoth is the secretary of the gods but is also said to have invented the musical instrument.",
 			"There are many benefits to wearing a mask... Maybe.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 860,
@@ -256121,11 +256121,11 @@ tbl = {
 			"Let's take a look at the ramen made by Sarah, who had been removed from her mother, and put them into costumes to put on her head.",
 			"^FF0000Don't spill it.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1338,
@@ -256216,11 +256216,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume hat with a motif of Mukha living in the Sograt Desert.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 615,
@@ -256292,11 +256292,11 @@ tbl = {
 			"A doll with Savage Bebe dyed in gold as a costume.",
 			"It's a cute doll, but when I stare at it, I get hungry for some reason.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 648,
@@ -256333,11 +256333,11 @@ tbl = {
 			"A Mandragora has bloomed on this hat.",
 			"Don't even think about plucking the flower!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 402,
@@ -256352,11 +256352,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat created in the form of Smokie the Raccoon Monster.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 118,
@@ -256390,11 +256390,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A strange hat that seems to be attracted to people skilled in the arts...",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1344,
@@ -256431,11 +256431,11 @@ tbl = {
 			"_______________________",
 			"^ff0000This item can not be traded with other accounts.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1348,
@@ -256450,11 +256450,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A booster developed and discovered in Juperos ruins that increases magical power. Its made from unknown material.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 873,
@@ -256470,11 +256470,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Eye patch for costume made to imitate the evil eye of the devil Valor.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 989,
@@ -256508,11 +256508,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A sunglasses that give futuristic feeling.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 856,
@@ -256623,11 +256623,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A boldly red bandana that was possibly left over from the 80's.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 62,
@@ -256663,11 +256663,11 @@ tbl = {
 			"Outfitting equipment that imitates the head parts worn by Otto.",
 			"Very warm and excellent in heat retention.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 540,
@@ -256685,11 +256685,11 @@ tbl = {
 			"_______________________",
 			"^006400Since it is an equipped effect, it still will be displayed even when the effect (/effect) is turned off.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1074,
@@ -256837,11 +256837,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"This hat is coming from an old soldier who used to live in the desert.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 567,
@@ -256857,11 +256857,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Ribbon for pure white clothes that further emphasizes neatness.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1175,
@@ -256877,11 +256877,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume represent the figure of family.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 650,
@@ -256898,11 +256898,11 @@ tbl = {
 			"A costume controller needed to control something.",
 			"It doesn't move on its own... it looks like.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1305,
@@ -256936,11 +256936,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A variety of fruits cut into bite-sized pieces and covered in sugar. It starts with a sweet and crisp texture and ends with a refreshing fruit, making you feel less guilty about eating sweets.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 855,
@@ -256976,11 +256976,11 @@ tbl = {
 			"A hat that imitates a rare octopus dressed in a fluorescent color, longing for the rainbow.",
 			"For the time being, it seems that I tried to shine it from my legs.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1007,
@@ -257035,11 +257035,11 @@ tbl = {
 			"A wig that always bouncing whenever you move.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 8.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1372,
@@ -257114,11 +257114,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"There is rumor that this protector contain a Seagod's power.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 960,
@@ -257134,11 +257134,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A child doll that reproduces the appearance of a Permeter.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 694,
@@ -257154,11 +257154,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cute hat of Poring pirate.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 726,
@@ -257173,11 +257173,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Fashionable hat with a wide brim,which is very efficient to block strong sunrays.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 117,
@@ -257228,11 +257228,11 @@ tbl = {
 			"A wig that always bouncing whenever you move.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 8.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1383,
@@ -257248,11 +257248,11 @@ tbl = {
 			"A wig that always bouncing whenever you move.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 8.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1384,
@@ -257268,11 +257268,11 @@ tbl = {
 			"A wig that always bouncing whenever you move.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 8.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1385,
@@ -257288,11 +257288,11 @@ tbl = {
 			"A wig that always bouncing whenever you move.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 8.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1386,
@@ -257308,11 +257308,11 @@ tbl = {
 			"A wig that always bouncing whenever you move.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 8.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1387,
@@ -257328,11 +257328,11 @@ tbl = {
 			"A wig that always bouncing whenever you move.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 8.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1388,
@@ -257613,11 +257613,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A limited costume to celebrate RO's 13th anniversary.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 581,
@@ -257650,11 +257650,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Leftover piece of watermelon, scraped clean.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 690,
@@ -257686,11 +257686,11 @@ tbl = {
 		identifiedDisplayName = "Costume Ignis Cap",
 		identifiedResourceName = "捞弊聪胶母",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 803,
@@ -257744,11 +257744,11 @@ tbl = {
 		identifiedDisplayName = "Costume Sky Met",
 		identifiedResourceName = "胶墨捞镐",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 868,
@@ -257820,11 +257820,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A doll resemble the FAW Silver Sniper.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1407,
@@ -257861,11 +257861,11 @@ tbl = {
 			"A tiara that look similiar to Douce's headdress.",
 			"It's made from different material and technology from this world.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1410,
@@ -257881,11 +257881,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A helm made for honoring war veteran.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 677,
@@ -257901,11 +257901,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hair accessory that looks like an 'X.'",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 163,
@@ -257918,11 +257918,11 @@ tbl = {
 		identifiedDisplayName = "Costume Ayam",
 		identifiedResourceName = "酒句",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 228,
@@ -257954,11 +257954,11 @@ tbl = {
 		identifiedDisplayName = "Costume Goblin Mask",
 		identifiedResourceName = "绊喉赴练啊搁",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 84,
@@ -258027,11 +258027,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat awarded to honorable person in black school of chef.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1411,
@@ -258066,11 +258066,11 @@ tbl = {
 			"A cute tree spirit hat.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 8.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 939,
@@ -258140,11 +258140,11 @@ tbl = {
 		identifiedDisplayName = "Costume Ichthys Rosario",
 		identifiedResourceName = "己胶矾款肺荤府坷",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1028,
@@ -258198,11 +258198,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A Dolor of Thanatos laying on your head. It's rumored that the doll is trying to speak with his owner.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 547,
@@ -258317,11 +258317,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"You feel something heavy over your shoulders, but there's nothing there! It gives off a creepy feeling.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1091,
@@ -258337,11 +258337,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Headgear made of the skull of dregon. So hard that it does not easily break.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 401,
@@ -258394,11 +258394,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Piamette's brown ears cap. It's a favorite among children.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1031,
@@ -258432,11 +258432,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume given to the winner.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 577,
@@ -258848,11 +258848,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A knitted hat with Angelring on top.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 953,
@@ -258886,11 +258886,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A marvelous abacus that can recognize worthy of things.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 825,
@@ -258964,11 +258964,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume that imitate the rice cake.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1449,
@@ -258983,11 +258983,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A silver helmet named after the legendary Unicorn beast.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1375,
@@ -259003,11 +259003,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat that wear on anniversary event.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 599,
@@ -259024,11 +259024,11 @@ tbl = {
 			"A candle used for praying after donating to the temple.",
 			"You can feel an aura of the temple holiness on it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 113,
@@ -259043,11 +259043,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"An easter egg with two red bunny ears.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1339,
@@ -259172,11 +259172,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A large piece of cloth, usually polka dotted, that is wrapped around goods which are then carried on the head.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 108,
@@ -259192,11 +259192,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hair ornament worn by ancient queens.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 164,
@@ -259322,11 +259322,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume made based of Creamy's wings.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1037,
@@ -259401,11 +259401,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A glasses without lens, worn for fashion purpose.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1467,
@@ -259480,11 +259480,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A horn symbol of demon.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 554,
@@ -259517,11 +259517,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"An orange colored tulip hairpin.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 499,
@@ -259556,11 +259556,11 @@ tbl = {
 			"Safety helmet where a headlight is attached on the forehead,for seeing things in the dark.",
 			"It possesses strong durability,which bears most of impact.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 116,
@@ -259577,11 +259577,11 @@ tbl = {
 			"A hat made in the image of a banana peel, the key ingredient for the most basic practical joke since time immemorial.",
 			"Just looking at it causes a primal reaction of pure rage.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 197,
@@ -259618,11 +259618,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A stylish cape.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1464,
@@ -259641,11 +259641,11 @@ tbl = {
 			"_______________________",
 			"^ff0000Rental Costume Chicken Headgear] can only be sold to NPC's.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1465,
@@ -259663,11 +259663,11 @@ tbl = {
 			"_______________________",
 			"^ff0000Rental Costume Royal Rabbit Crown can only be sold to NPC's.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1466,
@@ -259685,11 +259685,11 @@ tbl = {
 			"_______________________",
 			"^ff0000Rental Costume Smiley Eyes can only be sold to NPC's.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1467,
@@ -259707,11 +259707,11 @@ tbl = {
 			"_______________________",
 			"^ff0000Rental Costume Gamble Feather Hat can only be sold to NPC's.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1468,
@@ -259802,11 +259802,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Wear it will scare the surrounding people!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 852,
@@ -259972,11 +259972,11 @@ tbl = {
 		identifiedDisplayName = "Costume Unidentified Flying Poring",
 		identifiedResourceName = "ufo器傅葛磊",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1017,
@@ -260081,11 +260081,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"White wings of a holy Archangel.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1,
@@ -260258,11 +260258,11 @@ tbl = {
 		identifiedDisplayName = "Costume Adventurer's Backpack",
 		identifiedResourceName = "葛氰啊硅扯",
 		identifiedDescriptionName = {
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2,
@@ -260377,11 +260377,11 @@ tbl = {
 			"_______________________",
 			"^ff0000Can only be sold to NPCs.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -260510,11 +260510,11 @@ tbl = {
 			"- When using a disappearing skill such as \"Hiding\", the effect will not be visible to other players.",
 			"- Even when equipped with an adopted character, the same effect as a normal character will be displayed.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1500,
@@ -260527,15 +260527,15 @@ tbl = {
 		identifiedDisplayName = "时装粉色蝴蝶翅膀",
 		identifiedResourceName = "C_PinkButterfly_Wing",
 		identifiedDescriptionName = {
-			"Pink Costume Wings that look like the wings of a butterfly.",
-			"It is said to be modeled after the fairy's wings.",
-			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 16.",
+			"粉色时装翅膀，外形类似蝴蝶的翅膀。",
+			"据说其设计灵感来自妖精的翅膀。",
+			"可向<NAVI>[设计师海丹]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>兑换时装附魔石箱16。",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 38,
@@ -260554,11 +260554,11 @@ tbl = {
 			"_______________________",
 			"^000088The graphic is reflected on the character.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 25,
@@ -260726,11 +260726,11 @@ tbl = {
 			"_______________________",
 			"^006400Since it is an equipped effect, it still will be displayed even when the effect (/effect) is turned off.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -260750,11 +260750,11 @@ tbl = {
 			"_______________________",
 			"^006400Since it is an equipped effect, it still will be displayed even when the effect (/effect) is turned off.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -261406,11 +261406,11 @@ tbl = {
 			"_______________________",
 			"^008080Displays the visual on the character's back.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 175,
@@ -261426,11 +261426,11 @@ tbl = {
 			"This is a costume given to those who participated in ROS in 2023.",
 			"The flaming pirate cloak design expresses the passion of users who participated in ROS.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 198,
@@ -262063,7 +262063,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 5,
@@ -262770,7 +262770,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 3,
@@ -262843,7 +262843,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 5,
@@ -263234,7 +263234,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -263255,7 +263255,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 10,
@@ -263443,7 +263443,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -263563,7 +263563,7 @@ tbl = {
 			"^0000CCWeight:^000000 70",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -263609,7 +263609,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -263635,7 +263635,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -263661,7 +263661,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -263719,7 +263719,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 4,
@@ -263740,7 +263740,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1,
@@ -263761,7 +263761,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -263787,7 +263787,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -264164,7 +264164,7 @@ tbl = {
 			"^0000CCWeight:^000000 15",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -264359,7 +264359,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 4,
@@ -264392,7 +264392,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 4,
@@ -264513,7 +264513,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 4,
@@ -264578,7 +264578,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -265046,7 +265046,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 18,
@@ -265175,7 +265175,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 8,
@@ -266059,7 +266059,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 19,
@@ -267250,7 +267250,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -269185,11 +269185,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A mask of the East, modeled after a lion. The lion's eyes wide open, as if to be scared, are scary.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 231,
@@ -269215,11 +269215,11 @@ tbl = {
 			"Increases Damage against monsters of every element and size by 15%.",
 			"^ff0000(Item effects will be deleted when the event ends.)^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2494,
@@ -270067,7 +270067,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -270095,7 +270095,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -270231,7 +270231,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -270904,7 +270904,7 @@ tbl = {
 			"^0000CCWeight:^000000 20",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -271121,7 +271121,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -271147,7 +271147,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -271173,7 +271173,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -271199,7 +271199,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -290512,7 +290512,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"^0000CCWeight:^000000 1"
 		},
@@ -307910,7 +307910,7 @@ tbl = {
 			"^0000CCType:^000000 Shadow Weapon",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -307932,7 +307932,7 @@ tbl = {
 			"^0000CCType:^000000 Shadow Shield",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -307958,7 +307958,7 @@ tbl = {
 			"^0000CCType:^000000 Shadow Armor",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -307980,7 +307980,7 @@ tbl = {
 			"^0000CCType:^000000 Shadow Shoes",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -308001,7 +308001,7 @@ tbl = {
 			"^0000CCType:^000000 Shadow Earring",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -308022,7 +308022,7 @@ tbl = {
 			"^0000CCType:^000000 Shadow Pendant",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -308724,7 +308724,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shield",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -308749,7 +308749,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Armor",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -308774,7 +308774,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shoes",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -308811,7 +308811,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Weapon",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -308836,7 +308836,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Pendant",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -308861,7 +308861,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Earring",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -308901,7 +308901,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Armor",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -308926,7 +308926,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shoes",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -308966,7 +308966,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Earring",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -308991,7 +308991,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Pendant",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309019,7 +309019,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shield",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309043,7 +309043,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shield",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309184,7 +309184,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Weapon",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309391,7 +309391,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Weapon",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309417,7 +309417,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shield",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309447,7 +309447,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Armor",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309470,7 +309470,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shoes",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309500,7 +309500,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Earring",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309523,7 +309523,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Pendant",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309552,7 +309552,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Weapon",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309578,7 +309578,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shield",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309607,7 +309607,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Weapon",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309633,7 +309633,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shield",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309662,7 +309662,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Weapon",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309688,7 +309688,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shield",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309717,7 +309717,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Weapon",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309743,7 +309743,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shield",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309772,7 +309772,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Weapon",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309798,7 +309798,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shield",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309827,7 +309827,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Weapon",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309853,7 +309853,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shield",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309879,7 +309879,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shoes",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309912,7 +309912,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Armor",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309938,7 +309938,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Pendant",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -309971,7 +309971,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Earring",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -310004,7 +310004,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shield",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -310036,7 +310036,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Weapon",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -310065,7 +310065,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Weapon",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -310082,7 +310082,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Armor",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -310099,7 +310099,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Weapon",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -310116,7 +310116,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shield",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -310133,7 +310133,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Shoes",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -310150,7 +310150,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Earring",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -310167,7 +310167,7 @@ tbl = {
 			"_______________________",
 			"^0000CCType:^000000 Shadow Pendant",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -319131,7 +319131,7 @@ tbl = {
 			"A stone that can absorb SP.",
 			"Adds enhancement on garment costume.",
 			"Adds 2% chance of absorbing 1% damage as SP.",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -319149,7 +319149,7 @@ tbl = {
 			"A stone that can absorb HP.",
 			"Adds enhancement on garment costume.",
 			"Adds 2% chance of absorbing 3% damage as HP.",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -342752,7 +342752,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -342772,7 +342772,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -343084,7 +343084,7 @@ tbl = {
 			"^0000CCWeight:^000000 1",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -343230,7 +343230,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -343252,7 +343252,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -343278,7 +343278,7 @@ tbl = {
 			"^0000CCWeight:^000000 5",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -343304,7 +343304,7 @@ tbl = {
 			"^0000CCWeight:^000000 5",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -343330,7 +343330,7 @@ tbl = {
 			"^0000CCWeight:^000000 5",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -343356,7 +343356,7 @@ tbl = {
 			"^0000CCWeight:^000000 5",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -343382,7 +343382,7 @@ tbl = {
 			"^0000CCWeight:^000000 5",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -343406,7 +343406,7 @@ tbl = {
 			"^0000CCWeight:^000000 5",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -343498,7 +343498,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -344703,7 +344703,7 @@ tbl = {
 			"^0000CCWeight:^000000 5",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -344765,7 +344765,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -345587,7 +345587,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -352193,7 +352193,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1,
@@ -352217,7 +352217,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1,
@@ -352914,7 +352914,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1,
@@ -362818,11 +362818,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hood for a costume that contains the symbols of pirates.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 592,
@@ -362839,11 +362839,11 @@ tbl = {
 			"A cursed outfit hair band that contains the grudges of a merchant who lost everything and went bankrupt.",
 			"The person who wears it can feel the heart of the person who lost the money, and it feels like the whole body is wrapped in sadness and falls into the edge of despair, but he can recover again. A mysterious hair band in which the ability of the wearer is amplified by fighting spirit.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 107,
@@ -362858,11 +362858,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat worn by officials who were called 'Sato' in the ancient East.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 227,
@@ -362879,11 +362879,11 @@ tbl = {
 			"It's a pale green costume hat, and it's cool that it's a little slanted.",
 			"It was a symbol of a famous unit.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 226,
@@ -362899,11 +362899,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Bandana for fashionable outfits designed with two types of red checks.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1174,
@@ -362920,11 +362920,11 @@ tbl = {
 			"A red crown for costumes that imitates the crown that is a symbol of the greatness of the old King Groza.",
 			"Since it is used for ceremonies, it has no special effect, but it is said that those who wear a crown will walk the way to glorious glory.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1491,
@@ -362965,11 +362965,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hairband decorated with a cute kitten doll. The lace makes it even cuter!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 816,
@@ -363005,11 +363005,11 @@ tbl = {
 			"A ribbon for a costume tied in the shape of a beautiful butterfly.",
 			"Please note that this is mainly for women to decorate their hair and may be misleading for men.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 248,
@@ -363026,11 +363026,11 @@ tbl = {
 			"A stuffed toy that you can put on your head and walk.",
 			"When I hear the cat crying somewhere, I feel like I was moving above my head.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 276,
@@ -363128,11 +363128,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume hat designed by combining a corolla and Merlin.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 948,
@@ -363148,11 +363148,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume hat designed by combining a corolla and a Poring of gold.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1236,
@@ -363224,11 +363224,11 @@ tbl = {
 			"A sting-shaped costume hat created by a first-class hat craftsman.",
 			"The soul of the craftsman has stayed in, and it is about to start moving.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 504,
@@ -363541,11 +363541,11 @@ tbl = {
 			"Twin roll hair with curled vertically.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 11.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1511,
@@ -363562,11 +363562,11 @@ tbl = {
 			"Twin roll hair with curled vertically.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 11.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1512,
@@ -363583,11 +363583,11 @@ tbl = {
 			"Twin roll hair with curled vertically.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 11.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1513,
@@ -363604,11 +363604,11 @@ tbl = {
 			"Twin roll hair with curled vertically.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 11.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1514,
@@ -363625,11 +363625,11 @@ tbl = {
 			"Twin roll hair with curled vertically.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 11.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1515,
@@ -363646,11 +363646,11 @@ tbl = {
 			"Twin roll hair with curled vertically.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 11.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1516,
@@ -363667,11 +363667,11 @@ tbl = {
 			"Twin roll hair with curled vertically.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 11.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1517,
@@ -363688,11 +363688,11 @@ tbl = {
 			"Twin roll hair with curled vertically.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 11.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1518,
@@ -363861,11 +363861,11 @@ tbl = {
 			"A replica of Dwarf's beard.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 10.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1349,
@@ -363939,11 +363939,11 @@ tbl = {
 			"Randomly gains a certain amount of Zenyeach time a monster is killed.",
 			"Created to celebrate the launch of Ragnarok Clicker!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1528,
@@ -363996,11 +363996,11 @@ tbl = {
 			"A dice for a costume worn on the head.",
 			"It seems that the power of magic can change the outcome.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 494,
@@ -364016,11 +364016,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A colaboration headdress of ECOxRO. It's resembles the horns of great demon Baphomet.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1532,
@@ -364036,11 +364036,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A colaboration headdress of ECOxRO. It's imitate the dog ears of Bau Alma.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1533,
@@ -364056,11 +364056,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A colaboration headdress of ECOxRO. It's imitate the bunny Ears of Minnie Doe Alma.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1534,
@@ -364076,11 +364076,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A colaboration headdress of ECOxRO. It's imitate the fox ears of Tamamo Loa.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1535,
@@ -364096,11 +364096,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A colaboration headdress of ECOxRO. It's imitate the headdress of Ontama Aria.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1536,
@@ -364116,11 +364116,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A colaboration headdress of ECOxRO. It's imitate the hat of Dumpty Alma.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1537,
@@ -364136,11 +364136,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A colaboration headdress of ECOxRO.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1538,
@@ -364156,11 +364156,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A colaboration headdress of ECOxRO.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1539,
@@ -364176,11 +364176,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A colaboration headdress of ECOxRO.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1540,
@@ -364196,11 +364196,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A colaboration headdress of ECOxRO.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 722,
@@ -364234,11 +364234,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"An eyepatch created by legendary blacksmith.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 697,
@@ -364254,11 +364254,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"An eyepatch created by legendary blacksmith.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 698,
@@ -364274,11 +364274,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A headband worn by doctor to examine his patient.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 60,
@@ -364294,11 +364294,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A property of theater. Used by putting this on top of dying actor's head.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 80,
@@ -364333,11 +364333,11 @@ tbl = {
 			"A mask wore by assassin organization.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 11.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 984,
@@ -364353,11 +364353,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Talented Wizard's magic hat. It looks weird, but works just fine.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 285,
@@ -364543,11 +364543,11 @@ tbl = {
 			"It looks like he is suffering.",
 			"It seems to be used to surprise people with a bad taste.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 75,
@@ -364563,11 +364563,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat that usually worn by Indian people.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 96,
@@ -364583,11 +364583,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A ceremonial hat worn by monks that contains a sacred force which offers protection from evil.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 35,
@@ -364660,11 +364660,11 @@ tbl = {
 			"A small costume crown with gorgeous decoration.",
 			"The design is designed to maintain dignity while not forgetting its cuteness.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 707,
@@ -364795,11 +364795,11 @@ tbl = {
 			"_______________________",
 			"^006400Since it is an equipped effect, it still will be displayed even when the effect (/effect) is turned off.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1309,
@@ -365007,11 +365007,11 @@ tbl = {
 			"Small and adorable compared to the original top hat.",
 			"If you wear this, you will be transformed into a cute thief!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1567,
@@ -365027,11 +365027,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat with ordinary design.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 14,
@@ -365047,11 +365047,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"And around and around they go!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 27,
@@ -365066,11 +365066,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"When the dead say that they are going to heaven, there is no ability to say that they are invisible to wear with a hat made after the ring that floats on their head.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 69,
@@ -365124,11 +365124,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A mask rumored to make its wearer ferociously aggressive.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 181,
@@ -365161,11 +365161,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat that looks like a sheep's head that is so adorable, an enemy might change his mind about attacking.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 205,
@@ -365280,11 +365280,11 @@ tbl = {
 			"When equipped with Costume Santa's Beard:",
 			"Random chance to transform wearer into Sock Smokie.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 486,
@@ -365299,11 +365299,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A wing-shaped ornament that bearing the power of wind.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 493,
@@ -365356,11 +365356,11 @@ tbl = {
 			"A doll for costume made to imitate a parakeet whose both cheeks are colored orange.",
 			"It is called a parakeet, but in reality, it seems to be a member of the parrot...",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 419,
@@ -365377,11 +365377,11 @@ tbl = {
 			"A paper bag for clothes that was created during the process of making bread bags.",
 			"It creates an unpleasant atmosphere because you can see it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 429,
@@ -365398,11 +365398,11 @@ tbl = {
 			"A hat for clothes that is said to have been made by a hat shop that loves strawberries.",
 			"There is a faint sweet smell.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 755,
@@ -365532,11 +365532,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat for costumes worn by the northern cavalry people.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 529,
@@ -365741,11 +365741,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A doll that resemble the minister of El Dicastes.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1590,
@@ -365761,11 +365761,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Wear it on your head. The propeller for the costume is modified so that it can be rotated.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 270,
@@ -365804,11 +365804,11 @@ tbl = {
 			"_______________________",
 			"Transforms you into Chunism Case.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1596,
@@ -365861,11 +365861,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A beard so weird, you might be feared. With this beard, you're rightly geared. To look so dandy, fine, revered. All because this beard appeared.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 21,
@@ -365990,11 +365990,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A headband embroidered with runes of gold thread.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 564,
@@ -366010,11 +366010,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A mask that resembles a fearsome monster who once had a secret group of followers. Some say he still does...",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 689,
@@ -366029,11 +366029,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"You will feel and look brand new once you attach this to your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1603,
@@ -366048,11 +366048,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"You will feel and look brand new once you attach this to your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1604,
@@ -366221,11 +366221,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"You will feel and look brand new once you attach this to your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1613,
@@ -366241,11 +366241,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"You will feel and look brand new once you attach this to your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1614,
@@ -366261,11 +366261,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"You will feel and look brand new once you attach this to your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1615,
@@ -366281,11 +366281,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"You will feel and look brand new once you attach this to your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1616,
@@ -366301,11 +366301,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"You will feel and look brand new once you attach this to your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1617,
@@ -366321,11 +366321,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"You will feel and look brand new once you attach this to your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1618,
@@ -366341,11 +366341,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"You will feel and look brand new once you attach this to your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1619,
@@ -366361,11 +366361,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"You will feel and look brand new once you attach this to your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1620,
@@ -366572,11 +366572,11 @@ tbl = {
 			"A costume that imitates the aura that floats around the mental body lurking in the Institute of Biotechnology.",
 			"It seems that the repeated movements of the thoughts endlessly gather and become an aura, and they are clinging to the thought body.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1267,
@@ -366593,11 +366593,11 @@ tbl = {
 			"A pale yellow costume ribbon that is transparent like silk.",
 			"The length of the ribbon is very long and I feel a mysterious atmosphere.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1474,
@@ -366613,11 +366613,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A beautifully dressed veil worn by a bride who swore true love.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 489,
@@ -366633,11 +366633,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hood for costumes made by a famous doll craftsman who loves rabbits with a heartfelt heart.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 549,
@@ -366655,11 +366655,11 @@ tbl = {
 			"It's like packing with Whisper.",
 			"The beauty effect is unknown...",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 321,
@@ -366677,11 +366677,11 @@ tbl = {
 			"If you enclose imitation and high, it may be difficult to meet.",
 			"Costume equipment that is said to look bad to the eyes when viewed properly.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 654,
@@ -366698,11 +366698,11 @@ tbl = {
 			"A costume hat in the shape of the head of Anubis, the god of the dead.",
 			"It seems to belong to the priests called Stum who manufacture mummies.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 485,
@@ -366718,11 +366718,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A mask for costumes that imitates the funny look of a child with his tongue sticking out.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 253,
@@ -366739,11 +366739,11 @@ tbl = {
 			"A helmet for costumes that is marked with the emblem of the Republic of Black Forest.",
 			"Some enthusiasts like to be fashionable regardless of battle.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 868,
@@ -366777,11 +366777,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A bird with the power to reflect magic spells. Sometimes the bird fails to cast the correct spells.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 702,
@@ -366797,11 +366797,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A creature which spend most of its day under water. If you dive in to the water wearing this hat, they might mistake you for a real hippo!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 859,
@@ -366817,11 +366817,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"The red hat of Isabella which is really popular among small children.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1030,
@@ -366914,11 +366914,11 @@ tbl = {
 			"Costume helmet made as a symbol of strength.",
 			"I'm afraid I've gained unreasonable power, but it may be in the sun.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 548,
@@ -366970,11 +366970,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"The mask of a jaguar. Some say you will be blessed by nature once you wear it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 530,
@@ -366990,7 +366990,7 @@ tbl = {
 			"A skin-improving cosmetic made from white clay.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 40.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
@@ -367108,11 +367108,11 @@ tbl = {
 			"Hair ornament for costumes that imitates the wings of the protector.",
 			"If you equip it, you may wake up to angelic charity...?",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 990,
@@ -367129,11 +367129,11 @@ tbl = {
 			"Hair for costumes that makes you feel like you have a different hairstyle when you wear it.",
 			"A ponytail that extends straight from a high position.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1394,
@@ -367150,11 +367150,11 @@ tbl = {
 			"Hair for costumes that makes you feel like you have a different hairstyle when you wear it.",
 			"A ponytail that extends straight from a high position.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1392,
@@ -367171,11 +367171,11 @@ tbl = {
 			"Hair for costumes that makes you feel like you have a different hairstyle when you wear it.",
 			"A ponytail that extends straight from a high position.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1389,
@@ -367192,11 +367192,11 @@ tbl = {
 			"Hair for costumes that makes you feel like you have a different hairstyle when you wear it.",
 			"A ponytail that extends straight from a high position.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1390,
@@ -367213,11 +367213,11 @@ tbl = {
 			"Hair for costumes that makes you feel like you have a different hairstyle when you wear it.",
 			"A ponytail that extends straight from a high position.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1371,
@@ -367234,11 +367234,11 @@ tbl = {
 			"Hair for costumes that makes you feel like you have a different hairstyle when you wear it.",
 			"A ponytail that extends straight from a high position.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1395,
@@ -367255,11 +367255,11 @@ tbl = {
 			"Hair for costumes that makes you feel like you have a different hairstyle when you wear it.",
 			"A ponytail that extends straight from a high position.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1393,
@@ -367276,11 +367276,11 @@ tbl = {
 			"Hair for costumes that makes you feel like you have a different hairstyle when you wear it.",
 			"A ponytail that extends straight from a high position.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1391,
@@ -367631,11 +367631,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Hair ornament for the black wing costume imitating the protector's wing.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1336,
@@ -367689,11 +367689,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"An imitation of Ancient King's Crown.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1651,
@@ -367727,11 +367727,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A red driver's hat decorated with white wings.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 613,
@@ -367767,11 +367767,11 @@ tbl = {
 			"The three red fruits refer to me, my family, and people in my neighborhood, and the branches that are grouped together represent that everyone is one and forms a society.",
 			"A hairpin for a red fruit outfit with the true meaning of love.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 140,
@@ -367787,11 +367787,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat that is provided only for members of the Eden Group. It's designed to go well with a suit.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 682,
@@ -368014,11 +368014,11 @@ tbl = {
 			"A mask for the costume worn by the sadness of Tanatos.",
 			"A charming design.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 666,
@@ -368130,11 +368130,11 @@ tbl = {
 			"Costume decoration made in the year of the 15th anniversary of Ragnarok Online.",
 			"Tsubasa's wings have a huge impact in the image of his flapping into an adventure that never ends.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1660,
@@ -368209,11 +368209,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"It was created by accidentally applying fluorescent paint to the sunflowers for costumes.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 681,
@@ -368287,11 +368287,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A Baphomet style costume made for special occasions.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 946,
@@ -368326,11 +368326,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume hat that looks like a Faceworm egg shell.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1356,
@@ -368512,11 +368512,11 @@ tbl = {
 			"A costume crown that imitates the crown that symbolizes the greatness of the ancient King Groza.",
 			"It has a special effect because it is used for ceremonies, but it is said that those wearing a crown will walk the way to glorious glory.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1412,
@@ -368588,11 +368588,11 @@ tbl = {
 			"A bat that has lived in Glast Heim for a very long time, observing all the events that have taken place.",
 			"It doesn't often reveal itself to humans.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1041,
@@ -368845,11 +368845,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat designed to receive electric waves through its small antennas. It sometimes even receives electric waves from outer space.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 347,
@@ -368885,11 +368885,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A must-have hat for all great wizards. It looks a bit weird but will make you look super fresh.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 283,
@@ -368999,11 +368999,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Thin fabric for narrow outfits.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 17,
@@ -369019,11 +369019,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A tight-fitting cap worn under a veil, usually worn by nuns.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 176,
@@ -369041,11 +369041,11 @@ tbl = {
 			"It is made of fresh yellow-green fruits, golden leaves and gold ribbons.",
 			"Note - It cannot be eaten.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1698,
@@ -369153,11 +369153,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Celebrating the release of Ragnarok Rush with these majestic goat horns that represents great deeds.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 41,
@@ -369192,11 +369192,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A legendary helmet that was infused with life by the hand of god.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1678,
@@ -369213,11 +369213,11 @@ tbl = {
 			"A costume helmet that bears the name of Leo as embodied in the constellation around the ecliptic.",
 			"It is said that it exerts its true power when it shines in the shine of a star.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 566,
@@ -369253,11 +369253,11 @@ tbl = {
 			"A costume helmet that bears the name of Taurus as embodied in the constellation around the ecliptic.",
 			"It is said that it exerts its true power when it shines in the shine of a star.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 536,
@@ -369365,11 +369365,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"This poring shines as bright as any star!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 961,
@@ -369521,11 +369521,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A small stormy rain cloud that follows you everywhere.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 705,
@@ -369562,11 +369562,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cute kitty doll which can be worn on top of the head.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 274,
@@ -369658,11 +369658,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A wonderfully made cap with a cool penguin design.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1709,
@@ -369679,11 +369679,11 @@ tbl = {
 			"A mask for costumes that makes you smile.",
 			"If you wear such a mask, you will not know what kind of expression you have on the back of the mask.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 65,
@@ -369700,11 +369700,11 @@ tbl = {
 			"Costume hat worn by the monster \"Munak\".",
 			"It seems that a big hat has bills and pigtails.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 51,
@@ -369722,11 +369722,11 @@ tbl = {
 			"The point is the bill that was broken half of the previous one.",
 			"It's very sturdy and doesn't seem to narrow the field of view due to the torn bills.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 139,
@@ -370062,11 +370062,11 @@ tbl = {
 			"Afro for funky and soulful outfits where fashionable power has blossomed.",
 			"It has an overwhelming presence that attracts all viewers.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 837,
@@ -370139,11 +370139,11 @@ tbl = {
 			"A fashionable outfit with a simple striped accent.",
 			"If you get lost in coordination, this will decide!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1728,
@@ -370162,11 +370162,11 @@ tbl = {
 			"_______________________",
 			"^FF0000This item can only be sold to NPCs.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1502,
@@ -370182,11 +370182,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A magically radiated scroll that is dropped by a disciplined Tengu. It is said mysterious events may occur in various places when using this scroll.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1445,
@@ -370318,11 +370318,11 @@ tbl = {
 			"_______________________",
 			"^FF0000This item can only be sold to NPCs.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1725,
@@ -370339,11 +370339,11 @@ tbl = {
 			"A costume wig that imitates the hairstyle of homunculus Eleanor.",
 			"In order to maximize the cuteness of Eleanor, it has a function to move the ears.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1502,
@@ -370501,11 +370501,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Sturdy goggles worn by ocean divers.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 10,
@@ -370521,11 +370521,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Yar har fiddle dee dee. You are a pirate!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 13,
@@ -370657,11 +370657,11 @@ tbl = {
 			"A wig for costumes that, when worn, makes you feel like you have a different hairstyle.",
 			"Two-pronged braided hair in a low position.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1683,
@@ -370677,11 +370677,11 @@ tbl = {
 			"A wig for costumes that, when worn, makes you feel like you have a different hairstyle.",
 			"Two-sided up curl with a two-tone color.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1713,
@@ -370698,11 +370698,11 @@ tbl = {
 			"Costume hat made of Yggdrasil branches.",
 			"Feel the breath of great life.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 746,
@@ -370837,11 +370837,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Isabella's blue hat, a crowd favorite!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1032,
@@ -370989,11 +370989,11 @@ tbl = {
 			"A stuffed toy for clothing that imitates \"Kuma-kun\", which is characterized by it's fluffy fur coat.",
 			"You can enjoy various appearances and feel as if you were with a real bear.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1762,
@@ -371045,11 +371045,11 @@ tbl = {
 			"A traditional costume of the Cat Kingdom that accurately reproduces hot popcorn.",
 			"Somehow I feel excited when I put it on my head.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 415,
@@ -371066,11 +371066,11 @@ tbl = {
 			"Traditional costume of Cat Kingdom made by processing oversized citron as it is.",
 			"The refreshing scent calms the mind.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 791,
@@ -371087,11 +371087,11 @@ tbl = {
 			"A traditional costume of the Cat Kingdom, made from a large orange.",
 			"The fresh scent brightens your mood.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 841,
@@ -371108,11 +371108,11 @@ tbl = {
 			"A traditional costume of cat kingdom made from fully-ripened citron.",
 			"The elegant scent enhances concentration.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 924,
@@ -371129,11 +371129,11 @@ tbl = {
 			"Traditional costume of cat kingdom made with the image of handmade bento.",
 			"I want to eat food outside.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1766,
@@ -371187,11 +371187,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Be the rainbow with this pair of beautiful Radiant Rainbow Wings!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1186,
@@ -371337,11 +371337,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"An aura of love radiates from your entire body!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1717,
@@ -371552,11 +371552,11 @@ tbl = {
 			"A bell for mysterious costumes where you can hear the sound of bells.",
 			"It is said to look good when worn with animal ears.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1447,
@@ -371572,11 +371572,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Date glasses for costumes with a conspicuous black frame.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 404,
@@ -371591,11 +371591,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Blue costume ribbon, which is considered to be a proof of honor student.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 407,
@@ -371612,11 +371612,11 @@ tbl = {
 			"Valkyrie's feather and jewelry headwear for costumes.",
 			"It says that it protects the wearer from many dangers.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 365,
@@ -371632,11 +371632,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A paper bag for clothes that looks like a bread bag turned upside down.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 412,
@@ -371653,11 +371653,11 @@ tbl = {
 			"Helmet for costumes used in ancient western countries.",
 			"It seems that he was good at a dense formation that boasts robust defense power.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 660,
@@ -371675,11 +371675,11 @@ tbl = {
 			"Real hair is not used, but its presence is outstanding!",
 			"Wearing with a nine-tailed fox collar makes winter fashion perfect!?",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 268,
@@ -372018,11 +372018,11 @@ tbl = {
 			"When I put it on my head, I feel like my body has become lighter.",
 			"And when he sees a toy, he wants to be asexual.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 455,
@@ -372039,11 +372039,11 @@ tbl = {
 			"A headgear for a costume that can turn your whole head into a chicken.",
 			"It's suspicious to look, so it's going to take courage to wear it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1576,
@@ -372060,11 +372060,11 @@ tbl = {
 			"A mask for the costume of the alchemist's purveyor.",
 			"Although it looks suspicious, it is an excellent product that filters harmful air and transforms it into fresh air.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1497,
@@ -372120,11 +372120,11 @@ tbl = {
 			"A headgear for a costume made by hollowing out a large pumpkin that wraps your head around.",
 			"Unfortunately I can't seem to eat it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Uppper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1415,
@@ -372141,11 +372141,11 @@ tbl = {
 			"A costume jewel that imitates Gilant's jewel that symbolizes fear and craft.",
 			"Only those who have defeated fear and craft are allowed to wear this crown.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1680,
@@ -372164,11 +372164,11 @@ tbl = {
 			"_______________________",
 			"^006400Since it is an equipped effect, it still will be displayed even when the effect (/effect) is turned off.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -372376,13 +372376,13 @@ tbl = {
 		identifiedResourceName = "啊阑赣府鹅",
 		identifiedDescriptionName = {
 			"A costume made based on falling leaves of autumn.",
-			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 16.",
+			"可向<NAVI>[设计师海丹]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>兑换时装附魔石箱16。",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1119,
@@ -372457,11 +372457,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"The hat of a talented, young wizard. Yer a wizard fairy!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 286,
@@ -372789,11 +372789,11 @@ tbl = {
 			"Baphomet.Jr is the equipment for the costume that floats on the balloon.",
 			"Don't worry, the balloon won't break suddenly on your head.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1746,
@@ -372861,11 +372861,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Cute rudolph hairband. Sometime you will hear jingle bell song.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 836,
@@ -372920,11 +372920,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume wig that makes you feel like you have straight long blue hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1834,
@@ -372940,11 +372940,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume wig that makes you feel like you have straight long red hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1835,
@@ -372960,11 +372960,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume wig that makes you feel like you have straight long blonde hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1836,
@@ -372980,11 +372980,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume wig that makes you feel like you have straight long green hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1837,
@@ -373000,11 +373000,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume wig that makes you feel like you have straight long black hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1838,
@@ -373020,11 +373020,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume wig that makes you feel like you have straight long purple hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1839,
@@ -373040,11 +373040,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume wig that makes you feel like you have straight long brown hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1840,
@@ -373060,11 +373060,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume wig that makes you feel like you have straight long purple hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1841,
@@ -373080,11 +373080,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume wig that makes you feel like you have a blue side ponytail in your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1842,
@@ -373100,11 +373100,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume wig that makes you feel like you have a red side ponytail in your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1843,
@@ -373120,11 +373120,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume wig that makes you feel like you have a blonde side ponytail in your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1844,
@@ -373140,11 +373140,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume wig that makes you feel like you have a green side ponytail in your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1845,
@@ -373160,11 +373160,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume wig that makes you feel like you have a black side ponytail in your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1846,
@@ -373180,11 +373180,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume wig that makes you feel like you have a white side ponytail in your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1847,
@@ -373200,11 +373200,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume wig that makes you feel like you have a brown side ponytail in your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1848,
@@ -373220,11 +373220,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume wig that makes you feel like you have a purple side ponytail in your hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1849,
@@ -373241,11 +373241,11 @@ tbl = {
 			"Hair for costumes that makes you feel like you have a different hairstyle when you wear it.",
 			"A bun hair on the back of the head that bundles the bundled hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1850,
@@ -373262,11 +373262,11 @@ tbl = {
 			"Hair for costumes that makes you feel like you have a different hairstyle when you wear it.",
 			"A bun hair on the back of the head that bundles the bundled hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1851,
@@ -373283,11 +373283,11 @@ tbl = {
 			"Hair for costumes that makes you feel like you have a different hairstyle when you wear it.",
 			"A bun hair on the back of the head that bundles the bundled hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1852,
@@ -373304,11 +373304,11 @@ tbl = {
 			"Hair for costumes that makes you feel like you have a different hairstyle when you wear it.",
 			"A bun hair on the back of the head that bundles the bundled hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1853,
@@ -373325,11 +373325,11 @@ tbl = {
 			"Hair for costumes that makes you feel like you have a different hairstyle when you wear it.",
 			"A bun hair on the back of the head that bundles the bundled hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1854,
@@ -373346,11 +373346,11 @@ tbl = {
 			"Hair for costumes that makes you feel like you have a different hairstyle when you wear it.",
 			"A bun hair on the back of the head that bundles the bundled hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1855,
@@ -373367,11 +373367,11 @@ tbl = {
 			"Hair for costumes that makes you feel like you have a different hairstyle when you wear it.",
 			"A bun hair on the back of the head that bundles the bundled hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1856,
@@ -373388,11 +373388,11 @@ tbl = {
 			"Hair for costumes that makes you feel like you have a different hairstyle when you wear it.",
 			"A bun hair on the back of the head that bundles the bundled hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1857,
@@ -373408,11 +373408,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A metal helmet of Alphonse. Only strongest player can wear it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1207,
@@ -373428,11 +373428,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Little red hood. When you wear it please beware the wolf.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 839,
@@ -373448,11 +373448,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat of ancient Asara fairy.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 492,
@@ -373637,11 +373637,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Orange stem hat. Vitamin C +500%",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 620,
@@ -373657,11 +373657,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Put my orange on top, put my orange on top!!!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 814,
@@ -373735,11 +373735,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"The white feathers and frills on this headband are perfect for anyone with a pure and lovely heart.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 733,
@@ -373772,11 +373772,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Hair for costumes that looks fluffy just by looking at the rich volume.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1874,
@@ -373850,11 +373850,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Hair for costumes where you can feel a different hairstyle when you put it on your head.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1775,
@@ -373889,11 +373889,11 @@ tbl = {
 			"Mysterious and eye-catching little white dove for costumes.",
 			"If you put it on your shoulder, there will be a crowd around you.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1034,
@@ -373910,11 +373910,11 @@ tbl = {
 			"Costume accessories that are said to have used part of the ancient dragon wings.",
 			"It is said that wearing them has various effects.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1413,
@@ -374104,11 +374104,11 @@ tbl = {
 			"A costume of head equipment with a heart-shaped arrow.",
 			"It depends on your heart whether the arrow is shooting the heart or attacking the heart with the arrow.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 397,
@@ -374125,11 +374125,11 @@ tbl = {
 			"A hat for costumes prepared by Basinio Chocolate for Valentine's Day.",
 			"You can feel sweet when you wear it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 865,
@@ -374146,11 +374146,11 @@ tbl = {
 			"A costume hat for grouping at the sports day.",
 			"An irregular way of wearing makes you feel nostalgia.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 469,
@@ -374167,11 +374167,11 @@ tbl = {
 			"Due to its robustness, it does not require a shield, and it is a durable helmet that is said to have been named \"Tenashi\".",
 			"A dish that has been passed down for generations of samurai.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 810,
@@ -374187,11 +374187,11 @@ tbl = {
 			"A wig with a mysterious feeling.",
 			"Designed by Baphomet Server adventurer Kim Dan-yi.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1884,
@@ -374207,11 +374207,11 @@ tbl = {
 			"Skeleton ribbon with an atmosphere like an old castle.",
 			"Designed by Bapomet Server's adventurer Park Dong-Dong.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1885,
@@ -374227,11 +374227,11 @@ tbl = {
 			"A luxurious and luxurious crown.",
 			"Designed by Baphomet Server adventurer Sleeping Boy.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1886,
@@ -374247,11 +374247,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A lace crown decorated with flowers. Wearing this brings good luck.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 740,
@@ -374286,11 +374286,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"If it smells outside, put on this handy Costume Oxygen Mask to filter everything out! May or may not work on farts.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 90,
@@ -374306,11 +374306,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Oh great mystical fruit! Place this on your head and feel the magic of fruit on your noggin.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 134,
@@ -374326,11 +374326,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A decorative band with a wave pattern and feather.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 155,
@@ -374401,11 +374401,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A soft glow of yellow light emits from the body of the lantern.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1720,
@@ -374478,11 +374478,11 @@ tbl = {
 			"A costume hat that mimics a chimaki.",
 			"Chimaki prays for good health by eating at the time of Dano's festival and praying for good health, but the same effect may be obtained by wearing it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 892,
@@ -374499,11 +374499,11 @@ tbl = {
 			"A headgear for costumes that imitates chimaki.",
 			"It was a hot topic among the Chimaki enthusiasts because they could get a sense of unity with Chimaki.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1773,
@@ -374520,11 +374520,11 @@ tbl = {
 			"A circular arc-shaped light for costumes that reveals a scene in seven colors from red to purple.",
 			"It is not a bow, but a model of a rare meteorological phenomenon.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 704,
@@ -374540,11 +374540,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A handkerchief for clothes that was held in the mouth with a grudge.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 818,
@@ -374561,11 +374561,11 @@ tbl = {
 			"A ribbon for a costume tied in the shape of a beautiful butterfly.",
 			"Please note that this is mainly for women to decorate their hair, and for men it can be misleading.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 244,
@@ -374654,11 +374654,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A balloon shaped like a teddy bear that children love.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1734,
@@ -374714,11 +374714,11 @@ tbl = {
 			"A costume shawl that encapsulates the power of Bagua that mimics the nature of heaven and earth.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 20.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1901,
@@ -375367,11 +375367,11 @@ tbl = {
 			"The moment you put it on, the eyes of those around you will change.",
 			"100% increase in sexyness.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 751,
@@ -375389,11 +375389,11 @@ tbl = {
 			"The moment you put it on, the eyes of those around you will change.",
 			"100% increase in sexyness.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 752,
@@ -375411,11 +375411,11 @@ tbl = {
 			"The moment you put it on, the eyes of those around you will change.",
 			"100% increase in sexyness.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 753,
@@ -375433,11 +375433,11 @@ tbl = {
 			"The moment you put it on, the eyes of those around you will change.",
 			"100% increase in sexyness.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 754,
@@ -375455,11 +375455,11 @@ tbl = {
 			"The moment you put it on, the eyes of those around you will change.",
 			"100% increase in sexyness.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1012,
@@ -375477,11 +375477,11 @@ tbl = {
 			"The moment you put it on, the eyes of those around you will change.",
 			"100% increase in sexyness.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1013,
@@ -375499,11 +375499,11 @@ tbl = {
 			"The moment you put it on, the eyes of those around you will change.",
 			"100% increase in sexyness.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1014,
@@ -375521,11 +375521,11 @@ tbl = {
 			"The moment you put it on, the eyes of those around you will change.",
 			"100% increase in sexyness.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1015,
@@ -375543,11 +375543,11 @@ tbl = {
 			"The moment you put it on, the eyes of those around you will change.",
 			"100% increase in sexyness.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 662,
@@ -375565,11 +375565,11 @@ tbl = {
 			"The moment you put it on, the eyes of those around you will change.",
 			"100% increase in sexyness.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 663,
@@ -375587,11 +375587,11 @@ tbl = {
 			"The moment you put it on, the eyes of those around you will change.",
 			"100% increase in sexyness.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 664,
@@ -375608,11 +375608,11 @@ tbl = {
 			"A hat for a cute costume that is slender like a sloth.",
 			"It seems to work but not.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 638,
@@ -375628,11 +375628,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cute hairpin for a costume that imitates the shape of a popolin.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 788,
@@ -375650,11 +375650,11 @@ tbl = {
 			"It should be made of paper, but it's mysteriously strong.",
 			"It seems I forgot to put my eyebrows on.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 449,
@@ -375670,11 +375670,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Costume equipment that imitates Doram children which are fluffy and swaying happily as a balloon.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1595,
@@ -375690,11 +375690,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume hat made to simulate an experimental adult goat type, which is an experimental body of Werner Institute.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1468,
@@ -375710,11 +375710,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Gills of a black and red monster fish.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1218,
@@ -375807,11 +375807,11 @@ tbl = {
 			"A costume that imitates the magic book of a red bound like blood.",
 			"The decoration of the centerpiece is vicious, but it has the power to repel the invisible disaster caused by the evil eye.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 890,
@@ -375828,11 +375828,11 @@ tbl = {
 			"A mask for costumes that imitates Mr. Buta.",
 			"If you look closely, it has fangs and it's attractive that you cannot describe it just because it is cute.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1869,
@@ -375867,11 +375867,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Feather said to have fallen from an angel's wings.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1704,
@@ -375887,11 +375887,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat with cute dog's ears.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 827,
@@ -375907,11 +375907,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"An ornament made to resemble an elephant-like fairy. The water whirling around with the fairy is beautiful.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1745,
@@ -376026,11 +376026,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"This hat was awarded to adventurers that displayed exceptional examples of creativity.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 427,
@@ -376046,11 +376046,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"This hat was awarded to adventurers that displayed exceptional examples of creativity.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 428,
@@ -376163,11 +376163,11 @@ tbl = {
 			"A hat for clothing made to imitate the hat worn when graduating from school or academy.",
 			"Because it is red, it stands out more than black.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 481,
@@ -376221,11 +376221,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Hair band for costumes made by modeling the wings of an angel.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 776,
@@ -376242,11 +376242,11 @@ tbl = {
 			"A light bulb band that shines light for clothes.",
 			"If you have this in the dark, you'll be fine.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 332,
@@ -376263,11 +376263,11 @@ tbl = {
 			"A stuffed animal that imitates Lunatic.",
 			"A cute little shoulder-sized healing product with the scent of good luck.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1881,
@@ -376339,11 +376339,11 @@ tbl = {
 			"A wig for costumes that, when worn, makes you feel like you have a different hairstyle.",
 			"The unique color makes you feel like a rabbit.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1927,
@@ -376400,11 +376400,11 @@ tbl = {
 			"_______________________",
 			"^ff0000This item cannot be traded with other accounts.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 263,
@@ -376421,11 +376421,11 @@ tbl = {
 			"A humorous costume that recreates the appearance of a legendary comedian.",
 			"You may become the protagonist of a party just by wearing this...",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1933,
@@ -376442,11 +376442,11 @@ tbl = {
 			"A mysterious mask for a costume that imitates a ghost cat.",
 			"There are rumors that the person who wore it day and night had been obsessed with a real ghost cat.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1934,
@@ -376463,11 +376463,11 @@ tbl = {
 			"Tongue for costumes of grotesque color.",
 			"It is said to be a devil's tongue that only tells lies, but it is unknown as to whether it is true or false.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 801,
@@ -376484,11 +376484,11 @@ tbl = {
 			"A hat for a teddy bear costume wearing sunglasses.",
 			"It creates a naughty atmosphere that is not just cute.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1935,
@@ -376525,11 +376525,11 @@ tbl = {
 			"A mysterious costume eye patch that is said to be able to protect the body from the violent attacks of the Balaur.",
 			"I feel that mysterious power comes out at the same time that it protects me.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1227,
@@ -376640,11 +376640,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat for clothes that was invented by Bratislis' inventor Dantos Schmon during flight control.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 972,
@@ -376661,11 +376661,11 @@ tbl = {
 			"A headgear for the costume of the shark, the king of the sea, with sharp eyes.",
 			"It looks horrible, but it seems to be popular with some people.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1919,
@@ -376681,11 +376681,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A laurel wreath for costumes created to commemorate the opening of the new Urdr World.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 434,
@@ -376705,11 +376705,11 @@ tbl = {
 			"_______________________",
 			"^ff0000Can only be sold to NPC's or moved to storage.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1826,
@@ -376744,11 +376744,11 @@ tbl = {
 			"Costume headset made for the official Ragnarok BJ.",
 			"A glowing effect has been added to let you know that you are currently in BJ.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1943,
@@ -376784,11 +376784,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume of earrings said to harness the power of the heavens. Wearing it makes you feel as if you have the power to judge those who oppose you.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1093,
@@ -377523,11 +377523,11 @@ tbl = {
 			"A costume wig with a nine-tailed fox motif.",
 			"The mysterious power is brought to you by the golden hair of a real fox, secretly woven by someone.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1884,
@@ -377639,11 +377639,11 @@ tbl = {
 			"A costume helmet that bears the name of Gemini as if the constellation around the zodiac embodied.",
 			"It is said that it exerts its true power when it shines in the shine of a star.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 551,
@@ -377662,11 +377662,11 @@ tbl = {
 			"When equipped during January:",
 			"Increases experience gained from monsters by 5%.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 328,
@@ -377702,11 +377702,11 @@ tbl = {
 			"A costume hat made to imitate a rare white snake.",
 			"It is said to be a white snake, which is highly toxic in spite of its obscure design.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 413,
@@ -377723,11 +377723,11 @@ tbl = {
 			"A hat for clothes that makes you feel happy enough to want to parade.",
 			"Designed for winter with the image of snow.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1529,
@@ -377799,11 +377799,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"The knit hat for Seven-Eleven costumes that is familiar with the catchphrase \"- near and convenient\".",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1130,
@@ -377936,11 +377936,11 @@ tbl = {
 			"A flag for costumes that can only be raised by those who have achieved success.",
 			"The enemy will lose war before its glory.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -377958,11 +377958,11 @@ tbl = {
 			"A costume hat for advertising, which means that we are recruiting party members.",
 			"Level up today with everyone!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 351,
@@ -377980,11 +377980,11 @@ tbl = {
 			"A costume hat for advertising, which means that we are looking for people to make friends with.",
 			"Let's call out together!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 353,
@@ -378000,11 +378000,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cowboy-style costume hat that takes advantage of the western atmosphere.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 32,
@@ -378038,11 +378038,11 @@ tbl = {
 			"A wig for a costume that gives you a different hairstyle when worn.",
 			"A cute hairstyle with fluffy curls.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1993,
@@ -378134,11 +378134,11 @@ tbl = {
 			"Costume hats worn by students when they go to school.",
 			"The decoration of the smile mark is the trend mark.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 872,
@@ -378310,11 +378310,11 @@ tbl = {
 			"Seiren, whose hobby is making flowers, was created.",
 			"It contains feelings for the late mother.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1026,
@@ -378330,11 +378330,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume golden mask that is said to have been used by the Goddess of the Earth.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 918,
@@ -378353,11 +378353,11 @@ tbl = {
 			"_______________________",
 			"^006400Since it is an equipped effect, it still will be displayed even when the effect (/effect) is turned off.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1999,
@@ -378393,11 +378393,11 @@ tbl = {
 			"A costume wig that makes you feel like you have a different hairstyle when worn.",
 			"Elegant semi-long with a soft wave.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2011,
@@ -378453,11 +378453,11 @@ tbl = {
 			"A blindfold for a costume with an eerie eye drawn on it.",
 			"He said that he was uneasy when he stared at his eyes.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1779,
@@ -378474,11 +378474,11 @@ tbl = {
 			"A white cat with her tail wrapped around her and used as a Costume.",
 			"I love it so much that I don't want to leave it at all, it's too cute.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1980,
@@ -378803,11 +378803,11 @@ tbl = {
 			"A giant that glows with red flames.",
 			"The appearance of a giant wielding a huge greatsword makes the viewer feel awe.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2308,
@@ -378823,11 +378823,11 @@ tbl = {
 			"A giant with brilliant golden flames.",
 			"The appearance of a giant wielding a huge greatsword makes the viewer feel awe.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2309,
@@ -379836,7 +379836,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -380593,7 +380593,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -380722,7 +380722,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -380764,7 +380764,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -380932,7 +380932,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -380973,7 +380973,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -454166,21 +454166,21 @@ tbl = {
 		identifiedDisplayName = "Super Novice Stone(Garment)",
 		identifiedResourceName = "乔痹绢",
 		identifiedDescriptionName = {
-			"When Level 5 ^009900Breakthrough^000000 is learned:",
-			"Enables the use of Level 5 ^0000FFWind Cutter^000000.",
+			"学会5级^009900突破界限^000000时：",
+			"可使用5级^0000FF风刃^000000。",
 			"_______________________",
-			"When Level 5 ^009900Transcendence^000000 is learned:",
-			"Enables the use of Level 10 ^0000FFJudex^000000.",
+			"学会5级^009900超限^000000时：",
+			"可使用10级^0000FF审判^000000。",
 			"_______________________",
-			"When equipped with ^990099Paladin Stone(Upper)^000000:",
-			"DEF +120, MDEF +15.",
+			"搭配^990099圣骑士石（头上）^000000时：",
+			"DEF +120，MDEF +15。",
 			"_______________________",
-			"When equipped with ^990099High Wizard Stone(Mid)^000000:",
-			"For each Level of ^009900Transcendence^000000:",
+			"搭配^990099超魔导师石（头中）^000000时：",
+			"每级^009900超限^000000：",
 			"Increases Damage of ^009900Judex^000000 by 3%.",
 			"_______________________",
-			"When equipped with ^990099Stalker Stone(Lower)^000000:",
-			"For each Level of ^009900Breakthrough^000000:",
+			"搭配^990099神行太保石（头下）^000000时：",
+			"每级^009900突破界限^000000：",
 			"Increases Damage of ^009900Wind Cutter^000000 by 3%."
 		},
 		slotCount = 0,
@@ -454194,11 +454194,11 @@ tbl = {
 		identifiedDisplayName = "Super Novice Stone(Upper)",
 		identifiedResourceName = "乔痹绢",
 		identifiedDescriptionName = {
-			"For each Level of ^009900Transcendence^000000:",
+			"每级^009900超限^000000：",
 			"Decreases Variable Casting Time by 3%.",
 			"_______________________",
-			"When equipped with ^990099Super Novice Stone(Garment)^000000:",
-			"For each Level of ^009900Transcendence^000000:",
+			"搭配^990099超级初心者石（披肩）^000000时：",
+			"每级^009900超限^000000：",
 			"Increases Damage of ^009900Judex^000000 by 3%."
 		},
 		slotCount = 0,
@@ -454212,11 +454212,11 @@ tbl = {
 		identifiedDisplayName = "Super Novice Stone(Mid)",
 		identifiedResourceName = "乔痹绢",
 		identifiedDescriptionName = {
-			"For each Level of ^009900Breakthrough^000000:",
+			"每级^009900突破界限^000000：",
 			"Increases Melee Physical Damage by 3%.",
 			"_______________________",
-			"When equipped with ^990099Super Novice Stone(Garment)^000000:",
-			"For each Level of ^009900Breakthrough^000000:",
+			"搭配^990099超级初心者石（披肩）^000000时：",
+			"每级^009900突破界限^000000：",
 			"Increases Damage of ^009900Wind Cutter^000000 by 3%."
 		},
 		slotCount = 0,
@@ -454231,9 +454231,9 @@ tbl = {
 		identifiedResourceName = "乔痹绢",
 		identifiedDescriptionName = {
 			"When using ^009900Angel, help Me!^000000:",
-			"Increases Magical Damage with every element by 15% for 300 seconds.",
+			"300秒内全属性魔法伤害 +15%。",
 			"_______________________",
-			"When equipped with ^990099Super Novice Stone(Garment)^000000:",
+			"搭配^990099超级初心者石（披肩）^000000时：",
 			"MaxHP +15%."
 		},
 		slotCount = 0,
@@ -467240,10 +467240,10 @@ tbl = {
 		identifiedDisplayName = "Super Novice Stone II(Upper)",
 		identifiedResourceName = "乔痹绢",
 		identifiedDescriptionName = {
-			"For each Level of ^009900Breakthrough^000000:",
+			"每级^009900突破界限^000000：",
 			"Increases Damage against monsters of every size by 3%.",
 			"_______________________",
-			"When equipped with ^990099Super Novice Stone(Garment)^000000:",
+			"搭配^990099超级初心者石（披肩）^000000时：",
 			"For each Level of ^009900Faith^000000:",
 			"Increases damage of ^009900Wind Cutter^000000 by 4%."
 		},
@@ -467258,11 +467258,11 @@ tbl = {
 		identifiedDisplayName = "Super Novice Stone II(Mid)",
 		identifiedResourceName = "乔痹绢",
 		identifiedDescriptionName = {
-			"For each Level of ^009900Transcendence^000000:",
+			"每级^009900超限^000000：",
 			"Increases Magical Damage with ^0000BBWater^000000, ^33CC00Wind^000000, ^FF0000Fire^000000, ^777777Neutral^000000, ^777777Holy^000000 and ^777777Ghost^000000 element by 2%.",
 			"_______________________",
-			"When equipped with ^990099Super Novice Stone(Garment)^000000:",
-			"DEF +120, MDEF +15."
+			"搭配^990099超级初心者石（披肩）^000000时：",
+			"DEF +120，MDEF +15。"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -467278,7 +467278,7 @@ tbl = {
 			"When Level 1 ^009900Angel, help Me!^000000 is learned:",
 			"Increases Physical Damage by 15%.",
 			"_______________________",
-			"When equipped with ^990099Super Novice Stone(Garment)^000000:",
+			"搭配^990099超级初心者石（披肩）^000000时：",
 			"For each Level of ^009900Jupitel Thunder^000000:",
 			"Increases damage of ^009900Judex^000000 by 4%."
 		},
@@ -467890,7 +467890,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1185,
@@ -467920,7 +467920,7 @@ tbl = {
 			"^0000CCArmor Level:^000000 1",
 			"^0000CCRefineable:^000000 No",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1185,
@@ -467941,7 +467941,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 15,
@@ -468303,11 +468303,11 @@ tbl = {
 			"_______________________",
 			"Increases experience gained from monsters by 10%.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 961,
@@ -468323,11 +468323,11 @@ tbl = {
 			"A costume long hair wig that lets you feel like a different hairstyle when worn.",
 			"It is finished in a slightly dark cyan color.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1990,
@@ -468343,11 +468343,11 @@ tbl = {
 			"If you wear it, you can feel like a different hairstyle than usual.",
 			"The shaggy hair was finished with more voluminous feel.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1989,
@@ -468688,11 +468688,11 @@ tbl = {
 			"This costume hair piece gives you the feeling of a different hairstyle when worn.",
 			"It's modeled after Leon's hairstyle.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2373,
@@ -469272,7 +469272,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2077,
@@ -469287,11 +469287,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Elly returns to the main body and the little Elly doll was left with only the shell. After the mission was over, the managers of the mansion said that her head might be empty, and the mansion's managers transformed the little Ellie with only a shell left into a doll and gave it as a gift.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2077,
@@ -470024,11 +470024,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Noodles shaking violently in the bowl. It is carefully made with ingredients that give you strength to spend the hot summer energetically. Be careful not to spill it!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2138,
@@ -470418,11 +470418,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat modeled after a cat from the Pasta Continent.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1593,
@@ -470737,11 +470737,11 @@ tbl = {
 			"A doll made to be carried over the head.",
 			"If you hear a cat cry somewhere or feel movement above your head, it is because of your mood.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 749,
@@ -472810,11 +472810,11 @@ tbl = {
 			"A gothic costume headband decorated with wings and lace in a small heart.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 26.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1111,
@@ -473229,11 +473229,11 @@ tbl = {
 			"A costume for those who like to see the colorful look.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 27.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2248,
@@ -473271,11 +473271,11 @@ tbl = {
 			"",
 			"This is an exchange-only product.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2259,
@@ -473292,11 +473292,11 @@ tbl = {
 			"Costume hat with the motif of the sky.",
 			"Even in gloomy, rainy weather, wearing this hat will make you feel sunny.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 462,
@@ -473365,11 +473365,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat that can be used by putting cute porings in a bowl of noodles after eating. You can't eat it because it's a model.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1003,
@@ -473536,11 +473536,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat decorated with adorable fox ears.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2294,
@@ -473556,11 +473556,11 @@ tbl = {
 			"A golden helmet in the shape of Fenrir, who is said to devour everything.",
 			"Vanargand is another name for Fenrir.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2312,
@@ -473595,11 +473595,11 @@ tbl = {
 			"Refined color tone is classy.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 29.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2313,
@@ -473615,11 +473615,11 @@ tbl = {
 			"A hat favored by Ignis, a blacksmith with outstanding craftsmanship. It is said that he possessed the skill to process any material.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 38.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2314,
@@ -473640,7 +473640,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 16,
@@ -473661,7 +473661,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 2",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 16,
@@ -473678,11 +473678,11 @@ tbl = {
 			"It is full of vitality as if it were alive.",
 			" I guess it's made... ?",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2319,
@@ -473698,11 +473698,11 @@ tbl = {
 			"A laurel wreath frozen in the cold.",
 			"A chilling aura hovers around it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 933,
@@ -475393,11 +475393,11 @@ tbl = {
 			"The donuts dripping with chocolate look incredibly sweet.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 35.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2347,
@@ -475414,11 +475414,11 @@ tbl = {
 			"It feels very soft to the touch.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 30.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2348,
@@ -475475,11 +475475,11 @@ tbl = {
 			"A hat modeled after the cute and trustworthy Copo of the Ancient Ice Canyon.",
 			"It was realistically reproduced from the eggshell.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2356,
@@ -475495,11 +475495,11 @@ tbl = {
 			"A hat modeled after the cutie and dandy Copo of the Ancient Ice Canyon.",
 			"It was realistically reproduced from the eggshell.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2357,
@@ -475515,11 +475515,11 @@ tbl = {
 			"A costume wig that makes you feel like you have a different hairstyle than usual when worn.",
 			"A design that imitates the distorted hairstyle of a god. I feel like I can feel divine power.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2360,
@@ -475540,11 +475540,11 @@ tbl = {
 			"_______________________",
 			"^ff0000(The effect of the item will be deleted after the event ends.)^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2364,
@@ -475560,11 +475560,11 @@ tbl = {
 			"A pointed witch hat inspired by cherry blossoms.",
 			"Decorated with cherry blossoms, it evokes the spirit of spring.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2366,
@@ -475580,11 +475580,11 @@ tbl = {
 			"A chiffon cake-shaped hat with pure white rabbit ears sticking out.",
 			"The heart decoration and ribbon on the back are charming points.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2367,
@@ -475601,11 +475601,11 @@ tbl = {
 			"But was it really this big...?",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 34.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2377,
@@ -475666,11 +475666,11 @@ tbl = {
 			"This hat is part of the basic Adventurer outfit set.",
 			"It provides reliable protection from the harsh sunlight and light rain.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2385,
@@ -475686,11 +475686,11 @@ tbl = {
 			"A costume crown adorned with the ears of the lion, the king of beasts.",
 			"This costume, designed with the crown and lion ears in mind, will make you feel like a king.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2390,
@@ -475706,11 +475706,11 @@ tbl = {
 			"A costume hat worn by Navy officers.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 36.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 792,
@@ -475726,11 +475726,11 @@ tbl = {
 			"A cap designed to go well with a sailor uniform.",
 			"The red ribbon is a point.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2398,
@@ -475790,11 +475790,11 @@ tbl = {
 			"Even more dazzling in the blazing heat.",
 			"A party wig with rainbow popcorn.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2400,
@@ -475810,11 +475810,11 @@ tbl = {
 			"A fish with a red body. It looks angry, but is docile unless you provoke it first.",
 			"It's inedible, but it's still cool.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2410,
@@ -475829,11 +475829,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A symbol of power hastily concocted and forced upon the Night Market Committee. It seems to have been distorted from the practice of making wreaths out of flowers or light tree branches... Surprisingly, it has the effect of displaying power, and when you buy food from a street vendor wearing this hat, you feel as if you're receiving a tastier and cleaner meal.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2409,
@@ -475850,11 +475850,11 @@ tbl = {
 			"Their soft, fluffy texture is incredibly pleasant.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 33.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2419,
@@ -475869,11 +475869,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A small ring floating above your head. Collecting more brings good things...",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2433,
@@ -475888,11 +475888,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Two ginkgo leaves in vivid autumn colors.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2424,
@@ -476887,11 +476887,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A picky doll hat with an eggshell pressed into it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1001,
@@ -476907,11 +476907,11 @@ tbl = {
 			"This year's Snow Festival souvenir is modeled after a snowman.",
 			"You can experience the snowman experience. It's a bit cold, isn't it?",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2486,
@@ -476926,11 +476926,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A snowman hat from a snowy Christmas.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2488,
@@ -476947,11 +476947,11 @@ tbl = {
 			"It constantly spouts water, providing a refreshing feeling.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 36.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2501,
@@ -476967,11 +476967,11 @@ tbl = {
 			"A cute black cat sits on the beret, and its ears, tail, and ribbon shake together as it walks.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 35.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2507,
@@ -476992,11 +476992,11 @@ tbl = {
 			"Increases item drop rate by 7%.",
 			"变动咏唱 -10%。",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 417,
@@ -477315,11 +477315,11 @@ tbl = {
 			"A mature hat with a bold silhouette. The beautiful, calm design captivates.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 39.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2380,
@@ -477336,11 +477336,11 @@ tbl = {
 			"A design that looks like the horns that demons who want to go out are proud of.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 39.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2338,
@@ -477660,11 +477660,11 @@ tbl = {
 			"A hat that looks exactly like Fei-Chai.",
 			"It is said that he is very timid and tends to make jokes about small things.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2531,
@@ -477833,11 +477833,11 @@ tbl = {
 			"A cute fairy-like costume hat with a bell made of flower petals on the head.",
 			"When worn with the Costume Sweet Flower Garden or Costume Cherry Blossom Wand, it adds the effect of fluttering cherry blossom petals.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2550,
@@ -477854,11 +477854,11 @@ tbl = {
 			"It is said to have been created by some enthusiasts in the Kingdom of Rune-Midgards.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 38.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2548,
@@ -477874,11 +477874,11 @@ tbl = {
 			"A sensitive straw hat with a gold peony decoration.",
 			"It's perfect for a vacation at a resort.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2558,
@@ -477894,11 +477894,11 @@ tbl = {
 			"A sensitive straw hat with red peony decoration.",
 			"A perfect outfit for a vacation at a resort.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2559,
@@ -478067,11 +478067,11 @@ tbl = {
 			"A compass amulet is attached as a decoration to prevent them from getting lost at sea.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 38.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2426,
@@ -478133,11 +478133,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A new holiday headband that reinterprets the Bae's headband.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2581,
@@ -478281,11 +478281,11 @@ tbl = {
 			"A ghost ship captain's hat floating in the cold North Sea.",
 			"The loneliness and storms of the past years are melted into it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2585,
@@ -478303,11 +478303,11 @@ tbl = {
 			"It's designed for humans, so it's a bit large for Doram, but some people find that to be a positive.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 39.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2593,
@@ -478322,11 +478322,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cute round hat. You can see a cute Archangeling from the back.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2543,
@@ -478342,11 +478342,11 @@ tbl = {
 			"A cape modeled after a winter tree, decorated with various ornaments.",
 			"This cape will keep you warm this winter!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2609,
@@ -478361,11 +478361,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A doll modeled after a Po. It's subtly cute.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2638,
@@ -478381,11 +478381,11 @@ tbl = {
 			"When worn, the Dragon Warrior Hat grants a dragon-like aura that can be used by Dragon Warriors, including Po, using their staffs.",
 			"The Dragon Warrior's powers cannot be used.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2639,
@@ -478400,11 +478400,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A doll modeled after Tigress, one of the legendary Five, a disciple of Shifu.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2644,
@@ -478419,11 +478419,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A doll modeled after Master Shifu. It has a thick, fluffy tail.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2641,
@@ -478438,11 +478438,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"This doll is modeled after Zen, Po's disciple. It seems like it keeps hitting the back of the head with its tail. Is it just my imagination?",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2642,
@@ -478457,11 +478457,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume helmet shaped like the head of a guide of the dead.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2650,
@@ -478478,11 +478478,11 @@ tbl = {
 			"A fun item that changes the color of the headphones when you focus.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 37.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2495,
@@ -478499,11 +478499,11 @@ tbl = {
 			"It has a cat paw decoration that prays for safe adventures.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 37.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2496,
@@ -478518,11 +478518,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"This costume is inspired by a mysterious character symbolizing health and healing.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2652,
@@ -478538,11 +478538,11 @@ tbl = {
 			"This costume hair piece gives you the feeling of a different hairstyle when worn.",
 			"An Oriental-style wig.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2661,
@@ -478559,11 +478559,11 @@ tbl = {
 			"The two-pronged peaks are a focal point.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 39.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2521,
@@ -478580,11 +478580,11 @@ tbl = {
 			"It features blue petals, a rare color among them.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 39.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2673,
@@ -478600,11 +478600,11 @@ tbl = {
 			"A massive sombrero with a large brim and ornately decorated with muka.",
 			"It truly is a moving shadow.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2679,
@@ -478620,11 +478620,11 @@ tbl = {
 			"Munchie won't stop there!",
 			"Uzagi seems quite confident in his burgers. This souvenir hat captures that spirit.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2681,
@@ -478639,11 +478639,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A small dragon doll made to resemble Toothless. It follows him around, flapping its wings.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2694,
@@ -478658,11 +478658,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"This doll is modeled after Toothless lying face down. It exudes a strange sense of stability.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2695,
@@ -478678,11 +478678,11 @@ tbl = {
 			"A fluffy hood for a costume in the shape of a petal.",
 			"The fur is remarkably detailed.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2700,
@@ -478699,11 +478699,11 @@ tbl = {
 			"The true face hidden behind the noble beast's mask is unknown to anyone but the wearer.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 40.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2504,
@@ -478718,11 +478718,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Maxim's ambitious creation, borrowing from the wisdom of our ancestors who used salt to ward off evil. Whenever you feel anxious or fearful, sprinkle it on your head without mercy.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2717,
@@ -478746,11 +478746,11 @@ tbl = {
 			"Increases Damage against monsters of every size by 10%.",
 			"^ff0000(Item effects will be deleted when the event ends.)^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2722,
@@ -478766,11 +478766,11 @@ tbl = {
 			"Nyar's White Ears.",
 			"The soft, delicate fur allows you to hear even the smallest sounds carried by the cold wind.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2723,
@@ -478786,11 +478786,11 @@ tbl = {
 			"Nyar's Gray Ears.",
 			"Smooth, delicate fur allows the wearer to hear even the smallest sounds echoing deep within the ice.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2726,
@@ -478807,11 +478807,11 @@ tbl = {
 			"It feels like my soul is being purified.",
 			"Oh, Holy ~ ",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2729,
@@ -479856,11 +479856,11 @@ tbl = {
 			"Its cute yet stylish design makes it suitable for both men and women.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 40.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2359,
@@ -479900,7 +479900,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1998,
@@ -479962,7 +479962,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1266,
@@ -479992,7 +479992,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1266,
@@ -480016,7 +480016,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1552,
@@ -480451,7 +480451,7 @@ tbl = {
 			"^0000CCPosition:^000000 Middle",
 			"^0000CC重量:^000000 10",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1169,
@@ -480481,7 +480481,7 @@ tbl = {
 			"^0000CCPosition:^000000 Middle",
 			"^0000CC重量:^000000 10",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1169,
@@ -481191,11 +481191,11 @@ tbl = {
 			"",
 			"This is an exchange-only product.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2254,
@@ -481215,11 +481215,11 @@ tbl = {
 			"",
 			"This is an exchange-only product.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2255,
@@ -481239,11 +481239,11 @@ tbl = {
 			"",
 			"This is an exchange-only product.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2256,
@@ -481263,11 +481263,11 @@ tbl = {
 			"",
 			"This is an exchange-only product.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2257,
@@ -481287,11 +481287,11 @@ tbl = {
 			"",
 			"This is an exchange-only product.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2258,
@@ -481307,11 +481307,11 @@ tbl = {
 			"A gorgeous hair accessory crafted from a large bouquet of colorful flowers.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 31.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2263,
@@ -481346,11 +481346,11 @@ tbl = {
 			"A magical celestial sphere made of numerous meteorites pouring down from space.",
 			"The magic formula applied to the celestial sphere is constructed with principles that do not belong to this world, and modern magic and science cannot grasp all the details.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2265,
@@ -481404,11 +481404,11 @@ tbl = {
 			"An oil lantern for clothing, a must-have for travelers.",
 			"It is a unique lantern that automatically lights up when you walk or sit down.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2280,
@@ -481459,11 +481459,11 @@ tbl = {
 			"Equipment for sea hunters, it is a product of the famous brand of Rune-Midgards.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 28.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2116,
@@ -481483,11 +481483,11 @@ tbl = {
 			"",
 			"This is an exchange-only product.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2290,
@@ -481507,11 +481507,11 @@ tbl = {
 			"",
 			"This is an exchange-only product.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2291,
@@ -481531,11 +481531,11 @@ tbl = {
 			"",
 			"This is an exchange-only product.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2292,
@@ -481554,11 +481554,11 @@ tbl = {
 			"",
 			"This is an exchange-only product.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2307,
@@ -481577,11 +481577,11 @@ tbl = {
 			"",
 			"This is an exchange-only product.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2304,
@@ -481601,11 +481601,11 @@ tbl = {
 			"",
 			"This is an exchange-only product.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2293,
@@ -481621,11 +481621,11 @@ tbl = {
 			"A cute rabbit butler who is waiting for you 24 hours a day. You can enjoy tea time anytime, anywhere.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 34.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2362,
@@ -481641,11 +481641,11 @@ tbl = {
 			"A costume that, when worn, has spiritized skulls and books hovering around the character.",
 			"There is a story about the soul of a scholarly wizard and the grimoire he possessed.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2363,
@@ -481682,11 +481682,11 @@ tbl = {
 			"",
 			"This is an exchange-only product.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2306,
@@ -481706,11 +481706,11 @@ tbl = {
 			"",
 			"This is an exchange-only product.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2305,
@@ -481731,7 +481731,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 3,
@@ -481752,7 +481752,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 2",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 3,
@@ -481769,11 +481769,11 @@ tbl = {
 			"It grows by feeding on its master's emotions.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 34.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2316,
@@ -481791,11 +481791,11 @@ tbl = {
 			"\"!!\"",
 			"\"~~~!\"",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2321,
@@ -481857,11 +481857,11 @@ tbl = {
 			"Magic cards for actual games produced by the Magician's Guild.",
 			"Due to being overly powerful, he made the 10 cards that were banned on game tournaments into Costumes.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2264,
@@ -481878,11 +481878,11 @@ tbl = {
 			"Made to commemorate the World Cup.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 29.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2324,
@@ -481899,11 +481899,11 @@ tbl = {
 			"Crafted with such exquisite detail that it almost seems lifelike, it's said to be popular with doll collectors.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 30.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2334,
@@ -481920,7 +481920,7 @@ tbl = {
 			"Let's ignore the question, \"Why don't they blink normally?\"",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 32.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
@@ -481941,11 +481941,11 @@ tbl = {
 			"Rice flour was put in a steamer and steamed clean.",
 			"Poseulposeul and chewy texture are excellent.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2341,
@@ -481961,11 +481961,11 @@ tbl = {
 			"Rice cake made by adding black sesame seeds to rice flour.",
 			"The stickiness is worth it!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2342,
@@ -481981,11 +481981,11 @@ tbl = {
 			"It was completed by adding soybeans to glutinous rice cakes made from rice flour.",
 			"The savory taste is exquisite!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2343,
@@ -482002,11 +482002,11 @@ tbl = {
 			"It is said to be popular among doll collectors as it is elaborately crafted to the extent that it can be mistaken for a living one.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 30.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2349,
@@ -482022,11 +482022,11 @@ tbl = {
 			"The sparkling crystal pieces enhance the wearer's dignity and dignity.",
 			"Somehow, it seems to have become a great existence.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2355,
@@ -482041,11 +482041,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"It feels like I've been invited to a tea party in some cute and charming wonderland.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -482117,11 +482117,11 @@ tbl = {
 			"The flickering candlelight evokes a nostalgic atmosphere.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 31.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2378,
@@ -482140,11 +482140,11 @@ tbl = {
 			"\"...adventure... it's fun.......\"",
 			"This is an exchange-only product.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2384,
@@ -482161,11 +482161,11 @@ tbl = {
 			"The elegant decorations make the wearer's heart flutter.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 37.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2421,
@@ -482184,11 +482184,11 @@ tbl = {
 			"\"Oh my, I'm flying! Tilby's flying!\"",
 			"This is an exchange-only product.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2386,
@@ -482205,7 +482205,7 @@ tbl = {
 			"Sometimes, the sharp gaze behind them makes you avoid eye contact.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 32.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
@@ -482226,11 +482226,11 @@ tbl = {
 			"Sunglasses with a unique design that captures people's attention.",
 			"They are said to resemble the eyes of intelligent beings living on celestial bodies other than Earth.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2405,
@@ -482246,11 +482246,11 @@ tbl = {
 			"Sunglasses with a unique design that captures people's attention.",
 			"They are said to resemble the eyes of intelligent beings living on celestial bodies other than Earth.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2407,
@@ -482266,11 +482266,11 @@ tbl = {
 			"Sunglasses with a unique design that captures people's attention.",
 			"They are said to resemble the eyes of intelligent beings living on celestial bodies other than Earth.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2406,
@@ -482287,11 +482287,11 @@ tbl = {
 			"",
 			"\"That was almost too easy!\"",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2429,
@@ -482308,11 +482308,11 @@ tbl = {
 			"_______________________",
 			"\"I'm faster than the speed of sound!\"",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2430,
@@ -482329,11 +482329,11 @@ tbl = {
 			"",
 			"\"I can do it!\"",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2431,
@@ -482348,11 +482348,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"I lost all the rings I'd collected in a battle with an enemy!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2432,
@@ -482368,11 +482368,11 @@ tbl = {
 			"Cinnamoroll, a soft, fluffy creature descending from the sky.",
 			"Its special ability is to fly, flapping its large ears.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"(C) 2023 SANRIO CO., LTD."
 		},
 		slotCount = 0,
@@ -482390,11 +482390,11 @@ tbl = {
 			"It has the specialty of flying in the sky by flapping its big ears.",
 			"Cinnamoroll flying in the sky looks happy.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"Copyright 2023 SANRIO CO., LTD."
 		},
@@ -482412,11 +482412,11 @@ tbl = {
 			"When a psychic tries to control an evil spirit, the soul resides in the ear.",
 			"When worn on the body, it can cause fear to those around it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2212,
@@ -482432,11 +482432,11 @@ tbl = {
 			"A cat doll with jewel-like blue eyes, painstakingly made by a doll maker in the Kingdom of Rune-Midgards.",
 			"It is so elaborately made that it looks like it is alive, and shows off its elegant appearance. It is said to be popular with doll collectors.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2436,
@@ -482451,11 +482451,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume that embodies the autumn evening sky.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -482470,11 +482470,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume inspired by the evil eye of the False God, born from false beliefs.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2450,
@@ -482490,11 +482490,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A miniature model that was modeled after a popular MVP, Gloom Under Night.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2481,
@@ -482511,11 +482511,11 @@ tbl = {
 			"Mysterious sea creatures with dreamlike shapes and colors.",
 			"Jellyfish will set you free~",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2482,
@@ -482530,11 +482530,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume depicting the sound of bells ringing on a winter night during Christmas.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -482550,11 +482550,11 @@ tbl = {
 			"A new version of the tablet used to communicate with Heine in Lunaforma.",
 			"While communication is limited, it can now be used as a fashion item.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2512,
@@ -482570,11 +482570,11 @@ tbl = {
 			"A new version of the tablet used to communicate with Heine in Lunaforma.",
 			"While communication is limited, it can now be used as a fashion item.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2513,
@@ -482590,11 +482590,11 @@ tbl = {
 			"A new version of the tablet used to communicate with Heine in Lunaforma.",
 			"While communication is limited, it can now be used as a fashion item.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2514,
@@ -482610,11 +482610,11 @@ tbl = {
 			"A small four-leaf clover-shaped hairpin said to bring good luck.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 35.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2515,
@@ -482629,11 +482629,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A sacred decoration that embodies the power of true faith.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2518,
@@ -482649,11 +482649,11 @@ tbl = {
 			"A costume candy shop run by a bear.",
 			"Poring Cotton Candy is the Bear Candy Cart's signature item.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2520,
@@ -482668,7 +482668,7 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume contact lens inspired by the blinking eyes of the Distorted God.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
@@ -482688,11 +482688,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A doll that looks exactly like A-Ji, always eager to go for a walk.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2532,
@@ -482709,11 +482709,11 @@ tbl = {
 			"Let's treat hungry adventurers to freshly baked bread.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 36.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2536,
@@ -482763,11 +482763,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume depicting the fiery golden falcon, symbolizing the God of the Sun.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2555,
@@ -482843,11 +482843,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A beach parasol that floats buoyantly, shielding you from the harsh sunlight.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2560,
@@ -482862,11 +482862,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A red beach parasol that floats buoyantly and blocks strong sunlight.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2561,
@@ -482883,11 +482883,11 @@ tbl = {
 			"Let's make a strong mind.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 37.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2568,
@@ -482903,11 +482903,11 @@ tbl = {
 			"A Great Pyrenees plush, painstakingly crafted by the dollmaker of the Kingdom of Rune-Midgards.",
 			"With its plush fur and angelic face, it warms the heart of anyone who sees it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2572,
@@ -482923,11 +482923,11 @@ tbl = {
 			"A strange aura that evokes fear and awe in those who see it.",
 			"It resembles the chill of the cold night sea.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -482943,11 +482943,11 @@ tbl = {
 			"Headphones with a knowledge-intensive core attached.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 36.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2503,
@@ -482963,11 +482963,11 @@ tbl = {
 			"A costume embodying the Libra of Judgement.",
 			"If the lion's heart is lighter than a feather, there's no problem, but if it's heavier, you'll have to worry about the future.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2651,
@@ -482983,11 +482983,11 @@ tbl = {
 			"A neatly ironed, clean, and elegant Maid Frill. It warms the heart of anyone who sees it.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 39.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2656,
@@ -483003,11 +483003,11 @@ tbl = {
 			"A capybara doll with jewel-like blue eyes, painstakingly crafted by a dollmaker from the Kingdom of Rune-Midgard.",
 			"Its delicately crafted body, almost lifelike, makes it a popular choice among doll collectors.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2680,
@@ -483023,7 +483023,7 @@ tbl = {
 			"Contact lenses for costumes that make your eyes blink when worn.",
 			"Let's ignore the question, \"Why don't they blink normally?\"",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
@@ -483043,11 +483043,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A doll mask modeled after Toothless's face.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2693,
@@ -483063,7 +483063,7 @@ tbl = {
 			"The blinking eyes of a white cat.",
 			"Looking into them feels like you're about to fall into their eyes.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
@@ -483084,7 +483084,7 @@ tbl = {
 			"The blinking eyes of a yellow cat.",
 			"Looking into them feels like you're about to fall into their eyes.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
@@ -483106,11 +483106,11 @@ tbl = {
 			"I feel fulfilled.",
 			"Twinkle, Twinkle ~ ",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2730,
@@ -484058,11 +484058,11 @@ tbl = {
 			"A costume bat that lets you feel like a vampire.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 29.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2093,
@@ -484133,11 +484133,11 @@ tbl = {
 			"The wig of a mermaid, an imaginary creature.",
 			"It seems to go well with the accessories that let you feel the sea.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2166,
@@ -484219,11 +484219,11 @@ tbl = {
 			"A wig made by braiding the hair into two parts.",
 			"It helps with various productions.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2052,
@@ -484239,11 +484239,11 @@ tbl = {
 			"A wig made by braiding the hair into two parts.",
 			"It helps with various productions.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2053,
@@ -484259,11 +484259,11 @@ tbl = {
 			"A wig made by braiding the hair into two parts.",
 			"It helps with various productions.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2054,
@@ -484279,11 +484279,11 @@ tbl = {
 			"A wig made by braiding the hair into two parts.",
 			"It helps with various productions.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2051,
@@ -484299,11 +484299,11 @@ tbl = {
 			"A wig made by braiding the hair into two parts.",
 			"It helps with various productions.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2047,
@@ -484319,11 +484319,11 @@ tbl = {
 			"A wig made by braiding the hair into two parts.",
 			"It helps with various productions.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2049,
@@ -484339,11 +484339,11 @@ tbl = {
 			"A wig made by braiding the hair into two parts.",
 			"It helps with various productions.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2048,
@@ -484359,11 +484359,11 @@ tbl = {
 			"A wig made by braiding the hair into two parts.",
 			"It helps with various productions.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2050,
@@ -484397,11 +484397,11 @@ tbl = {
 			"A costume wig that makes you feel like you have changed into a different hairstyle when worn.",
 			"It is said that it was modeled after the hairstyle of a certain fighter.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2206,
@@ -484417,11 +484417,11 @@ tbl = {
 			"A costume wig that makes you feel like you have changed into a different hairstyle when worn.",
 			"Twin hair with gradation color that makes your hair sparkle as you move.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2222,
@@ -484437,11 +484437,11 @@ tbl = {
 			"A delicious-looking costume decoration that mimics a bite-sized chocolate bonbon chocolat.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 26.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1110,
@@ -484457,11 +484457,11 @@ tbl = {
 			"A costume amulet that is said to contain the power of the fire spirit.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 26.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1261,
@@ -484629,11 +484629,11 @@ tbl = {
 			"A costume wig that makes you feel like you have changed into a different hairstyle when worn.",
 			"It is said that it was modeled after the hairstyle of a certain fighter.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2236,
@@ -484649,11 +484649,11 @@ tbl = {
 			"A costume wig that makes you feel like you have changed into a different hairstyle when worn.",
 			"It is said that it was modeled after the hairstyle of a certain fighter.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2237,
@@ -484669,11 +484669,11 @@ tbl = {
 			"A costume wig that makes you feel like you have changed into a different hairstyle when worn.",
 			"It is said that it was modeled after the hairstyle of a certain fighter.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2238,
@@ -484689,11 +484689,11 @@ tbl = {
 			"A costume wig that makes you feel like you have changed into a different hairstyle when worn.",
 			"It is said that it was modeled after the hairstyle of a certain fighter.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2239,
@@ -484709,11 +484709,11 @@ tbl = {
 			"A costume wig that makes you feel like you have changed into a different hairstyle when worn.",
 			"It is said that it was modeled after the hairstyle of a certain fighter.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2240,
@@ -484729,11 +484729,11 @@ tbl = {
 			"A costume wig that makes you feel like you have changed into a different hairstyle when worn.",
 			"It is said that it was modeled after the hairstyle of a certain fighter.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2241,
@@ -484749,11 +484749,11 @@ tbl = {
 			"A costume wig that makes you feel like you have changed into a different hairstyle when worn.",
 			"It is said that it was modeled after the hairstyle of a certain fighter.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2242,
@@ -484769,11 +484769,11 @@ tbl = {
 			"A costume wig that makes you feel like you have changed into a different hairstyle when worn.",
 			"It is said that it was modeled after the hairstyle of a certain fighter.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2243,
@@ -484826,11 +484826,11 @@ tbl = {
 			"A costume wig that makes you feel like you have changed into a different hairstyle when worn.",
 			"Twin hair with gradation color that makes your hair sparkle as you move.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2274,
@@ -484846,11 +484846,11 @@ tbl = {
 			"A costume in which light, darkness, and opposing powers swirl.",
 			"It is said that it can be used as a bluff because it looks incredibly strong just by wearing it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2273,
@@ -485019,11 +485019,11 @@ tbl = {
 			"This costume hair piece gives you the feeling of a different hairstyle when worn.",
 			"A mysterious twintail wig decorated with ribbons inspired by the starry sky.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2270,
@@ -485093,11 +485093,11 @@ tbl = {
 			"A clothing tent that suddenly appears when you are sitting and resting or when you collapse.",
 			"No hassle of assembling.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2279,
@@ -485135,7 +485135,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 8,
@@ -485156,7 +485156,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 2",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 8,
@@ -485173,11 +485173,11 @@ tbl = {
 			"Decorated with ice that never melts.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 34.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2317,
@@ -485258,11 +485258,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cute wig with snow rabbit ears.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2333,
@@ -485279,11 +485279,11 @@ tbl = {
 			"It clings tightly to its owner, acting charmingly.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 31.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2335,
@@ -485300,11 +485300,11 @@ tbl = {
 			"It keeps your neck warm, making it a must-have on cold days.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 34.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2340,
@@ -485320,11 +485320,11 @@ tbl = {
 			"A costume wig that transforms your hairstyle into something different when worn.",
 			"Wavy, gradient-colored hair that sparkles with movement.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2346,
@@ -485388,11 +485388,11 @@ tbl = {
 			"The moment you put it on your head, a wig that gives you the feeling of becoming a snake with mysterious magical energy.",
 			"In fact, it does not generate magical powers or communicate with snakes.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2354,
@@ -485408,11 +485408,11 @@ tbl = {
 			"Costume hair that gives you the feeling of having a different hairstyle when you wear it.",
 			"It was modeled after Juncea's hairstyle.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2361,
@@ -485427,11 +485427,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Hair costume decorated with the Eternal Rose, symbolizing eternal love.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2365,
@@ -485447,11 +485447,11 @@ tbl = {
 			"A wig with rabbit ears filled with chocolate scent.",
 			"A sweet strawberry chocolate scent wafts from the hair.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2369,
@@ -485468,11 +485468,11 @@ tbl = {
 			"It makes you want to throw a fun tea party.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 30.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2370,
@@ -485519,11 +485519,11 @@ tbl = {
 			"Slowly counting sheeps, one, two, three, makes you want to fall asleep.",
 			"Just lying down makes you fall asleep right away.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2277,
@@ -485539,11 +485539,11 @@ tbl = {
 			"A shoulder armor that protects from the neck to the shoulder with a sturdy shield-like decoration.",
 			"The shoulder decoration, like an iron wall, shows the craftsman's touch in every detail.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2227,
@@ -485589,11 +485589,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A slice of melon, a favorite of the family waiting at home.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2382,
@@ -485640,11 +485640,11 @@ tbl = {
 			"This costume hair piece will give you the feeling of a different hairstyle when worn.",
 			"It's modeled after the lively and adorable Skia's hairstyle.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2389,
@@ -485660,11 +485660,11 @@ tbl = {
 			"A costume wig that will make you feel like you have a different hair style when worn.",
 			"The accent color of the point color is clearly visible inside the white color.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2397,
@@ -485800,7 +485800,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 571,
@@ -485817,11 +485817,11 @@ tbl = {
 			"Adorable candy-shaped hair.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 35.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2418,
@@ -485837,11 +485837,11 @@ tbl = {
 			"A beautiful costume with cherry blossoms dancing gently to the rhythm of a spinning pinwheel.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 33.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -485886,7 +485886,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2337,
@@ -485931,7 +485931,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2130,
@@ -485947,11 +485947,11 @@ tbl = {
 			"A costume wig that transforms your hairstyle into something different when worn.",
 			"The white cat ears add a striking touch.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2440,
@@ -485998,11 +485998,11 @@ tbl = {
 			"A celestial observation device created from the countless magical powers pouring down from the sky.",
 			"Its purpose is unknown to modern magic or science.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -486018,11 +486018,11 @@ tbl = {
 			"A costume wig that transforms your hairstyle into something different when worn.",
 			"The wavy style is accented with rose-shaped knots on both sides.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2451,
@@ -486038,11 +486038,11 @@ tbl = {
 			"A costume wig that transforms your hairstyle into something different when worn.",
 			"The wavy style is accented with rose-shaped knots on both sides.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2454,
@@ -486058,11 +486058,11 @@ tbl = {
 			"A replica of the Chaos Emerald that Sonic had.",
 			"Cannot exert the same immense power as Super Sonic.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2485,
@@ -486077,11 +486077,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume depicting Lutie peaceful winter night sky.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -486097,11 +486097,11 @@ tbl = {
 			"A costume kotatsu that suddenly appears when you're sitting down to rest or when you fall down.",
 			"How about snuggling up under a warm blanket with family or friends?",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2489,
@@ -486117,11 +486117,11 @@ tbl = {
 			"A costume wig that transforms your hairstyle into something different when worn.",
 			"A hairstyle with two wavy hair pieces, created by rolling them into a roll.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2490,
@@ -486382,7 +486382,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2335,
@@ -486437,7 +486437,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2093,
@@ -486454,11 +486454,11 @@ tbl = {
 			"A hairstyle with a striking cybernetic color scheme.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 40.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2508,
@@ -486474,11 +486474,11 @@ tbl = {
 			"A wig with a bouncy, almost bouncy, texture.",
 			"The soft strawberry mochi-like color makes it look even more bouncy.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2517,
@@ -486494,11 +486494,11 @@ tbl = {
 			"A costume wig that transforms your hairstyle into something different when worn.",
 			"It's modeled after the Valkyrie Randgris' hairstyle.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2527,
@@ -486514,11 +486514,11 @@ tbl = {
 			"A plump cat that looks exactly like Looker is floating around on a balloon.",
 			"If you carry it around, you feel like you'll get hungry soon.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -486534,11 +486534,11 @@ tbl = {
 			"A costume coffee truck that suddenly appears when you're resting or lying down.",
 			"No assembly required.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2534,
@@ -486554,11 +486554,11 @@ tbl = {
 			"A costume wig that transforms your hairstyle into something different when worn.",
 			"The hairstyle exudes sweetness, reminiscent of a churro hanging from a cute dango.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2535,
@@ -486573,11 +486573,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A mysterious book imbued with magical power. It appears to contain the sorcerer's prophecy.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2327,
@@ -486593,11 +486593,11 @@ tbl = {
 			"A costume wig that transforms your hairstyle into something different when worn.",
 			"The ribbons interspersed with the braids are a focal point.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2547,
@@ -486613,11 +486613,11 @@ tbl = {
 			"A costume wig inspired by an angel who loves sweet treats.",
 			"The raspberry decoration makes for a cute look.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2549,
@@ -486633,11 +486633,11 @@ tbl = {
 			"A blue sunbed set that will evoke the feeling of a midsummer beach.",
 			"Sit anywhere and enjoy a summer vacation!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2562,
@@ -486653,11 +486653,11 @@ tbl = {
 			"A green sunbed set that will evoke the feeling of a midsummer beach.",
 			"Sit anywhere and enjoy a summer vacation!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2563,
@@ -486673,11 +486673,11 @@ tbl = {
 			"A long pipe said to have been used by immortals long ago.",
 			"When held, a magical image of blue skies and red clouds appears.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 383,
@@ -486693,11 +486693,11 @@ tbl = {
 			"A costume pool that suddenly appears while you're resting.",
 			"No assembly required.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2566,
@@ -486713,11 +486713,11 @@ tbl = {
 			"A costume wig that transforms your hairstyle into something different when worn.",
 			"The red and pink hair extensions create a striking impression.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2567,
@@ -486732,11 +486732,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A candle set selling like hotcakes at the Prontera Night Market, rumored to cause mysterious events if you enter the candle circle.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2569,
@@ -486752,11 +486752,11 @@ tbl = {
 			"A costume embodying the Alchemist's commitment to research.",
 			"The wearer is surrounded by various research journals, potions, and experimental tools.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2664,
@@ -486772,11 +486772,11 @@ tbl = {
 			"A cute bell with a ribbon that is popular in the Kingdom of Rune-Midgards. The Taro who pulls Doram's cart discussed and decided to put a bell around Doram's neck.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 38.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2483,
@@ -486793,11 +486793,11 @@ tbl = {
 			"It was created in response to a request for a look without decorations.",
 			"The lack of decorations gives the wig a more voluminous appearance.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2577,
@@ -486813,11 +486813,11 @@ tbl = {
 			"For some reason, when you wear the Whisper Cloth over your head, cat ears pop out.",
 			"It also seems to make your body feel lighter.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2578,
@@ -486833,11 +486833,11 @@ tbl = {
 			"A wig modeled after the hairstyle of a man who was highly respected by many in the Jormungand sect.",
 			"It gives off a calm and pious feeling.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2588,
@@ -486853,11 +486853,11 @@ tbl = {
 			"A gorgeous wig that feels like a bright spring breeze.",
 			"When worn, it somehow feels like the top of a large top.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2589,
@@ -486873,11 +486873,11 @@ tbl = {
 			"A costume wig that transforms your hairstyle into something different when worn.",
 			"A beautiful, silky, long hair with a mystical hue, reminiscent of a divine messenger.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2596,
@@ -486893,11 +486893,11 @@ tbl = {
 			"A costume commentary booth that suddenly appears when you're sitting down or lying down.",
 			"Ragnarok Online, let's start now!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2597,
@@ -486912,11 +486912,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A map containing helpful information on adventures, such as dungeon locations and buried treasure.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2598,
@@ -486932,11 +486932,11 @@ tbl = {
 			"A costume wig that transforms your hairstyle into something different when worn.",
 			"The two-parted side-up is adorable!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2612,
@@ -486952,11 +486952,11 @@ tbl = {
 			"A cute costume hood with fluffy cat ears.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 37.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2522,
@@ -486972,11 +486972,11 @@ tbl = {
 			"A sumi-e painting depicting the daytime.",
 			"Looking at it brings a sense of peace.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -486992,11 +486992,11 @@ tbl = {
 			"A sumi-e painting depicting the night.",
 			"Looking at it brings a sense of peace.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -487012,11 +487012,11 @@ tbl = {
 			"A mysterious string that envelops the Guide.",
 			"It is said to symbolize the scales.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -487031,11 +487031,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A mysterious string symbolizing a guardian who guides the journey to the afterlife.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -487052,11 +487052,11 @@ tbl = {
 			"Goes well with warm tea.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 39.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2658,
@@ -487072,11 +487072,11 @@ tbl = {
 			"A snack truck that appears suddenly when you're resting or lying down.",
 			"Gimbap and tteokbokki are essential snack items on the menu.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2660,
@@ -487092,11 +487092,11 @@ tbl = {
 			"What if Ujagi and his Munch friends succeeded and opened a wonderful store?",
 			"Let's take a peek at the Munch friends' dreams.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -487111,11 +487111,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume that makes you feel like you've ascended to the stratosphere and are admiring the clouds.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -487130,11 +487130,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"This outfit allows you to enjoy the beautiful scenery of clouds and aurora at once.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -487149,11 +487149,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"The powerful power of the monarch commanding the Immortal Legion: three blazing subspace portals capable of summoning boundless power.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2711,
@@ -487170,11 +487170,11 @@ tbl = {
 			"It's impossible to enter, but it seems as if divine energy is pouring out.",
 			"Mirror, Mirror ~",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -487190,11 +487190,11 @@ tbl = {
 			"Nyar's fluffy fur.",
 			"It's so addictive you'll want to keep touching it. You might just fall asleep...",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2725,
@@ -487210,11 +487210,11 @@ tbl = {
 			"Nyar's hair is shiny and smooth.",
 			"It's so addictive that you'll want to keep stroking it. You might just fall asleep...",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2728,
@@ -487231,11 +487231,11 @@ tbl = {
 			"It was planned as a festival costume.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 29.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2325,
@@ -487251,11 +487251,11 @@ tbl = {
 			"A hood worn by those working at the lowest level of the church.",
 			"Somehow, it feels like I'm falling into the shackles of endless labor.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2590,
@@ -487272,11 +487272,11 @@ tbl = {
 			"I feel like it's delicious.",
 			"Be careful not to eat it as it is lightly fried in oil and the juices are flowing.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2320,
@@ -487407,7 +487407,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2144,
@@ -487429,7 +487429,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2143,
@@ -487531,11 +487531,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A redesigned hood based on the popularity of Love Rabbit Hood.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1085,
@@ -487550,11 +487550,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cute black hood with soft and soft cat ears.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1481,
@@ -487569,11 +487569,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cute squirrel hat with pricked ears.At the moment of writing, it seems like a squirrel characterized by a small but sharp attack.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 1486,
@@ -487628,11 +487628,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"Feel like a genius villain!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2434,
@@ -487647,11 +487647,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat given to the 1st place Korean representative in the ROS competition.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2551,
@@ -487666,11 +487666,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat given to the 2nd place Korean representative in the ROS competition.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2552,
@@ -487685,11 +487685,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat given to the 3rd place Korean representative in the ROS competition.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2553,
@@ -487704,11 +487704,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hat given to Korean participants in the ROS competition.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2554,
@@ -487724,11 +487724,11 @@ tbl = {
 			"A cape worn by priests of the Jormungand Cult.",
 			"Based on the shape and length, it seems to be for mid-level priests.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2584,
@@ -487744,11 +487744,11 @@ tbl = {
 			"A helmet that shows the status of the warrior Galasia, who is a hundred-strong warrior.",
 			"The red hat represents bravery.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2587,
@@ -487765,11 +487765,11 @@ tbl = {
 			"It was made slightly thinner to create a slender neckline.",
 			"It seems too tight on the face...",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2606,
@@ -487787,11 +487787,11 @@ tbl = {
 			"It was made slightly thinner to create a slender neckline.",
 			"It seems too tight on the face...",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper, Middle, Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2607,
@@ -492450,7 +492450,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -493452,7 +493452,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -493472,7 +493472,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 2",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -495626,7 +495626,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1,
@@ -495646,7 +495646,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 2",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 1,
@@ -498397,7 +498397,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -498417,7 +498417,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 2",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -500805,11 +500805,11 @@ tbl = {
 			"Golden wings of a golden angel swaying in the sky.",
 			"Feathers fluttering and falling gently make the wings feel as if they are alive.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 75,
@@ -502920,11 +502920,11 @@ tbl = {
 			"Clothing wings with piano keys spread out like wings.",
 			"A beautiful tone comes from the keyboard.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 126,
@@ -503315,11 +503315,11 @@ tbl = {
 			"A blue magic circle for costumes that appears dimly around the feet.",
 			"I feel like a great wizard.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -503335,11 +503335,11 @@ tbl = {
 			"A back ribbon decoration with a large bell.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 33.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 135,
@@ -503374,11 +503374,11 @@ tbl = {
 			"A set of clothing and equipment for adventurers traveling through the desert.",
 			"There are many tools that come in handy when traveling.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 137,
@@ -503819,11 +503819,11 @@ tbl = {
 			"A costume book made in the Schwartzvald Republic.",
 			"It is said to be a special book containing magical knowledge.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 149,
@@ -503856,11 +503856,11 @@ tbl = {
 			"ATK +5%, MATK +5%",
 			"Increases experience gained by 100% and item drop chance by 50%.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 164,
@@ -503876,11 +503876,11 @@ tbl = {
 			"A bag inspired by a cinnamoroll descending from the heavens.",
 			"It is said that simply wearing this soft, fluffy bag provides healing.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"Copyright 2023 SANRIO CO., LTD."
 		},
 		slotCount = 0,
@@ -503898,11 +503898,11 @@ tbl = {
 			"A special version, crowned by a craftsman who fell in love with Cinnamoroll's cuteness.",
 			"It's quite stylish.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"Copyright 2023 SANRIO CO., LTD."
 		},
 		slotCount = 0,
@@ -503938,7 +503938,7 @@ tbl = {
 			"^0000CCWeight:^000000 30",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None",
+			"^0000CC要求:^000000 无",
 			"_______________________",
 			"Copyright 2023 SANRIO CO., LTD."
 		},
@@ -503955,11 +503955,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume spear that mimics the spear Valkyrie has.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 154,
@@ -503979,7 +503979,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -503999,7 +503999,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 2",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -504018,11 +504018,11 @@ tbl = {
 			"_______________________",
 			"^0000FFGraphics are reflected in the character.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 156,
@@ -504038,11 +504038,11 @@ tbl = {
 			"The shell of a Larva (Rainbow).",
 			"If you wear it, it seems to be a workout.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 157,
@@ -504058,11 +504058,11 @@ tbl = {
 			"A toy costume syringe filled with sweet syrup.",
 			"I doubt it actually contains Poring, right?",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 161,
@@ -504156,11 +504156,11 @@ tbl = {
 			"When you wear it, you feel a huge energy supporting your back.",
 			"For steam suppression.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -504180,11 +504180,11 @@ tbl = {
 			"_______________________",
 			"^006400Since it is an equipped effect, it still will be displayed even when the effect (/effect) is turned off.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -504203,11 +504203,11 @@ tbl = {
 			"_______________________",
 			"^0000FFGraphics are reflected in the character.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -504226,11 +504226,11 @@ tbl = {
 			"_______________________",
 			"^0000FFGraphics are reflected in the character.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -504246,11 +504246,11 @@ tbl = {
 			"A costume decorated with cherry blossom branches cut from the ground.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 35.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 167,
@@ -504267,11 +504267,11 @@ tbl = {
 			"Just wearing it makes you feel like spring has arrived.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 38.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -504286,11 +504286,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A cloak inspired by long, hanging rabbit ears.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 169,
@@ -504306,11 +504306,11 @@ tbl = {
 			"A magic circle that makes you feel like you're falling into a cute and charming wonderland.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 30.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -504390,11 +504390,11 @@ tbl = {
 			"It looks like it just moved...",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 34.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 172,
@@ -504411,11 +504411,11 @@ tbl = {
 			"Decorated with a four-leaf clover, symbolizing good luck.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 31.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 173,
@@ -504504,11 +504504,11 @@ tbl = {
 			"A ceremonial sword, modeled after the Nerius family heirloom and named after the Milky Way.",
 			"Decorated with green sapphires, it exudes elegance.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 176,
@@ -504525,11 +504525,11 @@ tbl = {
 			"It looks heavy, almost too heavy to lift, but it's a costume, so it's no problem!",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 32.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 177,
@@ -504544,11 +504544,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume that seems to have been granted the blessings of a sacred phoenix, clad in heavenly light.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 178,
@@ -504565,11 +504565,11 @@ tbl = {
 			"The artisans of Rune-Midgard put all their effort into",
 			"expressing the tail fins that seem to move as if they were alive.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 179,
@@ -504585,11 +504585,11 @@ tbl = {
 			"A surfboard resembling the color of the blue sea.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 36.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 180,
@@ -504666,11 +504666,11 @@ tbl = {
 			"Ride the waves with Poring!",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 32.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 186,
@@ -504686,11 +504686,11 @@ tbl = {
 			"I've transformed a dragonfly net set into a costume for insect collecting. It somehow reminds me of the hot summer days of my childhood.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 35.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 187,
@@ -504707,11 +504707,11 @@ tbl = {
 			"Because it's a toy, the bullets are cork.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 32.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 188,
@@ -504779,11 +504779,11 @@ tbl = {
 			"A huge scythe featuring a blue crystal.",
 			"I think you need to be careful of the thorny vines wrapped around the handle.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 189,
@@ -505173,11 +505173,11 @@ tbl = {
 			"A giant costume shuriken.",
 			"It looks heavy enough to be difficult to lift, but it's a costume, so it's easy to throw!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 190,
@@ -505193,11 +505193,11 @@ tbl = {
 			"A twin sword that is said to contain the resentment of the soul cut down by Yodo.",
 			"It is said that the strictly sealed Sahon cannot escape from its sheath.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 191,
@@ -505213,11 +505213,11 @@ tbl = {
 			"A costume accessory modeled after the tail of a white nine-tailed fox with nine tails.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 33.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 192,
@@ -505334,11 +505334,11 @@ tbl = {
 			"A costume inspired by the large, voluminous tail of a Rata.",
 			"Beware, you may be mistaken for a Rata.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 195,
@@ -505354,11 +505354,11 @@ tbl = {
 			"A blue crescent moon costume that imitates the moon Loli Ruri rides.",
 			"When worn, it feels like you're in a fairy tale, albeit a little.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 199,
@@ -505373,11 +505373,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A doll bag inspired by a cute teddy bear wearing a Santa hat.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 202,
@@ -505394,11 +505394,11 @@ tbl = {
 			"Made for those who want to feel like a legendary dragon.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 34.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 204,
@@ -505510,11 +505510,11 @@ tbl = {
 			"_______________________",
 			"^000088The graphic is reflected on the character.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -505531,11 +505531,11 @@ tbl = {
 			"Wearing it evokes a cybernetic atmosphere.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 36.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 208,
@@ -505554,11 +505554,11 @@ tbl = {
 			"_______________________",
 			"^000088The graphic is reflected on the character.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -505575,11 +505575,11 @@ tbl = {
 			"It makes you feel compelled to end the battle as quickly as possible.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 37.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 210,
@@ -505596,11 +505596,11 @@ tbl = {
 			"The cat's face and tail are meticulously recreated.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 35.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 212,
@@ -505616,11 +505616,11 @@ tbl = {
 			"A staff made from a cherry tree branch.",
 			"Pink cherry blossoms bloom in every season.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 213,
@@ -505636,11 +505636,11 @@ tbl = {
 			"A parasol perfect for a sweet break in the flower garden.",
 			"The flower decorations surrounding the umbrella are beautiful.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 214,
@@ -505656,11 +505656,11 @@ tbl = {
 			"A rose stained glass decorated with gorgeous colors was made into a costume.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 39.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 215,
@@ -505676,11 +505676,11 @@ tbl = {
 			"A costume sword modeled after the twin swords of the demon Naght Sieger.",
 			"Because it is decorative, it cannot actually cut paper.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 216,
@@ -505697,11 +505697,11 @@ tbl = {
 			"It's just a costume accessory... It's just a costume accessory...",
 			"It's just a costume accessory... It's just a costume accessory...",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 218,
@@ -505717,11 +505717,11 @@ tbl = {
 			"I found a large treasure chest. It's locked, but it's this big, so it must contain a ton of treasure!",
 			"When I return to town, I'll sell the treasure and propose to her!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 219,
@@ -505737,11 +505737,11 @@ tbl = {
 			"A backpack that resembles Tai-Zi.",
 			"Carrying it around makes you feel like good luck will come your way.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 221,
@@ -505758,11 +505758,11 @@ tbl = {
 			"While crafted as a costume, beware: real hornets may swarm you!",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 36.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 222,
@@ -505777,11 +505777,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A specially crafted plant outing set in the form of a bag to accompany your homegrown ornamental plants.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 223,
@@ -505797,11 +505797,11 @@ tbl = {
 			"Bottle art inspired by the tiny marine life within a bottle.",
 			"Despite its small size, the faithful reproduction is impressive.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 224,
@@ -505817,11 +505817,11 @@ tbl = {
 			"A costume piece modeled after the wand frequently used by certain Archmages.",
 			"It seems capable of casting magic with just one swing.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 226,
@@ -505838,11 +505838,11 @@ tbl = {
 			"A costume featuring Poring and Galapagos.",
 			"Hold it on your back and enjoy some fun water play!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 229,
@@ -505858,11 +505858,11 @@ tbl = {
 			"A refreshing cream soda with Poring for a hot summer day.",
 			"It's a bit large, but wouldn't sharing it with loved ones make everyone feel refreshed?",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 234,
@@ -505880,11 +505880,11 @@ tbl = {
 			"\"Is this a real replica?\"",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 40.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 235,
@@ -505901,11 +505901,11 @@ tbl = {
 			"A pool ring featuring Poporing and Galapagos.",
 			"Hold it on your back and enjoy some fun water play!",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 236,
@@ -505920,11 +505920,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume that brings out the feeling of a beach in a resort with strong sunlight.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -505941,11 +505941,11 @@ tbl = {
 			"The way it sways gently is so cute.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 38.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 239,
@@ -505961,11 +505961,11 @@ tbl = {
 			"A bag shaped like a soft, fluffy cat paw.",
 			"Why does it feel like someone's behind you when you carry it?",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 240,
@@ -505982,11 +505982,11 @@ tbl = {
 			"It's rumored that she sometimes flies on it.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 39.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 242,
@@ -506005,11 +506005,11 @@ tbl = {
 			"_______________________",
 			"^000088The graphic is reflected on the character.^000000",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 243,
@@ -506118,11 +506118,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume staff crafted from the shards of a shining star that flowed down from the Tower of the Constellation.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 248,
@@ -506138,11 +506138,11 @@ tbl = {
 			"Exclusive outfit for the 1st place team of Ragnarok Stars 2024.",
 			"The blazing red flames burn brightly, just like their fighting spirit.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 249,
@@ -506158,11 +506158,11 @@ tbl = {
 			"Exclusive outfit for the 2nd place team of Ragnarok Stars 2024.",
 			"The blazing red flames burn brightly, just like their fighting spirit.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 250,
@@ -506178,11 +506178,11 @@ tbl = {
 			"Exclusive outfit for the 3rd place team of Ragnarok Stars 2024.",
 			"The blazing red flames burn brightly, just like their fighting spirit.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 251,
@@ -506198,11 +506198,11 @@ tbl = {
 			"Exclusive outfit for the 4th to 6th place teams of Ragnarok Stars 2024.",
 			"The blazing red flames burn brightly, just like their fighting spirit.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 252,
@@ -506284,11 +506284,11 @@ tbl = {
 			"The red cloak is the one Poe wore while roaming the world.",
 			"It evokes the dignity of a Dragon Warrior.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 254,
@@ -506303,11 +506303,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume depicting the mystical Libra adorned with wings.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 256,
@@ -506406,11 +506406,11 @@ tbl = {
 			"It's unclear whether it can be opened due to the entanglement of the rose stems.",
 			"<NAVI>[Designer Heidam]<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI> can exchange it with Costume Enchant Stone Box 39.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 261,
@@ -506426,11 +506426,11 @@ tbl = {
 			"A backpack featuring Munch's adorable little Noni, wearing a rider helmet and clinging to your back.",
 			"Can be delivered anywhere in Korea.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 264,
@@ -506446,11 +506446,11 @@ tbl = {
 			"Wings symbolizing the immortal monarch's boundless power.",
 			"The magical power radiating from her massive wings is said to be capable of commanding countless legions of immortals, but only she can control this power.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 259,
@@ -506465,11 +506465,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A costume modeled after Toothless's wings. It makes you feel like you could fly.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 268,
@@ -506484,11 +506484,11 @@ tbl = {
 		identifiedDescriptionName = {
 			"A hood inspired by Toothless being carried. Thick, smooth, cozy, and adorable.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Upper",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2696,
@@ -506504,11 +506504,11 @@ tbl = {
 			"A powerful, evil-infused spear wielded by the monarch commanding the Immortal Legion.",
 			"Only the Immortal Monarch can wield it.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
-			"^0000CCPosition:^000000 Garment",
+			"^0000CC类型:^000000 时装",
+			"^0000CC位置:^000000 披肩",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 274,
@@ -506659,7 +506659,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -507239,7 +507239,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -511275,11 +511275,11 @@ tbl = {
 			"A costume wig that makes you feel like you've changed into a different hairstyle when you wear it.",
 			"It was modeled after Valkyrie's hairstyle.",
 			"_______________________",
-			"^0000CCType:^000000 Costume",
+			"^0000CC类型:^000000 时装",
 			"^0000CCPosition:^000000 Lower",
 			"^0000CCWeight:^000000 0",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 0,
 		ClassNum = 2311,
@@ -511747,7 +511747,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -511767,7 +511767,7 @@ tbl = {
 			"^0000CCWeight:^000000 0",
 			"^0000CCArmor Level:^000000 2",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -513433,7 +513433,7 @@ tbl = {
 			"^0000CC重量:^000000 10",
 			"^0000CCArmor Level:^000000 1",
 			"_______________________",
-			"^0000CCRequirement:^000000 None"
+			"^0000CC要求:^000000 无"
 		},
 		slotCount = 1,
 		ClassNum = 0,
@@ -566489,7 +566489,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Shinkiros.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"Increases damage of ^009900Kunai - Distortion^000000 by 5%.",
 			"_______________________",
@@ -566503,7 +566503,7 @@ tbl = {
 			"For each Level of ^009900Infiltrate^000000:",
 			"Increases Ranged Physical Damage by 3%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -566519,7 +566519,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Shiranuis.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"Increases damage of ^009900Darkening Cannon^000000 by 10%.",
 			"_______________________",
@@ -566533,7 +566533,7 @@ tbl = {
 			"When equipped with ^990099Oboro Stone(Lower)^000000:",
 			"Increases damage of ^009900Thundering Cannon^000000 by 10%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -566549,7 +566549,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Shadow Cross'.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each 2 Levels of ^009900Shadow Sense^000000:",
 			"Increases Critical Damage by 4%.",
@@ -566564,7 +566564,7 @@ tbl = {
 			"For each Level of ^009900Shadow Sense^000000:",
 			"C.RATE +1",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -566580,7 +566580,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Cardinals.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"Increases damage of ^009900Framen^000000 by 5%.",
 			"_______________________",
@@ -566594,7 +566594,7 @@ tbl = {
 			"When equipped with ^990099Archbishop Stone(Lower)^000000:",
 			"Increases damage of ^009900Arbitrium^000000 by 10%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -566609,27 +566609,27 @@ tbl = {
 		identifiedDisplayName = "超级初心者石（披肩）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
-			"A stone that awakens the potential of Super Novices.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"蕴含超级初心者潜力的石头。",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
-			"When Level 5 ^009900Breakthrough^000000 is learned:",
-			"Enables the use of Level 5 ^0000FFWind Cutter^000000.",
+			"学会5级^009900突破界限^000000时：",
+			"可使用5级^0000FF风刃^000000。",
 			"_______________________",
-			"When Level 5 ^009900Transcendence^000000 is learned:",
-			"Enables the use of Level 10 ^0000FFJudex^000000.",
+			"学会5级^009900超限^000000时：",
+			"可使用10级^0000FF审判^000000。",
 			"_______________________",
-			"When equipped with ^990099Paladin Stone(Upper)^000000:",
-			"DEF +120, MDEF +15.",
+			"搭配^990099圣骑士石（头上）^000000时：",
+			"DEF +120，MDEF +15。",
 			"_______________________",
-			"When equipped with ^990099High Wizard Stone(Mid)^000000:",
-			"For each Level of ^009900Transcendence^000000:",
-			"Increases damage of ^009900Judex^000000 by 3%.",
+			"搭配^990099超魔导师石（头中）^000000时：",
+			"每级^009900超限^000000：",
+			"^009900审判^000000伤害 +3%。",
 			"_______________________",
-			"When equipped with ^990099Stalker Stone(Lower)^000000:",
-			"For each Level of ^009900Breakthrough^000000:",
-			"Increases damage of ^009900Wind Cutter^000000 by 3%.",
+			"搭配^990099神行太保石（头下）^000000时：",
+			"每级^009900突破界限^000000：",
+			"^009900风刃^000000伤害 +3%。",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -566644,17 +566644,17 @@ tbl = {
 		identifiedDisplayName = "超级初心者石（头上）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
-			"A stone that awakens the potential of Super Novice.",
+			"蕴含超级初心者潜力的石头。",
 			"可镶嵌在时装头上装备的插槽中，并获得以下效果。",
 			"_______________________",
-			"For each Level of ^009900Transcendence^000000:",
+			"每级^009900超限^000000：",
 			"Decreases Variable Casting Time by 3%.",
 			"_______________________",
-			"When equipped with ^990099Super Novice Stone(Garment)^000000:",
-			"For each Level of ^009900Transcendence^000000:",
-			"Increases damage of ^009900Judex^000000 by 3%.",
+			"搭配^990099超级初心者石（披肩）^000000时：",
+			"每级^009900超限^000000：",
+			"^009900审判^000000伤害 +3%。",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -566669,17 +566669,17 @@ tbl = {
 		identifiedDisplayName = "超级初心者石（头中）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
-			"A stone that awakens the potential of Super Novice.",
+			"蕴含超级初心者潜力的石头。",
 			"Gives the following effects when compounded on a slot of an Costume Middle Headgear.",
 			"_______________________",
-			"For each Level of ^009900Breakthrough^000000:",
+			"每级^009900突破界限^000000：",
 			"Increases Melee Physical Damage by 2%.",
 			"_______________________",
-			"When equipped with ^990099Super Novice Stone(Garment)^000000:",
-			"For each Level of ^009900Breakthrough^000000:",
-			"Increases damage of ^009900Wind Cutter^000000 by 3%.",
+			"搭配^990099超级初心者石（披肩）^000000时：",
+			"每级^009900突破界限^000000：",
+			"^009900风刃^000000伤害 +3%。",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -566694,16 +566694,16 @@ tbl = {
 		identifiedDisplayName = "超级初心者石（头下）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
-			"A stone that awakens the potential of Super Novice.",
-			"Gives the following effects when compounded on a slot of an Costume Lower Headgear.",
+			"蕴含超级初心者潜力的石头。",
+			"可镶嵌在时装头下装备的插槽中，并获得以下效果。",
 			"_______________________",
-			"When ^009900Angel, help Me!^000000 is used:",
-			"Increases Magical Damage with every element by 15% for 300 seconds.",
+			"使用^009900天使之赐福^000000时：",
+			"300秒内全属性魔法伤害 +15%。",
 			"_______________________",
-			"When equipped with ^990099Super Novice Stone(Garment)^000000:",
+			"搭配^990099超级初心者石（披肩）^000000时：",
 			"MaxHP +15%",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -567803,7 +567803,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Sky Emperors.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each 2 Levels of ^009900Sky Mastery^000000:",
 			"Critical +10.",
@@ -567819,7 +567819,7 @@ tbl = {
 			"When equipped with ^990099Star Emperor Stone(Lower)^000000:",
 			"Increases damage of ^009900Sunset Blast^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -567835,7 +567835,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Elemental Masters.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Increasing Activity^000000:",
 			"Increases Magical Damage with ^FF0000Fire^000000 and ^663399Poison^000000 element by 2%.",
@@ -567850,7 +567850,7 @@ tbl = {
 			"For each Level of ^009900Spell Enchanting^000000:",
 			"Increases Magical Damage with every element by 3%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -567866,7 +567866,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Meisters.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Manufacture Machine^000000:",
 			"Increases Ranged Physical Damage by 2%.",
@@ -567881,7 +567881,7 @@ tbl = {
 			"When equipped with ^990099Mechanic Stone(Lower)^000000:",
 			"Increases damage of ^009900Spark Blaster^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -568810,7 +568810,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Abyss Chasers.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each 2 Levels of ^009900Frenzy Shot^000000:",
 			"Increases Physical Damage against enemies of every race, except ^FF0000Players^000000, by 1%.",
@@ -568826,7 +568826,7 @@ tbl = {
 			"When equipped with ^990099Shadow Chaser Stone(Lower)^000000:",
 			"Increases damage of ^009900Chain Reaction Shot^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -568842,7 +568842,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Troubadours & Trouveres.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each 2 Levels of ^009900Rhythm Shooting^000000:",
 			"Increases Ranged Physical Damage by 2%.",
@@ -568858,7 +568858,7 @@ tbl = {
 			"P.ATK +3",
 			"Increases damage of ^009900Rhythm Shooting^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -568874,7 +568874,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Hyper Novices.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"Increases damage of ^009900Napalm Vulcan Strike^000000 by 10%.",
 			"_______________________",
@@ -568889,7 +568889,7 @@ tbl = {
 			"When equipped with ^990099Super Novice Stone(Lower)^000000:",
 			"Increases damage of ^009900Jack Frost Nova^000000 by 10%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -570173,7 +570173,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Imperial Guards.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each 2 Levels of ^009900Cross Rain^000000:",
 			"Increases damage of ^009900Genesis Ray^000000 by 10%.",
@@ -570188,7 +570188,7 @@ tbl = {
 			"For each 2 Levels of ^009900Shield Mastery^000000:",
 			"Increases Magical Damage against enemies of every element by 3%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -570204,7 +570204,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Dragon Knights.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each 2 Levels of ^009900Hack and Slasher^000000:",
 			"Increases Physical Damage against enemies of every race, except ^FF0000Players^000000, by 1%.",
@@ -570220,7 +570220,7 @@ tbl = {
 			"C.RATE +3",
 			"Increases damage of ^009900Storm Slash^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -570236,7 +570236,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Night Watchs.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each 2 Levels of ^009900Hidden Card^000000:",
 			"Increases Physical Damage against enemies of every element by 1%.",
@@ -570250,7 +570250,7 @@ tbl = {
 			"When equipped with ^990099Rebellion Stone(Lower)^000000:",
 			"Increases damage of ^009900Magazine for One^000000 by 10%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -570268,7 +570268,7 @@ tbl = {
 			"Enchant the 4th slot of the Costume Garment Equipment to give it an effect.",
 			"^ff0000Footprint Effect^000000",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -570286,7 +570286,7 @@ tbl = {
 			"Enchant the 4th slot of the Costume Garment Equipment to give it an effect.",
 			"^ff0000Purple Star Footprint^000000",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -570826,7 +570826,7 @@ tbl = {
 			"Enchant the 4th slot of the Costume Garment Equipment to give it an effect.",
 			"^ff0000Yellow Star Footprint^000000",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -570844,7 +570844,7 @@ tbl = {
 			"Enchant the 4th slot of the Costume Garment Equipment to give it an effect.",
 			"^ff0000Red Star Footprint^000000",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -571764,7 +571764,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Biolos.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Mayhemic Thorns^000000:",
 			"Increases Ranged Physical Damage by 2%.",
@@ -571779,7 +571779,7 @@ tbl = {
 			"When equipped with ^990099Genetic Stone(Lower)^000000:",
 			"Increases damage of ^009900Acidified Zone (Water/Wind/Ground/Fire)^000000 by 10%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -571795,7 +571795,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Inquisitors.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Oleum Sanctum^000000:",
 			"Increases Ranged Physical Damage by 2%.",
@@ -571811,7 +571811,7 @@ tbl = {
 			"P.ATK +3",
 			"Increases damage of ^009900Oleum Sanctum^000000 by 10%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -571827,7 +571827,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Spirit Handlers.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Howling of Chulho^000000:",
 			"ATK +4",
@@ -571843,7 +571843,7 @@ tbl = {
 			"When equipped with ^990099Summoner Stone(Lower)^000000:",
 			"Increases damage of ^009900Hogogong Strike^000000 by 10%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -571983,7 +571983,7 @@ tbl = {
 			"Enchant the 4th slot of the Costume Garment Equipment to give it an effect.",
 			"^ff0000Puppy Footprint Effect^000000",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -571999,7 +571999,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Arch Mages.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Soul Vulcan Strike^000000:",
 			"Increases Magical Damage against enemies of every element by 1%.",
@@ -572014,7 +572014,7 @@ tbl = {
 			"For each 2 Levels of ^009900Two-Handed Staff Mastery^000000:",
 			"Increases Magical Damage against enemies of every size by 3%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -572030,7 +572030,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Windhawks.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Gale Storm^000000:",
 			"Increases Ranged Physical Damage by 1%.",
@@ -572046,7 +572046,7 @@ tbl = {
 			"P.ATK +3",
 			"Increases damage of ^009900Gale Storm^000000 by 10%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -572062,7 +572062,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Soul Ascetics.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Circle of Directions and Elementals^000000:",
 			"Increases Magical Damage against enemies of every size by 2%.",
@@ -572076,7 +572076,7 @@ tbl = {
 			"When equipped with ^990099Soul Reaper Stone(Lower)^000000:",
 			"Increases damage of ^009900Talisman of Four Bearing God^000000 by 10%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -573162,7 +573162,7 @@ tbl = {
 			"Enchant the 4th slot of the Costume Garment Equipment to give it an effect.",
 			"^ff0000Dumpling Footprint Effect^000000",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -573180,7 +573180,7 @@ tbl = {
 			"Enchant the 4th slot of the Costume Garment Equipment to give it an effect.",
 			"^ff0000Panda Basic Footprint^000000",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -573198,7 +573198,7 @@ tbl = {
 			"Enchant the 4th slot of the Costume Garment Equipment to give it an effect.",
 			"^ff0000Panda Color Footprint^000000",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -573214,7 +573214,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases C.RATE.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"C.RATE +2, Critical +3.",
 			"_______________________",
@@ -573230,7 +573230,7 @@ tbl = {
 			"When equipped with ^990099Creative Stone(Dual)^000000:",
 			"P.ATK +3, Critical +7.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -573257,7 +573257,7 @@ tbl = {
 			"搭配^990099卢恩骑士石II（披肩）^000000时：",
 			"Increases damage of ^009900Ignition Break^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -573284,7 +573284,7 @@ tbl = {
 			"搭配^990099卢恩骑士石II（披肩）^000000时：",
 			"Increases damage of ^009900Hundred Spears^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -573300,7 +573300,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Rune Knights.",
-			"Gives the following effects when compounded on a slot of an Costume Lower Headgear.",
+			"可镶嵌在时装头下装备的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Enchant Blade^000000:",
 			"Increases Critical Damage by 1%.",
@@ -573311,7 +573311,7 @@ tbl = {
 			"搭配^990099卢恩骑士石II（披肩）^000000时：",
 			"Increases damage of ^009900Sonic Wave^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -573338,7 +573338,7 @@ tbl = {
 			"When equipped with ^990099Wanderer Minstrel Stone II(Garment)^000000:",
 			"Increases damage of ^009900Metallic Sound^000000 by additional 20%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -573365,7 +573365,7 @@ tbl = {
 			"When equipped with ^990099Wanderer Minstrel Stone II(Garment)^000000:",
 			"Decreases ^009900Metallic Sound^000000 skill cooldown by 0.5 seconds.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -573381,7 +573381,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Wanderers and Minstrels.",
-			"Gives the following effects when compounded on a slot of an Costume Lower Headgear.",
+			"可镶嵌在时装头下装备的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Reverberation^000000:",
 			"Decreases Fixed Casting Time by 0.1 second.",
@@ -573392,7 +573392,7 @@ tbl = {
 			"When equipped with ^990099Wanderer Minstrel Stone II(Garment)^000000:",
 			"Increases Magical Damage with every element by 5%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -573416,7 +573416,7 @@ tbl = {
 			"When equipped with ^990099Doram Stone(Garment)^000000:",
 			"Increases damage of ^009900Lunatic Carrot Beat^000000 by 25%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -573440,7 +573440,7 @@ tbl = {
 			"When equipped with ^990099Doram Stone(Garment)^000000:",
 			"Increases damage of ^009900Lunatic Carrot Beat^000000 by 25%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -573456,7 +573456,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Summoners.",
-			"Gives the following effects when compounded on a slot of an Costume Lower Headgear.",
+			"可镶嵌在时装头下装备的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Silvervine Stem Spear^000000:",
 			"Increases damage of ^009900Catnip Meteor^000000 by 7%.",
@@ -573464,7 +573464,7 @@ tbl = {
 			"When equipped with ^990099Doram Stone(Garment)^000000:",
 			"Increases damage of ^009900Catnip Meteor^000000 by additional 25%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -573480,7 +573480,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Dragon Knights.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"Increases damage of ^009900Madness Crusher^000000 by 15%.",
 			"_______________________",
@@ -573496,7 +573496,7 @@ tbl = {
 			"C.RATE +3",
 			"Increases damage of ^009900Dragonic Pierce^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -573512,7 +573512,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Troubadours & Trouveres.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each 2 Levels of ^009900Sound Blend^000000:",
 			"Increases Magical Damage with every element by 2%.",
@@ -573527,7 +573527,7 @@ tbl = {
 			"When equipped with ^990099Wanderer Minstrel Stone II(Lower)^000000:",
 			"Increases damage of ^009900Rhythmical Wave^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -573543,7 +573543,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Spirit Handlers.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each 2 Levels of ^009900Mystical Creature Mastery^000000:",
 			"Increases Magical Damage with every race, except ^FF0000Players^000000, by 3%.",
@@ -573560,7 +573560,7 @@ tbl = {
 			"When equipped with ^990099Wanderer Minstrel Stone II(Lower)^000000:",
 			"Increases damage of ^009900Hyunrok Cannon^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -574770,7 +574770,7 @@ tbl = {
 			"When equipped with ^990099Guillotine Cross Stone II(Garment)^000000:",
 			"Increases damage of ^009900Cross Impact^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -574798,7 +574798,7 @@ tbl = {
 			"When equipped with ^990099Guillotine Cross Stone II(Garment)^000000:",
 			"Increases damage of ^009900Cross Impact^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -574814,7 +574814,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Guillotine Cross'.",
-			"Gives the following effects when compounded on a slot of an Costume Lower Headgear.",
+			"可镶嵌在时装头下装备的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Dark Claw^000000:",
 			"ATK +1%.",
@@ -574825,7 +574825,7 @@ tbl = {
 			"When equipped with ^990099Guillotine Cross Stone II(Garment)^000000:",
 			"Increases Physical Damage against enemies of every race, except ^FF0000Players^000000, by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -574841,7 +574841,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Shadow Cross'.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"C.RATE +3.",
 			"Increases damage of ^009900Cross Slash^000000 by 10%.",
@@ -574856,7 +574856,7 @@ tbl = {
 			"For each Level of ^009900Cross Slash^000000:",
 			"Increases Physical Damage against enemies of every race, except ^FF0000Players^000000, by 3%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -574883,7 +574883,7 @@ tbl = {
 			"When equipped with ^990099Sura Stone II(Garment)^000000:",
 			"Increases damage of ^009900Knuckle Arrow^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -574910,7 +574910,7 @@ tbl = {
 			"When equipped with ^990099Sura Stone II(Garment)^000000:",
 			"Increases damage of ^009900Tiger Cannon^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -574926,7 +574926,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Suras.",
-			"Gives the following effects when compounded on a slot of an Costume Lower Headgear.",
+			"可镶嵌在时装头下装备的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Gentle Touch - Change^000000:",
 			"Increases damage of ^009900Knuckle Arrow^000000 and ^009900Ride in Lightning^000000 by 10%.",
@@ -574937,7 +574937,7 @@ tbl = {
 			"When equipped with ^990099Sura Stone II(Garment)^000000:",
 			"Increases damage of ^009900Knuckle Arrow^000000 by additional 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -574953,7 +574953,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Inquisitors.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Second Flame^000000:",
 			"Increases Melee Physical Damage by 2%.",
@@ -574969,7 +574969,7 @@ tbl = {
 			"When equipped with ^990099Sura Stone II(Lower)^000000:",
 			"MaxHP +5%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -574993,7 +574993,7 @@ tbl = {
 			"When equipped with ^990099Soul Reaper Stone(Garment)^000000:",
 			"Increases damage of ^009900Espa^000000 by additional 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -575017,7 +575017,7 @@ tbl = {
 			"When equipped with ^990099Soul Reaper Stone(Garment)^000000:",
 			"Increases damage of ^009900Eswhoo^000000 by additional 20%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -575033,7 +575033,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Soul Reapers.",
-			"Gives the following effects when compounded on a slot of an Costume Lower Headgear.",
+			"可镶嵌在时装头下装备的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Soul Collect^000000:",
 			"Increases Magical Damage with every element by 2%.",
@@ -575041,7 +575041,7 @@ tbl = {
 			"When equipped with ^990099Soul Reaper Stone(Garment)^000000:",
 			"Increases damage of ^009900Eswhoo^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -575057,7 +575057,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Soul Ascetics.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each 2 Levels of ^009900Soul Mastery^000000:",
 			"Increases Magical Damage against enemies of every race, except ^FF0000Players^000000, by 3%.",
@@ -575074,7 +575074,7 @@ tbl = {
 			"When equipped with ^990099Soul Reaper Stone II(Lower)^000000:",
 			"Increases damage of ^009900Talisman of Soul Stealing^000000 by 20%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -575092,7 +575092,7 @@ tbl = {
 			"Enchant the 4th slot of the Costume Garment Equipment to give it an effect.",
 			"^ff0000Blue Butterfly Footprint^000000",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -575531,7 +575531,7 @@ tbl = {
 			"Enchant the 4th slot of the Costume Garment Equipment to give it an effect.",
 			"^ff0000Toothless Footprint^000000",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -575549,7 +575549,7 @@ tbl = {
 			"Enchant the 4th slot of the Costume Garment Equipment to give it an effect.",
 			"^ff0000Bouncing Toothless Footprint^000000",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -575795,7 +575795,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Archbishop.",
-			"Gives the following effects when compounded on a slot of an Costume Lower Headgear.",
+			"可镶嵌在时装头下装备的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Oratio^000000:",
 			"Decreases Fixed Casting Time 0.1 second.",
@@ -575822,7 +575822,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Cardinals.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"Critical +10.",
 			"Increases damage of ^009900Divinus Flos^000000 by 15%.",
@@ -575841,7 +575841,7 @@ tbl = {
 			"When equipped with ^990099Archbishop Stone II(Lower)^000000:",
 			"Increases damage of ^009900Pneumaticus Procella^000000 and ^009900Effligo^000000 by 10%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -575911,7 +575911,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Shadow Chasers.",
-			"Gives the following effects when compounded on a slot of an Costume Lower Headgear.",
+			"可镶嵌在时装头下装备的插槽中，并获得以下效果。",
 			"_______________________",
 			"For each Level of ^009900Reproduce^000000:",
 			"Increases Attack Speed (decreases After Attack Delay by 1%).",
@@ -575938,7 +575938,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Abyss Chasers.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"Increases damage of ^009900Abyss Dagger^000000 by 10%.",
 			"_______________________",
@@ -575952,7 +575952,7 @@ tbl = {
 			"When equipped with ^990099Shadow Chaser Stone II(Lower)^000000:",
 			"Increases damage of ^009900Chasing Break^000000 by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -575967,13 +575967,13 @@ tbl = {
 		identifiedDisplayName = "Super Novice Stone II(Upper)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
-			"A stone that awakens the potential of Super Novices.",
+			"蕴含超级初心者潜力的石头。",
 			"可镶嵌在时装头上装备的插槽中，并获得以下效果。",
 			"_______________________",
-			"For each Level of ^009900Breakthrough^000000:",
+			"每级^009900突破界限^000000：",
 			"Increases Damage against monsters of every size by 3%.",
 			"_______________________",
-			"When equipped with ^990099Super Novice Stone(Garment)^000000:",
+			"搭配^990099超级初心者石（披肩）^000000时：",
 			"For each Level of ^009900Faith^000000:",
 			"Increases damage of ^009900Wind Cutter^000000 by 4%.",
 			"_______________________",
@@ -575992,14 +575992,14 @@ tbl = {
 		identifiedDisplayName = "Super Novice Stone II(Mid)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
-			"A stone that awakens the potential of Super Novices.",
+			"蕴含超级初心者潜力的石头。",
 			"Gives the following effects when compounded on a slot of an Costume Middle Headgear.",
 			"_______________________",
-			"For each Level of ^009900Transcendence^000000:",
+			"每级^009900超限^000000：",
 			"Increases Magical Damage with ^0000BBWater^000000, ^33CC00Wind^000000, ^FF0000Fire^000000, ^777777Neutral^000000, ^777777Holy^000000 and ^777777Ghost^000000 element by 2%.",
 			"_______________________",
-			"When equipped with ^990099Super Novice Stone(Garment)^000000:",
-			"DEF +120, MDEF +15.",
+			"搭配^990099超级初心者石（披肩）^000000时：",
+			"DEF +120，MDEF +15。",
 			"_______________________",
 			"<NAVI>[艾芙·德·多什]<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>",
 			"_______________________",
@@ -576016,13 +576016,13 @@ tbl = {
 		identifiedDisplayName = "Super Novice Stone II(Lower)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
-			"A stone that awakens the potential of Super Novices.",
-			"Gives the following effects when compounded on a slot of an Costume Lower Headgear.",
+			"蕴含超级初心者潜力的石头。",
+			"可镶嵌在时装头下装备的插槽中，并获得以下效果。",
 			"_______________________",
 			"When Level 1 ^009900Angel, help Me!^000000 is learned:",
 			"Increases Physical Damage by 15%.",
 			"_______________________",
-			"When equipped with ^990099Super Novice Stone(Garment)^000000:",
+			"搭配^990099超级初心者石（披肩）^000000时：",
 			"For each Level of ^009900Jupitel Thunder^000000:",
 			"Increases damage of ^009900Judex^000000 by 4%.",
 			"_______________________",
@@ -576042,7 +576042,7 @@ tbl = {
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Hyper Novices.",
-			"Gives the following effects when compounded on a slot of an Costume Garment.",
+			"可镶嵌在时装披肩的插槽中，并获得以下效果。",
 			"_______________________",
 			"Increases damage of ^009900Double Bowling Bash^000000 by 15%.",
 			"_______________________",
@@ -576058,7 +576058,7 @@ tbl = {
 			"When Level 1 ^009900Breaking Limit^000000 is learned:",
 			"Increases Melee Physical Damage by 15%.",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -576076,7 +576076,7 @@ tbl = {
 			"Enchant the 4th slot of the Costume Garment Equipment to give it an effect.",
 			"^ff0000Purple Butterfly Footprint^000000",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -576128,7 +576128,7 @@ tbl = {
 			"Enchant the 4th slot of the Costume Garment Equipment to give it an effect.",
 			"^ff0000Nyar's Blue Footprint^000000",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -576146,7 +576146,7 @@ tbl = {
 			"Enchant the 4th slot of the Costume Garment Equipment to give it an effect.",
 			"^ff0000Nyar's Purple Footprint^000000",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
@@ -576164,7 +576164,7 @@ tbl = {
 			"Enchant the 4th slot of the Costume Garment Equipment to give it an effect.",
 			"^ff0000Divine Light Footprint^000000",
 			"_______________________",
-			"<NAVI>[Lace La Zard]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
+			"<NAVI>[蕾丝·拉·扎德]<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>",
 			"_______________________",
 			"^0000CC重量:^000000 10"
 		},
