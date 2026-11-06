@@ -260521,10 +260521,10 @@ tbl = {
 		costume = true
 	},
 	[20533] = {
-		unidentifiedDisplayName = "Unidentified Garment",
+		unidentifiedDisplayName = "时装粉色蝴蝶翅膀",
 		unidentifiedResourceName = "饶靛",
 		unidentifiedDescriptionName = { "Can be identified by using a ^990099Magnifier^000000." },
-		identifiedDisplayName = "Costume Pink Butterfly Wings",
+		identifiedDisplayName = "时装粉色蝴蝶翅膀",
 		identifiedResourceName = "C_PinkButterfly_Wing",
 		identifiedDescriptionName = {
 			"Pink Costume Wings that look like the wings of a butterfly.",
@@ -555567,10 +555567,10 @@ tbl = {
 		costume = false
 	},
 	[1000520] = {
-		unidentifiedDisplayName = "ASPD Stone(Dual)",
+		unidentifiedDisplayName = "攻速石（双属性）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "ASPD Stone(Dual)",
+		identifiedDisplayName = "攻速石（双属性）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases ASPD.",
@@ -555587,10 +555587,10 @@ tbl = {
 		costume = false
 	},
 	[1000521] = {
-		unidentifiedDisplayName = "Minor Casting Stone(Dual)",
+		unidentifiedDisplayName = "变咏石（双属性）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Minor Casting Stone(Dual)",
+		identifiedDisplayName = "变咏石（双属性）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that slightly decreases Fixed Casting Time.",
@@ -555610,10 +555610,10 @@ tbl = {
 		costume = false
 	},
 	[1000522] = {
-		unidentifiedDisplayName = "Variable Casting Stone(Dual)",
+		unidentifiedDisplayName = "变咏石（双属性）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Variable Casting Stone(Dual)",
+		identifiedDisplayName = "变咏石（双属性）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that decreases Variable Casting Time.",
@@ -555633,10 +555633,10 @@ tbl = {
 		costume = false
 	},
 	[1000523] = {
-		unidentifiedDisplayName = "Ranged Stone(Dual)",
+		unidentifiedDisplayName = "广域石（双属性）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Ranged Stone(Dual)",
+		identifiedDisplayName = "广域石（双属性）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases Ranged Physical Damage.",
@@ -555662,10 +555662,10 @@ tbl = {
 		costume = false
 	},
 	[1000524] = {
-		unidentifiedDisplayName = "Melee Stone(Dual)",
+		unidentifiedDisplayName = "近战石（双属性）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Melee Stone(Dual)",
+		identifiedDisplayName = "近战石（双属性）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases Melee Physical Damage.",
@@ -555691,10 +555691,10 @@ tbl = {
 		costume = false
 	},
 	[1000525] = {
-		unidentifiedDisplayName = "SP Absorbtion Stone(Dual)",
+		unidentifiedDisplayName = "SP吸收石（双属性）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "SP Absorbtion Stone(Dual)",
+		identifiedDisplayName = "SP吸收石（双属性）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that can absorb SP.",
@@ -555711,10 +555711,10 @@ tbl = {
 		costume = false
 	},
 	[1000526] = {
-		unidentifiedDisplayName = "HP Absorbtion Stone(Dual)",
+		unidentifiedDisplayName = "HP吸收石（双属性）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "HP Absorbtion Stone(Dual)",
+		identifiedDisplayName = "HP吸收石（双属性）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that can absorb HP.",
@@ -555731,10 +555731,10 @@ tbl = {
 		costume = false
 	},
 	[1000527] = {
-		unidentifiedDisplayName = "Magic Power Stone(Dual)",
+		unidentifiedDisplayName = "魔法石（双属性）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Magic Power Stone(Dual)",
+		identifiedDisplayName = "魔法石（双属性）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases Magical Damage.",
@@ -555760,10 +555760,10 @@ tbl = {
 		costume = false
 	},
 	[1000528] = {
-		unidentifiedDisplayName = "Magic Power Stone(Upper)",
+		unidentifiedDisplayName = "魔法石（头上）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Magic Power Stone(Upper)",
+		identifiedDisplayName = "魔法石（头上）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases Magical Damage.",
@@ -555783,10 +555783,10 @@ tbl = {
 		costume = false
 	},
 	[1000529] = {
-		unidentifiedDisplayName = "Magic Power Stone(Mid)",
+		unidentifiedDisplayName = "魔法石（头中）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Magic Power Stone(Mid)",
+		identifiedDisplayName = "魔法石（头中）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases Magical Damage.",
@@ -555803,10 +555803,10 @@ tbl = {
 		costume = false
 	},
 	[1000530] = {
-		unidentifiedDisplayName = "Magic Power Stone(Lower)",
+		unidentifiedDisplayName = "魔法石（头下）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Magic Power Stone(Lower)",
+		identifiedDisplayName = "魔法石（头下）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases Magical Damage.",
@@ -556154,10 +556154,10 @@ tbl = {
 		costume = false
 	},
 	[1000611] = {
-		unidentifiedDisplayName = "Rune Knight Stone(Mid)",
+		unidentifiedDisplayName = "符文骑士石（头中）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Rune Knight Stone(Mid)",
+		identifiedDisplayName = "符文骑士石（头中）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"蕴含卢恩骑士潜力的石头。",
@@ -556181,10 +556181,10 @@ tbl = {
 		costume = false
 	},
 	[1000612] = {
-		unidentifiedDisplayName = "Rune Knight Stone(Lower)",
+		unidentifiedDisplayName = "符文骑士石（头下）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Rune Knight Stone(Lower)",
+		identifiedDisplayName = "符文骑士石（头下）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"蕴含卢恩骑士潜力的石头。",
@@ -556208,10 +556208,10 @@ tbl = {
 		costume = false
 	},
 	[1000613] = {
-		unidentifiedDisplayName = "Warlock Stone(Upper)",
+		unidentifiedDisplayName = "大法师石(头上)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Warlock Stone(Upper)",
+		identifiedDisplayName = "大法师石(头上)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Warlock.",
@@ -556235,10 +556235,10 @@ tbl = {
 		costume = false
 	},
 	[1000614] = {
-		unidentifiedDisplayName = "Warlock Stone(Mid)",
+		unidentifiedDisplayName = "大法师石(头中)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Warlock Stone(Mid)",
+		identifiedDisplayName = "大法师石(头中)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Warlock.",
@@ -556262,10 +556262,10 @@ tbl = {
 		costume = false
 	},
 	[1000615] = {
-		unidentifiedDisplayName = "Warlock Stone(Lower)",
+		unidentifiedDisplayName = "大法师石(头下)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Warlock Stone(Lower)",
+		identifiedDisplayName = "大法师石(头下)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Warlock.",
@@ -556289,10 +556289,10 @@ tbl = {
 		costume = false
 	},
 	[1000616] = {
-		unidentifiedDisplayName = "Royal Guard Stone(Upper)",
+		unidentifiedDisplayName = "皇家卫士石（头上）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Royal Guard Stone(Upper)",
+		identifiedDisplayName = "皇家卫士石（头上）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Royal Guard.",
@@ -556316,10 +556316,10 @@ tbl = {
 		costume = false
 	},
 	[1000617] = {
-		unidentifiedDisplayName = "Royal Guard Stone(Mid)",
+		unidentifiedDisplayName = "皇家卫士石（头中）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Royal Guard Stone(Mid)",
+		identifiedDisplayName = "皇家卫士石（头中）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Royal Guard.",
@@ -556343,10 +556343,10 @@ tbl = {
 		costume = false
 	},
 	[1000618] = {
-		unidentifiedDisplayName = "Royal Guard Stone(Lower)",
+		unidentifiedDisplayName = "皇家卫士石（头下）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Royal Guard Stone(Lower)",
+		identifiedDisplayName = "皇家卫士石（头下）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Royal Guard.",
@@ -556580,10 +556580,10 @@ tbl = {
 		costume = false
 	},
 	[1000666] = {
-		unidentifiedDisplayName = "Wanderer Minstrel Stone(Upper)",
+		unidentifiedDisplayName = "漫游舞者/宫廷乐师石（头上）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Wanderer Minstrel Stone(Upper)",
+		identifiedDisplayName = "漫游舞者/宫廷乐师石（头上）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Wanderer and Minstrel.",
@@ -556607,10 +556607,10 @@ tbl = {
 		costume = false
 	},
 	[1000667] = {
-		unidentifiedDisplayName = "Wanderer Minstrel Stone(Mid)",
+		unidentifiedDisplayName = "漫游舞者/宫廷乐师石（头中）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Wanderer Minstrel Stone(Mid)",
+		identifiedDisplayName = "漫游舞者/宫廷乐师石（头中）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Wanderer and Minstrel.",
@@ -556634,10 +556634,10 @@ tbl = {
 		costume = false
 	},
 	[1000668] = {
-		unidentifiedDisplayName = "Wanderer Minstrel Stone(Lower)",
+		unidentifiedDisplayName = "漫游舞者/宫廷乐师石（头下）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Wanderer Minstrel Stone(Lower)",
+		identifiedDisplayName = "漫游舞者/宫廷乐师石（头下）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Wanderer and Minstrel.",
@@ -556661,10 +556661,10 @@ tbl = {
 		costume = false
 	},
 	[1000669] = {
-		unidentifiedDisplayName = "Genetic Stone(Upper)",
+		unidentifiedDisplayName = "基因学者石(头上)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Genetic Stone(Upper)",
+		identifiedDisplayName = "基因学者石(头上)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Genetic.",
@@ -556688,10 +556688,10 @@ tbl = {
 		costume = false
 	},
 	[1000670] = {
-		unidentifiedDisplayName = "Genetic Stone(Middle)",
+		unidentifiedDisplayName = "基因学者石(头中)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Genetic Stone(Middle)",
+		identifiedDisplayName = "基因学者石(头中)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Genetic.",
@@ -556715,10 +556715,10 @@ tbl = {
 		costume = false
 	},
 	[1000671] = {
-		unidentifiedDisplayName = "Genetic Stone(Lower)",
+		unidentifiedDisplayName = "基因学者石(头下)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Genetic Stone(Lower)",
+		identifiedDisplayName = "基因学者石(头下)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Genetic.",
@@ -556742,10 +556742,10 @@ tbl = {
 		costume = false
 	},
 	[1000672] = {
-		unidentifiedDisplayName = "Sorcerer Stone(Upper)",
+		unidentifiedDisplayName = "元素使石(头上)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Sorcerer Stone(Upper)",
+		identifiedDisplayName = "元素使石(头上)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Sorcerer.",
@@ -556769,10 +556769,10 @@ tbl = {
 		costume = false
 	},
 	[1000673] = {
-		unidentifiedDisplayName = "Sorcerer Stone(Mid)",
+		unidentifiedDisplayName = "元素使石(头中)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Sorcerer Stone(Mid)",
+		identifiedDisplayName = "元素使石(头中)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Sorcerer.",
@@ -556796,10 +556796,10 @@ tbl = {
 		costume = false
 	},
 	[1000674] = {
-		unidentifiedDisplayName = "Sorcerer Stone(Lower)",
+		unidentifiedDisplayName = "元素使石(头下)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Sorcerer Stone(Lower)",
+		identifiedDisplayName = "元素使石(头下)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Sorcerer.",
@@ -556823,10 +556823,10 @@ tbl = {
 		costume = false
 	},
 	[1000675] = {
-		unidentifiedDisplayName = "Reload Stone(Dual)",
+		unidentifiedDisplayName = "再装填石（双属性）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Reload Stone(Dual)",
+		identifiedDisplayName = "再装填石（双属性）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that decreases After Skill Delay.",
@@ -556843,10 +556843,10 @@ tbl = {
 		costume = false
 	},
 	[1000676] = {
-		unidentifiedDisplayName = "Creative Stone(Dual)",
+		unidentifiedDisplayName = "创造石（双属性）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Creative Stone(Dual)",
+		identifiedDisplayName = "创造石（双属性）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases creativity.",
@@ -560851,10 +560851,10 @@ tbl = {
 		costume = false
 	},
 	[1000855] = {
-		unidentifiedDisplayName = "Critical Stone(Dual)",
+		unidentifiedDisplayName = "暴击石（双属性）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Critical Stone(Dual)",
+		identifiedDisplayName = "暴击石（双属性）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases Critical Damage.",
@@ -560872,10 +560872,10 @@ tbl = {
 		costume = false
 	},
 	[1000856] = {
-		unidentifiedDisplayName = "Concentration Stone(Dual)",
+		unidentifiedDisplayName = "集中石（双属性）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Concentration Stone(Dual)",
+		identifiedDisplayName = "集中石（双属性）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases Concentration.",
@@ -560892,10 +560892,10 @@ tbl = {
 		costume = false
 	},
 	[1000857] = {
-		unidentifiedDisplayName = "Archbishop Stone(Upper)",
+		unidentifiedDisplayName = "大主教石(头上)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Archbishop Stone(Upper)",
+		identifiedDisplayName = "大主教石(头上)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Archbishop.",
@@ -560919,10 +560919,10 @@ tbl = {
 		costume = false
 	},
 	[1000858] = {
-		unidentifiedDisplayName = "Archbishop Stone(Mid)",
+		unidentifiedDisplayName = "大主教石(头中)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Archbishop Stone(Mid)",
+		identifiedDisplayName = "大主教石(头中)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Archbishop.",
@@ -560946,10 +560946,10 @@ tbl = {
 		costume = false
 	},
 	[1000859] = {
-		unidentifiedDisplayName = "Archbishop Stone(Lower)",
+		unidentifiedDisplayName = "大主教石(头下)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Archbishop Stone(Lower)",
+		identifiedDisplayName = "大主教石(头下)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Archbishop.",
@@ -560973,10 +560973,10 @@ tbl = {
 		costume = false
 	},
 	[1000860] = {
-		unidentifiedDisplayName = "Ranger Stone(Upper)",
+		unidentifiedDisplayName = "游侠石（头上）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Ranger Stone(Upper)",
+		identifiedDisplayName = "游侠石（头上）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Ranger.",
@@ -561000,10 +561000,10 @@ tbl = {
 		costume = false
 	},
 	[1000861] = {
-		unidentifiedDisplayName = "Ranger Stone(Mid)",
+		unidentifiedDisplayName = "游侠石（头中）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Ranger Stone(Mid)",
+		identifiedDisplayName = "游侠石（头中）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Ranger.",
@@ -561027,10 +561027,10 @@ tbl = {
 		costume = false
 	},
 	[1000862] = {
-		unidentifiedDisplayName = "Ranger Stone(Lower)",
+		unidentifiedDisplayName = "游侠石（头下）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Ranger Stone(Lower)",
+		identifiedDisplayName = "游侠石（头下）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Ranger.",
@@ -561054,10 +561054,10 @@ tbl = {
 		costume = false
 	},
 	[1000863] = {
-		unidentifiedDisplayName = "Shadow Chaser(Upper)",
+		unidentifiedDisplayName = "逐影石（头上）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Shadow Chaser(Upper)",
+		identifiedDisplayName = "逐影石（头上）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Shadow Chaser.",
@@ -561081,10 +561081,10 @@ tbl = {
 		costume = false
 	},
 	[1000864] = {
-		unidentifiedDisplayName = "Shadow Chaser(Mid)",
+		unidentifiedDisplayName = "逐影石（头中）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Shadow Chaser(Mid)",
+		identifiedDisplayName = "逐影石（头中）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Shadow Chaser.",
@@ -561108,10 +561108,10 @@ tbl = {
 		costume = false
 	},
 	[1000865] = {
-		unidentifiedDisplayName = "Shadow Chaser(Lower)",
+		unidentifiedDisplayName = "逐影石（头下）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Shadow Chaser(Lower)",
+		identifiedDisplayName = "逐影石（头下）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Shadow Chaser.",
@@ -561508,10 +561508,10 @@ tbl = {
 		costume = false
 	},
 	[1000921] = {
-		unidentifiedDisplayName = "Spell Stone(Dual)",
+		unidentifiedDisplayName = "法术石（双属性）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Spell Stone(Dual)",
+		identifiedDisplayName = "法术石（双属性）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases Spell.",
@@ -561528,10 +561528,10 @@ tbl = {
 		costume = false
 	},
 	[1000922] = {
-		unidentifiedDisplayName = "Special Magic Attack Stone(Garment)",
+		unidentifiedDisplayName = "特殊魔法攻击石（披肩）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Special Magic Attack Stone(Garment)",
+		identifiedDisplayName = "特殊魔法攻击石（披肩）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases MATK.",
@@ -562011,10 +562011,10 @@ tbl = {
 		costume = false
 	},
 	[1000968] = {
-		unidentifiedDisplayName = "Sura Stone(Upper)",
+		unidentifiedDisplayName = "修罗石（头上）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Sura Stone(Upper)",
+		identifiedDisplayName = "修罗石（头上）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Sura.",
@@ -562038,10 +562038,10 @@ tbl = {
 		costume = false
 	},
 	[1000969] = {
-		unidentifiedDisplayName = "Sura Stone(Mid)",
+		unidentifiedDisplayName = "修罗石（头中）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Sura Stone(Mid)",
+		identifiedDisplayName = "修罗石（头中）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Sura.",
@@ -562065,10 +562065,10 @@ tbl = {
 		costume = false
 	},
 	[1000970] = {
-		unidentifiedDisplayName = "Sura Stone(Lower)",
+		unidentifiedDisplayName = "修罗石（头下）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Sura Stone(Lower)",
+		identifiedDisplayName = "修罗石（头下）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Sura.",
@@ -562092,10 +562092,10 @@ tbl = {
 		costume = false
 	},
 	[1000971] = {
-		unidentifiedDisplayName = "Mechanic Stone(Upper)",
+		unidentifiedDisplayName = "机匠石（头上）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Mechanic Stone(Upper)",
+		identifiedDisplayName = "机匠石（头上）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Mechanic.",
@@ -562119,10 +562119,10 @@ tbl = {
 		costume = false
 	},
 	[1000972] = {
-		unidentifiedDisplayName = "Mechanic Stone(Mid)",
+		unidentifiedDisplayName = "机匠石（头中）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Mechanic Stone(Mid)",
+		identifiedDisplayName = "机匠石（头中）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Mechanic.",
@@ -562146,10 +562146,10 @@ tbl = {
 		costume = false
 	},
 	[1000973] = {
-		unidentifiedDisplayName = "Mechanic Stone(Lower)",
+		unidentifiedDisplayName = "机匠石（头下）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Mechanic Stone(Lower)",
+		identifiedDisplayName = "机匠石（头下）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Mechanic.",
@@ -562173,10 +562173,10 @@ tbl = {
 		costume = false
 	},
 	[1000974] = {
-		unidentifiedDisplayName = "Guillotine Cross Stone(Upper)",
+		unidentifiedDisplayName = "十字切割者石(头上)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Guillotine Cross Stone(Upper)",
+		identifiedDisplayName = "十字切割者石(头上)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Guillotine Cross.",
@@ -562200,10 +562200,10 @@ tbl = {
 		costume = false
 	},
 	[1000975] = {
-		unidentifiedDisplayName = "Guillotine Cross Stone(Mid)",
+		unidentifiedDisplayName = "十字切割者石(头中)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Guillotine Cross Stone(Mid)",
+		identifiedDisplayName = "十字切割者石(头中)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Guillotine Cross.",
@@ -562227,10 +562227,10 @@ tbl = {
 		costume = false
 	},
 	[1000976] = {
-		unidentifiedDisplayName = "Guillotine Cross Stone(Lower)",
+		unidentifiedDisplayName = "十字切割者石(头下)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Guillotine Cross Stone(Lower)",
+		identifiedDisplayName = "十字切割者石(头下)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Guillotine Cross.",
@@ -562835,10 +562835,10 @@ tbl = {
 		costume = false
 	},
 	[1001044] = {
-		unidentifiedDisplayName = "Star Emperor Stone(Upper)",
+		unidentifiedDisplayName = "星帝石（头上）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Star Emperor Stone(Upper)",
+		identifiedDisplayName = "星帝石（头上）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Star Emperors.",
@@ -562859,10 +562859,10 @@ tbl = {
 		costume = false
 	},
 	[1001045] = {
-		unidentifiedDisplayName = "Star Emperor Stone(Mid)",
+		unidentifiedDisplayName = "星帝石（头中）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Star Emperor Stone(Mid)",
+		identifiedDisplayName = "星帝石（头中）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Star Emperors.",
@@ -562883,10 +562883,10 @@ tbl = {
 		costume = false
 	},
 	[1001046] = {
-		unidentifiedDisplayName = "Star Emperor Stone(Lower)",
+		unidentifiedDisplayName = "星帝石（头下）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Star Emperor Stone(Lower)",
+		identifiedDisplayName = "星帝石（头下）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Star Emperors.",
@@ -562907,10 +562907,10 @@ tbl = {
 		costume = false
 	},
 	[1001047] = {
-		unidentifiedDisplayName = "Rebellion Stone(Upper)",
+		unidentifiedDisplayName = "反叛者石(头上)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Rebellion Stone(Upper)",
+		identifiedDisplayName = "反叛者石(头上)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Rebellions.",
@@ -562932,10 +562932,10 @@ tbl = {
 		costume = false
 	},
 	[1001048] = {
-		unidentifiedDisplayName = "Rebellion Stone(Mid)",
+		unidentifiedDisplayName = "反叛者石(头中)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Rebellion Stone(Mid)",
+		identifiedDisplayName = "反叛者石(头中)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Rebellions.",
@@ -562956,10 +562956,10 @@ tbl = {
 		costume = false
 	},
 	[1001049] = {
-		unidentifiedDisplayName = "Rebellion Stone(Lower)",
+		unidentifiedDisplayName = "反叛者石(头下)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Rebellion Stone(Lower)",
+		identifiedDisplayName = "反叛者石(头下)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Rebellions.",
@@ -562980,10 +562980,10 @@ tbl = {
 		costume = false
 	},
 	[1001050] = {
-		unidentifiedDisplayName = "Soul Reaper Stone(Upper)",
+		unidentifiedDisplayName = "猎灵士石(头上)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Soul Reaper Stone(Upper)",
+		identifiedDisplayName = "猎灵士石(头上)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Soul Reapers.",
@@ -563004,10 +563004,10 @@ tbl = {
 		costume = false
 	},
 	[1001051] = {
-		unidentifiedDisplayName = "Soul Reaper Stone(Mid)",
+		unidentifiedDisplayName = "猎灵士石(头中)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Soul Reaper Stone(Mid)",
+		identifiedDisplayName = "猎灵士石(头中)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Soul Reapers.",
@@ -563028,10 +563028,10 @@ tbl = {
 		costume = false
 	},
 	[1001052] = {
-		unidentifiedDisplayName = "Soul Reaper Stone(Lower)",
+		unidentifiedDisplayName = "猎灵士石(头下)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Soul Reaper Stone(Lower)",
+		identifiedDisplayName = "猎灵士石(头下)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Soul Reapers.",
@@ -563052,10 +563052,10 @@ tbl = {
 		costume = false
 	},
 	[1001053] = {
-		unidentifiedDisplayName = "Melee Physical Attack Stone(Garment)",
+		unidentifiedDisplayName = "近战物理攻击石（披肩）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Melee Physical Attack Stone(Garment)",
+		identifiedDisplayName = "近战物理攻击石（披肩）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases P.ATK.",
@@ -563084,10 +563084,10 @@ tbl = {
 		costume = false
 	},
 	[1001054] = {
-		unidentifiedDisplayName = "Range Physical Attack Stone(Garment)",
+		unidentifiedDisplayName = "远距离物理攻击石（披肩）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Range Physical Attack Stone(Garment)",
+		identifiedDisplayName = "远距离物理攻击石（披肩）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases P.ATK.",
@@ -563116,10 +563116,10 @@ tbl = {
 		costume = false
 	},
 	[1001055] = {
-		unidentifiedDisplayName = "Power Stone(Dual)",
+		unidentifiedDisplayName = "力量石（双属性）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Power Stone(Dual)",
+		identifiedDisplayName = "力量石（双属性）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases Power.",
@@ -564398,10 +564398,10 @@ tbl = {
 		costume = false
 	},
 	[1001159] = {
-		unidentifiedDisplayName = "Kagerou Stone(Upper)",
+		unidentifiedDisplayName = "影狼石（头上）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Kagerou Stone(Upper)",
+		identifiedDisplayName = "影狼石（头上）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Kagerous.",
@@ -564422,10 +564422,10 @@ tbl = {
 		costume = false
 	},
 	[1001160] = {
-		unidentifiedDisplayName = "Kagerou Stone(Mid)",
+		unidentifiedDisplayName = "影狼石（头中）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Kagerou Stone(Mid)",
+		identifiedDisplayName = "影狼石（头中）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Kagerous.",
@@ -564446,10 +564446,10 @@ tbl = {
 		costume = false
 	},
 	[1001161] = {
-		unidentifiedDisplayName = "Kagerou Stone(Lower)",
+		unidentifiedDisplayName = "影狼石（头下）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Kagerou Stone(Lower)",
+		identifiedDisplayName = "影狼石（头下）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Kagerous.",
@@ -564470,10 +564470,10 @@ tbl = {
 		costume = false
 	},
 	[1001162] = {
-		unidentifiedDisplayName = "Oboro Stone(Upper)",
+		unidentifiedDisplayName = "胧石(头上)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Oboro Stone(Upper)",
+		identifiedDisplayName = "胧石(头上)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Oboros.",
@@ -564494,10 +564494,10 @@ tbl = {
 		costume = false
 	},
 	[1001163] = {
-		unidentifiedDisplayName = "Oboro Stone(Mid)",
+		unidentifiedDisplayName = "胧石(头中)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Oboro Stone(Mid)",
+		identifiedDisplayName = "胧石(头中)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Oboros.",
@@ -564518,10 +564518,10 @@ tbl = {
 		costume = false
 	},
 	[1001164] = {
-		unidentifiedDisplayName = "Oboro Stone(Lower)",
+		unidentifiedDisplayName = "胧石(头下)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Oboro Stone(Lower)",
+		identifiedDisplayName = "胧石(头下)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Oboros.",
@@ -564542,10 +564542,10 @@ tbl = {
 		costume = false
 	},
 	[1001165] = {
-		unidentifiedDisplayName = "Summoner Stone(Upper)",
+		unidentifiedDisplayName = "召唤师石(头上)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Summoner Stone(Upper)",
+		identifiedDisplayName = "召唤师石(头上)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Summoners.",
@@ -564569,10 +564569,10 @@ tbl = {
 		costume = false
 	},
 	[1001166] = {
-		unidentifiedDisplayName = "Summoner Stone(Mid)",
+		unidentifiedDisplayName = "召唤师石(头中)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Summoner Stone(Mid)",
+		identifiedDisplayName = "召唤师石(头中)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Summoners.",
@@ -564593,10 +564593,10 @@ tbl = {
 		costume = false
 	},
 	[1001167] = {
-		unidentifiedDisplayName = "Summoner Stone(Lower)",
+		unidentifiedDisplayName = "召唤师石(头下)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Summoner Stone(Lower)",
+		identifiedDisplayName = "召唤师石(头下)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Summoners.",
@@ -564640,10 +564640,10 @@ tbl = {
 		costume = false
 	},
 	[1001169] = {
-		unidentifiedDisplayName = "Defense Stone(Mid)",
+		unidentifiedDisplayName = "抗性石(头中)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Defense Stone(Mid)",
+		identifiedDisplayName = "抗性石(头中)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"提升防御力的石头。",
@@ -564660,10 +564660,10 @@ tbl = {
 		costume = false
 	},
 	[1001170] = {
-		unidentifiedDisplayName = "Defense Stone(Lower)",
+		unidentifiedDisplayName = "抗性石(头下)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Defense Stone(Lower)",
+		identifiedDisplayName = "抗性石(头下)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"提升防御力的石头。",
@@ -564680,10 +564680,10 @@ tbl = {
 		costume = false
 	},
 	[1001171] = {
-		unidentifiedDisplayName = "Resist Defense Stone(Garment)",
+		unidentifiedDisplayName = "抵抗抗性石(披肩)",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Resist Defense Stone(Garment)",
+		identifiedDisplayName = "抵抗抗性石(披肩)",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases resistance and defense.",
@@ -564706,10 +564706,10 @@ tbl = {
 		costume = false
 	},
 	[1001172] = {
-		unidentifiedDisplayName = "Stamina Wisdom Stone(Dual)",
+		unidentifiedDisplayName = "耐力智慧石（双属性）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Stamina Wisdom Stone(Dual)",
+		identifiedDisplayName = "耐力智慧石（双属性）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that increases Stamina and Wisdom.",
@@ -566556,10 +566556,10 @@ tbl = {
 		costume = false
 	},
 	[1001326] = {
-		unidentifiedDisplayName = "Super Novice Stone(Garment)",
+		unidentifiedDisplayName = "超级初心者石（披肩）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Super Novice Stone(Garment)",
+		identifiedDisplayName = "超级初心者石（披肩）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Super Novices.",
@@ -566591,10 +566591,10 @@ tbl = {
 		costume = false
 	},
 	[1001327] = {
-		unidentifiedDisplayName = "Super Novice Stone(Upper)",
+		unidentifiedDisplayName = "超级初心者石（头上）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Super Novice Stone(Upper)",
+		identifiedDisplayName = "超级初心者石（头上）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Super Novice.",
@@ -566616,10 +566616,10 @@ tbl = {
 		costume = false
 	},
 	[1001328] = {
-		unidentifiedDisplayName = "Super Novice Stone(Mid)",
+		unidentifiedDisplayName = "超级初心者石（头中）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Super Novice Stone(Mid)",
+		identifiedDisplayName = "超级初心者石（头中）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Super Novice.",
@@ -566641,10 +566641,10 @@ tbl = {
 		costume = false
 	},
 	[1001329] = {
-		unidentifiedDisplayName = "Super Novice Stone(Lower)",
+		unidentifiedDisplayName = "超级初心者石（头下）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Super Novice Stone(Lower)",
+		identifiedDisplayName = "超级初心者石（头下）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"A stone that awakens the potential of Super Novice.",
