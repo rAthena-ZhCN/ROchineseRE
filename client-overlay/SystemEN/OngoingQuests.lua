@@ -14426,12 +14426,12 @@ QuestInfoList = {
 	},
 	[6015] = {
 		Title = "库乌佳加伊的使唤",
-		Description = { "去跟艾音布罗克的红豹乔伊对话。<NAVI>[红豹乔伊]<INFO>einbroch,184,194,0,101,0</INFO></NAVI>" },
+		Description = { "去跟艾音布罗克的野猫乔伊对话。<NAVI>[野猫乔伊]<INFO>einbroch,184,194,0,101,0</INFO></NAVI>" },
 		Summary = ""
 	},
 	[6016] = {
-		Title = "可疑男子的请？",
-		Description = { "往艾因布罗克都市的南侧门出去后，再通过那里南边的桥，找出在西侧所看到的红树附近的印章" },
+		Title = "可疑男子的请求",
+		Description = { "替艾音布罗克的可疑男子收集5个<ITEM>赛依伐<INFO>7053</INFO></ITEM>和1个<ITEM>强化武器金属-级数一<INFO>1010</INFO></ITEM>。<NAVI>[可疑男子]<INFO>einbroch,184,194,0,101,0</INFO></NAVI>" },
 		Summary = ""
 	},
 	[6017] = {
