@@ -5062,9 +5062,9 @@ Bring the item to Red Leopard Joe#
 Need to refine the prototype.#
 Bring the successfully refineded item to Red Leopard Joe#
 
-5146#战斗测验#SG_FEEL#QUE_NOIMAGE#
-You are now challenging for the Battle test.#
-Defeat the target "Clan Secret"!!#
+5146#战斗考验#SG_FEEL#QUE_NOIMAGE#
+你正在挑战战斗考验。#
+击败目标“家族秘密”！！#
 
 5147#神枪手基础训练(1)#SG_FEEL#QUE_NOIMAGE#
 Louie will train the basic of gunslinger. Let's take the lesson#
