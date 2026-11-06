@@ -555387,10 +555387,10 @@ tbl = {
 		costume = false
 	},
 	[1000504] = {
-		unidentifiedDisplayName = "Fine Dry Sand",
+		unidentifiedDisplayName = "极度干沙",
 		unidentifiedResourceName = "喊狼啊风",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Fine Dry Sand",
+		identifiedDisplayName = "极度干沙",
 		identifiedResourceName = "喊狼啊风",
 		identifiedDescriptionName = {
 			"It feels nice to touch with your hand. Even if you touch it with damp hands, it does not smear on your hands",
@@ -555402,10 +555402,10 @@ tbl = {
 		costume = false
 	},
 	[1000505] = {
-		unidentifiedDisplayName = "Opaque Liquid",
+		unidentifiedDisplayName = "不透明液体",
 		unidentifiedResourceName = "屈堡咀眉",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Opaque Liquid",
+		identifiedDisplayName = "不透明液体",
 		identifiedResourceName = "屈堡咀眉",
 		identifiedDescriptionName = {
 			"A viscous liquid that shimmers like the moon. It doesn't smell, but I don't think it's worth tasting.",
@@ -555417,10 +555417,10 @@ tbl = {
 		costume = false
 	},
 	[1000506] = {
-		unidentifiedDisplayName = "Shell of Awareness",
+		unidentifiedDisplayName = "蚁识之壳",
 		unidentifiedResourceName = "Shell_Of_Cognition",
 		unidentifiedDescriptionName = { "" },
-		identifiedDisplayName = "Shell of Awareness",
+		identifiedDisplayName = "蚁识之壳",
 		identifiedResourceName = "Shell_Of_Cognition",
 		identifiedDescriptionName = {
 			"When you hold it in your hand, you know that it is an ant's shell, but you forget that the moment you let it go.",

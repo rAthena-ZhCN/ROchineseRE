@@ -12867,7 +12867,7 @@ QuestInfoList = {
 	[5846] = {
 		Title = "[Standby] Illusion Corridor",
 		Description = {
-			"You can receive a <ITEM>Illusion Seal<INFO>25504</INFO></ITEM> from the <NAVI>Illusion of Ghost<INFO>comodo,214,186,0,101,0</INFO></NAVI> once a day for 1 hour."
+			"You can receive a <ITEM>Illusion Seal<INFO>25504</INFO></ITEM> from the <NAVI>[Illusion of Ghost]<INFO>comodo,214,186,0,101,0</INFO></NAVI> once a day for 1 hour."
 		},
 		Summary = "Reset at 04:00",
 		CoolTimeQuest = 1
@@ -12900,10 +12900,10 @@ QuestInfoList = {
 		}
 	},
 	[5849] = {
-		Title = "[待机]击退巨石族的证据",
+		Title = "[待机]击退伍坦族的证据",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[守卫负责人 卢安达]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>说明天也带来击退巨石族的证据的话会给你奖励哦。"
+			"<NAVI>[守卫负责人 卢安达]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>说明天也带来击退伍坦族的证据的话会给你奖励哦。"
 		},
 		Summary = "04点初始化",
 		CoolTimeQuest = 1,
@@ -12972,7 +12972,7 @@ QuestInfoList = {
 		Title = "伍坦族击退作战",
 		IconName = "ico_nq.bmp",
 		Description = {
-			"村落里计划讨伐巨石族。击杀 [古代石炮火树], [古代伍坦弹弓手], [古代伍坦战士] 各5个后向<NAVI>[守卫负责人 卢安达]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>报告吧。"
+			"村落里计划讨伐伍坦族。击杀 [古代石炮火树], [古代伍坦弹弓手], [古代伍坦战士] 各5个后向<NAVI>[守卫负责人 卢安达]<INFO>com_d02_i,241,255,000,0</INFO></NAVI>报告吧。"
 		},
 		Summary = "",
 		NpcSpr = "4_M_THAIONGBAK",
@@ -18794,7 +18794,7 @@ QuestInfoList = {
 	},
 	[7776] = {
 		Title = "可疑的征兆",
-		Description = { "斐扬元老们在担心进行某个仪式中消失的见习悟灵士‘雾渊’，去找斐扬洞穴入口处的‘青年学者’问一问吧。" },
+		Description = { "斐扬元老们在担心进行某个仪式中消失的见习悟灵士‘雾渊’，去找斐扬洞穴入口处的‘青年学者’问一问吧。<NAVI>[青年学者]<INFO>pay_arche,48,137,0,101,0</INFO></NAVI>" },
 		Summary = "与青年学者对话"
 	},
 	[7777] = {
@@ -23362,7 +23362,7 @@ QuestInfoList = {
 		Title = "地质调查",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>说要帮他击败胆大的基尔瑟并获得 <ITEM>Fine Dry Sand<INFO>1000504</INFO></ITEM> 20个。"
+			"<NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>说要帮他击败胆大的基尔瑟并获得 <ITEM>极度干沙<INFO>1000504</INFO></ITEM> 20个。"
 		},
 		Summary = "筹集20个极度干沙"
 	},
@@ -23378,7 +23378,7 @@ QuestInfoList = {
 		Title = "力量之源",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"<NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>说要击败在认知的庭院出没的勤奋的白蚁或兵蚁并收集 <ITEM>Opaque Liquid<INFO>1000505</INFO></ITEM> 20个。"
+			"<NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>说要击败在认知的庭院出没的勤奋的白蚁或兵蚁并收集 <ITEM>不透明液体<INFO>1000505</INFO></ITEM> 20个。"
 		},
 		Summary = "筹集20个浑浊的液体"
 	},
@@ -23410,7 +23410,7 @@ QuestInfoList = {
 		Title = "共同的记忆",
 		IconName = "ico_dq.bmp",
 		Description = {
-			"在认知的庭院击败魔物时偶尔会获得 <ITEM>Shell of Awareness<INFO>1000506</INFO></ITEM>，收集20个左右给到 <NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>吧。"
+			"在认知的庭院击败魔物时偶尔会获得 <ITEM>蚁识之壳<INFO>1000506</INFO></ITEM>，收集20个左右给到 <NAVI>[米尔科]<INFO>anthell02,177,190,0,101,0</INFO></NAVI>吧。"
 		},
 		Summary = "收集20个蚁识之壳"
 	},
@@ -31310,73 +31310,73 @@ QuestInfoList = {
 	[11556] = {
 		Title = "消失的史蒂芬",
 		Description = {
-			"史蒂芬好像去了艾因贝克矿山1层，到艾因贝克矿山1层 <NAVI>泰迪熊<INFO>ein_dun01,198,79,0,101,0</INFO></NAVI>处寻找史蒂芬的踪迹吧。"
+			"史蒂芬好像去了艾因贝克矿山1层，到艾因贝克矿山1层 <NAVI>[泰迪熊]<INFO>ein_dun01,198,79,0,101,0</INFO></NAVI>处寻找史蒂芬的踪迹吧。"
 		},
 		Summary = "前往艾因贝克矿山1层"
 	},
 	[11557] = {
 		Title = "消失的史蒂芬",
 		Description = {
-			"队伍最前方传来一名男子的尖叫声，到前面看看发生什么事情了吧。<NAVI>泰迪熊<INFO>ein_dun01,189,85,0,101,0</INFO></NAVI>"
+			"队伍最前方传来一名男子的尖叫声，到前面看看发生什么事情了吧。<NAVI>[泰迪熊]<INFO>ein_dun01,189,85,0,101,0</INFO></NAVI>"
 		},
 		Summary = "到队伍最前方"
 	},
 	[11558] = {
 		Title = "消失的史蒂芬",
 		Description = {
-			"不知为何前面站着的泰迪熊给你让位了，快进去看看吧。<NAVI>史蒂芬<INFO>ein_d02_i,170,193,0,101,0</INFO></NAVI>"
+			"不知为何前面站着的泰迪熊给你让位了，快进去看看吧。<NAVI>[史蒂芬]<INFO>ein_d02_i,170,193,0,101,0</INFO></NAVI>"
 		},
 		Summary = "前往副本内"
 	},
 	[11559] = {
 		Title = "消失的史蒂芬",
-		Description = { "抓着史蒂芬的泰迪熊们逃走了。<NAVI>史蒂芬<INFO>ein_d02_i,170,193,0,101,0</INFO></NAVI>" },
+		Description = { "抓着史蒂芬的泰迪熊们逃走了。<NAVI>[史蒂芬]<INFO>ein_d02_i,170,193,0,101,0</INFO></NAVI>" },
 		Summary = "与史蒂芬对话"
 	},
 	[11560] = {
 		Title = "消失的史蒂芬",
 		Description = {
-			"史蒂芬担心 <NAVI>山哥<INFO>einbroch,149,242 ,0,101,0</INFO></NAVI>的健康，拜托您转达医院费用。快回到艾因布罗克的山处吧。"
+			"史蒂芬担心 <NAVI>[山哥]<INFO>einbroch,149,242 ,0,101,0</INFO></NAVI>的健康，拜托您转达医院费用。快回到艾因布罗克的山处吧。"
 		},
 		Summary = "前往艾因布罗克"
 	},
 	[11561] = {
 		Title = "消失的史蒂芬",
 		Description = {
-			"山说担心史蒂芬要亲自前往矿山。陪着山一起前往矿山吧。<NAVI>史蒂芬<INFO>ein_d02_i,170,193,0,101,0</INFO></NAVI>"
+			"山说担心史蒂芬要亲自前往矿山。陪着山一起前往矿山吧。<NAVI>[史蒂芬]<INFO>ein_d02_i,170,193,0,101,0</INFO></NAVI>"
 		},
 		Summary = "再次回到矿山"
 	},
 	[11562] = {
 		Title = "消失的史蒂芬",
 		Description = {
-			"史蒂芬说好像从北边听到了奇怪的声音。到北边确认声音的来源吧。<NAVI>可疑的地点<INFO>ein_d02_i,132,233,0,101,0</INFO></NAVI>"
+			"史蒂芬说好像从北边听到了奇怪的声音。到北边确认声音的来源吧。<NAVI>[可疑的地点]<INFO>ein_d02_i,132,233,0,101,0</INFO></NAVI>"
 		},
 		Summary = "前往北边"
 	},
 	[11563] = {
 		Title = "罗斯里安的阴谋",
 		Description = {
-			"好像在偷听罗斯里安们对话时被发现了，击杀追来的<NAVI>红色泰迪熊，黄色泰迪熊，绿色泰迪熊<INFO>ein_d02_i,161,172,0,101,0</INFO></NAVI>各击杀10个后和入口处<NAVI>史蒂芬<INFO>ein_d02_i,170,193,0,101,0</INFO></NAVI>对话吧。"
+			"好像在偷听罗斯里安们对话时被发现了，击杀追来的<NAVI>[红色泰迪熊，黄色泰迪熊，绿色泰迪熊]<INFO>ein_d02_i,161,172,0,101,0</INFO></NAVI>各击杀10个后和入口处<NAVI>[史蒂芬]<INFO>ein_d02_i,170,193,0,101,0</INFO></NAVI>对话吧。"
 		},
 		Summary = "击杀罗斯里安并回到入口"
 	},
 	[11564] = {
 		Title = "罗斯里安的阴谋",
 		Description = {
-			"好像在偷听罗斯里安们对话时被发现了，击杀追来的<NAVI>蓝色泰迪熊，白色泰迪熊<INFO>ein_d02_i,132,183,0,101,0</INFO></NAVI>各10个后到入口处和<NAVI>史蒂芬<INFO>ein_d02_i,170,193,0,101,0</INFO></NAVI>对话吧。"
+			"好像在偷听罗斯里安们对话时被发现了，击杀追来的<NAVI>[蓝色泰迪熊，白色泰迪熊]<INFO>ein_d02_i,132,183,0,101,0</INFO></NAVI>各10个后到入口处和<NAVI>[史蒂芬]<INFO>ein_d02_i,170,193,0,101,0</INFO></NAVI>对话吧。"
 		},
 		Summary = "击杀罗斯里安并回到入口"
 	},
 	[11565] = {
 		Title = "快逃走！！！！",
-		Description = { "<NAVI>史蒂芬<INFO>ein_d02_i,170,193,0,101,0</INFO></NAVI>" },
+		Description = { "<NAVI>[史蒂芬]<INFO>ein_d02_i,170,193,0,101,0</INFO></NAVI>" },
 		Summary = "劳碌矿工魔，灵魂碎片，邪念黑曜石击杀10个"
 	},
 	[11566] = {
 		Title = "快逃走！！！！ - 待机",
 		Description = {
-			"该任务为每日任务，等待冷却时间结束后可通过<NAVI>史蒂芬<INFO>ein_d02_i,170,193,0,101,0</INFO></NAVI>继续接取。"
+			"该任务为每日任务，等待冷却时间结束后可通过<NAVI>[史蒂芬]<INFO>ein_d02_i,170,193,0,101,0</INFO></NAVI>继续接取。"
 		},
 		Summary = "04点初始化",
 		CoolTimeQuest = 1
@@ -31384,21 +31384,21 @@ QuestInfoList = {
 	[11567] = {
 		Title = "不能存在的存在",
 		Description = {
-			"击杀<NAVI>红色泰迪熊，黄色泰迪熊，绿色泰迪熊<INFO>ein_d02_i,161,172,0,101,0</INFO></NAVI>10个让他们回到地里……得到安息……<NAVI>忧郁的泰迪熊<INFO>ein_d02_i,168,206,0,101,0</INFO></NAVI>"
+			"击杀<NAVI>[红色泰迪熊，黄色泰迪熊，绿色泰迪熊]<INFO>ein_d02_i,161,172,0,101,0</INFO></NAVI>10个让他们回到地里……得到安息……<NAVI>[忧郁的泰迪熊]<INFO>ein_d02_i,168,206,0,101,0</INFO></NAVI>"
 		},
 		Summary = "击杀泰迪熊各10个"
 	},
 	[11568] = {
 		Title = "不能存在的存在",
 		Description = {
-			"击杀<NAVI>蓝色泰迪熊，白色泰迪熊<INFO>ein_d02_i,132,183,0,101,0</INFO></NAVI>10个让他们回到地里……得到安息……<NAVI>忧郁的泰迪熊<INFO>ein_d02_i,168,206,0,101,0</INFO></NAVI>"
+			"击杀<NAVI>[蓝色泰迪熊，白色泰迪熊]<INFO>ein_d02_i,132,183,0,101,0</INFO></NAVI>10个让他们回到地里……得到安息……<NAVI>[忧郁的泰迪熊]<INFO>ein_d02_i,168,206,0,101,0</INFO></NAVI>"
 		},
 		Summary = "击杀泰迪熊各10个"
 	},
 	[11569] = {
 		Title = "不能存在的存在 - 待机",
 		Description = {
-			"该任务为每日任务，等待冷却时间结束后可通过<NAVI>忧郁的泰迪熊<INFO>ein_d02_i,168,206,0,101,0</INFO></NAVI>继续接取。"
+			"该任务为每日任务，等待冷却时间结束后可通过<NAVI>[忧郁的泰迪熊]<INFO>ein_d02_i,168,206,0,101,0</INFO></NAVI>继续接取。"
 		},
 		Summary = "04点初始化",
 		CoolTimeQuest = 1
@@ -31406,14 +31406,14 @@ QuestInfoList = {
 	[11570] = {
 		Title = "光芒将会吞噬黑暗",
 		Description = {
-			"在附近有看到过巨大而且散发^ff0000光芒泰迪熊^000000了吧？都快到入口时总是会碰到它，已经在这里躲了好几天了。<NAVI>陶瓷娃娃工匠<INFO>ein_d02_i,191,192,0,101,0</INFO></NAVI>"
+			"在附近有看到过巨大而且散发^ff0000光芒泰迪熊^000000了吧？都快到入口时总是会碰到它，已经在这里躲了好几天了。<NAVI>[陶瓷娃娃工匠]<INFO>ein_d02_i,191,192,0,101,0</INFO></NAVI>"
 		},
 		Summary = "击杀光芒泰迪熊"
 	},
 	[11571] = {
 		Title = "光芒将会吞噬黑暗 - 待机",
 		Description = {
-			"该任务为每日任务，等待冷却时间结束后可通过<NAVI>陶瓷娃娃工匠<INFO>ein_d02_i,191,192,0,101,0</INFO></NAVI>继续接取。"
+			"该任务为每日任务，等待冷却时间结束后可通过<NAVI>[陶瓷娃娃工匠]<INFO>ein_d02_i,191,192,0,101,0</INFO></NAVI>继续接取。"
 		},
 		Summary = "04点初始化",
 		CoolTimeQuest = 1
@@ -31421,7 +31421,7 @@ QuestInfoList = {
 	[11572] = {
 		Title = "幻影生存的烙印",
 		Description = {
-			"正在制作幻影生存的烙印，已经完成了第一阶段，收集剩下的材料去找<NAVI>收集幻影石的熊<INFO>ein_d02_i,177,158,0,101,0</INFO></NAVI>吧。"
+			"正在制作幻影生存的烙印，已经完成了第一阶段，收集剩下的材料去找<NAVI>[收集幻影石的熊]<INFO>ein_d02_i,177,158,0,101,0</INFO></NAVI>吧。"
 		},
 		Summary = "制作第1阶段"
 	},
@@ -36745,7 +36745,7 @@ QuestInfoList = {
 	},
 	[12443] = {
 		Title = "猎灵士之路2",
-		Description = { "要再去找莱恩，他好像被抓去斐扬某处的<NAVI>客栈<INFO>payon.gat,190,93,0,101,0</INFO></NAVI>里。" },
+		Description = { "要再去找莱恩，他好像被抓去斐扬某处的<NAVI>[客栈]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI>里。" },
 		Summary = "猎灵士之路"
 	},
 	[12444] = {
@@ -36755,7 +36755,7 @@ QuestInfoList = {
 	},
 	[12445] = {
 		Title = "猎灵士之路4",
-		Description = { "向 <NAVI>莱恩<INFO>payon.gat,190,93,0,101,0</INFO></NAVI>打听行囊小偷的来历。" },
+		Description = { "向 <NAVI>[莱恩]<INFO>payon.gat,190,93,0,101,0</INFO></NAVI>打听行囊小偷的来历。" },
 		Summary = "猎灵士之路"
 	},
 	[12446] = {
@@ -36765,19 +36765,19 @@ QuestInfoList = {
 	},
 	[12447] = {
 		Title = "猎灵士之路6",
-		Description = { "在斐扬北边与<NAVI>莱恩<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>重逢。" },
+		Description = { "在斐扬北边与<NAVI>[莱恩]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>重逢。" },
 		Summary = "猎灵士之路"
 	},
 	[12448] = {
 		Title = "猎灵士之路7",
 		Description = {
-			"帮<NAVI>沙沙<INFO>pay_dun04.gat,120,116,0,101,0</INFO></NAVI>收集大法所需的 <ITEM>狐狸尾巴<INFO>1022</INFO></ITEM>44个。 "
+			"帮<NAVI>[沙沙]<INFO>pay_dun04.gat,120,116,0,101,0</INFO></NAVI>收集大法所需的 <ITEM>狐狸尾巴<INFO>1022</INFO></ITEM>44个。 "
 		},
 		Summary = "猎灵士之路"
 	},
 	[12449] = {
 		Title = "猎灵士之路8",
-		Description = { "向<NAVI>莱恩<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>打听有关招魂大法的故事。" },
+		Description = { "向<NAVI>[莱恩]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>打听有关招魂大法的故事。" },
 		Summary = "猎灵士之路"
 	},
 	[12450] = {
@@ -36787,7 +36787,7 @@ QuestInfoList = {
 	},
 	[12451] = {
 		Title = "猎灵士之路最终章",
-		Description = { "与<NAVI>莱恩<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>对话后，决定猎灵士之路吧！" },
+		Description = { "与<NAVI>[莱恩]<INFO>payon.gat,241,294,0,101,0</INFO></NAVI>对话后，决定猎灵士之路吧！" },
 		Summary = "猎灵士之路"
 	},
 	[12452] = {
@@ -36986,14 +36986,14 @@ QuestInfoList = {
 	[12482] = {
 		Title = "失踪的同伴",
 		Description = {
-			"和普隆德拉圣堂周边的<NAVI>艾斯梅兰达<INFO>prontera,212,320,0,101,0</INFO></NAVI>对话。根据伊蕾娜的请求向公会会长艾斯梅兰达转告他们的情况。"
+			"和普隆德拉圣堂周边的<NAVI>[艾斯梅兰达]<INFO>prontera,212,320,0,101,0</INFO></NAVI>对话。根据伊蕾娜的请求向公会会长艾斯梅兰达转告他们的情况。"
 		},
 		Summary = "告知牧师会"
 	},
 	[12483] = {
 		Title = "确认后续",
 		Description = {
-			"与迷宫内部的<NAVI>艾斯梅兰达<INFO>prt_maze01,101,26,0,101,0</INFO></NAVI>对话。虽然已经向牧师会公会会长转告了消息，但好奇之后的发展，和向迷宫出发的艾斯梅兰达一起确认后续的事情吧。"
+			"与迷宫内部的<NAVI>[艾斯梅兰达]<INFO>prt_maze01,101,26,0,101,0</INFO></NAVI>对话。虽然已经向牧师会公会会长转告了消息，但好奇之后的发展，和向迷宫出发的艾斯梅兰达一起确认后续的事情吧。"
 		},
 		Summary = "寻找艾斯梅兰达"
 	},
@@ -37020,21 +37020,21 @@ QuestInfoList = {
 	[12488] = {
 		Title = "结果报告",
 		Description = {
-			"与迷宫内部的<NAVI>艾斯梅兰达<INFO>prt_maze01,101,26,0,101,0</INFO></NAVI>对话。已经找到4个新手牧师的痕迹，转达给艾斯梅兰达吧。"
+			"与迷宫内部的<NAVI>[艾斯梅兰达]<INFO>prt_maze01,101,26,0,101,0</INFO></NAVI>对话。已经找到4个新手牧师的痕迹，转达给艾斯梅兰达吧。"
 		},
 		Summary = "去找艾斯梅兰达"
 	},
 	[12489] = {
 		Title = "支援公会员",
 		Description = {
-			"与迷宫内部的<NAVI>艾斯梅兰达<INFO>prt_maze01,101,26,0,101,0</INFO></NAVI> 所在处的新手牧师的灵魂们对话看看吧。通过他们成为支援公会员来展示身手吧！"
+			"与迷宫内部的<NAVI>[艾斯梅兰达]<INFO>prt_maze01,101,26,0,101,0</INFO></NAVI> 所在处的新手牧师的灵魂们对话看看吧。通过他们成为支援公会员来展示身手吧！"
 		},
 		Summary = "接受任务"
 	},
 	[12490] = {
 		Title = "接取今日委托",
 		Description = {
-			"与迷宫内部的<NAVI>牧师会成员们<INFO>prt_maze01,100,27,0,101,0</INFO></NAVI>对话一下。作为普隆德拉牧师会公会支援公会员可接取的每日任务全部已接取。这些任务在^ff0000每天凌晨4点^000000后可再次接取，并且无法重复接取。"
+			"与迷宫内部的<NAVI>[牧师会成员们]<INFO>prt_maze01,100,27,0,101,0</INFO></NAVI>对话一下。作为普隆德拉牧师会公会支援公会员可接取的每日任务全部已接取。这些任务在^ff0000每天凌晨4点^000000后可再次接取，并且无法重复接取。"
 		},
 		Summary = "明日凌晨4点初始化",
 		CoolTimeQuest = 1
@@ -37042,7 +37042,7 @@ QuestInfoList = {
 	[12491] = {
 		Title = "接取本周委托",
 		Description = {
-			"与迷宫内部的<NAVI>牧师会成员们<INFO>prt_maze01,100,27,0,101,0</INFO></NAVI>对话一下。作为普隆德拉牧师会公会支援公会员可接取的每周任务全部已接取。这些任务在^ff0000每周六凌晨4点以后^000000可再次接取，并且无法重复接取。"
+			"与迷宫内部的<NAVI>[牧师会成员们]<INFO>prt_maze01,100,27,0,101,0</INFO></NAVI>对话一下。作为普隆德拉牧师会公会支援公会员可接取的每周任务全部已接取。这些任务在^ff0000每周六凌晨4点以后^000000可再次接取，并且无法重复接取。"
 		},
 		Summary = "每周六凌晨4点初始化",
 		CoolTimeQuest = 1
@@ -37710,7 +37710,7 @@ QuestInfoList = {
         Title = "[Standby] The Immortal",
         IconName = "ico_ep.bmp",
         Description = {
-            "After dawn, you can communicate with <NAVI>The Branch of the World Tree<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> again."
+            "After dawn, you can communicate with <NAVI>[The Branch of the World Tree]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> again."
         },
         Summary = "Resets at 4 AM",
         CoolTimeQuest = 1
@@ -37719,7 +37719,7 @@ QuestInfoList = {
         Title = "[Standby] The Immortal (Advanced)",
         IconName = "ico_ep.bmp",
         Description = {
-            "After 3 days, you can communicate with <NAVI>The Branch of the World Tree<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> again."
+            "After 3 days, you can communicate with <NAVI>[The Branch of the World Tree]<INFO>prt_elib,60,37,0,101,0</INFO></NAVI> again."
         },
         Summary = "Resets at Dawn after 3 Days",
         CoolTimeQuest = 1
@@ -51222,7 +51222,7 @@ QuestInfoList = {
 		Title = "[Standby] Replace attribute",
 		IconName = "ico_ep.bmp",
 		Description = {
-			"You can replace the attribute granted to the Guardian Robe of Free Time once a day. <NAVI>Properter of Attributes<INFO>prontera,154,279,0,101,0</INFO></NAVI>"
+			"You can replace the attribute granted to the Guardian Robe of Free Time once a day. <NAVI>[Properter of Attributes]<INFO>prontera,154,279,0,101,0</INFO></NAVI>"
 		},
 		Summary = "Reset at 04:00",
 		CoolTimeQuest = 1
