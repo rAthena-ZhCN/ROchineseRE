@@ -274936,6 +274936,25 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[22500] = {
+		unidentifiedDisplayName = "无限军火库",
+		unidentifiedResourceName = "促捞酒焊拱惑磊",
+		unidentifiedDescriptionName = {
+			"免除所有箭矢、弹药、飞刀、魔力矿石、忍者、跆拳道具等攻击/技能消耗。",
+			"需装备类物品（如箭矢）仍需要装备一个来达到判定效果。",
+			"注意：不可免除制作、合成等过程中的道具消耗。"
+		},
+		identifiedDisplayName = "无限军火库",
+		identifiedResourceName = "促捞酒焊拱惑磊",
+		identifiedDescriptionName = {
+			"免除所有箭矢、弹药、飞刀、魔力矿石、忍者、跆拳道具等攻击/技能消耗。",
+			"需装备类物品（如箭矢）仍需要装备一个来达到判定效果。",
+			"注意：不可免除制作、合成等过程中的道具消耗。"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[22506] = {
 		Server = "jRO",
 		unidentifiedDisplayName = "Fresh Magical Shellfish",
