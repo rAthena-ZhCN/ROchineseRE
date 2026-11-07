@@ -308530,10 +308530,10 @@ tbl = {
 		costume = true
 	},
 	[24710] = {
-		unidentifiedDisplayName = "Unidentified Shadow Weapon",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "傀迄溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Kagerou&Oboro Advanced Paradise Shadow Weapon",
+		identifiedDisplayName = "影狼&胧乐园团高级影子手套",
 		identifiedResourceName = "傀迄溅档快",
 		identifiedDescriptionName = {
 			"A pair of gloves that can draw the wearer's potential ability.",
@@ -309272,10 +309272,10 @@ tbl = {
 		costume = true
 	},
 	[24741] = {
-		unidentifiedDisplayName = "Unidentified Shadow Weapon",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "傀迄溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Kagerou & Oboro Booster Shadow Weapon",
+		identifiedDisplayName = "影子仙境影狼/胧手套",
 		identifiedResourceName = "傀迄溅档快3",
 		identifiedDescriptionName = {
 			"A pair of gloves that can draw the wearer's potential ability.",
@@ -310195,10 +310195,10 @@ tbl = {
 		costume = true
 	},
 	[24792] = {
-		unidentifiedDisplayName = "Unidentified Shadow Weapon",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "傀迄溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Master Shadow Weapon",
+		identifiedDisplayName = "影子大师手套",
 		identifiedResourceName = "BK_Weapon_Shadow",
 		identifiedDescriptionName = {
 			"A pair of gloves that can draw the wearer's potential ability.",
@@ -310226,10 +310226,10 @@ tbl = {
 		costume = true
 	},
 	[24793] = {
-		unidentifiedDisplayName = "Unidentified Shadow Shield",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "蒋靛溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Master Shadow Shield",
+		identifiedDisplayName = "影子大师神盾",
 		identifiedResourceName = "BK_Shield_Shadow",
 		identifiedDescriptionName = {
 			"A small shield worn on the arm for additional defense. Needs a complete set to have bonus effect.",
@@ -311754,10 +311754,10 @@ tbl = {
 		costume = true
 	},
 	[24856] = {
-		unidentifiedDisplayName = "Unidentified Shadow Armor",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酒赣溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "M. Shinkiro & Shiranui Shadow Armor",
+		identifiedDisplayName = "影子神鬼狼&不知火铠甲",
 		identifiedResourceName = "BK_Armor_Shadow",
 		identifiedDescriptionName = {
 			"A suit of armor worn on top of normal armor for additional defense. Needs a complete set to have bonus effect.",
@@ -311786,10 +311786,10 @@ tbl = {
 		costume = true
 	},
 	[24857] = {
-		unidentifiedDisplayName = "Unidentified Shadow Shoes",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酱令溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "M. Shinkiro & Shiranui Shadow Shoes",
+		identifiedDisplayName = "影子神鬼狼&不知火战靴",
 		identifiedResourceName = "BK_Shoes_Shadow",
 		identifiedDescriptionName = {
 			"A pair of shoes worn on top of normal shoes for additional defense. Needs a complete set to have bonus effect.",
@@ -311809,10 +311809,10 @@ tbl = {
 		costume = true
 	},
 	[24858] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "捞绢傅溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "M. Shinkiro & Shiranui Shadow Earring",
+		identifiedDisplayName = "影子神鬼狼&不知火耳环",
 		identifiedResourceName = "BK_Earring_Shadow",
 		identifiedDescriptionName = {
 			"A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -311838,10 +311838,10 @@ tbl = {
 		costume = true
 	},
 	[24859] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "奇带飘溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "M. Shinkiro & Shiranui Shadow Pendant",
+		identifiedDisplayName = "影子神鬼狼&不知火坠子",
 		identifiedResourceName = "BK_Pendant_Shadow",
 		identifiedDescriptionName = {
 			"A sacred necklace which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -312965,10 +312965,10 @@ tbl = {
 		costume = true
 	},
 	[24914] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "捞绢傅溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Red Thunder Cannon Shadow Earring",
+		identifiedDisplayName = "影子赤雷炮耳环",
 		identifiedResourceName = "SV_Earring_Shadow",
 		identifiedDescriptionName = {
 			"A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -313010,10 +313010,10 @@ tbl = {
 		costume = true
 	},
 	[24915] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "奇带飘溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Red Thunder Cannon Shadow Pendant",
+		identifiedDisplayName = "影子赤雷炮坠子",
 		identifiedResourceName = "SV_Pendant_Shadow",
 		identifiedDescriptionName = {
 			"A sacred necklace which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -313039,10 +313039,10 @@ tbl = {
 		costume = true
 	},
 	[24916] = {
-		unidentifiedDisplayName = "Unidentified Shadow Armor",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酒赣溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Gold Blooded Cannon Shadow Armor",
+		identifiedDisplayName = "影子黄金血炮铠甲",
 		identifiedResourceName = "SV_Armor_Shadow",
 		identifiedDescriptionName = {
 			"A suit of armor worn on top of normal armor for additional defense. Needs a complete set to have bonus effect.",
@@ -313084,10 +313084,10 @@ tbl = {
 		costume = true
 	},
 	[24917] = {
-		unidentifiedDisplayName = "Unidentified Shadow Shoes",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酱令溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Golden Blooded Cannon Shadow Shoes",
+		identifiedDisplayName = "影子黄金血炮战靴",
 		identifiedResourceName = "SV_Shoes_Shadow",
 		identifiedDescriptionName = {
 			"A pair of shoes worn on top of normal shoes for additional defense. Needs a complete set to have bonus effect.",
@@ -579772,10 +579772,10 @@ tbl = {
 		costume = true
 	},
 	[1270123] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "捞绢傅溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Shadow Dance Shadow Earring",
+		identifiedDisplayName = "影子影舞耳环",
 		identifiedResourceName = "SV_Earring_Shadow",
 		identifiedDescriptionName = {
 			"A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -579817,10 +579817,10 @@ tbl = {
 		costume = true
 	},
 	[1270124] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "奇带飘溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Shadow Dance Shadow Pendant",
+		identifiedDisplayName = "影子影舞坠子",
 		identifiedResourceName = "SV_Pendant_Shadow",
 		identifiedDescriptionName = {
 			"A sacred necklace which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -579846,10 +579846,10 @@ tbl = {
 		costume = true
 	},
 	[1270125] = {
-		unidentifiedDisplayName = "Unidentified Shadow Armor",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酒赣溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Kunai Shuriken Shadow Armor",
+		identifiedDisplayName = "影子苦无手里剑铠甲",
 		identifiedResourceName = "SV_Armor_Shadow",
 		identifiedDescriptionName = {
 			"A suit of armor worn on top of normal armor for additional defense. Needs a complete set to have bonus effect.",
@@ -579891,10 +579891,10 @@ tbl = {
 		costume = true
 	},
 	[1270126] = {
-		unidentifiedDisplayName = "Unidentified Shadow Shoes",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酱令溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Kunai Shuriken Shadow Shoes",
+		identifiedDisplayName = "影子苦无手里剑战靴",
 		identifiedResourceName = "SV_Shoes_Shadow",
 		identifiedDescriptionName = {
 			"A pair of shoes worn on top of normal shoes for additional defense. Needs a complete set to have bonus effect.",
