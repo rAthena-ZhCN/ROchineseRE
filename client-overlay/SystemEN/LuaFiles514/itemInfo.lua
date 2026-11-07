@@ -299632,9 +299632,9 @@ tbl = {
 		costume = true
 	},
 	[24298] = {
-		unidentifiedDisplayName = "影子手套",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "傀迄溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子游侠手套",
 		identifiedResourceName = "傀迄溅档快",
 		identifiedDescriptionName = {
@@ -299645,16 +299645,16 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777手套^000000 重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777游侠^000000"
+			"装备: ^777777游侠^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = true
 	},
 	[24299] = {
-		unidentifiedDisplayName = "影子手套",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "傀迄溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子宫廷乐师手套",
 		identifiedResourceName = "傀迄溅档快",
 		identifiedDescriptionName = {
@@ -299665,16 +299665,16 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777手套^000000 重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777宫廷乐师系列^000000"
+			"装备: ^777777宫廷乐师系列^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = true
 	},
 	[24300] = {
-		unidentifiedDisplayName = "影子手套",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "傀迄溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子漫游舞者手套",
 		identifiedResourceName = "傀迄溅档快",
 		identifiedDescriptionName = {
@@ -299686,7 +299686,7 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777手套^000000 重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777漫游舞者^000000"
+			"装备: ^777777漫游舞者^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -299966,9 +299966,9 @@ tbl = {
 		costume = true
 	},
 	[24311] = {
-		unidentifiedDisplayName = "影子神盾",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "蒋靛溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子游侠神盾",
 		identifiedResourceName = "蒋靛溅档快",
 		identifiedDescriptionName = {
@@ -299985,16 +299985,16 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777盾牌^000000 重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777游侠^000000"
+			"装备: ^777777游侠^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = true
 	},
 	[24312] = {
-		unidentifiedDisplayName = "影子神盾",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "蒋靛溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子宫廷乐师神盾",
 		identifiedResourceName = "蒋靛溅档快",
 		identifiedDescriptionName = {
@@ -300012,16 +300012,16 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777盾牌^000000 重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777宫廷乐师系列^000000"
+			"装备: ^777777宫廷乐师系列^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = true
 	},
 	[24313] = {
-		unidentifiedDisplayName = "影子神盾",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "蒋靛溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子漫游舞者神盾",
 		identifiedResourceName = "蒋靛溅档快",
 		identifiedDescriptionName = {
@@ -300039,7 +300039,7 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777盾牌^000000 重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777漫游舞者^000000"
+			"装备: ^777777漫游舞者^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -302993,7 +302993,7 @@ tbl = {
 		costume = true
 	},
 	[24452] = {
-		unidentifiedDisplayName = "影子铠甲",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酒赣溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]来鉴定物品。" },
 		identifiedDisplayName = "影子榴霰弹铠甲",
@@ -303012,7 +303012,7 @@ tbl = {
 		costume = true
 	},
 	[24453] = {
-		unidentifiedDisplayName = "影子神盾",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "蒋靛溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]来鉴定物品。" },
 		identifiedDisplayName = "影子榴霰弹神盾",
@@ -303036,7 +303036,7 @@ tbl = {
 		costume = true
 	},
 	[24454] = {
-		unidentifiedDisplayName = "影子战靴",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酱令溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]来鉴定物品。" },
 		identifiedDisplayName = "影子榴霰弹战靴",
@@ -303055,9 +303055,9 @@ tbl = {
 		costume = true
 	},
 	[24455] = {
-		unidentifiedDisplayName = "影子手套",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "傀迄溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子瞄准标靶手套",
 		identifiedResourceName = "傀迄溅档快",
 		identifiedDescriptionName = {
@@ -303072,16 +303072,16 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777手套^000000 重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777游侠系列^000000"
+			"装备: ^777777游侠系列^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = true
 	},
 	[24456] = {
-		unidentifiedDisplayName = "影子坠子",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "奇带飘溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子瞄准标靶坠子",
 		identifiedResourceName = "奇带飘溅档快",
 		identifiedDescriptionName = {
@@ -303091,16 +303091,16 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777坠子 ^000000重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777游侠系列^000000"
+			"装备: ^777777游侠系列^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = true
 	},
 	[24457] = {
-		unidentifiedDisplayName = "影子耳环",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "捞绢傅溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子瞄准标靶耳环",
 		identifiedResourceName = "捞绢傅溅档快",
 		identifiedDescriptionName = {
@@ -303110,16 +303110,16 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777耳环 ^000000重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777游侠系列^000000"
+			"装备: ^777777游侠系列^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = true
 	},
 	[24458] = {
-		unidentifiedDisplayName = "影子铠甲",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酒赣溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子箭雨风暴铠甲",
 		identifiedResourceName = "酒赣溅档快",
 		identifiedDescriptionName = {
@@ -303129,16 +303129,16 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777铠甲^000000 重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777游侠系列^000000"
+			"装备: ^777777游侠系列^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = true
 	},
 	[24459] = {
-		unidentifiedDisplayName = "影子神盾",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "蒋靛溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子箭雨风暴神盾",
 		identifiedResourceName = "蒋靛溅档快",
 		identifiedDescriptionName = {
@@ -303153,16 +303153,16 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777盾牌^000000 重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777游侠系列^000000"
+			"装备: ^777777游侠系列^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = true
 	},
 	[24460] = {
-		unidentifiedDisplayName = "影子战靴",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酱令溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子箭雨风暴战靴",
 		identifiedResourceName = "酱令溅档快",
 		identifiedDescriptionName = {
@@ -303172,14 +303172,14 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777鞋子^000000 重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777游侠系列^000000"
+			"装备: ^777777游侠系列^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = true
 	},
 	[24461] = {
-		unidentifiedDisplayName = "影子手套",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "傀迄溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]来鉴定物品。" },
 		identifiedDisplayName = "影子锐利射击手套",
@@ -303203,7 +303203,7 @@ tbl = {
 		costume = true
 	},
 	[24462] = {
-		unidentifiedDisplayName = "影子坠子",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "奇带飘溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]来鉴定物品。" },
 		identifiedDisplayName = "影子锐利射击坠子",
@@ -303222,7 +303222,7 @@ tbl = {
 		costume = true
 	},
 	[24463] = {
-		unidentifiedDisplayName = "影子耳环",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "捞绢傅溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]来鉴定物品。" },
 		identifiedDisplayName = "影子锐利射击耳环",
@@ -303985,7 +303985,7 @@ tbl = {
 		costume = true
 	},
 	[24500] = {
-		unidentifiedDisplayName = "影子铠甲",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酒赣溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]来鉴定物品。" },
 		identifiedDisplayName = "影子大暴雨铠甲",
@@ -304004,7 +304004,7 @@ tbl = {
 		costume = true
 	},
 	[24501] = {
-		unidentifiedDisplayName = "影子神盾",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "蒋靛溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]来鉴定物品。" },
 		identifiedDisplayName = "影子大暴雨神盾",
@@ -304028,7 +304028,7 @@ tbl = {
 		costume = true
 	},
 	[24502] = {
-		unidentifiedDisplayName = "影子战靴",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酱令溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]来鉴定物品。" },
 		identifiedDisplayName = "影子大暴雨战靴",
@@ -304047,9 +304047,9 @@ tbl = {
 		costume = true
 	},
 	[24503] = {
-		unidentifiedDisplayName = "影子手套",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "傀迄溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子奥义箭乱舞手套",
 		identifiedResourceName = "傀迄溅档快",
 		identifiedDescriptionName = {
@@ -304064,16 +304064,16 @@ tbl = {
 			"系列: ^777777影子装备^000000 ",
 			"位置: ^777777手套^000000 重量: ^7777770^000000 ",
 			"要求等级: ^77777799^000000 ",
-			"装备: ^777777宫廷乐师系列/漫游舞者系列^000000"
+			"装备: ^777777宫廷乐师系列/漫游舞者系列^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = true
 	},
 	[24504] = {
-		unidentifiedDisplayName = "影子坠子",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "奇带飘溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子奥义箭乱舞坠子",
 		identifiedResourceName = "奇带飘溅档快",
 		identifiedDescriptionName = {
@@ -304083,16 +304083,16 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777坠子 ^000000重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777宫廷乐师系列/漫游舞者系列^000000"
+			"装备: ^777777宫廷乐师系列/漫游舞者系列^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = true
 	},
 	[24505] = {
-		unidentifiedDisplayName = "影子耳环",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "捞绢傅溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子奥义箭乱舞耳环",
 		identifiedResourceName = "捞绢傅溅档快",
 		identifiedDescriptionName = {
@@ -304102,16 +304102,16 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777耳环 ^000000重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777宫廷乐师系列/漫游舞者系列^000000"
+			"装备: ^777777宫廷乐师系列/漫游舞者系列^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = true
 	},
 	[24506] = {
-		unidentifiedDisplayName = "影子铠甲",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酒赣溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子重金属铠甲",
 		identifiedResourceName = "酒赣溅档快",
 		identifiedDescriptionName = {
@@ -304121,16 +304121,16 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777铠甲^000000 重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777宫廷乐师系列/漫游舞者系列^000000"
+			"装备: ^777777宫廷乐师系列/漫游舞者系列^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = true
 	},
 	[24507] = {
-		unidentifiedDisplayName = "影子神盾",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "蒋靛溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子重金属神盾",
 		identifiedResourceName = "蒋靛溅档快",
 		identifiedDescriptionName = {
@@ -304145,16 +304145,16 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777盾牌^000000 重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777宫廷乐师系列/漫游舞者系列^000000"
+			"装备: ^777777宫廷乐师系列/漫游舞者系列^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = true
 	},
 	[24508] = {
-		unidentifiedDisplayName = "影子战靴",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酱令溅档快",
-		unidentifiedDescriptionName = { "未鉴定。可通过[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {"尚未鉴定，可用[放大镜]进行鉴定。"},
 		identifiedDisplayName = "影子重金属战靴",
 		identifiedResourceName = "酱令溅档快",
 		identifiedDescriptionName = {
@@ -304164,14 +304164,14 @@ tbl = {
 			"系列: ^777777影子装备^000000",
 			"位置: ^777777鞋子 ^000000重量: ^7777770^000000",
 			"要求等级: ^77777799^000000",
-			"装备: ^777777宫廷乐师系列/漫游舞者系列^000000"
+			"装备: ^777777宫廷乐师系列/漫游舞者系列^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = true
 	},
 	[24509] = {
-		unidentifiedDisplayName = "影子手套",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "傀迄溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]来鉴定物品。" },
 		identifiedDisplayName = "影子残响手套",
@@ -304195,7 +304195,7 @@ tbl = {
 		costume = true
 	},
 	[24510] = {
-		unidentifiedDisplayName = "影子坠子",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "奇带飘溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]来鉴定物品。" },
 		identifiedDisplayName = "影子残响坠子",
@@ -304214,7 +304214,7 @@ tbl = {
 		costume = true
 	},
 	[24511] = {
-		unidentifiedDisplayName = "影子耳环",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "捞绢傅溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]来鉴定物品。" },
 		identifiedDisplayName = "影子残响耳环",
@@ -306066,7 +306066,7 @@ tbl = {
 		costume = true
 	},
 	[24599] = {
-		unidentifiedDisplayName = "影子手套",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "傀迄溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]来鉴定物品。" },
 		identifiedDisplayName = "影子仙境游侠手套",
@@ -306089,7 +306089,7 @@ tbl = {
 		costume = true
 	},
 	[24600] = {
-		unidentifiedDisplayName = "影子手套",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "傀迄溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]来鉴定物品。" },
 		identifiedDisplayName = "影子仙境宫廷乐师浪姬舞者手套",
@@ -308469,10 +308469,10 @@ tbl = {
 		costume = true
 	},
 	[24708] = {
-		unidentifiedDisplayName = "Unidentified Shadow Weapon",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "傀迄溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Ranger Advanced Paradise Shadow Weapon",
+		identifiedDisplayName = "游侠乐园团高级影子手套",
 		identifiedResourceName = "傀迄溅档快",
 		identifiedDescriptionName = {
 			"A pair of gloves that can draw the wearer's potential ability.",
@@ -308499,10 +308499,10 @@ tbl = {
 		costume = true
 	},
 	[24709] = {
-		unidentifiedDisplayName = "Unidentified Shadow Weapon",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "傀迄溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Wanderer&Minstrel Advanced Paradise Shadow Weapon",
+		identifiedDisplayName = "漫游舞者&宫廷乐师乐园团高级影子手套",
 		identifiedResourceName = "傀迄溅档快",
 		identifiedDescriptionName = {
 			"A pair of gloves that can draw the wearer's potential ability.",
@@ -311112,10 +311112,10 @@ tbl = {
 		costume = true
 	},
 	[24832] = {
-		unidentifiedDisplayName = "Unidentified Shadow Armor",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酒赣溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "M. Windhawk Shadow Armor",
+		identifiedDisplayName = "影子风鹰铠甲",
 		identifiedResourceName = "BK_Armor_Shadow",
 		identifiedDescriptionName = {
 			"A suit of armor worn on top of normal armor for additional defense. Needs a complete set to have bonus effect.",
@@ -311144,10 +311144,10 @@ tbl = {
 		costume = true
 	},
 	[24833] = {
-		unidentifiedDisplayName = "Unidentified Shadow Shoes",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酱令溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "M. Windhawk Shadow Shoes",
+		identifiedDisplayName = "影子风鹰战靴",
 		identifiedResourceName = "BK_Shoes_Shadow",
 		identifiedDescriptionName = {
 			"A pair of shoes worn on top of normal shoes for additional defense. Needs a complete set to have bonus effect.",
@@ -311167,10 +311167,10 @@ tbl = {
 		costume = true
 	},
 	[24834] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "捞绢傅溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "M. Windhawk Shadow Earring",
+		identifiedDisplayName = "影子风鹰耳环",
 		identifiedResourceName = "BK_Earring_Shadow",
 		identifiedDescriptionName = {
 			"A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -311196,10 +311196,10 @@ tbl = {
 		costume = true
 	},
 	[24835] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "奇带飘溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "M. Windhawk Shadow Pendant",
+		identifiedDisplayName = "影子风鹰坠子",
 		identifiedResourceName = "BK_Pendant_Shadow",
 		identifiedDescriptionName = {
 			"A sacred necklace which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -311219,10 +311219,10 @@ tbl = {
 		costume = true
 	},
 	[24836] = {
-		unidentifiedDisplayName = "Unidentified Shadow Armor",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酒赣溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "M. Troubadour & Trouvere Shadow Armor",
+		identifiedDisplayName = "影子传奇颂者&神话歌姬铠甲",
 		identifiedResourceName = "BK_Armor_Shadow",
 		identifiedDescriptionName = {
 			"A suit of armor worn on top of normal armor for additional defense. Needs a complete set to have bonus effect.",
@@ -311251,10 +311251,10 @@ tbl = {
 		costume = true
 	},
 	[24837] = {
-		unidentifiedDisplayName = "Unidentified Shadow Shoes",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酱令溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "M. Troubadour & Trouvere Shadow Shoes",
+		identifiedDisplayName = "影子传奇颂者&神话歌姬战靴",
 		identifiedResourceName = "BK_Shoes_Shadow",
 		identifiedDescriptionName = {
 			"A pair of shoes worn on top of normal shoes for additional defense. Needs a complete set to have bonus effect.",
@@ -311274,10 +311274,10 @@ tbl = {
 		costume = true
 	},
 	[24838] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "捞绢傅溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "M. Troubadour & Trouvere Shadow Earring",
+		identifiedDisplayName = "影子传奇颂者&神话歌姬耳环",
 		identifiedResourceName = "BK_Earring_Shadow",
 		identifiedDescriptionName = {
 			"A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -311303,10 +311303,10 @@ tbl = {
 		costume = true
 	},
 	[24839] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "奇带飘溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "M. Troubadour & Trouvere Shadow Pendant",
+		identifiedDisplayName = "影子传奇颂者&神话歌姬坠子",
 		identifiedResourceName = "BK_Pendant_Shadow",
 		identifiedDescriptionName = {
 			"A sacred necklace which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -312818,10 +312818,10 @@ tbl = {
 		costume = true
 	},
 	[24910] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "捞绢傅溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Gale Shadow Earring",
+		identifiedDisplayName = "影子疾风耳环",
 		identifiedResourceName = "SV_Earring_Shadow",
 		identifiedDescriptionName = {
 			"A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -312863,10 +312863,10 @@ tbl = {
 		costume = true
 	},
 	[24911] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "奇带飘溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Gale Shadow Pendant",
+		identifiedDisplayName = "影子疾风坠子",
 		identifiedResourceName = "SV_Pendant_Shadow",
 		identifiedDescriptionName = {
 			"A sacred necklace which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -312892,10 +312892,10 @@ tbl = {
 		costume = true
 	},
 	[24912] = {
-		unidentifiedDisplayName = "Unidentified Shadow Armor",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酒赣溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Crescive Shadow Armor",
+		identifiedDisplayName = "影子渐强铠甲",
 		identifiedResourceName = "SV_Armor_Shadow",
 		identifiedDescriptionName = {
 			"A suit of armor worn on top of normal armor for additional defense. Needs a complete set to have bonus effect.",
@@ -312936,10 +312936,10 @@ tbl = {
 		costume = true
 	},
 	[24913] = {
-		unidentifiedDisplayName = "Unidentified Shadow Shoes",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酱令溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Crescive Shadow Shoes",
+		identifiedDisplayName = "影子渐强战靴",
 		identifiedResourceName = "SV_Shoes_Shadow",
 		identifiedDescriptionName = {
 			"A pair of shoes worn on top of normal shoes for additional defense. Needs a complete set to have bonus effect.",
@@ -313259,10 +313259,10 @@ tbl = {
 		costume = true
 	},
 	[24922] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "捞绢傅溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Rhythmical Shadow Earring",
+		identifiedDisplayName = "影子韵律耳环",
 		identifiedResourceName = "SV_Earring_Shadow",
 		identifiedDescriptionName = {
 			"A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -313304,10 +313304,10 @@ tbl = {
 		costume = true
 	},
 	[24923] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "奇带飘溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Rhythmical Shadow Pendant",
+		identifiedDisplayName = "影子韵律坠子",
 		identifiedResourceName = "SV_Pendant_Shadow",
 		identifiedDescriptionName = {
 			"A sacred necklace which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -313333,10 +313333,10 @@ tbl = {
 		costume = true
 	},
 	[24924] = {
-		unidentifiedDisplayName = "Unidentified Shadow Armor",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酒赣溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Metallic Fury Shadow Armor",
+		identifiedDisplayName = "影子金属狂怒铠甲",
 		identifiedResourceName = "SV_Armor_Shadow",
 		identifiedDescriptionName = {
 			"A suit of armor worn on top of normal armor for additional defense. Needs a complete set to have bonus effect.",
@@ -313378,10 +313378,10 @@ tbl = {
 		costume = true
 	},
 	[24925] = {
-		unidentifiedDisplayName = "Unidentified Shadow Shoes",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酱令溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Metallic Fury Shadow Shoes",
+		identifiedDisplayName = "影子金属狂怒战靴",
 		identifiedResourceName = "SV_Shoes_Shadow",
 		identifiedDescriptionName = {
 			"A pair of shoes worn on top of normal shoes for additional defense. Needs a complete set to have bonus effect.",
@@ -579920,10 +579920,10 @@ tbl = {
 		costume = true
 	},
 	[1270130] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "捞绢傅溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Wild Hawk Shadow Earring",
+		identifiedDisplayName = "影子野鹰耳环",
 		identifiedResourceName = "SV_Earring_Shadow",
 		identifiedDescriptionName = {
 			"A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -579964,10 +579964,10 @@ tbl = {
 		costume = true
 	},
 	[1270131] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "奇带飘溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Wild Hawk Shadow Pendant",
+		identifiedDisplayName = "影子野鹰坠子",
 		identifiedResourceName = "SV_Pendant_Shadow",
 		identifiedDescriptionName = {
 			"A sacred necklace which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -579993,10 +579993,10 @@ tbl = {
 		costume = true
 	},
 	[1270132] = {
-		unidentifiedDisplayName = "Unidentified Shadow Armor",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酒赣溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Advanced Trap Shadow Armor",
+		identifiedDisplayName = "影子进阶陷阱铠甲",
 		identifiedResourceName = "SV_Armor_Shadow",
 		identifiedDescriptionName = {
 			"A suit of armor worn on top of normal armor for additional defense. Needs a complete set to have bonus effect.",
@@ -580038,10 +580038,10 @@ tbl = {
 		costume = true
 	},
 	[1270133] = {
-		unidentifiedDisplayName = "Unidentified Shadow Shoes",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酱令溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Advanced Trap Shadow Shoes",
+		identifiedDisplayName = "影子进阶陷阱战靴",
 		identifiedResourceName = "SV_Shoes_Shadow",
 		identifiedDescriptionName = {
 			"A pair of shoes worn on top of normal shoes for additional defense. Needs a complete set to have bonus effect.",
@@ -580067,10 +580067,10 @@ tbl = {
 		costume = true
 	},
 	[1270134] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "捞绢傅溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Musical Shooting Shadow Earring",
+		identifiedDisplayName = "影子音乐射击耳环",
 		identifiedResourceName = "SV_Earring_Shadow",
 		identifiedDescriptionName = {
 			"A sacred earring which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -580112,10 +580112,10 @@ tbl = {
 		costume = true
 	},
 	[1270135] = {
-		unidentifiedDisplayName = "Unidentified Shadow Accessory",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "奇带飘溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Musical Shooting Shadow Pendant",
+		identifiedDisplayName = "影子音乐射击坠子",
 		identifiedResourceName = "SV_Pendant_Shadow",
 		identifiedDescriptionName = {
 			"A sacred necklace which is believed to protect its wearer. It also draws the wearer's potential abilities.",
@@ -580141,10 +580141,10 @@ tbl = {
 		costume = true
 	},
 	[1270136] = {
-		unidentifiedDisplayName = "Unidentified Shadow Armor",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酒赣溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Blossom Shadow Armor",
+		identifiedDisplayName = "影子花舞铠甲",
 		identifiedResourceName = "SV_Armor_Shadow",
 		identifiedDescriptionName = {
 			"A suit of armor worn on top of normal armor for additional defense. Needs a complete set to have bonus effect.",
@@ -580186,10 +580186,10 @@ tbl = {
 		costume = true
 	},
 	[1270137] = {
-		unidentifiedDisplayName = "Unidentified Shadow Shoes",
+		unidentifiedDisplayName = "未鉴定影子装备",
 		unidentifiedResourceName = "酱令溅档快",
 		unidentifiedDescriptionName = { "尚未鉴定；可用[放大镜]进行鉴定。" },
-		identifiedDisplayName = "Blossom Shadow Shoes",
+		identifiedDisplayName = "影子花舞战靴",
 		identifiedResourceName = "SV_Shoes_Shadow",
 		identifiedDescriptionName = {
 			"A pair of shoes worn on top of normal shoes for additional defense. Needs a complete set to have bonus effect.",
