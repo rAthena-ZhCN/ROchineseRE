@@ -552878,6 +552878,8 @@ tbl = {
 			"<NAVI>[延青Ω]<INFO>ba_maison,132,103,0,100,0,0</INFO></NAVI>",
 			"<NAVI>[斯皮拉β]<INFO>ba_maison,136,103,0,100,0,0</INFO></NAVI>",
 			"_______________________",
+			"绵绵岛时装兑换：<NAVI>[服装大赏]<INFO>malangdo,116,161,0,100,0,0</INFO></NAVI>",
+			"克雷斯特汉姆古城副本刷新：<NAVI>[福金]<INFO>glast_01,204,273,0,100,0,0</INFO></NAVI>",
 			"^0000CC重量:^000000 0"
 		},
 		slotCount = 0,
