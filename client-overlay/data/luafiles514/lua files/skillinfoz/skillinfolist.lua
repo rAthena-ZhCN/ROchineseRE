@@ -11127,7 +11127,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_RIGHT] = {
 		"KO_RIGHT",
-		SkillName = "右手修炼",
+		SkillName = "右手修练",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -11136,7 +11136,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_LEFT] = {
 		"KO_LEFT",
-		SkillName = "左手修炼",
+		SkillName = "左手修练",
 		MaxLv = 5,
 		SpAmount = { 0, 0, 0, 0, 0 },
 		bSeperateLv = false,
@@ -11167,7 +11167,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_BAKURETSU] = {
 		"KO_BAKURETSU",
-		SkillName = "爆炸飞刀",
+		SkillName = "炸弹飞刀",
 		MaxLv = 5,
 		SpAmount = { 5, 6, 7, 8, 9 },
 		bSeperateLv = true,
@@ -11233,7 +11233,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_ZANZOU] = {
 		"KO_ZANZOU",
-		SkillName = "幻术-残影",
+		SkillName = "幻术 – 残影",
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
@@ -11244,7 +11244,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_KYOUGAKU] = {
 		"KO_KYOUGAKU",
-		SkillName = "幻术-惊恐",
+		SkillName = "幻术 – 惊恐",
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
@@ -11255,7 +11255,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_JYUSATSU] = {
 		"KO_JYUSATSU",
-		SkillName = "幻术-咒死",
+		SkillName = "幻术 – 咒死",
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
@@ -11298,7 +11298,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_KAIHOU] = {
 		"KO_KAIHOU",
-		SkillName = "法术-释放",
+		SkillName = "法术–释放",
 		MaxLv = 1,
 		SpAmount = { 10 },
 		bSeperateLv = false,
@@ -11312,7 +11312,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_ZENKAI] = {
 		"KO_ZENKAI",
-		SkillName = "法术-施展",
+		SkillName = "法术–施展",
 		MaxLv = 1,
 		SpAmount = { 30 },
 		bSeperateLv = false,
@@ -11324,7 +11324,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.KO_GENWAKU] = {
 		"KO_GENWAKU",
-		SkillName = "幻术-迷惑",
+		SkillName = "幻术–迷惑",
 		MaxLv = 5,
 		SpAmount = { 40, 44, 48, 52, 56 },
 		bSeperateLv = true,
