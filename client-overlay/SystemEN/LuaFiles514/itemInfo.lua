@@ -565093,6 +565093,22 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[50001] = {
+		unidentifiedDisplayName = "英灵之魂器",
+		unidentifiedResourceName = "炔陛玫荤炼阿惑",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "英灵之魂器",
+		identifiedResourceName = "炔陛玫荤炼阿惑",
+		identifiedDescriptionName = {
+			"携带此器前往<NAVI>[英灵之魂]<INFO>prontera,146,106,0,101,0</INFO></NAVI>处兑换职业英灵之魂。",
+			"当前可兑换：跆拳英灵（30天）",
+			"不可移动、不可仓储、不可交易。",
+			"^0000CC重量:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[1001260] = {
 		unidentifiedDisplayName = "Episode 16 Clear Ticket",
 		unidentifiedResourceName = "EpisodClear16",

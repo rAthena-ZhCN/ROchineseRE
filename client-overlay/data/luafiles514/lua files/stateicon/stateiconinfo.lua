@@ -6622,11 +6622,16 @@ StateIconList[EFST_IDs.EFST_BLESSING_OF_M_C_DEBUFF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "灵物祝福副作用", COLOR_TITLE_DEBUFF },
+		{ "跆拳英灵", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "一定时间内无法再接受灵物祝福" }
+		{ "跆拳道自动连招" },
+		{ "单人休息" },
+		{ "太阳月亮星星的感觉自由化" },
+		{ "憎恶目标可更改" },
+		{ "恶魔不牺牲视力" },
+		{ "融合无需灵魂状态" }
 	}
-	}
+}
 StateIconList[EFST_IDs.EFST_INTENSIVE_AIM] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
