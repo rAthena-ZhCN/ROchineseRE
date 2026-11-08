@@ -555016,7 +555016,7 @@ tbl = {
 		costume = false
 	},
 	[1000521] = {
-		unidentifiedDisplayName = "变咏石（双属性）",
+		unidentifiedDisplayName = "固咏石（双属性）",
 		unidentifiedResourceName = "康去狼炼阿",
 		unidentifiedDescriptionName = {
 			"可减少固咏的石头。",
@@ -555026,7 +555026,7 @@ tbl = {
 			"^ffffff<NAVI>^4D4DFF[雷斯 查德]^000000<INFO>mal_in01,20,107,0,100,0,0</INFO></NAVI>^000000",
 			"重量: ^77777710^000000",
 		},
-		identifiedDisplayName = "变咏石（双属性）",
+		identifiedDisplayName = "固咏石（双属性）",
 		identifiedResourceName = "康去狼炼阿",
 		identifiedDescriptionName = {
 			"可减少固咏的石头。",
