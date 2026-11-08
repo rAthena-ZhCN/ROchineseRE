@@ -301,10 +301,18 @@ tbl = {
 	[513] = {
 		unidentifiedDisplayName = "香蕉",
 		unidentifiedResourceName = "官唱唱",
-		unidentifiedDescriptionName = { "香甜好吃的水果,^000088可恢复少量的HP。^000000", "^ffffff_^000000", "重量: ^7777772^000000" },
+		unidentifiedDescriptionName = {
+			"香甜好吃的水果,^000088可恢复少量的HP。^000000",
+			"^ffffff_^000000",
+			"重量: ^7777772^000000",
+		},
 		identifiedDisplayName = "香蕉",
 		identifiedResourceName = "官唱唱",
-		identifiedDescriptionName = { "香甜好吃的水果，^000088可恢复少量的HP。^000000", "^ffffff_^000000", "重量: ^7777772^000000" },
+		identifiedDescriptionName = {
+			"香甜好吃的水果，^000088可恢复少量的HP。^000000",
+			"^ffffff_^000000",
+			"重量: ^7777772^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -361,10 +369,18 @@ tbl = {
 	[517] = {
 		unidentifiedDisplayName = "肉",
 		unidentifiedResourceName = "绊扁",
-		unidentifiedDescriptionName = { "味道很棒。^000088可恢复少量的HP。^000000", "^ffffff_^000000", "重量: ^77777715^000000" },
+		unidentifiedDescriptionName = {
+			"味道很棒。^000088可恢复少量的HP。^000000",
+			"^ffffff_^000000",
+			"重量: ^77777715^000000",
+		},
 		identifiedDisplayName = "肉",
 		identifiedResourceName = "绊扁",
-		identifiedDescriptionName = { "味道很棒。^000088可恢复少量的HP。^000000", "^ffffff_^000000", "重量: ^77777715^000000" },
+		identifiedDescriptionName = {
+			"味道很棒。^000088可恢复少量的HP。^000000",
+			"^ffffff_^000000",
+			"重量: ^77777715^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -444,11 +460,15 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"玛丝黛拉树上采下的果实,紫色的水果,^000088可恢复大量的HP。^000000",
 			"^ffffff_^000000",
-			"重量: ^7777773^000000"
+			"重量: ^7777773^000000",
 		},
 		identifiedDisplayName = "玛丝黛拉果实",
 		identifiedResourceName = "付胶抛扼狼凯概",
-		identifiedDescriptionName = { "玛丝黛拉树上采下的紫色果实，^000088可恢复大量的HP。^000000", "^ffffff_^000000", "重量: ^7777773^000000" },
+		identifiedDescriptionName = {
+			"玛丝黛拉树上采下的紫色果实，^000088可恢复大量的HP。^000000",
+			"^ffffff_^000000",
+			"重量: ^7777773^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -3276,10 +3296,18 @@ tbl = {
 	[713] = {
 		unidentifiedDisplayName = "空瓶",
 		unidentifiedResourceName = "后捍",
-		unidentifiedDescriptionName = { "什么也没装的瓶子。似乎可以在此处装进什么东西带走的样子。", "^ffffff_^000000", "重量: ^7777772^000000" },
+		unidentifiedDescriptionName = {
+			"什么也没装的瓶子。似乎可以在此处装进什么东西带走的样子。",
+			"^ffffff_^000000",
+			"重量: ^7777772^000000",
+		},
 		identifiedDisplayName = "空瓶",
 		identifiedResourceName = "后捍",
-		identifiedDescriptionName = { "什么也没装的瓶子。似乎可以在瓶中装进东西带走的样子。", "^ffffff_^000000", "重量: ^7777772^000000" },
+		identifiedDescriptionName = {
+			"什么也没装的瓶子。似乎可以在瓶中装进东西带走的样子。",
+			"^ffffff_^000000",
+			"重量: ^7777772^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -88366,11 +88394,14 @@ tbl = {
 			"用来证明乐园团成员的专用徽章,便于携带",
 			"重量: ^7777770^000000",
 			"用来证明乐园团成员的专用徽章,便于携带",
-			"重量: ^7777770^000000"
+			"重量: ^7777770^000000",
 		},
 		identifiedDisplayName = "乐园团的证物",
 		identifiedResourceName = "酒醛技拌狼鼻困",
-		identifiedDescriptionName = { "用来证明乐园团成员的专用徽章，便于携带", "重量: ^7777770^000000" },
+		identifiedDescriptionName = {
+			"用来证明乐园团成员的专用徽章，便于携带",
+			"重量: ^7777770^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -94682,32 +94713,54 @@ tbl = {
 	[6685] = {
 		unidentifiedDisplayName = "梦罗克功勋证",
 		unidentifiedResourceName = "惑牢康荐刘",
-		unidentifiedDescriptionName = { "对梦罗克重建一事助一臂之力的人可获得的证书。", "^ff0000不可和其他账号交易的物品。^000000", "重量: ^7777770^000000" },
+		unidentifiedDescriptionName = {
+			"对梦罗克重建一事助一臂之力的人可获得的证书。",
+			"^ff0000不可和其他账号交易的物品。^000000",
+			"重量: ^7777770^000000",
+		},
 		identifiedDisplayName = "梦罗克功勋证",
 		identifiedResourceName = "惑牢康荐刘",
-		identifiedDescriptionName = { "对梦罗克重建一事助一臂之力的人可获得的证书。", "^ff0000不可和其他账号交易的物品。^000000", "重量: ^7777770^000000" },
+		identifiedDescriptionName = {
+			"对梦罗克重建一事助一臂之力的人可获得的证书。",
+			"^ff0000不可和其他账号交易的物品。^000000",
+			"重量: ^7777770^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[6686] = {
 		unidentifiedDisplayName = "砖头",
-		unidentifiedResourceName = "寒倒",
-		unidentifiedDescriptionName = { "重建梦罗克所需的建筑材料。", "^ff0000不可和其他账号交易的物品。^000000", "重量: ^777777200^000000" },
+		unidentifiedResourceName = "鸥喉房",
+		unidentifiedDescriptionName = {
+			"重建梦罗克所需的建筑材料。",
+			"^ff0000不可和其他账号交易的物品。^000000",
+			"重量: ^777777200^000000",
+		},
 		identifiedDisplayName = "砖头",
-		identifiedResourceName = "寒倒",
-		identifiedDescriptionName = { "重建梦罗克所需的建筑材料。", "^ff0000不可和其他账号交易的物品。^000000", "重量: ^777777200^000000" },
+		identifiedResourceName = "鸥喉房",
+		identifiedDescriptionName = {
+			"重建梦罗克所需的建筑材料。",
+			"^ff0000不可和其他账号交易的物品。^000000",
+			"重量: ^777777200^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
 	},
 	[6687] = {
 		unidentifiedDisplayName = "绳索",
-		unidentifiedResourceName = "藕仿乐绰临",
-		unidentifiedDescriptionName = { "重建梦罗克所需的建筑材料。^ff0000不可和其他账号交易的物品。^000000", "重量: ^777777200^000000" },
+		unidentifiedResourceName = "肺橇",
+		unidentifiedDescriptionName = {
+			"重建梦罗克所需的建筑材料。^ff0000不可和其他账号交易的物品。^000000",
+			"重量: ^777777200^000000",
+		},
 		identifiedDisplayName = "绳索",
-		identifiedResourceName = "藕仿乐绰临",
-		identifiedDescriptionName = { "重建梦罗克所需的建筑材料。^ff0000不可和其他账号交易的物品。^000000", "重量: ^777777200^000000" },
+		identifiedResourceName = "肺橇",
+		identifiedDescriptionName = {
+			"重建梦罗克所需的建筑材料。^ff0000不可和其他账号交易的物品。^000000",
+			"重量: ^777777200^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -94715,10 +94768,16 @@ tbl = {
 	[6688] = {
 		unidentifiedDisplayName = "木材",
 		unidentifiedResourceName = "烹唱公",
-		unidentifiedDescriptionName = { "重建梦罗克所需的建筑材料。^ff0000不可和其他账号交易的物品。^000000", "重量: ^777777200^000000" },
+		unidentifiedDescriptionName = {
+			"重建梦罗克所需的建筑材料。^ff0000不可和其他账号交易的物品。^000000",
+			"重量: ^777777200^000000",
+		},
 		identifiedDisplayName = "木材",
 		identifiedResourceName = "烹唱公",
-		identifiedDescriptionName = { "重建梦罗克所需的建筑材料。^ff0000不可和其他账号交易的物品。^000000", "重量: ^777777200^000000" },
+		identifiedDescriptionName = {
+			"重建梦罗克所需的建筑材料。^ff0000不可和其他账号交易的物品。^000000",
+			"重量: ^777777200^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -95536,7 +95595,7 @@ tbl = {
 			"^ff0000不可与其他账号交易的物品^000000",
 			"里面记述潘塔斯麻哥利亚的考古和研究过程的报告。",
 			"里面都是亚奈德考古团每日调查研究的内容。",
-			"重量: ^7777770^000000"
+			"重量: ^7777770^000000",
 		},
 		identifiedDisplayName = "考古团每日报告",
 		identifiedResourceName = "辑幅枚",
@@ -95544,7 +95603,7 @@ tbl = {
 			"^ff0000不可与其他账号交易的物品^000000",
 			"里面记述潘塔斯麻哥利亚的考古和研究过程的报告。",
 			"里面都是亚奈德考古团每日调查研究的内容。",
-			"重量: ^7777770^000000"
+			"重量: ^7777770^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -95556,14 +95615,14 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"^ff0000不可与其他账号交易的物品^000000",
 			"在潘塔斯麻哥利亚的所有机械类核心中发现的共同零件，考古团斯私自称其为启动控制装置。",
-			"重量: ^7777770^000000"
+			"重量: ^7777770^000000",
 		},
 		identifiedDisplayName = "启动控制装置",
 		identifiedResourceName = "鸥滚赴何前炼阿",
 		identifiedDescriptionName = {
 			"^ff0000不可与其他账号交易的物品^000000",
 			"在潘塔斯麻哥利亚的所有机械类核心中发现的共同零件，考古团斯私自称其为启动控制装置。",
-			"重量: ^7777770^000000"
+			"重量: ^7777770^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -95605,10 +95664,18 @@ tbl = {
 	[6753] = {
 		unidentifiedDisplayName = "灭亡信物",
 		unidentifiedResourceName = "胶付老",
-		unidentifiedDescriptionName = { "^ff0000不可与其他账号交易的物品^000000", "灭亡祈福会的信徒随身携带的信物。", "重量: ^7777770^000000" },
+		unidentifiedDescriptionName = {
+			"^ff0000不可与其他账号交易的物品^000000",
+			"灭亡祈福会的信徒随身携带的信物。",
+			"重量: ^7777770^000000",
+		},
 		identifiedDisplayName = "灭亡信物",
 		identifiedResourceName = "胶付老",
-		identifiedDescriptionName = { "^ff0000不可与其他账号交易的物品^000000", "灭亡祈福会的信徒随身携带的信物。", "重量: ^7777770^000000" },
+		identifiedDescriptionName = {
+			"^ff0000不可与其他账号交易的物品^000000",
+			"灭亡祈福会的信徒随身携带的信物。",
+			"重量: ^7777770^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -95616,10 +95683,18 @@ tbl = {
 	[6754] = {
 		unidentifiedDisplayName = "神奇药草",
 		unidentifiedResourceName = "檬废倾宏",
-		unidentifiedDescriptionName = { "^ff0000不可与其他账号交易的物品^000000", "可有效治疗患部的药草。", "重量: ^7777770^000000" },
+		unidentifiedDescriptionName = {
+			"^ff0000不可与其他账号交易的物品^000000",
+			"可有效治疗患部的药草。",
+			"重量: ^7777770^000000",
+		},
 		identifiedDisplayName = "神奇药草",
 		identifiedResourceName = "檬废倾宏",
-		identifiedDescriptionName = { "^ff0000不可与其他账号交易的物品^000000", "可有效治疗患部的药草。", "重量: ^7777770^000000" },
+		identifiedDescriptionName = {
+			"^ff0000不可与其他账号交易的物品^000000",
+			"可有效治疗患部的药草。",
+			"重量: ^7777770^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -95645,13 +95720,13 @@ tbl = {
 		unidentifiedResourceName = "窍踞扼敲饭荐咀",
 		unidentifiedDescriptionName = {
 			"将贝鲁兹城随处可见的机械残骸中发现的特殊能量经特殊处理后使其凝聚，或许可以从中发现关于贝鲁兹城动力源的蛛丝马迹..?",
-			"重量: ^7777770^000000"
+			"重量: ^7777770^000000",
 		},
 		identifiedDisplayName = "凝聚的能量",
 		identifiedResourceName = "窍踞扼敲饭荐咀",
 		identifiedDescriptionName = {
 			"将贝鲁兹城随处可见的机械残骸中发现的特殊能量经特殊处理后使其凝聚，或许可以从中发现关于贝鲁兹城动力源的蛛丝马迹。。?",
-			"重量: ^7777770^000000"
+			"重量: ^7777770^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -95660,10 +95735,18 @@ tbl = {
 	[6757] = {
 		unidentifiedDisplayName = "记忆音盘",
 		unidentifiedResourceName = "惯沫喉复藕芒",
-		unidentifiedDescriptionName = { "从贝鲁兹城的残骸中发现的特殊音盘。", "可从中一窥部分贝鲁兹城的生活或是曾发生过的事。", "重量: ^7777770^000000" },
+		unidentifiedDescriptionName = {
+			"从贝鲁兹城的残骸中发现的特殊音盘。",
+			"可从中一窥部分贝鲁兹城的生活或是曾发生过的事。",
+			"重量: ^7777770^000000",
+		},
 		identifiedDisplayName = "记忆音盘",
 		identifiedResourceName = "惯沫喉复藕芒",
-		identifiedDescriptionName = { "从贝鲁兹城的残骸中发现的特殊音盘。", "可从中一窥部分贝鲁兹城的生活或是曾发生过的事。", "重量: ^7777770^000000" },
+		identifiedDescriptionName = {
+			"从贝鲁兹城的残骸中发现的特殊音盘。",
+			"可从中一窥部分贝鲁兹城的生活或是曾发生过的事。",
+			"重量: ^7777770^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -96668,7 +96751,9 @@ tbl = {
 	[6824] = {
 		unidentifiedDisplayName = "实验洞的记忆音盘",
 		unidentifiedResourceName = "惯沫喉复藕芒",
-		unidentifiedDescriptionName = { "尚未鉴定，可使用[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {
+			"尚未鉴定，可使用[放大镜]进行鉴定。",
+		},
 		identifiedDisplayName = "实验洞的记忆音盘",
 		identifiedResourceName = "惯沫喉复藕芒",
 		identifiedDescriptionName = {
@@ -96676,7 +96761,7 @@ tbl = {
 			"发现的内存。",
 			"里面记录有当时的情况和事件等各种信息。",
 			"^ff0000不可与其他账号交易的物品^000000",
-			"重量: ^7777770^000000"
+			"重量: ^7777770^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -96685,13 +96770,15 @@ tbl = {
 	[6825] = {
 		unidentifiedDisplayName = "空气清净机箱子",
 		unidentifiedResourceName = "惑牢傈流惑磊",
-		unidentifiedDescriptionName = { "尚未鉴定，可使用[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {
+			"尚未鉴定，可使用[放大镜]进行鉴定。",
+		},
 		identifiedDisplayName = "空气清净机箱子",
 		identifiedResourceName = "惑牢傈流惑磊",
 		identifiedDescriptionName = {
 			"防空洞专家的巨作 空气清净机，已是完成品，因此重量不轻。",
 			"^ff0000不可与其他账号交易的物品^000000",
-			"重量: ^7777771000^000000"
+			"重量: ^7777771000^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -96700,10 +96787,16 @@ tbl = {
 	[6826] = {
 		unidentifiedDisplayName = "鲜摘葡萄",
 		unidentifiedResourceName = "器档",
-		unidentifiedDescriptionName = { "尚未鉴定，可使用[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {
+			"尚未鉴定，可使用[放大镜]进行鉴定。",
+		},
 		identifiedDisplayName = "鲜摘葡萄",
 		identifiedResourceName = "器档",
-		identifiedDescriptionName = { "刚摘下的新鲜葡萄。", "^ff0000不可与其他账号交易的物品^000000", "重量: ^77777710^000000" },
+		identifiedDescriptionName = {
+			"刚摘下的新鲜葡萄。",
+			"^ff0000不可与其他账号交易的物品^000000",
+			"重量: ^77777710^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -96711,10 +96804,16 @@ tbl = {
 	[6827] = {
 		unidentifiedDisplayName = "完整的机械零件",
 		unidentifiedResourceName = "窍捞欺眉牢历",
-		unidentifiedDescriptionName = { "尚未鉴定，可使用[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {
+			"尚未鉴定，可使用[放大镜]进行鉴定。",
+		},
 		identifiedDisplayName = "完整的机械零件",
 		identifiedResourceName = "窍捞欺眉牢历",
-		identifiedDescriptionName = { "在最后房间捡到的机械零件，朴乐应该知道这是什么吧！", "^ff0000不可与其他账号交易的物品^000000", "重量: ^7777770^000000" },
+		identifiedDescriptionName = {
+			"在最后房间捡到的机械零件，朴乐应该知道这是什么吧！",
+			"^ff0000不可与其他账号交易的物品^000000",
+			"重量: ^7777770^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -96722,12 +96821,14 @@ tbl = {
 	[6828] = {
 		unidentifiedDisplayName = "重力安全装置",
 		unidentifiedResourceName = "烹青刘_f3",
-		unidentifiedDescriptionName = { "尚未鉴定，可使用[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {
+			"尚未鉴定，可使用[放大镜]进行鉴定。",
+		},
 		identifiedDisplayName = "重力安全装置",
 		identifiedResourceName = "烹青刘_f3",
 		identifiedDescriptionName = {
 			"朴乐利用目前为止的研究成果制作而成的装置。感觉交给站地下碉堡的入口处的'他'，应该可以直冲最后房间前，但又有点不安。",
-			"重量: ^77777710^000000"
+			"重量: ^77777710^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -99915,10 +100016,16 @@ tbl = {
 	[7049] = {
 		unidentifiedDisplayName = "石头",
 		unidentifiedResourceName = "倒",
-		unidentifiedDescriptionName = { "在地面上滚动的石头。", "重量: ^7777773^000000" },
+		unidentifiedDescriptionName = {
+			"在地面上滚动的石头。",
+			"重量: ^7777773^000000",
+		},
 		identifiedDisplayName = "石头",
 		identifiedResourceName = "倒",
-		identifiedDescriptionName = { "在地面上滚动的石头", "重量: ^7777773^000000" },
+		identifiedDescriptionName = {
+			"在地面上滚动的石头",
+			"重量: ^7777773^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -103139,10 +103246,18 @@ tbl = {
 	[7319] = {
 		unidentifiedDisplayName = "老旧的铁板",
 		unidentifiedResourceName = "嘲篮枚魄",
-		unidentifiedDescriptionName = { "接合部分因老旧掉落的铁板,要补任何一个缺口的话满好使用的样子。", "^ffffff_^000000", "重量: ^7777771^000000" },
+		unidentifiedDescriptionName = {
+			"接合部分因老旧掉落的铁板,要补任何一个缺口的话满好使用的样子。",
+			"^ffffff_^000000",
+			"重量: ^7777771^000000",
+		},
 		identifiedDisplayName = "老旧的铁板",
 		identifiedResourceName = "嘲篮枚魄",
-		identifiedDescriptionName = { "接合部分因老旧掉落的铁板，要补任何一个缺口的话满好使用的样子", "^ffffff_^000000", "重量: ^7777771^000000" },
+		identifiedDescriptionName = {
+			"接合部分因老旧掉落的铁板，要补任何一个缺口的话满好使用的样子",
+			"^ffffff_^000000",
+			"重量: ^7777771^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -119309,10 +119424,18 @@ tbl = {
 	[11519] = {
 		unidentifiedDisplayName = "双层牛肉堡",
 		unidentifiedResourceName = "厚橇配胶飘",
-		unidentifiedDescriptionName = { "穆拉村有名的甜点，双层牛肉加上丰富的蔬果，非常受欢迎。", "^000088HP恢复200^000000", "重量: ^7777774^000000" },
+		unidentifiedDescriptionName = {
+			"穆拉村有名的甜点，双层牛肉加上丰富的蔬果，非常受欢迎。",
+			"^000088HP恢复200^000000",
+			"重量: ^7777774^000000",
+		},
 		identifiedDisplayName = "双层牛肉堡",
 		identifiedResourceName = "厚橇配胶飘",
-		identifiedDescriptionName = { "穆拉村有名的甜点，双层牛肉加上丰富的蔬果，非常受欢迎。", "^000088HP恢复200^000000", "重量: ^7777774^000000" },
+		identifiedDescriptionName = {
+			"穆拉村有名的甜点，双层牛肉加上丰富的蔬果，非常受欢迎。",
+			"^000088HP恢复200^000000",
+			"重量: ^7777774^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -119324,7 +119447,7 @@ tbl = {
 			"彩虹桥附近生长的稀有美味水果。",
 			"^000088SP恢复50 ^000000",
 			"重量: ^7777772^000000",
-			"要求等级: ^777777100^000000"
+			"要求等级: ^777777100^000000",
 		},
 		identifiedDisplayName = "穆拉柑橘",
 		identifiedResourceName = "葛扼父促赴",
@@ -119332,7 +119455,7 @@ tbl = {
 			"彩虹桥附近生长的稀有美味水果。",
 			"^000088SP恢复50 ^000000",
 			"重量: ^7777772^000000",
-			"要求等级: ^777777100^000000"
+			"要求等级: ^777777100^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -120609,10 +120732,15 @@ tbl = {
 	[11597] = {
 		unidentifiedDisplayName = "嗜铁虫",
 		unidentifiedResourceName = "傍国饭",
-		unidentifiedDescriptionName = { "尚未鉴定，可使用[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {
+			"尚未鉴定，可使用[放大镜]进行鉴定。",
+		},
 		identifiedDisplayName = "嗜铁虫",
 		identifiedResourceName = "傍国饭",
-		identifiedDescriptionName = { "虽然是以啃食铁片为生的可怕昆虫，却拥有丰富的蛋白质。", "重量: ^7777771^000000" },
+		identifiedDescriptionName = {
+			"虽然是以啃食铁片为生的可怕昆虫，却拥有丰富的蛋白质。",
+			"重量: ^7777771^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -126019,14 +126147,14 @@ tbl = {
 		unidentifiedDescriptionName = {
 			"有着更有效率性的战斗方法所纪录的说明书,只要按照指示去做的话感觉很快就会成长的样子^00008830分钟内所获得到的经验值以50%来增加^000000",
 			"^ff0000无法交易、存仓^000000",
-			"重量: ^7777770^000000"
+			"重量: ^7777770^000000",
 		},
 		identifiedDisplayName = "[非卖品]经验值倍增书",
 		identifiedResourceName = "傈捧背裹",
 		identifiedDescriptionName = {
 			"有着更有效率性的战斗方法所记录的说明书，只要根据指示去做的话感觉很快就会成长的样子^00008830分钟内获得到的经验值增加50%^000000",
 			"^ff0000无法交易、存仓^000000",
-			"重量: ^7777770^000000"
+			"重量: ^7777770^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -274987,10 +275115,20 @@ tbl = {
 	[22508] = {
 		unidentifiedDisplayName = "乐园团徽章",
 		unidentifiedResourceName = "酒醛技拌狼鼻困",
-		unidentifiedDescriptionName = { "乐园团成员的专用徽章，具有特殊功能", "使用后，返回乐园团", "冷却时间：20分钟", "重量: ^7777770^000000" },
+		unidentifiedDescriptionName = {
+			"乐园团成员的专用徽章，具有特殊功能",
+			"使用后，返回乐园团",
+			"冷却时间：20分钟",
+			"重量: ^7777770^000000",
+		},
 		identifiedDisplayName = "乐园团徽章",
 		identifiedResourceName = "酒醛技拌狼鼻困",
-		identifiedDescriptionName = { "乐园团成员的专用徽章，具有特殊功能", "使用后，返回乐园团", "冷却时间：20分钟", "重量: ^7777770^000000" },
+		identifiedDescriptionName = {
+			"乐园团成员的专用徽章，具有特殊功能",
+			"使用后，返回乐园团",
+			"冷却时间：20分钟",
+			"重量: ^7777770^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -276276,10 +276414,16 @@ tbl = {
 	[22611] = {
 		unidentifiedDisplayName = "神秘袋装物",
 		unidentifiedResourceName = "内农糕滚胶墨靛",
-		unidentifiedDescriptionName = { "在遗址挖到的袋装物，打开后30秒内将赋予随机效能。", "重量: ^7777771^000000" },
+		unidentifiedDescriptionName = {
+			"在遗址挖到的袋装物，打开后30秒内将赋予随机效能。",
+			"重量: ^7777771^000000",
+		},
 		identifiedDisplayName = "神秘袋装物",
 		identifiedResourceName = "内农糕滚胶墨靛",
-		identifiedDescriptionName = { "在遗址挖到的袋装物，打开后30秒内将赋予随机效果。", "重量: ^7777771^000000" },
+		identifiedDescriptionName = {
+			"在遗址挖到的袋装物，打开后30秒内将赋予随机效果。",
+			"重量: ^7777771^000000",
+		},
 		slotCount = 0,
 		ClassNum = 0,
 		costume = false
@@ -277055,14 +277199,16 @@ tbl = {
 	[22691] = {
 		unidentifiedDisplayName = "音盘碎片",
 		unidentifiedResourceName = "柄柳陛加颇祈",
-		unidentifiedDescriptionName = { "尚未鉴定，可使用[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {
+			"尚未鉴定，可使用[放大镜]进行鉴定。",
+		},
 		identifiedDisplayName = "音盘碎片",
 		identifiedResourceName = "柄柳陛加颇祈",
 		identifiedDescriptionName = {
 			"在实验洞发现的记忆音盘的碎片，似乎是想解析内容而将其破坏，",
 			"结果只剩下碎片，总觉得里面有些什么。",
 			"(任务开始物品)",
-			"重量: ^7777770^000000"
+			"重量: ^7777770^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -277071,14 +277217,16 @@ tbl = {
 	[22692] = {
 		unidentifiedDisplayName = "音盘碎片",
 		unidentifiedResourceName = "柄柳陛加颇祈",
-		unidentifiedDescriptionName = { "尚未鉴定，可使用[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {
+			"尚未鉴定，可使用[放大镜]进行鉴定。",
+		},
 		identifiedDisplayName = "音盘碎片",
 		identifiedResourceName = "柄柳陛加颇祈",
 		identifiedDescriptionName = {
 			"在实验洞发现的记忆音盘的碎片，似乎是想解析内容而将其破坏，",
 			"结果只剩下碎片，总觉得里面有些什么。",
 			"(任务开始物品)",
-			"重量: ^7777770^000000"
+			"重量: ^7777770^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -277087,14 +277235,16 @@ tbl = {
 	[22693] = {
 		unidentifiedDisplayName = "音盘碎片",
 		unidentifiedResourceName = "柄柳陛加颇祈",
-		unidentifiedDescriptionName = { "尚未鉴定，可使用[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {
+			"尚未鉴定，可使用[放大镜]进行鉴定。",
+		},
 		identifiedDisplayName = "音盘碎片",
 		identifiedResourceName = "柄柳陛加颇祈",
 		identifiedDescriptionName = {
 			"在实验洞发现的记忆音盘的碎片，似乎是想解析内容而将其破坏，",
 			"结果只剩下碎片，总觉得里面有些什么。",
 			"(任务开始物品)",
-			"重量: ^7777770^000000"
+			"重量: ^7777770^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -277103,14 +277253,16 @@ tbl = {
 	[22694] = {
 		unidentifiedDisplayName = "音盘碎片",
 		unidentifiedResourceName = "柄柳陛加颇祈",
-		unidentifiedDescriptionName = { "尚未鉴定，可使用[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {
+			"尚未鉴定，可使用[放大镜]进行鉴定。",
+		},
 		identifiedDisplayName = "音盘碎片",
 		identifiedResourceName = "柄柳陛加颇祈",
 		identifiedDescriptionName = {
 			"在实验洞发现的记忆音盘的碎片，似乎是想解析内容而将其破坏，",
 			"结果只剩下碎片，总觉得里面有些什么。",
 			"(任务开始物品)",
-			"重量: ^7777770^000000"
+			"重量: ^7777770^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
@@ -277119,14 +277271,16 @@ tbl = {
 	[22695] = {
 		unidentifiedDisplayName = "音盘碎片",
 		unidentifiedResourceName = "柄柳陛加颇祈",
-		unidentifiedDescriptionName = { "尚未鉴定，可使用[放大镜]进行鉴定。" },
+		unidentifiedDescriptionName = {
+			"尚未鉴定，可使用[放大镜]进行鉴定。",
+		},
 		identifiedDisplayName = "音盘碎片",
 		identifiedResourceName = "柄柳陛加颇祈",
 		identifiedDescriptionName = {
 			"在实验洞发现的记忆音盘的碎片，似乎是想解析内容而将其破坏，",
 			"结果只剩下碎片，总觉得里面有些什么。",
 			"(任务开始物品)",
-			"重量: ^7777770^000000"
+			"重量: ^7777770^000000",
 		},
 		slotCount = 0,
 		ClassNum = 0,
