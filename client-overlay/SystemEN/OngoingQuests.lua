@@ -10152,55 +10152,55 @@ QuestInfoList = {
 	[5342] = {
 		Title = "助人为快乐之本",
 		IconName = "ico_dq.bmp",
-		Description = { "接受来自伯诺克 赛休的委托，帮助独自在烦恼的^0000FFDr.普蕾莎。" },
+		Description = { "接受来自伯诺克 赛休的委托，帮助独自在烦恼的^0000FFDr.普蕾莎。", "<NAVI>[Dr.普蕾莎]<INFO>un_bk_q,93,168,0,100,0,0</INFO></NAVI>" },
 		Summary = ""
 	},
 	[5343] = {
 		Title = "掌握原因",
 		IconName = "ico_dq.bmp",
-		Description = { "接受来自Dr.普蕾莎的委托，协助^0000FF生命工程师们掌握目前原因。" },
+		Description = { "接受来自Dr.普蕾莎的委托，协助^0000FF生命工程师们掌握目前原因。", "<NAVI>[生物工程师 图林]<INFO>un_bk_q,213,303,0,100,0,0</INFO></NAVI>" },
 		Summary = "生命工程师"
 	},
 	[5344] = {
 		Title = "掌握原因",
 		IconName = "ico_dq.bmp",
-		Description = { "接受来自Dr.普蕾莎的委托，协助^0000FF机械工程师们掌握目前原因。" },
+		Description = { "接受来自Dr.普蕾莎的委托，协助^0000FF机械工程师们掌握目前原因。", "<NAVI>[机械工程师 艾尔]<INFO>un_bk_q,82,323,0,100,0,0</INFO></NAVI>" },
 		Summary = "机械工程师"
 	},
 	[5345] = {
 		Title = "掌握原因",
 		IconName = "ico_dq.bmp",
-		Description = { "接受来自Dr.普蕾莎的委托，协助^0000FF设备负责人们掌握目前原因。" },
+		Description = { "接受来自Dr.普蕾莎的委托，协助^0000FF设备负责人们掌握目前原因。", "<NAVI>[设施管理员 瑞莫德林]<INFO>un_bk_q,347,217,0,100,0,0</INFO></NAVI>" },
 		Summary = "设备负责人"
 	},
 	[5346] = {
 		Title = "掌握原因",
 		IconName = "ico_dq.bmp",
-		Description = { "接受来自Dr.普蕾莎的委托，协助^0000FF化学物质专家们掌握目前原因。" },
+		Description = { "接受来自Dr.普蕾莎的委托，协助^0000FF化学物质专家们掌握目前原因。", "<NAVI>[化学物质专家 凯斯屯]<INFO>un_bk_q,86,121,0,100,0,0</INFO></NAVI>" },
 		Summary = "化学物质专家"
 	},
 	[5347] = {
 		Title = "原因掌握完毕",
 		IconName = "ico_dq.bmp",
-		Description = { "收到来自生命工程师 托凌有关生命工程师目前原因的报告。向^0000FFDr.普蕾莎报告吧！" },
+		Description = { "收到来自生命工程师 托凌有关生命工程师目前原因的报告。向^0000FFDr.普蕾莎报告吧！", "<NAVI>[Dr.普蕾莎]<INFO>un_bk_q,93,168,0,100,0,0</INFO></NAVI>" },
 		Summary = "向Dr.普蕾莎报告"
 	},
 	[5348] = {
 		Title = "原因掌握完毕",
 		IconName = "ico_dq.bmp",
-		Description = { "收到来自机械工程师 艾尔有关机械工程师目前原因的报告。向^0000FFDr.普蕾莎报告吧！" },
+		Description = { "收到来自机械工程师 艾尔有关机械工程师目前原因的报告。向^0000FFDr.普蕾莎报告吧！", "<NAVI>[Dr.普蕾莎]<INFO>un_bk_q,93,168,0,100,0,0</INFO></NAVI>" },
 		Summary = "向Dr.普蕾莎报告"
 	},
 	[5349] = {
 		Title = "原因掌握完毕",
 		IconName = "ico_dq.bmp",
-		Description = { "收到来自设备负责人 李莫岱凌有关设备负责人目前原因的报告。向^0000FFDr.普蕾莎报告吧！" },
+		Description = { "收到来自设备负责人 李莫岱凌有关设备负责人目前原因的报告。向^0000FFDr.普蕾莎报告吧！", "<NAVI>[Dr.普蕾莎]<INFO>un_bk_q,93,168,0,100,0,0</INFO></NAVI>" },
 		Summary = "向Dr.普蕾莎报告"
 	},
 	[5350] = {
 		Title = "原因掌握完毕",
 		IconName = "ico_dq.bmp",
-		Description = { "收到来自化学物质专家 凯斯屯有关化学物质专家目前原因的报告。向^0000FFDr.普蕾莎报告吧！" },
+		Description = { "收到来自化学物质专家 凯斯屯有关化学物质专家目前原因的报告。向^0000FFDr.普蕾莎报告吧！", "<NAVI>[Dr.普蕾莎]<INFO>un_bk_q,93,168,0,100,0,0</INFO></NAVI>" },
 		Summary = "向Dr.普蕾莎报告"
 	},
 	[5351] = {
