@@ -6611,11 +6611,13 @@ StateIconList[EFST_IDs.EFST_BLESSING_OF_M_CREATURES] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
 	descript = {
-		{ "灵物祝福", COLOR_TITLE_BUFF },
+		{ "无限VIP", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
-		{ "P.ATK、S.MATK增加" }
+		{ "角色栏位 +30" },
+		{ "基础/职业经验、物品掉率提升" },
+		{ "死亡经验惩罚减半" }
 	}
-	}
+}
 StateIconList[EFST_IDs.EFST_BLESSING_OF_M_C_DEBUFF] = {
 	haveTimeLimit = 1,
 	posTimeLimitStr = 2,
