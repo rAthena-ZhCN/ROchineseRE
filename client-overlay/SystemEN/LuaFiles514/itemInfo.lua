@@ -565068,6 +565068,28 @@ tbl = {
 		ClassNum = 0,
 		costume = false
 	},
+	[50000] = {
+		unidentifiedDisplayName = "无限VIP[30天]",
+		unidentifiedResourceName = "VIP_Black_Coin",
+		unidentifiedDescriptionName = { "" },
+		identifiedDisplayName = "无限VIP[30天]",
+		identifiedResourceName = "VIP_Black_Coin",
+		identifiedDescriptionName = {
+			"双击使用后，账号获得30天『无限VIP』身份。",
+			"角色栏位 +30",
+			"基础经验 +50%",
+			"职业经验 +50%",
+			"物品掉率 +50%",
+			"仓库 +300格",
+			"技能宝石消耗移除",
+			"死亡经验惩罚减半",
+			"不可移动、不可仓储、不可交易。",
+			"^0000CC重量:^000000 0"
+		},
+		slotCount = 0,
+		ClassNum = 0,
+		costume = false
+	},
 	[1001260] = {
 		unidentifiedDisplayName = "Episode 16 Clear Ticket",
 		unidentifiedResourceName = "EpisodClear16",
