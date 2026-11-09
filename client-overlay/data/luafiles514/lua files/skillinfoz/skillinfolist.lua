@@ -16781,7 +16781,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.IG_RADIANT_SPEAR] = {
 		"IG_RADIANT_SPEAR",
-		SkillName = "Radiant Spear",
+		SkillName = "¹â»Ô´Ì»÷",
 		MaxLv = 10,
 		SpAmount = { 67, 69, 71, 73, 75, 77, 79, 81, 83, 85 },
 		bSeperateLv = true,
@@ -16793,7 +16793,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.IG_IMPERIAL_CROSS] = {
 		"IG_IMPERIAL_CROSS",
-		SkillName = "Imperial Cross",
+		SkillName = "µÛ¹úÊ®×ÖÕ¶",
 		MaxLv = 5,
 		SpAmount = { 49, 53, 57, 61, 65 },
 		bSeperateLv = true,
@@ -16804,7 +16804,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MT_RUSH_STRIKE] = {
 		"MT_RUSH_STRIKE",
-		SkillName = "Rush Strike",
+		SkillName = "³å·æÕ¶»÷",
 		MaxLv = 5,
 		SpAmount = { 85, 80, 75, 70, 65 },
 		bSeperateLv = false,
@@ -16815,7 +16815,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MT_POWERFUL_SWING] = {
 		"MT_POWERFUL_SWING",
-		SkillName = "Powerful Swing",
+		SkillName = "±¬·¢ºáÉ¨",
 		MaxLv = 5,
 		SpAmount = { 62, 64, 66, 68, 70 },
 		bSeperateLv = true,
@@ -16826,7 +16826,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.MT_ENERGY_CANNONADE] = {
 		"MT_ENERGY_CANNONADE",
-		SkillName = "Energy Cannonade",
+		SkillName = "ÄÜÁ¿ºäÕ¨",
 		MaxLv = 5,
 		SpAmount = { 58, 64, 70, 76, 82 },
 		bSeperateLv = true,
@@ -16837,7 +16837,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BO_MYSTERY_POWDER] = {
 		"BO_MYSTERY_POWDER",
-		SkillName = "Mystery Powder",
+		SkillName = "ÉñÃØ·ÛÄ©",
 		MaxLv = 5,
 		SpAmount = { 82, 82, 82, 82, 82 },
 		bSeperateLv = false,
@@ -16848,7 +16848,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.BO_DUST_EXPLOSION] = {
 		"BO_DUST_EXPLOSION",
-		SkillName = "Dust Explosion",
+		SkillName = "ÐÇ³¾Õ¨ÁÑ",
 		MaxLv = 5,
 		SpAmount = { 64, 67, 70, 73, 76 },
 		bSeperateLv = true,
@@ -16859,7 +16859,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SHC_CROSS_SLASH] = {
 		"SHC_CROSS_SLASH",
-		SkillName = "Cross Slash",
+		SkillName = "Ê®×ÖÕ¶»÷",
 		MaxLv = 5,
 		SpAmount = { 58, 63, 68, 73, 78 },
 		bSeperateLv = false,
@@ -16871,7 +16871,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ABC_HIT_AND_SLIDING] = {
 		"ABC_HIT_AND_SLIDING",
-		SkillName = "Hit And Sliding",
+		SkillName = "Í»»÷»¬ÐÐ",
 		MaxLv = 5,
 		SpAmount = { 43, 46, 49, 52, 55 },
 		bSeperateLv = false,
@@ -16882,7 +16882,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ABC_CHASING_BREAK] = {
 		"ABC_CHASING_BREAK",
-		SkillName = "Chasing Break",
+		SkillName = "×·»÷Í»¶Ï",
 		MaxLv = 5,
 		SpAmount = { 62, 66, 70, 74, 78 },
 		bSeperateLv = false,
@@ -16893,7 +16893,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ABC_CHASING_SHOT] = {
 		"ABC_CHASING_SHOT",
-		SkillName = "Chasing Shot",
+		SkillName = "×·Ï®Éä»÷",
 		MaxLv = 5,
 		SpAmount = { 85, 90, 95, 100, 105 },
 		bSeperateLv = false,
@@ -16904,7 +16904,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.TR_RHYTHMICAL_WAVE] = {
 		"TR_RHYTHMICAL_WAVE",
-		SkillName = "Rhythmical Wave",
+		SkillName = "½Ú×àÕ½²¨",
 		MaxLv = 5,
 		SpAmount = { 78, 84, 90, 96, 102 },
 		bSeperateLv = true,
@@ -16915,7 +16915,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SS_FOUR_CHARM] = {
 		"SS_FOUR_CHARM",
-		SkillName = "Four Colors Charm",
+		SkillName = "ËÄÉ«·û",
 		MaxLv = 1,
 		SpAmount = { 90 },
 		ApAmount = { 20 },
@@ -16928,7 +16928,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NW_WILD_SHOT] = {
 		"NW_WILD_SHOT",
-		SkillName = "Wild Shot",
+		SkillName = "¿ñÒ°Éä»÷",
 		MaxLv = 5,
 		SpAmount = { 60, 63, 66, 69, 72 },
 		bSeperateLv = false,
@@ -16941,7 +16941,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NW_MIDNIGHT_FALLEN] = {
 		"NW_MIDNIGHT_FALLEN",
-		SkillName = "Midnight Fallen",
+		SkillName = "ÎçÒ¹éæÂä",
 		MaxLv = 5,
 		SpAmount = { 50, 55, 60, 65, 70 },
 		bSeperateLv = false,
@@ -16954,7 +16954,7 @@ SKILL_INFO_LIST = {
 	}, 
 	[SKID.DK_DRAGONIC_PIERCE] = {
 		"DK_DRAGONIC_PIERCE",
-		SkillName = "Dragonic Pierce",
+		SkillName = "ÉñÁú¹á´Ì",
 		MaxLv = 5,
 		SpAmount = { 45, 50, 55, 60, 65 },
 		bSeperateLv = true,
@@ -16965,7 +16965,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.IG_IMPERIAL_PRESSURE] = {
 		"IG_IMPERIAL_PRESSURE",
-		SkillName = "Imperial Pressure",
+		SkillName = "°ÔÈ¨ÕðÓò",
 		MaxLv = 5,
 		SpAmount = { 89, 93, 97, 101, 105 },
 		bSeperateLv = true,
@@ -16977,7 +16977,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ABC_ABYSS_FLAME] = {
 		"ABC_ABYSS_FLAME",
-		SkillName = "Abyss Flame",
+		SkillName = "ÉîÔ¨Ö®Ñæ",
 		MaxLv = 5,
 		SpAmount = { 82, 86, 90, 94, 98 },
 		bSeperateLv = true,
@@ -16997,7 +16997,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AG_ENERGY_CONVERSION] = {
 		"AG_ENERGY_CONVERSION",
-		SkillName = "Energy Conversion",
+		SkillName = "ÄÜÁ¿×ª»¯",
 		MaxLv = 5,
 		SpAmount = { 10, 10, 10, 10, 10 },
 		ApAmount = { 22, 19, 16, 13, 10 },
@@ -17010,7 +17010,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EM_PSYCHIC_STREAM] = {
 		"EM_PSYCHIC_STREAM",
-		SkillName = "Psychic Stream",
+		SkillName = "ÐÄÁé²¨Á÷",
 		MaxLv = 5,
 		SpAmount = { 77, 84, 91, 98, 105 },
 		ApAmount = { 5, 5, 5, 5, 5 },
@@ -17027,7 +17027,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.CD_DIVINUS_FLOS] = {
 		"CD_DIVINUS_FLOS",
-		SkillName = "Divinus Flos",
+		SkillName = "ÉñÊ¥»¨Óê",
 		MaxLv = 5,
 		SpAmount = { 99, 103, 107, 111, 115 },
 		bSeperateLv = true,
@@ -17039,7 +17039,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.IQ_BLAZING_FLAME_BLAST] = {
 		"IQ_BLAZING_FLAME_BLAST",
-		SkillName = "Blazing Flame Blast",
+		SkillName = "ÁÒÑæ±¬µ¯",
 		MaxLv = 5,
 		SpAmount = { 54, 58, 62, 66, 70 },
 		bSeperateLv = true,
@@ -17063,7 +17063,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SKE_SKY_SUN] = {
 		"SKE_SKY_SUN",
-		SkillName = "Sky Sun",
+		SkillName = "ÌìÆøÉñÑô",
 		MaxLv = 5,
 		SpAmount = { 72, 76, 80, 84, 88 },
 		bSeperateLv = true,
@@ -17076,7 +17076,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SKE_SKY_MOON] = {
 		"SKE_SKY_MOON",
-		SkillName = "Sky Moon",
+		SkillName = "ÌìÆøÉñÔÂ",
 		MaxLv = 5,
 		SpAmount = { 56, 59, 62, 65, 68 },
 		bSeperateLv = true,
@@ -17089,7 +17089,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SKE_STAR_LIGHT_KICK] = {
 		"SKE_STAR_LIGHT_KICK",
-		SkillName = "Star Light Kick",
+		SkillName = "ÌìÐÇµØÐÐ",
 		MaxLv = 5,
 		SpAmount = { 52, 57, 62, 67, 72 },
 		bSeperateLv = true,
@@ -17102,7 +17102,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.HN_OVERCOMING_CRISIS] = {
 		"HN_OVERCOMING_CRISIS",
-		SkillName = "Overcoming Crisis",
+		SkillName = "Õ÷·þÎ£»ú",
 		MaxLv = 5,
 		SpAmount = { 70, 73, 76, 79, 82 },
 		ApAmount = { 50, 50, 50, 50, 50 },
@@ -17115,7 +17115,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SH_CHUL_HO_BATTERING] = {
 		"SH_CHUL_HO_BATTERING",
-		SkillName = "Chulho Battering",
+		SkillName = "Ìú»¢ÂÒÎè",
 		MaxLv = 7,
 		SpAmount = { 64, 66, 68, 70, 72, 74, 76 },
 		bSeperateLv = true,
@@ -17127,7 +17127,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.SH_HYUN_ROK_SPIRIT_POWER] = {
 		"SH_HYUN_ROK_SPIRIT_POWER",
-		SkillName = "Hyunrok Spirit Power",
+		SkillName = "ÐþÂ¹ÁéÁ¦ÊÍ·Å",
 		MaxLv = 7,
 		SpAmount = { 70, 73, 76, 79, 82, 85, 88 },
 		bSeperateLv = true,
