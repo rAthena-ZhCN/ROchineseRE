@@ -17050,7 +17050,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.WH_WILD_WALK] = {
 		"WH_WILD_WALK",
-		SkillName = "Wild Walk",
+		SkillName = "¿ñÒ°¼²ÐÐ",
 		MaxLv = 5,
 		SpAmount = { 63, 66, 69, 72, 75 },
 		ApAmount = { 5, 5, 5, 5, 5 },

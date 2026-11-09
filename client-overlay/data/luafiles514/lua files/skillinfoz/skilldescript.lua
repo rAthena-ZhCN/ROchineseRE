@@ -21082,7 +21082,7 @@ SKILL_DESCRIPT = {
 		"[Lv 5]: ^777777ATK 21000/24500(^0000FFM. Flame Blaster^777777)%^000000"
 	},
 	[SKID.WH_WILD_WALK] = {
-		"Wild Walk",
+		"¿ñÒ°¼²ÐÐ",
 		"Max Level: 5",
 		"^CC3399Requirement: Nature Friendly 3, Hawk Rush 3^000000",
 		"Skill Form: ^3F0099Active(AP)^000000",
