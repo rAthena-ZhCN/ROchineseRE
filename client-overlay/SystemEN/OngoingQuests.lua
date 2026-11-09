@@ -13410,7 +13410,7 @@ QuestInfoList = {
 		IconName = "ico_jq.bmp",
 		Description = {
 			"在斐扬相遇的酒醉老人说，\n\t\t\t年轻时曾在噜噜卡森林修炼过。",
-			"在<NAVI>[噜噜卡森林]<INFO>um_fild01,356,282,0,101,0</INFO></NAVI>寻找蛙形石头后，\n\t\t\t前往那个地方吧！"
+			"在<NAVI>[噜噜卡森林]<INFO>um_fild01,47,345,0,101,0</INFO></NAVI>寻找蛙形石头后，\n\t\t\t前往那个地方吧！"
 		},
 		Summary = "在噜噜卡森林寻找蛙形石头",
 		NpcSpr = "4_FROG"
