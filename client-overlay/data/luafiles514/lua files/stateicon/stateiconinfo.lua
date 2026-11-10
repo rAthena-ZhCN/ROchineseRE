@@ -6631,7 +6631,9 @@ StateIconList[EFST_IDs.EFST_BLESSING_OF_M_C_DEBUFF] = {
 		{ "日月星恶魔视力恢复" },
 		{ "日月星融合无需灵魂" },
 		{ "日月星温暖自由使用" },
-		{ "日月星平安感自由使用" }
+		{ "日月星平安感自由使用" },
+		{ "艾斯麻无需前置要求" },
+		{ "艾斯麻范围提升至3×3" }
 	}
 }
 StateIconList[EFST_IDs.EFST_INTENSIVE_AIM] = {
