@@ -2515,9 +2515,10 @@ tblLapineUpgradeBox = {
 				{"Overwhelm_Vit_Armor", 15347},
 				{"Overwhelm_Dex_Armor", 15354},
 				{"Overwhelm_Agi_Armor", 15353},
-				{"Overwhelm_Luk_Armor", 15346}
+				{"Overwhelm_Luk_Armor", 15346},
+				{"Temporal_Armor_TW", 450175}
 			},
-			NeedSource_String = "时光铠甲 6种"
+			NeedSource_String = "时光铠甲 7种"
 		},
 		Time_Unseal_Key = {
 			ItemID = 9551,
@@ -2531,10 +2532,25 @@ tblLapineUpgradeBox = {
 				{"Temporal_M_Vit", 20965},
 				{"Temporal_M_Int", 20966},
 				{"Temporal_M_Dex", 20967},
-				{"Temporal_M_Luk", 20968}
+				{"Temporal_M_Luk", 20968},
+				{"Temporal_Cape_TW", 480076},
+				{"Temporal_Cape_TW_LT", 480312}
 			},
-			NeedSource_String = "时光斗篷 6种"
+			NeedSource_String = "时光斗篷 8种"
 		},
+		Twisted_Time_Key_TW = {
+			ItemID = 100915,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			NeedOptionNumMin = 0,
+			NotSocketEnchantItem = true,
+			TargetItems = {
+				{"Temporal_Armor_TW", 450175},
+				{"Temporal_Armor_TW_LT", 450299}
+			},
+			NeedSource_String = "时光超越涌现铠甲 2种"
+		},
+
 		Magma_Essence = {
 			ItemID = 23815,
 			NeedRefineMin = 0,

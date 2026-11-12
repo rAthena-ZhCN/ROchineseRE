@@ -12,6 +12,22 @@
 
 tblLapineDdukddakBox = {
 	sources = {
+		Sprout_Pot_TW = {
+			ItemID = 101202,
+			NeedCount = 8,
+			NeedRefineMin = 0,
+			NeedRefineMax = 20,
+			SourceItems = {
+				{"Tree_Of_Sprout_STR", 1, 420017},
+				{"Tree_Of_Sprout_DEX", 1, 420018},
+				{"Tree_Of_Sprout_AGI", 1, 420019},
+				{"Tree_Of_Sprout_LUK", 1, 420020},
+				{"Tree_Of_Sprout_VIT", 1, 420021},
+				{"Tree_Of_Sprout_INT", 1, 420022}
+			},
+			NeedSource_String = "ÌìµØÊ÷Ãç 8¸ö"
+		},
+
 		If_Shadow_Mix_Recipe = {
 			ItemID = 103873,
 			NeedCount = 3,
