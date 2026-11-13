@@ -6614,7 +6614,11 @@ StateIconList[EFST_IDs.EFST_BLESSING_OF_M_CREATURES] = {
 		{ "无限VIP（剩余时间）", COLOR_TITLE_BUFF },
 		{ "%s", COLOR_TIME },
 		{ "角色栏位 +30" },
-		{ "基础/职业经验、物品掉率提升" },
+		{ "基础经验 +50%" },
+		{ "职业经验 +50%" },
+		{ "物品掉率 +50%" },
+		{ "仓库 +300格" },
+		{ "技能宝石消耗移除" },
 		{ "死亡经验惩罚减半" }
 	}
 }
@@ -7592,5 +7596,48 @@ StateIconList[EFST_IDs.EFST_BLOCK] = {
 		{ "%s", COLOR_TIME },
 		{ "No Experience gained from monsters." },
 		{ "No Items are dropped from monsters." }
+	}
+}
+StateIconList[EFST_IDs.EFST_HERO_SOUL_NINJA] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "忍者英灵（剩余时间）", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "忍术修炼恢复随时激活" },
+		{ "金蝉脱壳时长/次数翻倍" },
+		{ "幻影分身时长/次数翻倍" },
+		{ "火炎花范围升至5x5" },
+		{ "冰闪枪范围升至5x5" },
+		{ "风刃范围升至5x5" },
+		{ "爆炎龙范围升至7x7" },
+		{ "冰晶落范围升至9x9" },
+		{ "朔风射程升至12" },
+		{ "变形的上弦月仅增益" },
+		{ "十六夜CD降至一半" },
+		{ "明镜止水移除移动限制" },
+		{ "炸弹飞刀范围升至7x7" },
+		{ "投掷金钱消耗降至1/10" }
+	}
+}
+
+StateIconList[EFST_IDs.EFST_HERO_SOUL_MAGE] = {
+	haveTimeLimit = 1,
+	posTimeLimitStr = 2,
+	descript = {
+		{ "魔法师英灵（剩余时间）", COLOR_TITLE_BUFF },
+		{ "%s", COLOR_TIME },
+		{ "元素箭类变咏/技延减半" },
+		{ "石化/冰冻成功率+20%" },
+		{ "禅心随时回复等量HP" },
+		{ "能量外套追加减伤-20%" },
+		{ "火焰之壁范围增大" },
+		{ "自由施法移动速度+20%" },
+		{ "自动念咒魔法攻击生效" },
+		{ "自动念咒触发几率翻倍" },
+		{ "自动念咒等级翻倍/零消耗" },
+		{ "属性附加法伤增幅翻倍" },
+		{ "念咒拆除BOSS级成功率50%" },
+		{ "念咒拆除75%概率自动发动" }
 	}
 }
